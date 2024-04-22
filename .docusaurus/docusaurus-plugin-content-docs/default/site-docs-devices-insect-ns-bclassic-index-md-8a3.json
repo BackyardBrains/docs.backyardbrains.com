@@ -1,0 +1,28 @@
+{
+  "id": "devices/Insect/NSBclassic/index",
+  "title": "Neuron SpikerBox Classic",
+  "description": "Our original classic Spikerbox. No thrills. Just neuroscience. If you are a student or an amateur scientist yearning to get your start in neuroscience, this is for you. Perhaps you're a teacher in need of an affordable, exciting, and in-depth educational tool to make learning neuroscience fun for kids or young adults. You could even be looking for a competition-destroying science fair project. Whatever your neuroscience need, the Neuron Spikerbox Classic is here to fill it! The Neuron SpikerBox is a bioamplifier that allows you to hear and see real-time electrical \"spikes\", or action potentials, of live neurons in invertebrates.",
+  "source": "@site/docs/devices/Insect/NSBclassic/index.md",
+  "sourceDirName": "devices/Insect/NSBclassic",
+  "slug": "/devices/Insect/NSBclassic/",
+  "permalink": "/BYBDeviceDocs/devices/Insect/NSBclassic/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/devices/Insect/NSBclassic/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "Neuron SpikerBox Classic"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Muscle SpikerBox",
+    "permalink": "/BYBDeviceDocs/devices/Human/MuscleSB/"
+  },
+  "next": {
+    "title": "Neuron SpikerBox Pro",
+    "permalink": "/BYBDeviceDocs/devices/Insect/NSBpro/"
+  }
+}

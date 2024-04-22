@@ -1,0 +1,16 @@
+{
+  "id": "experiments/Experiments",
+  "title": "Experiments",
+  "description": "DUba",
+  "source": "@site/docs/experiments/Experiments.md",
+  "sourceDirName": "experiments",
+  "slug": "/experiments/",
+  "permalink": "/BYBDeviceDocs/experiments/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/experiments/Experiments.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "experimentsSidebar"
+}

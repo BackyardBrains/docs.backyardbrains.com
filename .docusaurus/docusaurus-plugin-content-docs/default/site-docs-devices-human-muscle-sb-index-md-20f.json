@@ -1,0 +1,28 @@
+{
+  "id": "devices/Human/MuscleSB/index",
+  "title": "Muscle SpikerBox",
+  "description": "image",
+  "source": "@site/docs/devices/Human/MuscleSB/index.md",
+  "sourceDirName": "devices/Human/MuscleSB",
+  "slug": "/devices/Human/MuscleSB/",
+  "permalink": "/BYBDeviceDocs/devices/Human/MuscleSB/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/devices/Human/MuscleSB/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "sidebar_label": "Muscle SpikerBox"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DIY Neuroprosthetic Kit",
+    "permalink": "/BYBDeviceDocs/devices/Human/MuscleSS/DIYNP/"
+  },
+  "next": {
+    "title": "Neuron SpikerBox Classic",
+    "permalink": "/BYBDeviceDocs/devices/Insect/NSBclassic/"
+  }
+}

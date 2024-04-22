@@ -1,0 +1,28 @@
+{
+  "id": "devices/Software/SpikeRecorder/index",
+  "title": "Spike Recorder",
+  "description": "Our devices are ment to be used with our Spike Recorder Software available for Windows, macOS, iOS, Android and Linux",
+  "source": "@site/docs/devices/Software/SpikeRecorder/index.md",
+  "sourceDirName": "devices/Software/SpikeRecorder",
+  "slug": "/devices/Software/SpikeRecorder/",
+  "permalink": "/BYBDeviceDocs/devices/Software/SpikeRecorder/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/devices/Software/SpikeRecorder/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "Spike Recorder"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Plant SpikerBox",
+    "permalink": "/BYBDeviceDocs/devices/Plant/PlantSpikerBox/"
+  },
+  "next": {
+    "title": "Windows/macOs/Linux",
+    "permalink": "/BYBDeviceDocs/devices/Software/SpikeRecorder/SRPC/"
+  }
+}

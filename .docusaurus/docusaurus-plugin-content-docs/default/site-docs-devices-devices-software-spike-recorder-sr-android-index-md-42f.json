@@ -1,0 +1,23 @@
+{
+  "id": "devices/devices/Software/SpikeRecorder/SRAndroid/index",
+  "title": "index",
+  "description": "",
+  "source": "@site/docs/devices/devices/Software/SpikeRecorder/SRAndroid/index.md",
+  "sourceDirName": "devices/devices/Software/SpikeRecorder/SRAndroid",
+  "slug": "/devices/devices/Software/SpikeRecorder/SRAndroid/",
+  "permalink": "/devices/devices/Software/SpikeRecorder/SRAndroid/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "sidebar_label": "Android"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "iOS",
+    "permalink": "/devices/devices/Software/SpikeRecorder/SRiOS/"
+  }
+}

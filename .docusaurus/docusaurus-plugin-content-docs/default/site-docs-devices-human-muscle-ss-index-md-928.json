@@ -1,0 +1,28 @@
+{
+  "id": "devices/Human/MuscleSS/index",
+  "title": "Muscle SpikerShield",
+  "description": "image",
+  "source": "@site/docs/devices/Human/MuscleSS/index.md",
+  "sourceDirName": "devices/Human/MuscleSS",
+  "slug": "/devices/Human/MuscleSS/",
+  "permalink": "/BYBDeviceDocs/devices/Human/MuscleSS/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/devices/Human/MuscleSS/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "sidebar_label": "Muscle SpikerShield"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Heart and Brain SpikerBox",
+    "permalink": "/BYBDeviceDocs/devices/Human/H&BSB/"
+  },
+  "next": {
+    "title": "DIY Neuroprosthetic Kit",
+    "permalink": "/BYBDeviceDocs/devices/Human/MuscleSS/DIYNP/"
+  }
+}

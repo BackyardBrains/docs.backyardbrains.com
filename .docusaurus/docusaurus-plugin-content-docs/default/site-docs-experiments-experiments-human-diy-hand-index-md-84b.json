@@ -1,0 +1,25 @@
+{
+  "id": "experiments/experiments/Human/DIYHand/index",
+  "title": "DIY Neuroscience Kit",
+  "description": "The DIY Neuroscience Kit is a great place to start learning how you can use Neuroscience in practice yourself! Using some simple arts and crafts and a bit of creative coding, you can make your own prosthesis. ( For reference, a prosthesis just means an external thing that works like a limb would. )",
+  "source": "@site/docs/experiments/experiments/Human/DIYHand/index.md",
+  "sourceDirName": "experiments/experiments/Human/DIYHand",
+  "slug": "/experiments/experiments/Human/DIYHand/",
+  "permalink": "/experiments/experiments/Human/DIYHand/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "DIY Neuroprosthetic"
+  },
+  "sidebar": "experimentsSidebar",
+  "previous": {
+    "title": "Recording EMG",
+    "permalink": "/experiments/experiments/Human/Muscles/"
+  },
+  "next": {
+    "title": "Micro:bit introduction",
+    "permalink": "/experiments/experiments/Human/DIYHand/Programming/"
+  }
+}

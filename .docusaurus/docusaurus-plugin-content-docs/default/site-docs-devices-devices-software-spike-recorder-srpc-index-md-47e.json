@@ -1,0 +1,27 @@
+{
+  "id": "devices/devices/Software/SpikeRecorder/SRPC/index",
+  "title": "index",
+  "description": "",
+  "source": "@site/docs/devices/devices/Software/SpikeRecorder/SRPC/index.md",
+  "sourceDirName": "devices/devices/Software/SpikeRecorder/SRPC",
+  "slug": "/devices/devices/Software/SpikeRecorder/SRPC/",
+  "permalink": "/devices/devices/Software/SpikeRecorder/SRPC/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "Windows/macOs/Linux"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Spike Recorder",
+    "permalink": "/devices/devices/Software/SpikeRecorder/"
+  },
+  "next": {
+    "title": "iOS",
+    "permalink": "/devices/devices/Software/SpikeRecorder/SRiOS/"
+  }
+}

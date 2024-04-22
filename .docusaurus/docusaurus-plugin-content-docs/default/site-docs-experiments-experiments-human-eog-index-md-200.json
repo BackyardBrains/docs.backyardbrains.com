@@ -1,0 +1,23 @@
+{
+  "id": "experiments/experiments/Human/EOG/index",
+  "title": "Eye Potentials (The EOG)",
+  "description": "We've shown the electrical signals from your heart and brain, now it is time for another symbolically powerful organ: the eye.",
+  "source": "@site/docs/experiments/experiments/Human/EOG/index.md",
+  "sourceDirName": "experiments/experiments/Human/EOG",
+  "slug": "/experiments/experiments/Human/EOG/",
+  "permalink": "/experiments/experiments/Human/EOG/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "experimentsSidebar",
+  "previous": {
+    "title": "Blocks",
+    "permalink": "/experiments/experiments/Human/DIYHand/Programming/Blocks/"
+  },
+  "next": {
+    "title": "How Your Skin Senses",
+    "permalink": "/experiments/experiments/Human/Skin/"
+  }
+}

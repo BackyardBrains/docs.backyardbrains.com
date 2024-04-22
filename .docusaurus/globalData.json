@@ -1,0 +1,174 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "devices/devices/index",
+          "docs": [
+            {
+              "id": "devices/devices/Human/Claw/index",
+              "path": "/devices/devices/Human/Claw/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "devices/devices/Human/H&BSB/index",
+              "path": "/devices/devices/Human/H&BSB/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "devices/devices/Human/HHI/index",
+              "path": "/devices/devices/Human/HHI/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "devices/devices/Human/HumanSB/GameController/index",
+              "path": "/devices/devices/Human/HumanSB/GameController/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "devices/devices/Human/HumanSB/index",
+              "path": "/devices/devices/Human/HumanSB/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "devices/devices/Human/HumanSB/ReactionTimer/index",
+              "path": "/devices/devices/Human/HumanSB/ReactionTimer/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "devices/devices/Human/HumanSB/ReflexHammer/index",
+              "path": "/devices/devices/Human/HumanSB/ReflexHammer/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "devices/devices/Human/MuscleSB/index",
+              "path": "/devices/devices/Human/MuscleSB/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "devices/devices/Human/MuscleSS/DIYNP/index",
+              "path": "/devices/devices/Human/MuscleSS/DIYNP/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "devices/devices/Human/MuscleSS/index",
+              "path": "/devices/devices/Human/MuscleSS/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "devices/devices/index",
+              "path": "/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "devices/devices/Insect/NSBclassic/index",
+              "path": "/devices/devices/Insect/NSBclassic/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "devices/devices/Insect/NSBpro/index",
+              "path": "/devices/devices/Insect/NSBpro/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "devices/devices/Insect/Roboroach/index",
+              "path": "/devices/devices/Insect/Roboroach/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "devices/devices/Plant/PlantSpikerBox/index",
+              "path": "/devices/devices/Plant/PlantSpikerBox/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "devices/devices/Software/SpikeRecorder/index",
+              "path": "/devices/devices/Software/SpikeRecorder/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "experiments/experiments/Engineering/Transistors/index",
+              "path": "/experiments/experiments/Engineering/Transistors/",
+              "sidebar": "experimentsSidebar"
+            },
+            {
+              "id": "experiments/experiments/Human/DIYHand/index",
+              "path": "/experiments/experiments/Human/DIYHand/",
+              "sidebar": "experimentsSidebar"
+            },
+            {
+              "id": "experiments/experiments/Human/DIYHand/Programming/Blocks/index",
+              "path": "/experiments/experiments/Human/DIYHand/Programming/Blocks/",
+              "sidebar": "experimentsSidebar"
+            },
+            {
+              "id": "experiments/experiments/Human/DIYHand/Programming/index",
+              "path": "/experiments/experiments/Human/DIYHand/Programming/",
+              "sidebar": "experimentsSidebar"
+            },
+            {
+              "id": "experiments/experiments/Human/DIYHand/Programming/JS/index",
+              "path": "/experiments/experiments/Human/DIYHand/Programming/JS/",
+              "sidebar": "experimentsSidebar"
+            },
+            {
+              "id": "experiments/experiments/Human/DIYHand/Programming/Python/index",
+              "path": "/experiments/experiments/Human/DIYHand/Programming/Python/",
+              "sidebar": "experimentsSidebar"
+            },
+            {
+              "id": "experiments/experiments/Human/EOG/index",
+              "path": "/experiments/experiments/Human/EOG/",
+              "sidebar": "experimentsSidebar"
+            },
+            {
+              "id": "experiments/experiments/Human/Muscles/index",
+              "path": "/experiments/experiments/Human/Muscles/",
+              "sidebar": "experimentsSidebar"
+            },
+            {
+              "id": "experiments/experiments/Human/Skin/index",
+              "path": "/experiments/experiments/Human/Skin/",
+              "sidebar": "experimentsSidebar"
+            },
+            {
+              "id": "experiments/experiments/index",
+              "path": "/experiments",
+              "sidebar": "experimentsSidebar"
+            },
+            {
+              "id": "experiments/experiments/Insect/NeuronSpikerBox/index",
+              "path": "/experiments/experiments/Insect/NeuronSpikerBox/",
+              "sidebar": "experimentsSidebar"
+            },
+            {
+              "id": "experiments/experiments/Plant/Flytrap/index",
+              "path": "/experiments/experiments/Plant/Flytrap/",
+              "sidebar": "experimentsSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/",
+                "label": "Devices"
+              }
+            },
+            "experimentsSidebar": {
+              "link": {
+                "path": "/experiments",
+                "label": "Experiments"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

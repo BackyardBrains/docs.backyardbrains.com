@@ -1,0 +1,28 @@
+{
+  "id": "devices/Human/HumanSB/ReactionTimer/index",
+  "title": "Reaction Timer",
+  "description": "Please Note: Requires a Human SpikerBox and a USB connection to an Android device, Mac, PC Desktop or iPhone/iPad with USB-C connector. Not compatible with iPhones or iPads with lightning connectors",
+  "source": "@site/docs/devices/Human/HumanSB/ReactionTimer/index.md",
+  "sourceDirName": "devices/Human/HumanSB/ReactionTimer",
+  "slug": "/devices/Human/HumanSB/ReactionTimer/",
+  "permalink": "/BYBDeviceDocs/devices/Human/HumanSB/ReactionTimer/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/devices/Human/HumanSB/ReactionTimer/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "Reaction Timer"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Human SpikerBox",
+    "permalink": "/BYBDeviceDocs/devices/Human/HumanSB/"
+  },
+  "next": {
+    "title": "Reflex Hammer",
+    "permalink": "/BYBDeviceDocs/devices/Human/HumanSB/ReflexHammer/"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "experiments/dubiduba",
+  "title": "dubiduba",
+  "description": "",
+  "source": "@site/docs/experiments/dubiduba.md",
+  "sourceDirName": "experiments",
+  "slug": "/experiments/dubiduba",
+  "permalink": "/BYBDeviceDocs/experiments/dubiduba",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/experiments/dubiduba.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "experimentsSidebar",
+  "next": {
+    "title": "index",
+    "permalink": "/BYBDeviceDocs/experiments"
+  }
+}

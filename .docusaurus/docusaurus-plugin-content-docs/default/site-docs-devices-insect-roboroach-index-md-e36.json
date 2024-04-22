@@ -1,0 +1,28 @@
+{
+  "id": "devices/Insect/Roboroach/index",
+  "title": "The RoboRoach",
+  "description": "Please Note: Requires at least one Cockroach",
+  "source": "@site/docs/devices/Insect/Roboroach/index.md",
+  "sourceDirName": "devices/Insect/Roboroach",
+  "slug": "/devices/Insect/Roboroach/",
+  "permalink": "/BYBDeviceDocs/devices/Insect/Roboroach/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/devices/Insect/Roboroach/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "sidebar_label": "RoboRoach"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Neuron SpikerBox Pro",
+    "permalink": "/BYBDeviceDocs/devices/Insect/NSBpro/"
+  },
+  "next": {
+    "title": "Plant SpikerBox",
+    "permalink": "/BYBDeviceDocs/devices/Plant/PlantSpikerBox/"
+  }
+}

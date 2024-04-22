@@ -1,0 +1,20 @@
+{
+  "id": "experiments/experiments/neuronSpikes",
+  "title": "neuronSpikes",
+  "description": "",
+  "source": "@site/docs/experiments/experiments/neuronSpikes.md",
+  "sourceDirName": "experiments/experiments",
+  "slug": "/experiments/experiments/neuronSpikes",
+  "permalink": "/BYBDeviceDocs/experiments/experiments/neuronSpikes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/experiments/experiments/neuronSpikes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "experimentsSidebar",
+  "previous": {
+    "title": "Experiments",
+    "permalink": "/BYBDeviceDocs/experiments"
+  }
+}

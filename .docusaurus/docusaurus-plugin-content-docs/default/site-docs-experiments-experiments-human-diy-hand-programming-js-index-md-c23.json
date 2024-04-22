@@ -1,0 +1,26 @@
+{
+  "id": "experiments/experiments/Human/DIYHand/Programming/JS/index",
+  "title": "JavaScript",
+  "description": "You have the Javascript menu open, and it might seem confusing at first, but don’t worry. You’re going to want to delete everything that's already there and start fresh,",
+  "source": "@site/docs/experiments/experiments/Human/DIYHand/Programming/JS/index.md",
+  "sourceDirName": "experiments/experiments/Human/DIYHand/Programming/JS",
+  "slug": "/experiments/experiments/Human/DIYHand/Programming/JS/",
+  "permalink": "/experiments/experiments/Human/DIYHand/Programming/JS/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "experimentsSidebar",
+  "previous": {
+    "title": "Micro:bit introduction",
+    "permalink": "/experiments/experiments/Human/DIYHand/Programming/"
+  },
+  "next": {
+    "title": "Python",
+    "permalink": "/experiments/experiments/Human/DIYHand/Programming/Python/"
+  }
+}

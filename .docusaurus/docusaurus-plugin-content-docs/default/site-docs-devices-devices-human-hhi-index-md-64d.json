@@ -1,0 +1,27 @@
+{
+  "id": "devices/devices/Human/HHI/index",
+  "title": "Human-Human Interface",
+  "description": "image",
+  "source": "@site/docs/devices/devices/Human/HHI/index.md",
+  "sourceDirName": "devices/devices/Human/HHI",
+  "slug": "/devices/devices/Human/HHI/",
+  "permalink": "/devices/devices/Human/HHI/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "sidebar_label": "Human-Human Interface"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Game Controller",
+    "permalink": "/devices/devices/Human/HumanSB/GameController/"
+  },
+  "next": {
+    "title": "The Claw",
+    "permalink": "/devices/devices/Human/Claw/"
+  }
+}

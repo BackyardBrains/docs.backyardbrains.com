@@ -1,0 +1,1014 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/",
+          "tagsPath": "/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\Masha\\Desktop\\Work\\Docusaurus\\my-website\\sidebars.js",
+          "contentPath": "C:\\Users\\Masha\\Desktop\\Work\\Docusaurus\\my-website\\docs",
+          "contentPathLocalized": "C:\\Users\\Masha\\Desktop\\Work\\Docusaurus\\my-website\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "id": "devices/devices/Human/Claw/index",
+              "title": "The Claw",
+              "description": "image of claw",
+              "source": "@site/docs/devices/devices/Human/Claw/index.md",
+              "sourceDirName": "devices/devices/Human/Claw",
+              "slug": "/devices/devices/Human/Claw/",
+              "permalink": "/devices/devices/Human/Claw/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "sidebar_label": "The Claw"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Human-Human Interface",
+                "permalink": "/devices/devices/Human/HHI/"
+              },
+              "next": {
+                "title": "Heart and Brain SpikerBox",
+                "permalink": "/devices/devices/Human/H&BSB/"
+              }
+            },
+            {
+              "id": "devices/devices/Human/H&BSB/index",
+              "title": "The Heart and Brain SpikerBox",
+              "description": "image",
+              "source": "@site/docs/devices/devices/Human/H&BSB/index.md",
+              "sourceDirName": "devices/devices/Human/H&BSB",
+              "slug": "/devices/devices/Human/H&BSB/",
+              "permalink": "/devices/devices/Human/H&BSB/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4,
+                "sidebar_label": "Heart and Brain SpikerBox"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "The Claw",
+                "permalink": "/devices/devices/Human/Claw/"
+              },
+              "next": {
+                "title": "Muscle SpikerShield",
+                "permalink": "/devices/devices/Human/MuscleSS/"
+              }
+            },
+            {
+              "id": "devices/devices/Human/HHI/index",
+              "title": "Human-Human Interface",
+              "description": "image",
+              "source": "@site/docs/devices/devices/Human/HHI/index.md",
+              "sourceDirName": "devices/devices/Human/HHI",
+              "slug": "/devices/devices/Human/HHI/",
+              "permalink": "/devices/devices/Human/HHI/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "sidebar_label": "Human-Human Interface"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Game Controller",
+                "permalink": "/devices/devices/Human/HumanSB/GameController/"
+              },
+              "next": {
+                "title": "The Claw",
+                "permalink": "/devices/devices/Human/Claw/"
+              }
+            },
+            {
+              "id": "devices/devices/Human/HumanSB/GameController/index",
+              "title": "Game Controller",
+              "description": "Please Note: Works on Windows only and requires a Human SpikerBox",
+              "source": "@site/docs/devices/devices/Human/HumanSB/GameController/index.md",
+              "sourceDirName": "devices/devices/Human/HumanSB/GameController",
+              "slug": "/devices/devices/Human/HumanSB/GameController/",
+              "permalink": "/devices/devices/Human/HumanSB/GameController/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "sidebar_label": "Game Controller"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Reflex Hammer",
+                "permalink": "/devices/devices/Human/HumanSB/ReflexHammer/"
+              },
+              "next": {
+                "title": "Human-Human Interface",
+                "permalink": "/devices/devices/Human/HHI/"
+              }
+            },
+            {
+              "id": "devices/devices/Human/HumanSB/index",
+              "title": "Human SpikerBox",
+              "description": "One box to rule them all! Reveal and record the electrical activity hidden within your muscles, heart, brain, eyes and more! This easy-to-use kit allows you to record EMG, EKG, EEG, and EOG signals, giving you the power to perform human physiology experiments!",
+              "source": "@site/docs/devices/devices/Human/HumanSB/index.md",
+              "sourceDirName": "devices/devices/Human/HumanSB",
+              "slug": "/devices/devices/Human/HumanSB/",
+              "permalink": "/devices/devices/Human/HumanSB/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "sidebar_label": "Human SpikerBox"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Devices",
+                "permalink": "/"
+              },
+              "next": {
+                "title": "Reaction Timer",
+                "permalink": "/devices/devices/Human/HumanSB/ReactionTimer/"
+              }
+            },
+            {
+              "id": "devices/devices/Human/HumanSB/ReactionTimer/index",
+              "title": "Reaction Timer",
+              "description": "Please Note: Requires a Human SpikerBox and a USB connection to an Android device, Mac, PC Desktop or iPhone/iPad with USB-C connector. Not compatible with iPhones or iPads with lightning connectors",
+              "source": "@site/docs/devices/devices/Human/HumanSB/ReactionTimer/index.md",
+              "sourceDirName": "devices/devices/Human/HumanSB/ReactionTimer",
+              "slug": "/devices/devices/Human/HumanSB/ReactionTimer/",
+              "permalink": "/devices/devices/Human/HumanSB/ReactionTimer/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "sidebar_label": "Reaction Timer"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Human SpikerBox",
+                "permalink": "/devices/devices/Human/HumanSB/"
+              },
+              "next": {
+                "title": "Reflex Hammer",
+                "permalink": "/devices/devices/Human/HumanSB/ReflexHammer/"
+              }
+            },
+            {
+              "id": "devices/devices/Human/HumanSB/ReflexHammer/index",
+              "title": "Reflex Hammer",
+              "description": "Please Note: Requires a Human SpikerBox and a USB connection to an Android device, Mac, PC Desktop or iPhone/iPad with USB-C connector. Not compatible with iPhones or iPads with lightning connectors",
+              "source": "@site/docs/devices/devices/Human/HumanSB/ReflexHammer/index.md",
+              "sourceDirName": "devices/devices/Human/HumanSB/ReflexHammer",
+              "slug": "/devices/devices/Human/HumanSB/ReflexHammer/",
+              "permalink": "/devices/devices/Human/HumanSB/ReflexHammer/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "sidebar_label": "Reflex Hammer"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Reaction Timer",
+                "permalink": "/devices/devices/Human/HumanSB/ReactionTimer/"
+              },
+              "next": {
+                "title": "Game Controller",
+                "permalink": "/devices/devices/Human/HumanSB/GameController/"
+              }
+            },
+            {
+              "id": "devices/devices/Human/MuscleSB/index",
+              "title": "Muscle SpikerBox",
+              "description": "image",
+              "source": "@site/docs/devices/devices/Human/MuscleSB/index.md",
+              "sourceDirName": "devices/devices/Human/MuscleSB",
+              "slug": "/devices/devices/Human/MuscleSB/",
+              "permalink": "/devices/devices/Human/MuscleSB/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6,
+                "sidebar_label": "Muscle SpikerBox"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "DIY Neuroprosthetic Kit",
+                "permalink": "/devices/devices/Human/MuscleSS/DIYNP/"
+              },
+              "next": {
+                "title": "Neuron SpikerBox Classic",
+                "permalink": "/devices/devices/Insect/NSBclassic/"
+              }
+            },
+            {
+              "id": "devices/devices/Human/MuscleSS/DIYNP/index",
+              "title": "DIY Neuroprosthetic Kit",
+              "description": "NOT A STANDALONE PRODUCT, Requires Muscle SpikerShield",
+              "source": "@site/docs/devices/devices/Human/MuscleSS/DIYNP/index.md",
+              "sourceDirName": "devices/devices/Human/MuscleSS/DIYNP",
+              "slug": "/devices/devices/Human/MuscleSS/DIYNP/",
+              "permalink": "/devices/devices/Human/MuscleSS/DIYNP/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "sidebar_label": "DIY Neuroprosthetic Kit"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Muscle SpikerShield",
+                "permalink": "/devices/devices/Human/MuscleSS/"
+              },
+              "next": {
+                "title": "Muscle SpikerBox",
+                "permalink": "/devices/devices/Human/MuscleSB/"
+              }
+            },
+            {
+              "id": "devices/devices/Human/MuscleSS/index",
+              "title": "Muscle SpikerShield",
+              "description": "image",
+              "source": "@site/docs/devices/devices/Human/MuscleSS/index.md",
+              "sourceDirName": "devices/devices/Human/MuscleSS",
+              "slug": "/devices/devices/Human/MuscleSS/",
+              "permalink": "/devices/devices/Human/MuscleSS/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5,
+                "sidebar_label": "Muscle SpikerShield"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Heart and Brain SpikerBox",
+                "permalink": "/devices/devices/Human/H&BSB/"
+              },
+              "next": {
+                "title": "DIY Neuroprosthetic Kit",
+                "permalink": "/devices/devices/Human/MuscleSS/DIYNP/"
+              }
+            },
+            {
+              "id": "devices/devices/index",
+              "title": "Devices",
+              "description": "Our devices are meant to be used with our SpikeRecorder app. Although other options are certainly possible.",
+              "source": "@site/docs/devices/devices/index.md",
+              "sourceDirName": "devices/devices",
+              "slug": "/",
+              "permalink": "/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "slug": "/"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Human SpikerBox",
+                "permalink": "/devices/devices/Human/HumanSB/"
+              }
+            },
+            {
+              "id": "devices/devices/Insect/NSBclassic/index",
+              "title": "Neuron SpikerBox Classic",
+              "description": "nsb classic",
+              "source": "@site/docs/devices/devices/Insect/NSBclassic/index.md",
+              "sourceDirName": "devices/devices/Insect/NSBclassic",
+              "slug": "/devices/devices/Insect/NSBclassic/",
+              "permalink": "/devices/devices/Insect/NSBclassic/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "sidebar_label": "Neuron SpikerBox Classic"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Muscle SpikerBox",
+                "permalink": "/devices/devices/Human/MuscleSB/"
+              },
+              "next": {
+                "title": "Neuron SpikerBox Pro",
+                "permalink": "/devices/devices/Insect/NSBpro/"
+              }
+            },
+            {
+              "id": "devices/devices/Insect/NSBpro/index",
+              "title": "Neuron SpikerBox Pro",
+              "description": "nsb pro",
+              "source": "@site/docs/devices/devices/Insect/NSBpro/index.md",
+              "sourceDirName": "devices/devices/Insect/NSBpro",
+              "slug": "/devices/devices/Insect/NSBpro/",
+              "permalink": "/devices/devices/Insect/NSBpro/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "sidebar_label": "Neuron SpikerBox Pro"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Neuron SpikerBox Classic",
+                "permalink": "/devices/devices/Insect/NSBclassic/"
+              },
+              "next": {
+                "title": "RoboRoach",
+                "permalink": "/devices/devices/Insect/Roboroach/"
+              }
+            },
+            {
+              "id": "devices/devices/Insect/Roboroach/index",
+              "title": "The RoboRoach",
+              "description": "Please Note: Requires at least one Cockroach",
+              "source": "@site/docs/devices/devices/Insect/Roboroach/index.md",
+              "sourceDirName": "devices/devices/Insect/Roboroach",
+              "slug": "/devices/devices/Insect/Roboroach/",
+              "permalink": "/devices/devices/Insect/Roboroach/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "sidebar_label": "RoboRoach"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Neuron SpikerBox Pro",
+                "permalink": "/devices/devices/Insect/NSBpro/"
+              },
+              "next": {
+                "title": "Plant SpikerBox",
+                "permalink": "/devices/devices/Plant/PlantSpikerBox/"
+              }
+            },
+            {
+              "id": "devices/devices/Plant/PlantSpikerBox/index",
+              "title": "Plant SpikerBox",
+              "description": "Psb",
+              "source": "@site/docs/devices/devices/Plant/PlantSpikerBox/index.md",
+              "sourceDirName": "devices/devices/Plant/PlantSpikerBox",
+              "slug": "/devices/devices/Plant/PlantSpikerBox/",
+              "permalink": "/devices/devices/Plant/PlantSpikerBox/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "sidebar_label": "Plant SpikerBox"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "RoboRoach",
+                "permalink": "/devices/devices/Insect/Roboroach/"
+              },
+              "next": {
+                "title": "Spike Recorder",
+                "permalink": "/devices/devices/Software/SpikeRecorder/"
+              }
+            },
+            {
+              "id": "devices/devices/Software/SpikeRecorder/index",
+              "title": "Spike Recorder",
+              "description": "Our devices are ment to be used with our Spike Recorder Software available for Windows, macOS, iOS, Android and Linux",
+              "source": "@site/docs/devices/devices/Software/SpikeRecorder/index.md",
+              "sourceDirName": "devices/devices/Software/SpikeRecorder",
+              "slug": "/devices/devices/Software/SpikeRecorder/",
+              "permalink": "/devices/devices/Software/SpikeRecorder/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "sidebar_label": "Spike Recorder"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Plant SpikerBox",
+                "permalink": "/devices/devices/Plant/PlantSpikerBox/"
+              }
+            },
+            {
+              "id": "experiments/experiments/Engineering/Transistors/index",
+              "title": "Background: Transistor Theory",
+              "description": "Ahh yes, the transistor. We all owe you so much. The transistor is the reason why your cell phone fits inside your pocket and why your SpikerBox can measure spikes from neurons.",
+              "source": "@site/docs/experiments/experiments/Engineering/Transistors/index.md",
+              "sourceDirName": "experiments/experiments/Engineering/Transistors",
+              "slug": "/experiments/experiments/Engineering/Transistors/",
+              "permalink": "/experiments/experiments/Engineering/Transistors/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "sidebar_label": "Transistor Theory"
+              },
+              "sidebar": "experimentsSidebar",
+              "previous": {
+                "title": "Experiments",
+                "permalink": "/experiments"
+              },
+              "next": {
+                "title": "Recording EMG",
+                "permalink": "/experiments/experiments/Human/Muscles/"
+              }
+            },
+            {
+              "id": "experiments/experiments/Human/DIYHand/index",
+              "title": "DIY Neuroscience Kit",
+              "description": "The DIY Neuroscience Kit is a great place to start learning how you can use Neuroscience in practice yourself! Using some simple arts and crafts and a bit of creative coding, you can make your own prosthesis. ( For reference, a prosthesis just means an external thing that works like a limb would. )",
+              "source": "@site/docs/experiments/experiments/Human/DIYHand/index.md",
+              "sourceDirName": "experiments/experiments/Human/DIYHand",
+              "slug": "/experiments/experiments/Human/DIYHand/",
+              "permalink": "/experiments/experiments/Human/DIYHand/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "sidebar_label": "DIY Neuroprosthetic"
+              },
+              "sidebar": "experimentsSidebar",
+              "previous": {
+                "title": "Recording EMG",
+                "permalink": "/experiments/experiments/Human/Muscles/"
+              },
+              "next": {
+                "title": "Micro:bit introduction",
+                "permalink": "/experiments/experiments/Human/DIYHand/Programming/"
+              }
+            },
+            {
+              "id": "experiments/experiments/Human/DIYHand/Programming/Blocks/index",
+              "title": "Blocks",
+              "description": "So you want to try Block Code? Well, it’s the easiest of the three options and it's surprisingly flexible too. When you first open the tab, you’ll see an “on start” block, like this.",
+              "source": "@site/docs/experiments/experiments/Human/DIYHand/Programming/Blocks/index.md",
+              "sourceDirName": "experiments/experiments/Human/DIYHand/Programming/Blocks",
+              "slug": "/experiments/experiments/Human/DIYHand/Programming/Blocks/",
+              "permalink": "/experiments/experiments/Human/DIYHand/Programming/Blocks/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "experimentsSidebar",
+              "previous": {
+                "title": "Python",
+                "permalink": "/experiments/experiments/Human/DIYHand/Programming/Python/"
+              },
+              "next": {
+                "title": "Eye Potentials (The EOG)",
+                "permalink": "/experiments/experiments/Human/EOG/"
+              }
+            },
+            {
+              "id": "experiments/experiments/Human/DIYHand/Programming/index",
+              "title": "Micro:bit introduction",
+              "description": "When coding in microbit chip you’re using with the Backyard Brains board uses things called “pins”, those are the gold-colored things at the bottom of your micro:bit chip. These pins have numbers and when you’re coding, you have to remember which pins do what.",
+              "source": "@site/docs/experiments/experiments/Human/DIYHand/Programming/index.md",
+              "sourceDirName": "experiments/experiments/Human/DIYHand/Programming",
+              "slug": "/experiments/experiments/Human/DIYHand/Programming/",
+              "permalink": "/experiments/experiments/Human/DIYHand/Programming/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "experimentsSidebar",
+              "previous": {
+                "title": "DIY Neuroprosthetic",
+                "permalink": "/experiments/experiments/Human/DIYHand/"
+              },
+              "next": {
+                "title": "JavaScript",
+                "permalink": "/experiments/experiments/Human/DIYHand/Programming/JS/"
+              }
+            },
+            {
+              "id": "experiments/experiments/Human/DIYHand/Programming/JS/index",
+              "title": "JavaScript",
+              "description": "You have the Javascript menu open, and it might seem confusing at first, but don’t worry. You’re going to want to delete everything that's already there and start fresh,",
+              "source": "@site/docs/experiments/experiments/Human/DIYHand/Programming/JS/index.md",
+              "sourceDirName": "experiments/experiments/Human/DIYHand/Programming/JS",
+              "slug": "/experiments/experiments/Human/DIYHand/Programming/JS/",
+              "permalink": "/experiments/experiments/Human/DIYHand/Programming/JS/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "experimentsSidebar",
+              "previous": {
+                "title": "Micro:bit introduction",
+                "permalink": "/experiments/experiments/Human/DIYHand/Programming/"
+              },
+              "next": {
+                "title": "Python",
+                "permalink": "/experiments/experiments/Human/DIYHand/Programming/Python/"
+              }
+            },
+            {
+              "id": "experiments/experiments/Human/DIYHand/Programming/Python/index",
+              "title": "Python",
+              "description": "Python is seen by many as a kind of universal coding language. It's simple, doesn’t require you to define anything but what the variables are equal to, and the process of making functions and editing variables is super easy. This will be a good entry point into coding if you want to learn the barebones concepts and still write it yourself without any blocks.",
+              "source": "@site/docs/experiments/experiments/Human/DIYHand/Programming/Python/index.md",
+              "sourceDirName": "experiments/experiments/Human/DIYHand/Programming/Python",
+              "slug": "/experiments/experiments/Human/DIYHand/Programming/Python/",
+              "permalink": "/experiments/experiments/Human/DIYHand/Programming/Python/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "experimentsSidebar",
+              "previous": {
+                "title": "JavaScript",
+                "permalink": "/experiments/experiments/Human/DIYHand/Programming/JS/"
+              },
+              "next": {
+                "title": "Blocks",
+                "permalink": "/experiments/experiments/Human/DIYHand/Programming/Blocks/"
+              }
+            },
+            {
+              "id": "experiments/experiments/Human/EOG/index",
+              "title": "Eye Potentials (The EOG)",
+              "description": "We've shown the electrical signals from your heart and brain, now it is time for another symbolically powerful organ: the eye.",
+              "source": "@site/docs/experiments/experiments/Human/EOG/index.md",
+              "sourceDirName": "experiments/experiments/Human/EOG",
+              "slug": "/experiments/experiments/Human/EOG/",
+              "permalink": "/experiments/experiments/Human/EOG/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "experimentsSidebar",
+              "previous": {
+                "title": "Blocks",
+                "permalink": "/experiments/experiments/Human/DIYHand/Programming/Blocks/"
+              },
+              "next": {
+                "title": "How Your Skin Senses",
+                "permalink": "/experiments/experiments/Human/Skin/"
+              }
+            },
+            {
+              "id": "experiments/experiments/Human/Muscles/index",
+              "title": "Record Electricity from Your Muscles!",
+              "description": "You may have heard and seen spikes from invertebrates. But what about yourself? Your body uses electricity to communicate and control parts of the body. Though all cells have ionic gradients across their membranes, the most well known organ systems that use electricity are the brain, the muscles, and the heart.",
+              "source": "@site/docs/experiments/experiments/Human/Muscles/index.md",
+              "sourceDirName": "experiments/experiments/Human/Muscles",
+              "slug": "/experiments/experiments/Human/Muscles/",
+              "permalink": "/experiments/experiments/Human/Muscles/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "sidebar_label": "Recording EMG"
+              },
+              "sidebar": "experimentsSidebar",
+              "previous": {
+                "title": "Transistor Theory",
+                "permalink": "/experiments/experiments/Engineering/Transistors/"
+              },
+              "next": {
+                "title": "DIY Neuroprosthetic",
+                "permalink": "/experiments/experiments/Human/DIYHand/"
+              }
+            },
+            {
+              "id": "experiments/experiments/Human/Skin/index",
+              "title": "How Your Skin Senses",
+              "description": "Have you ever wondered how you can feel great detail with your fingers, but not with your elbow? Follow along below and we will show you how to perform a two point threshold test. This test illustrates what is going on inside your head that allows for different degrees of skin sensation.",
+              "source": "@site/docs/experiments/experiments/Human/Skin/index.md",
+              "sourceDirName": "experiments/experiments/Human/Skin",
+              "slug": "/experiments/experiments/Human/Skin/",
+              "permalink": "/experiments/experiments/Human/Skin/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "experimentsSidebar",
+              "previous": {
+                "title": "Eye Potentials (The EOG)",
+                "permalink": "/experiments/experiments/Human/EOG/"
+              },
+              "next": {
+                "title": "Record Live Neurons",
+                "permalink": "/experiments/experiments/Insect/NeuronSpikerBox/"
+              }
+            },
+            {
+              "id": "experiments/experiments/index",
+              "title": "Experiments",
+              "description": "Welcome to the Backyard Brains experiments page for scientists, teachers and amateurs alike. Below you will find all of our open source experiments, lesson plans and useful information. If you're looking for a science fair project, several of our experiments come with suggestions. If you are an educator, you may be interested in what Educational Standards our lesson plans adhere too. Additionally, we list which specific standards are being met at the bottom of each lesson plan. For teachers interested in our experiments, check out our Teacher's Guides section!",
+              "source": "@site/docs/experiments/experiments/index.md",
+              "sourceDirName": "experiments/experiments",
+              "slug": "/experiments",
+              "permalink": "/experiments",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "slug": "/experiments",
+                "sidebar_label": "Experiments"
+              },
+              "sidebar": "experimentsSidebar",
+              "next": {
+                "title": "Transistor Theory",
+                "permalink": "/experiments/experiments/Engineering/Transistors/"
+              }
+            },
+            {
+              "id": "experiments/experiments/Insect/NeuronSpikerBox/index",
+              "title": "Experiment: Record and Manipulate Live Neurons!",
+              "description": "Did you just get a SpikerBox, and are wondering how to use it? In this lesson, you will listen to action potentials and view \"spikes\" in real time. This is an excellent starting point for your SpikerBox as well as a great nervous system lab for students as young as middle school! See live action potentials in an engaging lab activity!",
+              "source": "@site/docs/experiments/experiments/Insect/NeuronSpikerBox/index.md",
+              "sourceDirName": "experiments/experiments/Insect/NeuronSpikerBox",
+              "slug": "/experiments/experiments/Insect/NeuronSpikerBox/",
+              "permalink": "/experiments/experiments/Insect/NeuronSpikerBox/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "sidebar_label": "Record Live Neurons"
+              },
+              "sidebar": "experimentsSidebar",
+              "previous": {
+                "title": "How Your Skin Senses",
+                "permalink": "/experiments/experiments/Human/Skin/"
+              },
+              "next": {
+                "title": "Venus Flytrap Electrophysiology",
+                "permalink": "/experiments/experiments/Plant/Flytrap/"
+              }
+            },
+            {
+              "id": "experiments/experiments/Plant/Flytrap/index",
+              "title": "Getting Started with the Plant SpikerBox: Venus Flytrap Electrophysiology",
+              "description": "Electrical impulses are not only relegated to the hearts, muscles, and brains of animals. Plants use them too to! In this plant electricity experiment, we will use the beautiful plant that Darwin himself called \"one of the most wonderful in the world:\" the Venus Flytrap.",
+              "source": "@site/docs/experiments/experiments/Plant/Flytrap/index.md",
+              "sourceDirName": "experiments/experiments/Plant/Flytrap",
+              "slug": "/experiments/experiments/Plant/Flytrap/",
+              "permalink": "/experiments/experiments/Plant/Flytrap/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "sidebar_label": "Venus Flytrap Electrophysiology"
+              },
+              "sidebar": "experimentsSidebar",
+              "previous": {
+                "title": "Record Live Neurons",
+                "permalink": "/experiments/experiments/Insect/NeuronSpikerBox/"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "category",
+                "label": "Devices",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "Human",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "category",
+                        "label": "Human SpikerBox",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "label": "Reaction Timer",
+                            "id": "devices/devices/Human/HumanSB/ReactionTimer/index"
+                          },
+                          {
+                            "type": "doc",
+                            "label": "Reflex Hammer",
+                            "id": "devices/devices/Human/HumanSB/ReflexHammer/index"
+                          },
+                          {
+                            "type": "doc",
+                            "label": "Game Controller",
+                            "id": "devices/devices/Human/HumanSB/GameController/index"
+                          }
+                        ],
+                        "link": {
+                          "type": "doc",
+                          "id": "devices/devices/Human/HumanSB/index"
+                        }
+                      },
+                      {
+                        "type": "doc",
+                        "label": "Human-Human Interface",
+                        "id": "devices/devices/Human/HHI/index"
+                      },
+                      {
+                        "type": "doc",
+                        "label": "The Claw",
+                        "id": "devices/devices/Human/Claw/index"
+                      },
+                      {
+                        "type": "doc",
+                        "label": "Heart and Brain SpikerBox",
+                        "id": "devices/devices/Human/H&BSB/index"
+                      },
+                      {
+                        "type": "category",
+                        "label": "Muscle SpikerShield",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "label": "DIY Neuroprosthetic Kit",
+                            "id": "devices/devices/Human/MuscleSS/DIYNP/index"
+                          }
+                        ],
+                        "link": {
+                          "type": "doc",
+                          "id": "devices/devices/Human/MuscleSS/index"
+                        }
+                      },
+                      {
+                        "type": "doc",
+                        "label": "Muscle SpikerBox",
+                        "id": "devices/devices/Human/MuscleSB/index"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "Insect",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "label": "Neuron SpikerBox Classic",
+                        "id": "devices/devices/Insect/NSBclassic/index"
+                      },
+                      {
+                        "type": "doc",
+                        "label": "Neuron SpikerBox Pro",
+                        "id": "devices/devices/Insect/NSBpro/index"
+                      },
+                      {
+                        "type": "doc",
+                        "label": "RoboRoach",
+                        "id": "devices/devices/Insect/Roboroach/index"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "Plant",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "label": "Plant SpikerBox",
+                        "id": "devices/devices/Plant/PlantSpikerBox/index"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "Software",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "label": "Spike Recorder",
+                        "id": "devices/devices/Software/SpikeRecorder/index"
+                      }
+                    ]
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "devices/devices/index"
+                }
+              }
+            ],
+            "experimentsSidebar": [
+              {
+                "type": "category",
+                "label": "Experiments",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "Engineering",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "label": "Transistor Theory",
+                        "id": "experiments/experiments/Engineering/Transistors/index"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "Human",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "label": "Recording EMG",
+                        "id": "experiments/experiments/Human/Muscles/index"
+                      },
+                      {
+                        "type": "category",
+                        "label": "DIY Neuroprosthetic",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "category",
+                            "label": "Micro:bit introduction",
+                            "collapsible": true,
+                            "collapsed": true,
+                            "items": [
+                              {
+                                "type": "doc",
+                                "label": "JavaScript",
+                                "id": "experiments/experiments/Human/DIYHand/Programming/JS/index"
+                              },
+                              {
+                                "type": "doc",
+                                "label": "Python",
+                                "id": "experiments/experiments/Human/DIYHand/Programming/Python/index"
+                              },
+                              {
+                                "type": "doc",
+                                "label": "Blocks",
+                                "id": "experiments/experiments/Human/DIYHand/Programming/Blocks/index"
+                              }
+                            ],
+                            "link": {
+                              "type": "doc",
+                              "id": "experiments/experiments/Human/DIYHand/Programming/index"
+                            }
+                          }
+                        ],
+                        "link": {
+                          "type": "doc",
+                          "id": "experiments/experiments/Human/DIYHand/index"
+                        }
+                      },
+                      {
+                        "type": "doc",
+                        "label": "Eye Potentials (The EOG)",
+                        "id": "experiments/experiments/Human/EOG/index"
+                      },
+                      {
+                        "type": "doc",
+                        "label": "How Your Skin Senses",
+                        "id": "experiments/experiments/Human/Skin/index"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "Insect",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "label": "Record Live Neurons",
+                        "id": "experiments/experiments/Insect/NeuronSpikerBox/index"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "Plant",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "label": "Venus Flytrap Electrophysiology",
+                        "id": "experiments/experiments/Plant/Flytrap/index"
+                      }
+                    ]
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "experiments/experiments/index"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        },
+        "unlisted": false
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

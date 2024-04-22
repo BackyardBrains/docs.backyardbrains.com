@@ -1,0 +1,23 @@
+{
+  "id": "experiments/experiments/Human/Skin/index",
+  "title": "How Your Skin Senses",
+  "description": "Have you ever wondered how you can feel great detail with your fingers, but not with your elbow? Follow along below and we will show you how to perform a two point threshold test. This test illustrates what is going on inside your head that allows for different degrees of skin sensation.",
+  "source": "@site/docs/experiments/experiments/Human/Skin/index.md",
+  "sourceDirName": "experiments/experiments/Human/Skin",
+  "slug": "/experiments/experiments/Human/Skin/",
+  "permalink": "/experiments/experiments/Human/Skin/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "experimentsSidebar",
+  "previous": {
+    "title": "Eye Potentials (The EOG)",
+    "permalink": "/experiments/experiments/Human/EOG/"
+  },
+  "next": {
+    "title": "Record Live Neurons",
+    "permalink": "/experiments/experiments/Insect/NeuronSpikerBox/"
+  }
+}

@@ -6,11 +6,11 @@ slug: /
 
 Our devices are meant to be used with our SpikeRecorder app. Although other options are certainly possible.
 
-## What device should i get? ##
+## What device should I get? ##
 
 Whether you're interested in Human, Insect, or Plant electrophysiology, we've got you covered!
 
-Here's an overview for each device in each category:
+Here's an overview of each device in each category:
 ### Human ###
 
 <div class="container">
@@ -21,7 +21,7 @@ Here's an overview for each device in each category:
 
 #### [Human SpikerBox](./Human/HumanSB/index.md) ####
 
-If you're interested in the widest range of experiments, this is the right choice. It can record 2 channels of EEG,EOG,EMG or EKG. It also supports several addon devices.
+If you're interested in the widest range of experiments, this is the right choice. It can record two channels of EEG, EOG, EMG or EKG data. It also supports several add-on devices.
 Has a built in speaker, and an expansion port so you can build your own addon devices as well. 
 
 </div>

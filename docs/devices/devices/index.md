@@ -2,7 +2,7 @@
 slug: /
 ---
 
-# Devices #
+# Devoices #
 
 Our devices are meant to be used with our SpikeRecorder app. Although other options are certainly possible.
 

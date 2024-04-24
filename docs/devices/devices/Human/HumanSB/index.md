@@ -23,7 +23,6 @@ This kit is easy to use for beginners, but powerful enough to record publication
 |CMRR |>140dB|
 |Input impedance differential mode|10Gohm|
 |Input impedance common mode|5Gohm|
-[Download Schematic PDF](..\SCH_HumanSpikerbox_3v1_censored.pdf)
 
 :::warning
 Connecting via USB is possible on Windows, macOS, Android devices. iOS devices with a USB-C connector are supported as well, but ones with a lightning connector are not, even with an adapter.
@@ -33,13 +32,13 @@ While it's possible to connect using our Green Smartphone cable, and is the only
 
 ## Experiments ##
 
-[What are agonist and antagonist muscle pairs?]('https://backyardbrains.com/experiments/musclespikerboxpro')
+[What are agonist and antagonist muscle pairs?](https://backyardbrains.com/experiments/musclespikerboxpro)
 
-How does your [Patellar Reflex]('https://backyardbrains.com/experiments/Musclekneejerk') compare to your [Reaction Time]('https://backyardbrains.com/experiments/MusclReactionTime')?
+How does your [Patellar Reflex](https://backyardbrains.com/experiments/Musclekneejerk) compare to your [Reaction Time](https://backyardbrains.com/experiments/MusclReactionTime)?
 
-[Can you find a single motor unit?]('https://backyardbrains.com/experiments/MuscleSingleunit')
+[Can you find a single motor unit?](https://backyardbrains.com/experiments/MuscleSingleunit)
 
-[How can you learn about muscle recruitment by eating candy?]('https://backyardbrains.com/experiments/Musclechewing')
+[How can you learn about muscle recruitment by eating candy?](https://backyardbrains.com/experiments/Musclechewing)
 
 ## Addon Devices ##
 

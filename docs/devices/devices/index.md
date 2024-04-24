@@ -2,9 +2,9 @@
 slug: /
 ---
 
-# Devoices #
+# Devices #
 
-Our devices are meant to be used with our SpikeRecorder app. Although other options are certainly possible.
+Our devices are designed to be used with our SpikeRecorder app (To do:  add Link to SpikeRecorder). However, other options are certainly possible.
 
 ## What device should I get? ##
 

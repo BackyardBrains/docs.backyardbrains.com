@@ -1,0 +1,23 @@
+{
+  "id": "Human/index",
+  "title": "Human",
+  "description": "",
+  "source": "@site/docs/Human/index.md",
+  "sourceDirName": "Human",
+  "slug": "/Human/",
+  "permalink": "/Human/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Documentation",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "Human SpikerBox",
+    "permalink": "/Human/HumanSB/"
+  }
+}

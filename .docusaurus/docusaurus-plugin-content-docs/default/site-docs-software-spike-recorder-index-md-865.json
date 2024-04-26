@@ -1,0 +1,27 @@
+{
+  "id": "Software/SpikeRecorder/index",
+  "title": "Spike Recorder",
+  "description": "Our devices are ment to be used with our Spike Recorder Software available for Windows, macOS, iOS, Android and Linux",
+  "source": "@site/docs/Software/SpikeRecorder/index.md",
+  "sourceDirName": "Software/SpikeRecorder",
+  "slug": "/Software/SpikeRecorder/",
+  "permalink": "/Software/SpikeRecorder/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "Spike Recorder"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "index",
+    "permalink": "/Policies/StyleGuide/"
+  },
+  "next": {
+    "title": "Windows/Mac/Linux",
+    "permalink": "/Software/SpikeRecorder/Desktop/"
+  }
+}

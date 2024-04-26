@@ -1,0 +1,23 @@
+{
+  "id": "Insect/index",
+  "title": "Insect",
+  "description": "",
+  "source": "@site/docs/Insect/index.md",
+  "sourceDirName": "Insect",
+  "slug": "/Insect/",
+  "permalink": "/Insect/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Muscle SpikerBox",
+    "permalink": "/Human/MuscleSB/"
+  },
+  "next": {
+    "title": "Neuron SpikerBox Classic",
+    "permalink": "/Insect/NSBclassic/"
+  }
+}

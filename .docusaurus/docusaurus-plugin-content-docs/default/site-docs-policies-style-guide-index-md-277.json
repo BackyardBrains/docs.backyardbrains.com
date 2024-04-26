@@ -1,0 +1,23 @@
+{
+  "id": "Policies/StyleGuide/index",
+  "title": "index",
+  "description": "",
+  "source": "@site/docs/Policies/StyleGuide/index.md",
+  "sourceDirName": "Policies/StyleGuide",
+  "slug": "/Policies/StyleGuide/",
+  "permalink": "/Policies/StyleGuide/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "index",
+    "permalink": "/Policies/ReturnPolicy/"
+  },
+  "next": {
+    "title": "Spike Recorder",
+    "permalink": "/Software/SpikeRecorder/"
+  }
+}

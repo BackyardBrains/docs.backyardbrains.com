@@ -1,0 +1,27 @@
+{
+  "id": "Human/HumanSB/GameController/index",
+  "title": "Game Controller",
+  "description": "Please Note: Works on Windows only and requires a Human SpikerBox",
+  "source": "@site/docs/Human/HumanSB/GameController/index.md",
+  "sourceDirName": "Human/HumanSB/GameController",
+  "slug": "/Human/HumanSB/GameController/",
+  "permalink": "/Human/HumanSB/GameController/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "sidebar_label": "Game Controller"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Reflex Hammer",
+    "permalink": "/Human/HumanSB/ReflexHammer/"
+  },
+  "next": {
+    "title": "Human-Human Interface",
+    "permalink": "/Human/HHI/"
+  }
+}

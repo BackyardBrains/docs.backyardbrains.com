@@ -1,0 +1,23 @@
+{
+  "id": "Policies/Ethics/index",
+  "title": "index",
+  "description": "",
+  "source": "@site/docs/Policies/Ethics/index.md",
+  "sourceDirName": "Policies/Ethics",
+  "slug": "/Policies/Ethics/",
+  "permalink": "/Policies/Ethics/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Plant SpikerBox",
+    "permalink": "/Plant/PlantSpikerBox/"
+  },
+  "next": {
+    "title": "index",
+    "permalink": "/Policies/ReturnPolicy/"
+  }
+}

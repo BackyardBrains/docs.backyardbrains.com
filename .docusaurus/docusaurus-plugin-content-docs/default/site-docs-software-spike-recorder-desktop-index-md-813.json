@@ -1,0 +1,27 @@
+{
+  "id": "Software/SpikeRecorder/Desktop/index",
+  "title": "Windows/Mac/Linux",
+  "description": "",
+  "source": "@site/docs/Software/SpikeRecorder/Desktop/index.md",
+  "sourceDirName": "Software/SpikeRecorder/Desktop",
+  "slug": "/Software/SpikeRecorder/Desktop/",
+  "permalink": "/Software/SpikeRecorder/Desktop/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Windows/Mac/Linux"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Spike Recorder",
+    "permalink": "/Software/SpikeRecorder/"
+  },
+  "next": {
+    "title": "iOS",
+    "permalink": "/Software/SpikeRecorder/iOS/"
+  }
+}

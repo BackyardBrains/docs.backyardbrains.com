@@ -1,0 +1,23 @@
+{
+  "id": "Policies/ReturnPolicy/index",
+  "title": "index",
+  "description": "",
+  "source": "@site/docs/Policies/ReturnPolicy/index.md",
+  "sourceDirName": "Policies/ReturnPolicy",
+  "slug": "/Policies/ReturnPolicy/",
+  "permalink": "/Policies/ReturnPolicy/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "index",
+    "permalink": "/Policies/Ethics/"
+  },
+  "next": {
+    "title": "index",
+    "permalink": "/Policies/StyleGuide/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Human/HumanSB/index",
+  "title": "Human SpikerBox",
+  "description": "One box to rule them all! Reveal and record the electrical activity hidden within your muscles, heart, brain, eyes and more! This easy-to-use kit allows you to record EMG, EKG, EEG, and EOG signals, giving you the power to perform human physiology experiments!",
+  "source": "@site/docs/Human/HumanSB/index.md",
+  "sourceDirName": "Human/HumanSB",
+  "slug": "/Human/HumanSB/",
+  "permalink": "/Human/HumanSB/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "Human SpikerBox"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Human",
+    "permalink": "/Human/"
+  },
+  "next": {
+    "title": "Reaction Timer",
+    "permalink": "/Human/HumanSB/ReactionTimer/"
+  }
+}

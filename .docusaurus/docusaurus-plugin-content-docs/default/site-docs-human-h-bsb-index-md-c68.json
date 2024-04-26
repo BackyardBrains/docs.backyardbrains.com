@@ -1,0 +1,27 @@
+{
+  "id": "Human/H&BSB/index",
+  "title": "The Heart and Brain SpikerBox",
+  "description": "image",
+  "source": "@site/docs/Human/H&BSB/index.md",
+  "sourceDirName": "Human/H&BSB",
+  "slug": "/Human/H&BSB/",
+  "permalink": "/Human/H&BSB/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "sidebar_label": "Heart and Brain SpikerBox"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "The Claw",
+    "permalink": "/Human/Claw/"
+  },
+  "next": {
+    "title": "Muscle SpikerShield",
+    "permalink": "/Human/MuscleSS/"
+  }
+}

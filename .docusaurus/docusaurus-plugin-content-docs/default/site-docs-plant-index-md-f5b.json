@@ -1,0 +1,23 @@
+{
+  "id": "Plant/index",
+  "title": "Plant",
+  "description": "",
+  "source": "@site/docs/Plant/index.md",
+  "sourceDirName": "Plant",
+  "slug": "/Plant/",
+  "permalink": "/Plant/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "RoboRoach",
+    "permalink": "/Insect/Roboroach/"
+  },
+  "next": {
+    "title": "Plant SpikerBox",
+    "permalink": "/Plant/PlantSpikerBox/"
+  }
+}

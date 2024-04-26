@@ -1,0 +1,27 @@
+{
+  "id": "Plant/PlantSpikerBox/index",
+  "title": "Plant SpikerBox",
+  "description": "Psb",
+  "source": "@site/docs/Plant/PlantSpikerBox/index.md",
+  "sourceDirName": "Plant/PlantSpikerBox",
+  "slug": "/Plant/PlantSpikerBox/",
+  "permalink": "/Plant/PlantSpikerBox/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "Plant SpikerBox"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Plant",
+    "permalink": "/Plant/"
+  },
+  "next": {
+    "title": "index",
+    "permalink": "/Policies/Ethics/"
+  }
+}

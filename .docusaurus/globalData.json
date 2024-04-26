@@ -8,147 +8,142 @@
           "label": "Next",
           "isLast": true,
           "path": "/",
-          "mainDocId": "devices/devices/index",
+          "mainDocId": "index",
           "docs": [
             {
-              "id": "devices/devices/Human/Claw/index",
-              "path": "/devices/devices/Human/Claw/",
+              "id": "Human/Claw/index",
+              "path": "/Human/Claw/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "devices/devices/Human/H&BSB/index",
-              "path": "/devices/devices/Human/H&BSB/",
+              "id": "Human/H&BSB/index",
+              "path": "/Human/H&BSB/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "devices/devices/Human/HHI/index",
-              "path": "/devices/devices/Human/HHI/",
+              "id": "Human/HHI/index",
+              "path": "/Human/HHI/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "devices/devices/Human/HumanSB/GameController/index",
-              "path": "/devices/devices/Human/HumanSB/GameController/",
+              "id": "Human/HumanSB/GameController/index",
+              "path": "/Human/HumanSB/GameController/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "devices/devices/Human/HumanSB/index",
-              "path": "/devices/devices/Human/HumanSB/",
+              "id": "Human/HumanSB/index",
+              "path": "/Human/HumanSB/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "devices/devices/Human/HumanSB/ReactionTimer/index",
-              "path": "/devices/devices/Human/HumanSB/ReactionTimer/",
+              "id": "Human/HumanSB/ReactionTimer/index",
+              "path": "/Human/HumanSB/ReactionTimer/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "devices/devices/Human/HumanSB/ReflexHammer/index",
-              "path": "/devices/devices/Human/HumanSB/ReflexHammer/",
+              "id": "Human/HumanSB/ReflexHammer/index",
+              "path": "/Human/HumanSB/ReflexHammer/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "devices/devices/Human/MuscleSB/index",
-              "path": "/devices/devices/Human/MuscleSB/",
+              "id": "Human/index",
+              "path": "/Human/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "devices/devices/Human/MuscleSS/DIYNP/index",
-              "path": "/devices/devices/Human/MuscleSS/DIYNP/",
+              "id": "Human/MuscleSB/index",
+              "path": "/Human/MuscleSB/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "devices/devices/Human/MuscleSS/index",
-              "path": "/devices/devices/Human/MuscleSS/",
+              "id": "Human/MuscleSS/DIYNP/index",
+              "path": "/Human/MuscleSS/DIYNP/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "devices/devices/index",
+              "id": "Human/MuscleSS/index",
+              "path": "/Human/MuscleSS/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "index",
               "path": "/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "devices/devices/Insect/NSBclassic/index",
-              "path": "/devices/devices/Insect/NSBclassic/",
+              "id": "Insect/index",
+              "path": "/Insect/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "devices/devices/Insect/NSBpro/index",
-              "path": "/devices/devices/Insect/NSBpro/",
+              "id": "Insect/NSBclassic/index",
+              "path": "/Insect/NSBclassic/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "devices/devices/Insect/Roboroach/index",
-              "path": "/devices/devices/Insect/Roboroach/",
+              "id": "Insect/NSBpro/index",
+              "path": "/Insect/NSBpro/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "devices/devices/Plant/PlantSpikerBox/index",
-              "path": "/devices/devices/Plant/PlantSpikerBox/",
+              "id": "Insect/Roboroach/index",
+              "path": "/Insect/Roboroach/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "devices/devices/Software/SpikeRecorder/index",
-              "path": "/devices/devices/Software/SpikeRecorder/",
+              "id": "Plant/index",
+              "path": "/Plant/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "experiments/experiments/Engineering/Transistors/index",
-              "path": "/experiments/experiments/Engineering/Transistors/",
-              "sidebar": "experimentsSidebar"
+              "id": "Plant/PlantSpikerBox/index",
+              "path": "/Plant/PlantSpikerBox/",
+              "sidebar": "tutorialSidebar"
             },
             {
-              "id": "experiments/experiments/Human/DIYHand/index",
-              "path": "/experiments/experiments/Human/DIYHand/",
-              "sidebar": "experimentsSidebar"
+              "id": "Policies/Ethics/index",
+              "path": "/Policies/Ethics/",
+              "sidebar": "tutorialSidebar"
             },
             {
-              "id": "experiments/experiments/Human/DIYHand/Programming/Blocks/index",
-              "path": "/experiments/experiments/Human/DIYHand/Programming/Blocks/",
-              "sidebar": "experimentsSidebar"
+              "id": "Policies/ReturnPolicy/index",
+              "path": "/Policies/ReturnPolicy/",
+              "sidebar": "tutorialSidebar"
             },
             {
-              "id": "experiments/experiments/Human/DIYHand/Programming/index",
-              "path": "/experiments/experiments/Human/DIYHand/Programming/",
-              "sidebar": "experimentsSidebar"
+              "id": "Policies/StyleGuide/index",
+              "path": "/Policies/StyleGuide/",
+              "sidebar": "tutorialSidebar"
             },
             {
-              "id": "experiments/experiments/Human/DIYHand/Programming/JS/index",
-              "path": "/experiments/experiments/Human/DIYHand/Programming/JS/",
-              "sidebar": "experimentsSidebar"
+              "id": "Software/SpikeRecorder/Android/index",
+              "path": "/Software/SpikeRecorder/Android/",
+              "sidebar": "tutorialSidebar"
             },
             {
-              "id": "experiments/experiments/Human/DIYHand/Programming/Python/index",
-              "path": "/experiments/experiments/Human/DIYHand/Programming/Python/",
-              "sidebar": "experimentsSidebar"
+              "id": "Software/SpikeRecorder/Desktop/index",
+              "path": "/Software/SpikeRecorder/Desktop/",
+              "sidebar": "tutorialSidebar"
             },
             {
-              "id": "experiments/experiments/Human/EOG/index",
-              "path": "/experiments/experiments/Human/EOG/",
-              "sidebar": "experimentsSidebar"
+              "id": "Software/SpikeRecorder/index",
+              "path": "/Software/SpikeRecorder/",
+              "sidebar": "tutorialSidebar"
             },
             {
-              "id": "experiments/experiments/Human/Muscles/index",
-              "path": "/experiments/experiments/Human/Muscles/",
-              "sidebar": "experimentsSidebar"
+              "id": "Software/SpikeRecorder/iOS/index",
+              "path": "/Software/SpikeRecorder/iOS/",
+              "sidebar": "tutorialSidebar"
             },
             {
-              "id": "experiments/experiments/Human/Skin/index",
-              "path": "/experiments/experiments/Human/Skin/",
-              "sidebar": "experimentsSidebar"
+              "id": "Software/SpikeRecorder/Troubleshooting/index",
+              "path": "/Software/SpikeRecorder/Troubleshooting/",
+              "sidebar": "tutorialSidebar"
             },
             {
-              "id": "experiments/experiments/index",
-              "path": "/experiments",
-              "sidebar": "experimentsSidebar"
-            },
-            {
-              "id": "experiments/experiments/Insect/NeuronSpikerBox/index",
-              "path": "/experiments/experiments/Insect/NeuronSpikerBox/",
-              "sidebar": "experimentsSidebar"
-            },
-            {
-              "id": "experiments/experiments/Plant/Flytrap/index",
-              "path": "/experiments/experiments/Plant/Flytrap/",
-              "sidebar": "experimentsSidebar"
+              "id": "Software/SpikeRecorder/Web/index",
+              "path": "/Software/SpikeRecorder/Web/",
+              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],
@@ -156,13 +151,7 @@
             "tutorialSidebar": {
               "link": {
                 "path": "/",
-                "label": "Devices"
-              }
-            },
-            "experimentsSidebar": {
-              "link": {
-                "path": "/experiments",
-                "label": "Experiments"
+                "label": "index"
               }
             }
           }

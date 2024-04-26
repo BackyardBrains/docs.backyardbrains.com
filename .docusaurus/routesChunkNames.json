@@ -1,134 +1,173 @@
 {
-  "/markdown-page-65b": {
-    "__comp": "1f391b9e",
+  "/__docusaurus/debug-adb": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "b548b326"
-    },
-    "content": "393be207"
-  },
-  "/-878": {
-    "__comp": "5e95c892",
-    "__context": {
-      "plugin": "488be2f6"
+      "plugin": "plugin---docusaurus-debug-7-f-1-40d"
     }
   },
-  "/-6bf": {
-    "__comp": "a7bd4aaa",
-    "version": "935f2afb"
+  "/__docusaurus/debug/config-403": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-7-f-1-40d"
+    }
   },
-  "/-926": {
-    "__comp": "a94703ab"
+  "/__docusaurus/debug/content-e54": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-7-f-1-40d"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
   },
-  "/devices/devices/Human/Claw/-db3": {
-    "__comp": "17896441",
-    "content": "07f87180"
+  "/__docusaurus/debug/globalData-c23": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-7-f-1-40d"
+    }
   },
-  "/devices/devices/Human/H&BSB/-15d": {
-    "__comp": "17896441",
-    "content": "d79050f7"
+  "/__docusaurus/debug/metadata-8cd": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-7-f-1-40d"
+    }
   },
-  "/devices/devices/Human/HHI/-0a1": {
-    "__comp": "17896441",
-    "content": "64d2a8fe"
+  "/__docusaurus/debug/registry-8d0": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-7-f-1-40d"
+    }
   },
-  "/devices/devices/Human/HumanSB/-1e7": {
-    "__comp": "17896441",
-    "content": "921b901e"
+  "/__docusaurus/debug/routes-364": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-7-f-1-40d"
+    }
   },
-  "/devices/devices/Human/HumanSB/GameController/-7e9": {
-    "__comp": "17896441",
-    "content": "faaee293"
+  "/markdown-page-458": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-pageb-54-90c"
+    },
+    "content": "content---markdown-page-393-028"
   },
-  "/devices/devices/Human/HumanSB/ReactionTimer/-ff9": {
-    "__comp": "17896441",
-    "content": "8bcbcc14"
+  "/-0a5": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---488-85a"
+    }
   },
-  "/devices/devices/Human/HumanSB/ReflexHammer/-5d4": {
-    "__comp": "17896441",
-    "content": "a26a5b0b"
+  "/-f12": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "version": "version---935-fcf"
   },
-  "/devices/devices/Human/MuscleSB/-609": {
-    "__comp": "17896441",
-    "content": "5dd6ea12"
+  "/-490": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/devices/devices/Human/MuscleSS/-a25": {
-    "__comp": "17896441",
-    "content": "e1cab513"
+  "/Human/-7bc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---human-03-d-5d5"
   },
-  "/devices/devices/Human/MuscleSS/DIYNP/-e40": {
-    "__comp": "17896441",
-    "content": "ef6b85df"
+  "/Human/Claw/-251": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---human-claw-2-cf-e72"
   },
-  "/devices/devices/Insect/NSBclassic/-2fd": {
-    "__comp": "17896441",
-    "content": "e8a7f707"
+  "/Human/H&BSB/-79b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---human-h-bsb-c-68-f92"
   },
-  "/devices/devices/Insect/NSBpro/-26d": {
-    "__comp": "17896441",
-    "content": "018b67de"
+  "/Human/HHI/-226": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---human-hhi-326-e6d"
   },
-  "/devices/devices/Insect/Roboroach/-14c": {
-    "__comp": "17896441",
-    "content": "665a9f97"
+  "/Human/HumanSB/-592": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---human-human-sb-aab-4a2"
   },
-  "/devices/devices/Plant/PlantSpikerBox/-e17": {
-    "__comp": "17896441",
-    "content": "92f62868"
+  "/Human/HumanSB/GameController/-642": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---human-human-sb-game-controller-cc-7-880"
   },
-  "/devices/devices/Software/SpikeRecorder/-fba": {
-    "__comp": "17896441",
-    "content": "55ebf61f"
+  "/Human/HumanSB/ReactionTimer/-e67": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---human-human-sb-reaction-timer-b-4-c-7c9"
   },
-  "/experiments-60b": {
-    "__comp": "17896441",
-    "content": "4d30fb4a"
+  "/Human/HumanSB/ReflexHammer/-4d2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---human-human-sb-reflex-hammer-bd-6-d59"
   },
-  "/experiments/experiments/Engineering/Transistors/-3eb": {
-    "__comp": "17896441",
-    "content": "279048b6"
+  "/Human/MuscleSB/-798": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---human-muscle-sb-6-fe-43e"
   },
-  "/experiments/experiments/Human/DIYHand/-d6b": {
-    "__comp": "17896441",
-    "content": "84b20c28"
+  "/Human/MuscleSS/-320": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---human-muscle-ss-63-f-37e"
   },
-  "/experiments/experiments/Human/DIYHand/Programming/-601": {
-    "__comp": "17896441",
-    "content": "45f8cbab"
+  "/Human/MuscleSS/DIYNP/-70b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---human-muscle-ss-diynp-d-7-c-93e"
   },
-  "/experiments/experiments/Human/DIYHand/Programming/Blocks/-521": {
-    "__comp": "17896441",
-    "content": "79eeebd8"
+  "/Insect/-6a0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---insect-ff-6-442"
   },
-  "/experiments/experiments/Human/DIYHand/Programming/JS/-40d": {
-    "__comp": "17896441",
-    "content": "c234360e"
+  "/Insect/NSBclassic/-8e0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---insect-ns-bclassic-5-bf-947"
   },
-  "/experiments/experiments/Human/DIYHand/Programming/Python/-8de": {
-    "__comp": "17896441",
-    "content": "0ba000f5"
+  "/Insect/NSBpro/-6f6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---insect-ns-bpro-4-f-2-98c"
   },
-  "/experiments/experiments/Human/EOG/-0e7": {
-    "__comp": "17896441",
-    "content": "2004c703"
+  "/Insect/Roboroach/-4af": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---insect-roboroach-ece-f55"
   },
-  "/experiments/experiments/Human/Muscles/-304": {
-    "__comp": "17896441",
-    "content": "e59325cb"
+  "/Plant/-b19": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plant-f-5-b-c02"
   },
-  "/experiments/experiments/Human/Skin/-7ca": {
-    "__comp": "17896441",
-    "content": "56fcfb4f"
+  "/Plant/PlantSpikerBox/-001": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---plant-plant-spiker-box-9-e-1-d7c"
   },
-  "/experiments/experiments/Insect/NeuronSpikerBox/-d11": {
-    "__comp": "17896441",
-    "content": "1757090a"
+  "/Policies/Ethics/-5de": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---policies-ethics-06-d-0ff"
   },
-  "/experiments/experiments/Plant/Flytrap/-aa0": {
-    "__comp": "17896441",
-    "content": "00ecf166"
+  "/Policies/ReturnPolicy/-31a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---policies-return-policy-99-a-76b"
   },
-  "/-4ef": {
-    "__comp": "17896441",
-    "content": "a92c3aed"
+  "/Policies/StyleGuide/-8ff": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---policies-style-guide-277-e56"
+  },
+  "/Software/SpikeRecorder/-d05": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---software-spike-recorder-865-419"
+  },
+  "/Software/SpikeRecorder/Android/-4ae": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---software-spike-recorder-android-34-f-9f7"
+  },
+  "/Software/SpikeRecorder/Desktop/-45e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---software-spike-recorder-desktop-813-fd0"
+  },
+  "/Software/SpikeRecorder/iOS/-d4f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---software-spike-recorder-i-os-bf-0-d10"
+  },
+  "/Software/SpikeRecorder/Troubleshooting/-74c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---software-spike-recorder-troubleshooting-eba-720"
+  },
+  "/Software/SpikeRecorder/Web/-bbc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---software-spike-recorder-web-fa-9-23e"
+  },
+  "/-efb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---c-37-d02"
   }
 }

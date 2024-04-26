@@ -69,9 +69,9 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Devices',
+            label: 'Documentation',
           },
-          {to: '/experiments', label: 'Experiments', position: 'left', sidebarId: "experimentSidebar"},
+          
           {
             href: 'https://github.com/BackyardBrains',
             label: 'GitHub',

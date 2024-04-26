@@ -1,7 +1,7 @@
 {
   "id": "devices/devices/index",
-  "title": "Devices",
-  "description": "Our devices are meant to be used with our SpikeRecorder app. Although other options are certainly possible.",
+  "title": "Documentation",
+  "description": "Welcome to Backyard Brains' Documentation ##",
   "source": "@site/docs/devices/devices/index.md",
   "sourceDirName": "devices/devices",
   "slug": "/",

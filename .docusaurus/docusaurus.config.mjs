@@ -48,13 +48,7 @@ export default {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Devices"
-        },
-        {
-          "to": "/experiments",
-          "label": "Experiments",
-          "position": "left",
-          "sidebarId": "experimentSidebar"
+          "label": "Documentation"
         },
         {
           "href": "https://github.com/BackyardBrains",

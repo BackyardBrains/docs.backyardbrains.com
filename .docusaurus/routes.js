@@ -3,187 +3,216 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', 'adb'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '403'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'e54'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c23'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '8cd'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '8d0'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '364'),
+    exact: true
+  },
+  {
     path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '65b'),
+    component: ComponentCreator('/markdown-page', '458'),
     exact: true
   },
   {
     path: '/',
-    component: ComponentCreator('/', '878'),
+    component: ComponentCreator('/', '0a5'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', '6bf'),
+        component: ComponentCreator('/', 'f12'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', '926'),
+            component: ComponentCreator('/', '490'),
             routes: [
               {
-                path: '/devices/devices/Human/Claw/',
-                component: ComponentCreator('/devices/devices/Human/Claw/', 'db3'),
+                path: '/Human/',
+                component: ComponentCreator('/Human/', '7bc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/devices/devices/Human/H&BSB/',
-                component: ComponentCreator('/devices/devices/Human/H&BSB/', '15d'),
+                path: '/Human/Claw/',
+                component: ComponentCreator('/Human/Claw/', '251'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/devices/devices/Human/HHI/',
-                component: ComponentCreator('/devices/devices/Human/HHI/', '0a1'),
+                path: '/Human/H&BSB/',
+                component: ComponentCreator('/Human/H&BSB/', '79b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/devices/devices/Human/HumanSB/',
-                component: ComponentCreator('/devices/devices/Human/HumanSB/', '1e7'),
+                path: '/Human/HHI/',
+                component: ComponentCreator('/Human/HHI/', '226'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/devices/devices/Human/HumanSB/GameController/',
-                component: ComponentCreator('/devices/devices/Human/HumanSB/GameController/', '7e9'),
+                path: '/Human/HumanSB/',
+                component: ComponentCreator('/Human/HumanSB/', '592'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/devices/devices/Human/HumanSB/ReactionTimer/',
-                component: ComponentCreator('/devices/devices/Human/HumanSB/ReactionTimer/', 'ff9'),
+                path: '/Human/HumanSB/GameController/',
+                component: ComponentCreator('/Human/HumanSB/GameController/', '642'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/devices/devices/Human/HumanSB/ReflexHammer/',
-                component: ComponentCreator('/devices/devices/Human/HumanSB/ReflexHammer/', '5d4'),
+                path: '/Human/HumanSB/ReactionTimer/',
+                component: ComponentCreator('/Human/HumanSB/ReactionTimer/', 'e67'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/devices/devices/Human/MuscleSB/',
-                component: ComponentCreator('/devices/devices/Human/MuscleSB/', '609'),
+                path: '/Human/HumanSB/ReflexHammer/',
+                component: ComponentCreator('/Human/HumanSB/ReflexHammer/', '4d2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/devices/devices/Human/MuscleSS/',
-                component: ComponentCreator('/devices/devices/Human/MuscleSS/', 'a25'),
+                path: '/Human/MuscleSB/',
+                component: ComponentCreator('/Human/MuscleSB/', '798'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/devices/devices/Human/MuscleSS/DIYNP/',
-                component: ComponentCreator('/devices/devices/Human/MuscleSS/DIYNP/', 'e40'),
+                path: '/Human/MuscleSS/',
+                component: ComponentCreator('/Human/MuscleSS/', '320'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/devices/devices/Insect/NSBclassic/',
-                component: ComponentCreator('/devices/devices/Insect/NSBclassic/', '2fd'),
+                path: '/Human/MuscleSS/DIYNP/',
+                component: ComponentCreator('/Human/MuscleSS/DIYNP/', '70b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/devices/devices/Insect/NSBpro/',
-                component: ComponentCreator('/devices/devices/Insect/NSBpro/', '26d'),
+                path: '/Insect/',
+                component: ComponentCreator('/Insect/', '6a0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/devices/devices/Insect/Roboroach/',
-                component: ComponentCreator('/devices/devices/Insect/Roboroach/', '14c'),
+                path: '/Insect/NSBclassic/',
+                component: ComponentCreator('/Insect/NSBclassic/', '8e0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/devices/devices/Plant/PlantSpikerBox/',
-                component: ComponentCreator('/devices/devices/Plant/PlantSpikerBox/', 'e17'),
+                path: '/Insect/NSBpro/',
+                component: ComponentCreator('/Insect/NSBpro/', '6f6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/devices/devices/Software/SpikeRecorder/',
-                component: ComponentCreator('/devices/devices/Software/SpikeRecorder/', 'fba'),
+                path: '/Insect/Roboroach/',
+                component: ComponentCreator('/Insect/Roboroach/', '4af'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/experiments',
-                component: ComponentCreator('/experiments', '60b'),
+                path: '/Plant/',
+                component: ComponentCreator('/Plant/', 'b19'),
                 exact: true,
-                sidebar: "experimentsSidebar"
+                sidebar: "tutorialSidebar"
               },
               {
-                path: '/experiments/experiments/Engineering/Transistors/',
-                component: ComponentCreator('/experiments/experiments/Engineering/Transistors/', '3eb'),
+                path: '/Plant/PlantSpikerBox/',
+                component: ComponentCreator('/Plant/PlantSpikerBox/', '001'),
                 exact: true,
-                sidebar: "experimentsSidebar"
+                sidebar: "tutorialSidebar"
               },
               {
-                path: '/experiments/experiments/Human/DIYHand/',
-                component: ComponentCreator('/experiments/experiments/Human/DIYHand/', 'd6b'),
+                path: '/Policies/Ethics/',
+                component: ComponentCreator('/Policies/Ethics/', '5de'),
                 exact: true,
-                sidebar: "experimentsSidebar"
+                sidebar: "tutorialSidebar"
               },
               {
-                path: '/experiments/experiments/Human/DIYHand/Programming/',
-                component: ComponentCreator('/experiments/experiments/Human/DIYHand/Programming/', '601'),
+                path: '/Policies/ReturnPolicy/',
+                component: ComponentCreator('/Policies/ReturnPolicy/', '31a'),
                 exact: true,
-                sidebar: "experimentsSidebar"
+                sidebar: "tutorialSidebar"
               },
               {
-                path: '/experiments/experiments/Human/DIYHand/Programming/Blocks/',
-                component: ComponentCreator('/experiments/experiments/Human/DIYHand/Programming/Blocks/', '521'),
+                path: '/Policies/StyleGuide/',
+                component: ComponentCreator('/Policies/StyleGuide/', '8ff'),
                 exact: true,
-                sidebar: "experimentsSidebar"
+                sidebar: "tutorialSidebar"
               },
               {
-                path: '/experiments/experiments/Human/DIYHand/Programming/JS/',
-                component: ComponentCreator('/experiments/experiments/Human/DIYHand/Programming/JS/', '40d'),
+                path: '/Software/SpikeRecorder/',
+                component: ComponentCreator('/Software/SpikeRecorder/', 'd05'),
                 exact: true,
-                sidebar: "experimentsSidebar"
+                sidebar: "tutorialSidebar"
               },
               {
-                path: '/experiments/experiments/Human/DIYHand/Programming/Python/',
-                component: ComponentCreator('/experiments/experiments/Human/DIYHand/Programming/Python/', '8de'),
+                path: '/Software/SpikeRecorder/Android/',
+                component: ComponentCreator('/Software/SpikeRecorder/Android/', '4ae'),
                 exact: true,
-                sidebar: "experimentsSidebar"
+                sidebar: "tutorialSidebar"
               },
               {
-                path: '/experiments/experiments/Human/EOG/',
-                component: ComponentCreator('/experiments/experiments/Human/EOG/', '0e7'),
+                path: '/Software/SpikeRecorder/Desktop/',
+                component: ComponentCreator('/Software/SpikeRecorder/Desktop/', '45e'),
                 exact: true,
-                sidebar: "experimentsSidebar"
+                sidebar: "tutorialSidebar"
               },
               {
-                path: '/experiments/experiments/Human/Muscles/',
-                component: ComponentCreator('/experiments/experiments/Human/Muscles/', '304'),
+                path: '/Software/SpikeRecorder/iOS/',
+                component: ComponentCreator('/Software/SpikeRecorder/iOS/', 'd4f'),
                 exact: true,
-                sidebar: "experimentsSidebar"
+                sidebar: "tutorialSidebar"
               },
               {
-                path: '/experiments/experiments/Human/Skin/',
-                component: ComponentCreator('/experiments/experiments/Human/Skin/', '7ca'),
+                path: '/Software/SpikeRecorder/Troubleshooting/',
+                component: ComponentCreator('/Software/SpikeRecorder/Troubleshooting/', '74c'),
                 exact: true,
-                sidebar: "experimentsSidebar"
+                sidebar: "tutorialSidebar"
               },
               {
-                path: '/experiments/experiments/Insect/NeuronSpikerBox/',
-                component: ComponentCreator('/experiments/experiments/Insect/NeuronSpikerBox/', 'd11'),
+                path: '/Software/SpikeRecorder/Web/',
+                component: ComponentCreator('/Software/SpikeRecorder/Web/', 'bbc'),
                 exact: true,
-                sidebar: "experimentsSidebar"
-              },
-              {
-                path: '/experiments/experiments/Plant/Flytrap/',
-                component: ComponentCreator('/experiments/experiments/Plant/Flytrap/', 'aa0'),
-                exact: true,
-                sidebar: "experimentsSidebar"
+                sidebar: "tutorialSidebar"
               },
               {
                 path: '/',
-                component: ComponentCreator('/', '4ef'),
+                component: ComponentCreator('/', 'efb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

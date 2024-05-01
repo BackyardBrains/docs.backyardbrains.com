@@ -1,7 +1,7 @@
 {
   "id": "Insect/Roboroach/index",
   "title": "The RoboRoach",
-  "description": "Please Note: Requires at least one Cockroach",
+  "description": "Roboroach and app",
   "source": "@site/docs/Insect/Roboroach/index.md",
   "sourceDirName": "Insect/Roboroach",
   "slug": "/Insect/Roboroach/",
@@ -21,7 +21,7 @@
     "permalink": "/Insect/NSBpro/"
   },
   "next": {
-    "title": "Plant",
-    "permalink": "/Plant/"
+    "title": "Plant SpikerBox",
+    "permalink": "/Plant/PlantSpikerBox/"
   }
 }

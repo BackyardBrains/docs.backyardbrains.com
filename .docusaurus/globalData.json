@@ -46,11 +46,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Human/index",
-              "path": "/Human/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Human/MuscleSB/index",
               "path": "/Human/MuscleSB/",
               "sidebar": "tutorialSidebar"
@@ -71,11 +66,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Insect/index",
-              "path": "/Insect/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Insect/NSBclassic/index",
               "path": "/Insect/NSBclassic/",
               "sidebar": "tutorialSidebar"
@@ -88,11 +78,6 @@
             {
               "id": "Insect/Roboroach/index",
               "path": "/Insect/Roboroach/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Plant/index",
-              "path": "/Plant/",
               "sidebar": "tutorialSidebar"
             },
             {

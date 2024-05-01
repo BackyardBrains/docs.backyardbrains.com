@@ -11,25 +11,38 @@ Explore comprehensive guides and detailed information on all our devices and sof
 ## Categories
 
 ### Devices
-Dive into the specifics of each category and discover the right device for your needs:
-- [**Human**](./Human/): Explore devices like the Human SpikerBox, Reaction Timer, and more for studying human physiology.
-- [**Insect**](./Insect/): Find devices like the Neuron SpikerBox Pro and Classic, designed for observing neuronal activity in insects.
-- [**Plant**](./Plant/): Learn more about the Plant SpikerBox and delve into plant electrophysiology.
+Dive into the specifics of each category and discover the right device for your needs:  
+
+**Human**  
+- [Human SpikerBox](./human/HumanSB/)   
+- [Human-Human Interface](./Human/HHI/)  
+- [The Claw](./Human/Claw/)  
+- [Heart and Brain SpikerBox](./Human/H&BSB/)  
+- [Muscle SpikerShield](./Human/MuscleSS/)   
+- [Muscle SpikerBox](./Human/MuscleSB/)  
+
+**Insect**  
+- [Neuron SpikerBox Pro](./Insect/NSBpro/)  
+- [Neuron SpikerBox Classic](./Insect/NSBclassic/)  
+- [RoboRoach](./Insect/Roboroach/)  
+
+**Plant**  
+- [Plant SpikerBox](./Plant/PlantSpikerBox/)
 
 Each device category provides detailed documentation on setup, usage, and troubleshooting, along with scientific background and potential experiments.
 
 ### Software
 Access our software across multiple platforms to complement your devices:
-- [**SpikeRecorder for iOS**](./Software/SpikeRecorder/iOS/)
-- [**SpikeRecorder for Android**](./Software/SpikeRecorder/Android/) (Note: Current issues in progress)
-- [**Spike Recorder for Windows/Linux/Mac**](./Software/SpikeRecorder/Desktop/)
-- [**SpikerRecorder for Web**](./Software/SpikeRecorder/Web/) (In Development)
+- [SpikeRecorder for iOS](./Software/SpikeRecorder/iOS/)
+- [SpikeRecorder for Android](./Software/SpikeRecorder/Android/) (Note: Current issues in progress)
+- [Spike Recorder for Windows/Linux/Mac](./Software/SpikeRecorder/Desktop/)
+- [SpikerRecorder for Web](./Software/SpikeRecorder/Web/) (In Development)
 
 ### Policies
 Review our policies and ethical commitments:
-- [**Statement on Ethics**](./Policies/Ethics/)
-- [**Return Policy**](./Policies/ReturnPolicy/)
-- [**Style Guide**](./Policies/StyleGuide/)
+- [Statement on Ethics](./Policies/Ethics/)
+- [Return Policy](./Policies/ReturnPolicy/)
+- [Style Guide](./Policies/StyleGuide/)
 
 ## Support
 Encounter an issue? Check out our [troubleshooting guide](./Software/SpikeRecorder/Troubleshooting/), or contact us:
@@ -38,4 +51,3 @@ Encounter an issue? Check out our [troubleshooting guide](./Software/SpikeRecord
 - Hours: Monday - Friday, 9am - 5pm EST
 
 We hope you find this documentation helpful in your scientific explorations and educational efforts.
-

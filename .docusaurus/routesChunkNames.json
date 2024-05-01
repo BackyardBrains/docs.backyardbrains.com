@@ -49,22 +49,18 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/-0a5": {
+  "/-fbb": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---488-85a"
     }
   },
-  "/-f12": {
+  "/-925": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---935-fcf"
   },
-  "/-490": {
+  "/-42b": {
     "__comp": "__comp---theme-doc-roota-94-67a"
-  },
-  "/Human/-7bc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---human-03-d-5d5"
   },
   "/Human/Claw/-251": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -106,10 +102,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---human-muscle-ss-diynp-d-7-c-93e"
   },
-  "/Insect/-6a0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---insect-ff-6-442"
-  },
   "/Insect/NSBclassic/-8e0": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---insect-ns-bclassic-5-bf-947"
@@ -121,10 +113,6 @@
   "/Insect/Roboroach/-4af": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---insect-roboroach-ece-f55"
-  },
-  "/Plant/-b19": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---plant-f-5-b-c02"
   },
   "/Plant/PlantSpikerBox/-001": {
     "__comp": "__comp---theme-doc-item-178-a40",

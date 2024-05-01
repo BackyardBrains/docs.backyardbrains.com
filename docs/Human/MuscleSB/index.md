@@ -7,11 +7,6 @@ sidebar_label: Muscle SpikerBox
 
 ![image](./MuscleSB.jpeg)
 
- The Muscle Spikerbox can be used to non-invasively detect the electrical activity of human muscles with simple skin surface electrodes. With time, you can even identify individual motor units (that's one muscle fiber!) and see single muscle spikes.
-
-The Muscle Spikerbox comes with 2 types of electrodes. The first type is a sticker electrode that is aimed for broad recordings of several muscles in your arm or leg. The second type are our homemade brass-tipped popsicle stick electrodes used for small muscles, like your eyeblink and finger muscles.
-
-This device readily interfaces with your smartphone, tablet, and computer in the same way as our Neuron SpikerBox. Order your Muscle SpikerBox today and start exploring human electrophysiology! 
 
 ## Technical Specifications ##
 

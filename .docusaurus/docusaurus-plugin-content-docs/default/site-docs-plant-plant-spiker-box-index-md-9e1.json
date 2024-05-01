@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Plant",
-    "permalink": "/Plant/"
+    "title": "RoboRoach",
+    "permalink": "/Insect/Roboroach/"
   },
   "next": {
-    "title": "index",
+    "title": "Ethics",
     "permalink": "/Policies/Ethics/"
   }
 }

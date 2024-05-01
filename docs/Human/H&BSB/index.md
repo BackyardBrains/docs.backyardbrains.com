@@ -7,9 +7,6 @@ sidebar_label: Heart and Brain SpikerBox
 
 ![image](./HeartAndBrainSpikerBox-bundle.jpg)
 
-With our Heart and Brain SpikerBox, you can view and record the action potentials of your heart (EKG) and the slow rhythms of your brain (EEG) using a Smartphone, Tablet, Chromebook, or Computer running our free Spike Recorder Software.
-
-The EKG is the bodies' most recognizable electrical signal, making cameos in medical TV shows for decades. Our experiments take you through the steps of how to record your own, and what these signals say about you. Tap into the cerebral cortex using our EEG headband to record both brain "rhythms" as well as evoked potentials. Wait, there's more! You can also use this SpikerBox to record electrical deflections of the eye. 
 
 ## Technical Specifications ##
 

@@ -96,8 +96,7 @@
             "docId": "Human/MuscleSB/index",
             "unlisted": false
           }
-        ],
-        "href": "/Human/"
+        ]
       },
       {
         "type": "category",
@@ -126,8 +125,7 @@
             "docId": "Insect/Roboroach/index",
             "unlisted": false
           }
-        ],
-        "href": "/Insect/"
+        ]
       },
       {
         "type": "category",
@@ -142,8 +140,7 @@
             "docId": "Plant/PlantSpikerBox/index",
             "unlisted": false
           }
-        ],
-        "href": "/Plant/"
+        ]
       },
       {
         "type": "category",
@@ -153,21 +150,21 @@
         "items": [
           {
             "type": "link",
-            "label": "index",
+            "label": "Ethics",
             "href": "/Policies/Ethics/",
             "docId": "Policies/Ethics/index",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "index",
+            "label": "Return Policy",
             "href": "/Policies/ReturnPolicy/",
             "docId": "Policies/ReturnPolicy/index",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "index",
+            "label": "Style Guide",
             "href": "/Policies/StyleGuide/",
             "docId": "Policies/StyleGuide/index",
             "unlisted": false
@@ -256,7 +253,7 @@
     "Human/HumanSB/index": {
       "id": "Human/HumanSB/index",
       "title": "Human SpikerBox",
-      "description": "One box to rule them all! Reveal and record the electrical activity hidden within your muscles, heart, brain, eyes and more! This easy-to-use kit allows you to record EMG, EKG, EEG, and EOG signals, giving you the power to perform human physiology experiments!",
+      "description": "Technical Specifications ##",
       "sidebar": "tutorialSidebar"
     },
     "Human/HumanSB/ReactionTimer/index": {
@@ -269,12 +266,6 @@
       "id": "Human/HumanSB/ReflexHammer/index",
       "title": "Reflex Hammer",
       "description": "Please Note: Requires a Human SpikerBox and a USB connection to an Android device, Mac, PC Desktop or iPhone/iPad with USB-C connector. Not compatible with iPhones or iPads with lightning connectors",
-      "sidebar": "tutorialSidebar"
-    },
-    "Human/index": {
-      "id": "Human/index",
-      "title": "Human",
-      "description": "",
       "sidebar": "tutorialSidebar"
     },
     "Human/MuscleSB/index": {
@@ -301,12 +292,6 @@
       "description": "Welcome to Backyard Brains' Documentation ##",
       "sidebar": "tutorialSidebar"
     },
-    "Insect/index": {
-      "id": "Insect/index",
-      "title": "Insect",
-      "description": "",
-      "sidebar": "tutorialSidebar"
-    },
     "Insect/NSBclassic/index": {
       "id": "Insect/NSBclassic/index",
       "title": "Neuron SpikerBox Classic",
@@ -322,13 +307,7 @@
     "Insect/Roboroach/index": {
       "id": "Insect/Roboroach/index",
       "title": "The RoboRoach",
-      "description": "Please Note: Requires at least one Cockroach",
-      "sidebar": "tutorialSidebar"
-    },
-    "Plant/index": {
-      "id": "Plant/index",
-      "title": "Plant",
-      "description": "",
+      "description": "Roboroach and app",
       "sidebar": "tutorialSidebar"
     },
     "Plant/PlantSpikerBox/index": {
@@ -339,19 +318,19 @@
     },
     "Policies/Ethics/index": {
       "id": "Policies/Ethics/index",
-      "title": "index",
-      "description": "",
+      "title": "Ethics",
+      "description": "Our experiments are not philosophically perfect and without controversy. However, we believe strongly that our use of animals in education is ethical and important. Our protocols are reviewed annually by an external ethics review board (IRB) and have met the rigorous standards of what is considered ethical.",
       "sidebar": "tutorialSidebar"
     },
     "Policies/ReturnPolicy/index": {
       "id": "Policies/ReturnPolicy/index",
-      "title": "index",
-      "description": "",
+      "title": "Return Policy",
+      "description": "You can return unopened products for up to 90 days for a full refund. If you did open it, and still want to return it. That is OK, so long as it is still in working order. We do charge a 15% restocking fee, and we cannot refund consumable items such as electrode pads.",
       "sidebar": "tutorialSidebar"
     },
     "Policies/StyleGuide/index": {
       "id": "Policies/StyleGuide/index",
-      "title": "index",
+      "title": "Style Guide",
       "description": "",
       "sidebar": "tutorialSidebar"
     },

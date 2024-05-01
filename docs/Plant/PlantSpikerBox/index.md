@@ -7,8 +7,6 @@ sidebar_label: Plant SpikerBox
 
 ![Psb](Plant-SpikerBox-Bundle.jpg)
 
-Our Plant Spikerbox allows you to perform data-driven experiments between various species of plants!
-This easy-to-use device records and visualizes the signals emitted by plants, offering users the unique opportunity to peer into the fascinating world of plant signaling and plant behaviors.
 
 ## Technical Specifications ##
 

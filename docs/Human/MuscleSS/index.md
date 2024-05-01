@@ -6,7 +6,6 @@ sidebar_label: Muscle SpikerShield
 
 ![image](./MuscleSpikershield.jpg)
 
-This kit includes our fully assembled Muscle SpikerShield, a USB cable, and an Arduino. The Arduino comes preloaded with code to perform our "Getting Started" demo where you can control a bank of LEDs with your own muscle activity. Everything you need right out of the box! Just plug your Muscle SpikerShield into a USB power source (such as a computer or battery) and you are ready to go! 
 
 ## Technical Specifications ##
 

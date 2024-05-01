@@ -7,12 +7,6 @@ sidebar_label: Human-Human Interface
 
 ![image](./compose.jpg)
 
-Connecting with other people has a whole new meaning with our HHI! Your brain commands your movements by sending electrical signals down axons to your muscles. The HHI works by reading these electrical signals from YOUR brain and sending a copy to command THEIR muscles. That's right: you can send your brain's signals over to another person's arm, effectively overriding their own nervous system!
-
-It's a classroom-ready device that yields publication-ready signals. The HHI is simple to use with everything you need to be a "Master" or "Minion" in a single device! If you're worried about electricity, fret not - we designed it so you cannot even feel the current at movement threshold! The HHI provides a smooth and seamless experience which will make your classroom come alive with excitment!
-
-With the HHI, you're ready for fun and educational neuroscience experiments for students, kids, and adults.
-
 ## Technical Specifications ##
 
 |||

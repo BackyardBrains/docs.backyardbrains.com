@@ -7,7 +7,6 @@ sidebar_label: The Claw
 
 ![image of claw](./claw_action.png)
 
-This classroom-ready robotic device responds to the EMG signals of your muscles: make a grip with your fist, and the Claw's appendages close. Relax, and the Claw relaxes. Use it to stack cups or pick up different items using your brain power. The device works at the push of a button and is user-friendly enough for budding scientists as young as elementary school! Challenge mode: Try it on your back shuoulder muscles! 
 
 ## Technical Specifications ##
 

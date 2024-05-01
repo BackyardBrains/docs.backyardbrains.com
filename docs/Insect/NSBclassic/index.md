@@ -7,11 +7,6 @@ sidebar_label: Neuron SpikerBox Classic
 
 ![nsb classic](nsbc.jpeg)
 
-Our original classic Spikerbox. No thrills. Just neuroscience. If you are a student or an amateur scientist yearning to get your start in neuroscience, this is for you. Perhaps you're a teacher in need of an affordable, exciting, and in-depth educational tool to make learning neuroscience fun for kids or young adults. You could even be looking for a competition-destroying science fair project. Whatever your neuroscience need, the Neuron Spikerbox Classic is here to fill it! The Neuron SpikerBox is a bioamplifier that allows you to hear and see real-time electrical "spikes", or action potentials, of live neurons in invertebrates. 
-
-This kit comes with our fully assembled Neuron SpikerBox and a variety of cables so you can hit the ground running on cockroach legs. Don't wait until you've got a big, complex electrophysiology rig assembled before you can see and listen to spikes... get the Neuron SpikerBox and record them today! 
-
-The Neuron SpikerBox comes ready with everything you need start learning and experimenting with neuroscience. You only need to supply time, curiosity, and an invertebrate (we find that cockroaches, crickets, or earthworms work best). Once you have an invertebrate, follow the included guide and our online experiments, and soon you will be listening to the beautiful sound of live neuron spiking activity. You'll also see them in real time on your mobile device or computer. Remember: all of our software and experiments are free!
 
 ## Technical Specifications ##
 

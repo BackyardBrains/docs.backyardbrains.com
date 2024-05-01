@@ -1,6 +1,6 @@
 {
   "id": "Policies/StyleGuide/index",
-  "title": "index",
+  "title": "Style Guide",
   "description": "",
   "source": "@site/docs/Policies/StyleGuide/index.md",
   "sourceDirName": "Policies/StyleGuide",
@@ -13,7 +13,7 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "index",
+    "title": "Return Policy",
     "permalink": "/Policies/ReturnPolicy/"
   },
   "next": {

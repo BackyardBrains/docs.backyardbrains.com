@@ -4,13 +4,13 @@ sidebar_label: RoboRoach
 ---
 
 # The RoboRoach #
+
+![Roboroach and app](./RoboRoach.jpg)
+
 :::warning
 Please Note: Requires at least one Cockroach
 :::
 
-With our RoboRoach you can briefly wirelessly control the left/right movement of a cockroach by microstimulation of the antenna nerves. The RoboRoach is a great way to engage with neural microstimulation, learning, and electronics!
-
-The RoboRoach Bundle comes with a complete surgery kit that gives you everything you need to add the RoboRoach backpack to your cockroach. 
 
 [Android App](https://backyardbrains.com/products/files/RoboRoach-V1.3.apk)
 [iOS App](https://itunes.apple.com/us/app/byb-remote/id792968848?mt=8)

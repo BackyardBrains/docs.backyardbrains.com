@@ -128,7 +128,7 @@
             {
               "id": "Human/HumanSB/index",
               "title": "Human SpikerBox",
-              "description": "One box to rule them all! Reveal and record the electrical activity hidden within your muscles, heart, brain, eyes and more! This easy-to-use kit allows you to record EMG, EKG, EEG, and EOG signals, giving you the power to perform human physiology experiments!",
+              "description": "Technical Specifications ##",
               "source": "@site/docs/Human/HumanSB/index.md",
               "sourceDirName": "Human/HumanSB",
               "slug": "/Human/HumanSB/",
@@ -144,8 +144,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Human",
-                "permalink": "/Human/"
+                "title": "Documentation",
+                "permalink": "/"
               },
               "next": {
                 "title": "Reaction Timer",
@@ -207,29 +207,6 @@
               }
             },
             {
-              "id": "Human/index",
-              "title": "Human",
-              "description": "",
-              "source": "@site/docs/Human/index.md",
-              "sourceDirName": "Human",
-              "slug": "/Human/",
-              "permalink": "/Human/",
-              "draft": false,
-              "unlisted": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Documentation",
-                "permalink": "/"
-              },
-              "next": {
-                "title": "Human SpikerBox",
-                "permalink": "/Human/HumanSB/"
-              }
-            },
-            {
               "id": "Human/MuscleSB/index",
               "title": "Muscle SpikerBox",
               "description": "image",
@@ -252,8 +229,8 @@
                 "permalink": "/Human/MuscleSS/DIYNP/"
               },
               "next": {
-                "title": "Insect",
-                "permalink": "/Insect/"
+                "title": "Neuron SpikerBox Classic",
+                "permalink": "/Insect/NSBclassic/"
               }
             },
             {
@@ -329,31 +306,8 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Human",
-                "permalink": "/Human/"
-              }
-            },
-            {
-              "id": "Insect/index",
-              "title": "Insect",
-              "description": "",
-              "source": "@site/docs/Insect/index.md",
-              "sourceDirName": "Insect",
-              "slug": "/Insect/",
-              "permalink": "/Insect/",
-              "draft": false,
-              "unlisted": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Muscle SpikerBox",
-                "permalink": "/Human/MuscleSB/"
-              },
-              "next": {
-                "title": "Neuron SpikerBox Classic",
-                "permalink": "/Insect/NSBclassic/"
+                "title": "Human SpikerBox",
+                "permalink": "/Human/HumanSB/"
               }
             },
             {
@@ -375,8 +329,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Insect",
-                "permalink": "/Insect/"
+                "title": "Muscle SpikerBox",
+                "permalink": "/Human/MuscleSB/"
               },
               "next": {
                 "title": "Neuron SpikerBox Pro",
@@ -413,7 +367,7 @@
             {
               "id": "Insect/Roboroach/index",
               "title": "The RoboRoach",
-              "description": "Please Note: Requires at least one Cockroach",
+              "description": "Roboroach and app",
               "source": "@site/docs/Insect/Roboroach/index.md",
               "sourceDirName": "Insect/Roboroach",
               "slug": "/Insect/Roboroach/",
@@ -431,29 +385,6 @@
               "previous": {
                 "title": "Neuron SpikerBox Pro",
                 "permalink": "/Insect/NSBpro/"
-              },
-              "next": {
-                "title": "Plant",
-                "permalink": "/Plant/"
-              }
-            },
-            {
-              "id": "Plant/index",
-              "title": "Plant",
-              "description": "",
-              "source": "@site/docs/Plant/index.md",
-              "sourceDirName": "Plant",
-              "slug": "/Plant/",
-              "permalink": "/Plant/",
-              "draft": false,
-              "unlisted": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "RoboRoach",
-                "permalink": "/Insect/Roboroach/"
               },
               "next": {
                 "title": "Plant SpikerBox",
@@ -479,18 +410,18 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Plant",
-                "permalink": "/Plant/"
+                "title": "RoboRoach",
+                "permalink": "/Insect/Roboroach/"
               },
               "next": {
-                "title": "index",
+                "title": "Ethics",
                 "permalink": "/Policies/Ethics/"
               }
             },
             {
               "id": "Policies/Ethics/index",
-              "title": "index",
-              "description": "",
+              "title": "Ethics",
+              "description": "Our experiments are not philosophically perfect and without controversy. However, we believe strongly that our use of animals in education is ethical and important. Our protocols are reviewed annually by an external ethics review board (IRB) and have met the rigorous standards of what is considered ethical.",
               "source": "@site/docs/Policies/Ethics/index.md",
               "sourceDirName": "Policies/Ethics",
               "slug": "/Policies/Ethics/",
@@ -499,21 +430,23 @@
               "unlisted": false,
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "frontMatter": {
+                "title": "Ethics"
+              },
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Plant SpikerBox",
                 "permalink": "/Plant/PlantSpikerBox/"
               },
               "next": {
-                "title": "index",
+                "title": "Return Policy",
                 "permalink": "/Policies/ReturnPolicy/"
               }
             },
             {
               "id": "Policies/ReturnPolicy/index",
-              "title": "index",
-              "description": "",
+              "title": "Return Policy",
+              "description": "You can return unopened products for up to 90 days for a full refund. If you did open it, and still want to return it. That is OK, so long as it is still in working order. We do charge a 15% restocking fee, and we cannot refund consumable items such as electrode pads.",
               "source": "@site/docs/Policies/ReturnPolicy/index.md",
               "sourceDirName": "Policies/ReturnPolicy",
               "slug": "/Policies/ReturnPolicy/",
@@ -525,17 +458,17 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "index",
+                "title": "Ethics",
                 "permalink": "/Policies/Ethics/"
               },
               "next": {
-                "title": "index",
+                "title": "Style Guide",
                 "permalink": "/Policies/StyleGuide/"
               }
             },
             {
               "id": "Policies/StyleGuide/index",
-              "title": "index",
+              "title": "Style Guide",
               "description": "",
               "source": "@site/docs/Policies/StyleGuide/index.md",
               "sourceDirName": "Policies/StyleGuide",
@@ -548,7 +481,7 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "index",
+                "title": "Return Policy",
                 "permalink": "/Policies/ReturnPolicy/"
               },
               "next": {
@@ -629,7 +562,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "index",
+                "title": "Style Guide",
                 "permalink": "/Policies/StyleGuide/"
               },
               "next": {
@@ -792,11 +725,7 @@
                     "label": "Muscle SpikerBox",
                     "id": "Human/MuscleSB/index"
                   }
-                ],
-                "link": {
-                  "type": "doc",
-                  "id": "Human/index"
-                }
+                ]
               },
               {
                 "type": "category",
@@ -819,11 +748,7 @@
                     "label": "RoboRoach",
                     "id": "Insect/Roboroach/index"
                   }
-                ],
-                "link": {
-                  "type": "doc",
-                  "id": "Insect/index"
-                }
+                ]
               },
               {
                 "type": "category",
@@ -836,11 +761,7 @@
                     "label": "Plant SpikerBox",
                     "id": "Plant/PlantSpikerBox/index"
                   }
-                ],
-                "link": {
-                  "type": "doc",
-                  "id": "Plant/index"
-                }
+                ]
               },
               {
                 "type": "category",
@@ -850,17 +771,17 @@
                 "items": [
                   {
                     "type": "doc",
-                    "label": "index",
+                    "label": "Ethics",
                     "id": "Policies/Ethics/index"
                   },
                   {
                     "type": "doc",
-                    "label": "index",
+                    "label": "Return Policy",
                     "id": "Policies/ReturnPolicy/index"
                   },
                   {
                     "type": "doc",
-                    "label": "index",
+                    "label": "Style Guide",
                     "id": "Policies/StyleGuide/index"
                   }
                 ]

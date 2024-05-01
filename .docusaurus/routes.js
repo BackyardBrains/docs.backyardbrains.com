@@ -44,22 +44,16 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '0a5'),
+    component: ComponentCreator('/', 'fbb'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', 'f12'),
+        component: ComponentCreator('/', '925'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', '490'),
+            component: ComponentCreator('/', '42b'),
             routes: [
-              {
-                path: '/Human/',
-                component: ComponentCreator('/Human/', '7bc'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
               {
                 path: '/Human/Claw/',
                 component: ComponentCreator('/Human/Claw/', '251'),
@@ -121,12 +115,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Insect/',
-                component: ComponentCreator('/Insect/', '6a0'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/Insect/NSBclassic/',
                 component: ComponentCreator('/Insect/NSBclassic/', '8e0'),
                 exact: true,
@@ -141,12 +129,6 @@ export default [
               {
                 path: '/Insect/Roboroach/',
                 component: ComponentCreator('/Insect/Roboroach/', '4af'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/Plant/',
-                component: ComponentCreator('/Plant/', 'b19'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

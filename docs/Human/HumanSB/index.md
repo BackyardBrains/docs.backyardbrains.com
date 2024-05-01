@@ -5,10 +5,6 @@ sidebar_label: Human SpikerBox
 
 # Human SpikerBox #
 
-One box to rule them all! Reveal and record the electrical activity hidden within your muscles, heart, brain, eyes and more! This easy-to-use kit allows you to record EMG, EKG, EEG, and EOG signals, giving you the power to perform human physiology experiments!
-
-This kit is easy to use for beginners, but powerful enough to record publication-ready results! This kit can turn any home or classroom into a Ph.D. lab! 
-
 
 ## Technical Specifications ##
 

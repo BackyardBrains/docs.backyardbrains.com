@@ -33,6 +33,7 @@ Each device category provides detailed documentation on setup, usage, and troubl
 
 ### Software
 Access our software across multiple platforms to complement your devices:
+- [SpikeRecorder general](./Software/SpikeRecorder/)
 - [SpikeRecorder for iOS](./Software/SpikeRecorder/iOS/)
 - [SpikeRecorder for Android](./Software/SpikeRecorder/Android/) (Note: Current issues in progress)
 - [Spike Recorder for Windows/Linux/Mac](./Software/SpikeRecorder/Desktop/)

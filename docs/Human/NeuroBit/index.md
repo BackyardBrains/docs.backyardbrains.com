@@ -46,6 +46,13 @@ Here are a few examples of how you can use a micro:bit and NeuroBit together.
 
 The top half are smaller, useful little projects to help understand concepts. The latter half are projects that actually utilize those concepts. Note that the tutorials are intended to be progressive, so concepts will build off one another and prior tutorials will be referenced. But, don't worry! You can just as easily drop into any tutorial and learn something. 
 
+| | |
+|---|---|
+| | | |
+| | | |
+| | | |
+| | | |
+
 
 
 

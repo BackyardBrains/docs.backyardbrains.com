@@ -5,7 +5,7 @@ sidebar label: The NeuroBit
 
 # The NeuroBit #
 
-[ Image of NeuroBit ] (./NeuroBit.jpeg)
+![ Image of NeuroBit ](./NeuroBit.jpeg)
 
 ## What is the NeuroBit? ## 
 Our NeuroBit board is a kind of motherboard that is compatible with the micro:bit PCB. This means it can “talk” to computers and other things that can send or receive information. All the smaller pieces you can see on the NeuroBit are tiny things called chips that help it with organizing and taking in that information. Some even send it, allowing you to make code that could make motors run, turn on lights and play songs!

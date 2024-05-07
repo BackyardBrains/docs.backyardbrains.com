@@ -27,7 +27,7 @@ Our NeuroBit board is a kind of motherboard that is compatible with the micro:bi
 The NeuroBit needs a micro:bit to run. The micro:bit itself a kind of circuit board–often called a PCB or “printed circuit board”--that you insert in the terminal with all the pins at the front of the board. You code the micro:bit and it connects to your NeuroBit to take in data or send data. It has a speaker, motion sensors and a grid of small lights called LED’s that you can use the buttons or sensors to manipulate. 
 The NeuroBit is able to take in EMG data, ECG data, and send data to anything with pin sockets. For context, flip the board upside down to find the section labelled "Servo".
 
-![Servo Sections+Expand Port](./Pins_Expand_Port )
+![Servo Sections+Expand Port](./Pins_Expand_Port.jpeg )
 
 These pins send signals to “sockets”. And those sockets send signals through wires to different electronics. 
 

@@ -42,7 +42,9 @@ Connect the Micro:Bit to the front slot on the Neuro:Bit.  Be sure that the LEDs
 
 ## Experiments and Tutorials ## 
 
-There are several ways to program your Neuro:Bit:  Block Code, Python, or Javascript.  The [Block Code](./Block) is the easiest way to get started. 
+There are several ways to program your Neuro:Bit:  [Block Code](./Block), [Python](./Python), or Javascript.  The [Block Code](./Block) is the easiest way to get started.
+
+>To Do:  Add Table with Rows of EMG, EKG, EOG, and columns of Block, Python, and Javascript experiment here.
 
 
 

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: Programming with Block 
+sidebar_label: Getting Started with Block 
 ---
 
 # Programming Neuro:Bit using Block #

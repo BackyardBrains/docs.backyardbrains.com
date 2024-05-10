@@ -31,8 +31,8 @@ By default, the variable gets set to 0.  However, we want to set this to the val
 
 ![Find an Analog Read Block]( ./blk_analogRead.png)
 
-The analog pin for the EMG electrode is P0, so setting the variable to a read from P0 will give us the latest EMG signal. 
+The analog pin for the EMG electrode is P0, so setting the variable to a read from P0 will give us the latest EMG signal.  To do this, drag the "read analog" block and place it over the "0". 
 
 ![Set Variable to Pin0]( ./blk_varReadPort.png)
 
-
+Great.  This now reads: "Set our variable *currentSignal* to the latest EMG Signal values".

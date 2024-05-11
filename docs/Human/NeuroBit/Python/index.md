@@ -17,7 +17,8 @@ To code your project, you will need to head to the [micro:bit Python Editor](htt
 
 ## Read EMG Signal into a Variable ##
 
-Variables store information in your code so you can easily access it.   We will need to create a variable to hold the values coming in from the EMG Signal.  Navigate to the Variables section and make a variable called "currentSignal". [Greg stopped here ] 
+Variables store information in your code so you can easily access it.   We will need to create a variable to hold the values coming in from the EMG Signal.  This will be a "global" variable, because it is a variable that will change. So within your "while True" loop, indent and write "global currentSignal".
+
 
 
 

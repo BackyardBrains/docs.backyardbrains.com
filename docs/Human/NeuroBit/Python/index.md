@@ -19,6 +19,14 @@ To code your project, you will need to head to the [micro:bit Python Editor](htt
 
 Variables store information in your code so you can easily access it.   We will need to create a variable to hold the values coming in from the EMG Signal.  This will be a "global" variable, because it is a variable that will change. So within your "while True" loop, indent and write "global currentSignal".
 
+![Python Global Signal ](python_global_currentSignal.png)
+
+This variable will be storing the data, but it needs to be made equal to something. Navigate above the loop and create another variable. This variable will store which pin you'll use as your input for "currentSignal." Name it "Analog". 
+
+
+
+
+
 
 
 

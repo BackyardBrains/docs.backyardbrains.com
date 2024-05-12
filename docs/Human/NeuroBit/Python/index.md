@@ -23,7 +23,11 @@ Variables store information in your code so you can easily access it.   We will 
 
 This variable will be storing the data, but it needs to be made equal to something. Because micro:bit uses pins to communicate with the Neuro:Bit, you need to make currentSignal equal to the signal. But, it also needs that signal to be a number. So you need a variable that is equal to the signal, while currentSignal will make that signal into a fixed number. 
 
-![Value Global Variable](
+![Value Global Variable](./input_variable_image.png)
+
+Pin 0 takes in the EMG signal, so the "read_analog()" method uses that pin. But because that signal changes, "input" has to be global. Now, all you have to do is convert it into a number.
+
+
 
 
 

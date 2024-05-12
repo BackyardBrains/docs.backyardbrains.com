@@ -29,7 +29,7 @@ Pin 0 takes in the EMG signal, so the "read_analog()" method uses that pin. But 
 
 ![Convert to Number](./currentSignal_to_int.png)
 
-Congrats! This now reads: "Set the variable *currentSignal* to the value (input) of the EMg signal". 
+Congrats! This now reads: "Set the variable *currentSignal* to the value (input) of the EMG signal". 
 
 ## Placement of Electrodes ## 
 

@@ -21,7 +21,7 @@ Variables store information in your code so you can easily access it.   We will 
 
 ![Python Global Signal ](./python_global_currentSignal.png)
 
-This variable will be storing the data, but it needs to be made equal to something. Micro:bit uses pins to send/receiev data, and the Neuro:bit has a certain pin for EMG. So you need a variable that is equal to that pins signal, while currentSignal will make that signal into a fixed number. 
+This variable will be storing the data, but it needs to be made equal to something. Micro:bit uses pins to send/receive data, and the Neuro:bit has a certain pin for EMG. So you need a variable that is equal to that pins signal, while currentSignal will make that signal into a fixed number. 
 
 ![Value Global Variable](./input_variable_image.png)
 

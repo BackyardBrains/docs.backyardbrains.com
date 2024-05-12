@@ -27,6 +27,18 @@ This variable will be storing the data, but it needs to be made equal to somethi
 
 Pin 0 takes in the EMG signal, so the "read_analog()" method uses that pin. But because that signal changes, "input" has to be global. Now, all you have to do is convert it into a number.
 
+![Convert to Number](./currentSignal_to_int.png)
+
+Congrats! This now reads: "Set the variable *currentSignal* to the value (input) of the EMg signal". 
+
+## Placement of Electrodes ## 
+
+Place 2 Large Motor Electrodes over the particular muscle you are recording from.  We tend to use the forearm as it is an easy movement to make while testing and performing your BMI. 
+
+Place the stickers *along* the muscle you want to read and connect the 2 red alligator leads.  You can place the black ground clip on a sticker behind your hand (or any other spot that does not produce a lot of muscle activity.
+
+![Placement of Electrodes]( ./emgElectrodes.png)
+
 
 
 

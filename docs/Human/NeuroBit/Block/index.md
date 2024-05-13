@@ -41,6 +41,9 @@ Great.  This now reads: "Set our variable *currentSignal* to the latest EMG Sign
 
 Place 2 Large Motor Electrodes over the particular muscle you are recording from.  We tend to use the forearm as it is an easy movement to make while testing and performing your BMI. 
 
-Place the stickers *along* the muscle you want to read and connect the 2 red alligator leads.  You can place the black ground clip on a sticker behind your hand (or any other spot that does not produce a lot of muscle activity.
+![Placement of Electrodes]( ./emgToMicrobit.png)
 
-![Placement of Electrodes]( ./emgElectrodes.png)
+Place the electrode stickers *along* the muscle you want to read and connect the 2 red alligator leads.  You can place the black ground clip on a sticker behind your hand. This is good spot as we do not expect to see a lot of muscle activity on the hand.  This keeps the recordings quiet.
+
+## Read an EMG Signal ##
+

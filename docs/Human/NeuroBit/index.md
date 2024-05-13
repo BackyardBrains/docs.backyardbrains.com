@@ -20,6 +20,7 @@ The Neuro:Bit allows you to develop DIY Brain Machine Interfaces (BMI) or someti
 |Inputs| 1x [Orange Electrode Cable](https://backyardbrains.com/products/muscleElectrodeCable)|
 
 [Download schematic PDF](./ )
+> Is there a PDF reader we can embed?  Shoudl we?  Dont want to make it too heavy.
 
 ## Hardware Overview ## 
 The Neuro:Bit has a slot that accepts a V1 or V2 Micro:Bit.  The electrode required for recording is our orange cable with 3 leads (2 recording electrodes and a ground). 
@@ -38,11 +39,18 @@ To get started, you will need:
 * 1x Neuro:Bit
 * 1x Micro:Bit
 
-Connect the Micro:Bit to the front slot on the Neuro:Bit.  Be sure that the LEDs are facing outwards. Connect the orange cable to the electrode on the Neuro:Bit side port.  Connect the USB cable from your computer to the Micro:Bit. 
+Connect the Micro:Bit to the front slot on the Neuro:Bit.  Be sure that the LEDs are facing outwards. Connect the orange cable to the electrode on the Neuro:Bit side port.  
+![NeuroBit Connecting](./NeuroBit_Connect.png )
+
+Connect the USB cable from your computer to the Micro:Bit. 
+
+![NeuroBit USB](./NeuroBit_USB.png)
+
+ You are now ready to start programming your Neuro:Bit.   The following tutorials will get you started.  We have tutorials for [Block Code](./Block), [Python](./Python).  The [Block Code](./Block) is the easiest way to get started.
 
 ## Experiments and Tutorials ## 
 
-There are several ways to program your Neuro:Bit:  [Block Code](./Block), [Python](./Python), or Javascript.  The [Block Code](./Block) is the easiest way to get started.
+
 
 >To Do:  Add Table with Rows of EMG, EKG, EOG, and columns of Block, Python, and Javascript experiment here.
 

@@ -47,3 +47,21 @@ Place the electrode stickers *along* the muscle you want to read and connect the
 
 ## Read an EMG Signal ##
 
+A good way to start using EMG is to see what the signal looks like.  To do this, we will send the data from the Micro:Bit to the host computer.   Find the Serial tab and drag the "Write Value" block into the "forever" block.  
+
+![Serial Communication]( ./blk_serial.png)
+
+Change the name of the name to 'EMG', and drag our variable "currentSignal" to the right of the block.  This will send the value of the variable "currentSignal" to the host computer.
+
+![Serial Write Value]( ./blk_serialWrite.png)
+
+That is it for the coding!  We can now download the file by pressing the Download button.  
+
+![Click Download]( ./blk_download.png)
+
+Once the program is downloaded, you can click on "Show Data".  This will plot the variables we are sending over serial in realtime!
+
+![EMG Values in Action]( ./emgView.gif)
+
+Note that here the EMG signal moves from a value of around 0 to a value around 1000 when flexed.  This range will become important as you start to use this signal within your project.  
+

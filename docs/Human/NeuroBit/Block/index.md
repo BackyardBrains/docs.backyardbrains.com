@@ -61,7 +61,12 @@ That is it for the coding!  We can now download the file by pressing the Downloa
 
 Once the program is downloaded, you can click on "Show Data".  This will plot the variables we are sending over serial in realtime!
 
-![EMG Values in Action]( ./emgView.gif)
+![EMG Values in Action](./blk_serialViewer.png)
 
-Note that here the EMG signal moves from a value of around 0 to a value around 1000 when flexed.  This range will become important as you start to use this signal within your project.  
+Note that here the EMG signal moves from a value of around 0 to a value around 1000 when flexed. (See values on the right side of the graph).  This range will become important as you start to use this signal within your project.  
 
+From here, you can use standard Micro:Bit code to make the EMG signal do somehting more interesting.  You can make the Micro:Bit play a sound when the signal is above a certain threshold, or you can make the Micro:Bit move a motor when the signal is below a certain threshold.  The possibilities are endless!  
+
+# Sample Projects #
+  
+To get you started, we have provided some sample projects.  You can download these and try them out.  You can also modify them to see how they work.  We will be regularly updating the projects to include new features and make them more interesting.  You can find the projects in the [Projects](../projects) section. 

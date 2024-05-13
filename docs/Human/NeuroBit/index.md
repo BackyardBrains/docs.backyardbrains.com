@@ -21,6 +21,8 @@ The Neuro:Bit allows you to develop DIY Brain Machine Interfaces (BMI) or someti
 
 [Download schematic PDF](./ )
 > Is there a PDF reader we can embed?  Shoudl we?  Dont want to make it too heavy.
+## Pin Out ##
+
 
 ## Hardware Overview ## 
 The Neuro:Bit has a slot that accepts a V1 or V2 Micro:Bit.  The electrode required for recording is our orange cable with 3 leads (2 recording electrodes and a ground). 

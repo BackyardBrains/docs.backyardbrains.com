@@ -1,8 +1,8 @@
 ---
 sidebar_position: 3
-sidebar_label: Neuro:Bit Projects
+sidebar_label: Muscle Maze
 ---
 
-# Neuro:Bit Projects #
+# Muscle Maze #
 
 ## Overview ##

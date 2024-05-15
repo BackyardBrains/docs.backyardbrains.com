@@ -37,18 +37,31 @@ while True:
 ```
 We use the "read_analog()" method to take a sample of the EMG each time.  Congrats! The variable *EMG* now is reading in the EMG signal on each loop! 
 
-## Placement of Electrodes ## 
+
+## Connecting Muscles to Read an EMG Signal ##
 
 Place 2 Large Motor Electrodes over the particular muscle you are recording from.  We tend to use the forearm as it is an easy movement to make while testing and performing your BMI. 
 
-Place the stickers *along* the muscle you want to read and connect the 2 red alligator leads.  You can place the black ground clip on a sticker behind your hand (or any other spot that does not produce a lot of muscle activity.
+![Placement of Electrodes]( ../Block/emgToMicrobit.png)
 
-![Placement of Electrodes]( ./emgElectrodes.png)
+Place the electrode stickers *along* the muscle you want to read and connect the 2 red alligator leads.  You can place the black ground clip on a sticker behind your hand. This is good spot as we do not expect to see a lot of muscle activity on the hand.  This keeps the recordings quiet.
+
+## See the EMG Signal ##
+
+A good way to start using EMG is to see what the signal looks like.  To do this, we will send the data from the Micro:Bit to the host computer.  Add a command that send the EMG data to the computer over the serial port:
 
 
+```py title="Basic Python Code"
+from microbit import *
+global EMG
+# Code in a 'while True:' loop repeats forever
+while True:
+  EMG =  pin0.read_analog()
+  serial.writeLine( "EMG: " + EMG)
+```
+Once the program is downloaded, you can click on "Show Data".  This will plot the variables we are sending over serial in realtime!
 
-
-
+![EMG Values in Action](../Block/blk_serialViewer.png)
 
 
 

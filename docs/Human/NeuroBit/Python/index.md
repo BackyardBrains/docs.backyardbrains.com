@@ -61,7 +61,7 @@ while True:
     EMG =  pin0.read_analog()
     log.add({'EMG':EMG})
 ```
-Once the program is downloaded, you can click on "Show Data".  This will plot the variables we are sending over serial! They can then be accessed in the storage of the microbit via the folders, Microbit, log, and then access. THese instructions will also appear in the pop-up window,. //NEED TO ADD Log Explanation
+Once the program is downloaded, you can click on "Show Data".  This will plot the variables we are sending over serial! They can then be accessed in the storage of the microbit via the folders, Microbit, log, and then access. These instructions will also appear in the pop-up window,. //NEED TO ADD Log Explanation  - cannot be done in real time
 
 ![EMG Values in Action](../Block/blk_serialViewer.png)
 

@@ -24,27 +24,18 @@ while True:
   display.scroll('Hello')
 ```
 
-
-
-
-
-![Python newproject ](./python_newproject.png)
-
 ## Read EMG Signal into a Variable ##
 
-Variables store information in your code so you can easily access it.   We will need to create a variable to hold the values coming in from the EMG Signal.  This will be a "global" variable, because it is a variable that will change. So within your "while True" loop, indent and write "global currentSignal ". 
+Variables store information in your code so you can easily access it.   We will need to create a variable called EMG to hold the values coming in from the EMG Signal.  Since the EMG signal is sent to Pin0 on the Micro:Bit, we can read in a sample using the following code.  
 
-![Python Global Signal ](./python_global_currentSignal.png)
-
-This variable will be storing the data, but it needs to be made equal to something. Micro:bit uses pins to send/receive data, and the Neuro:bit has a certain pin for EMG. So you need a variable that is equal to that pins signal, while currentSignal will make that signal into a fixed number. 
-
-![Value Global Variable](./input_variable_image.png)
-
-Pin 0 takes in the EMG signal, so the "read_analog()" method uses that pin. But because that signal changes, "input" has to be global. Now, all you have to do is convert it into a number.
-
-![Convert to Number](./currentSignal_to_int.png)
-
-Congrats! This now reads: "Set the variable *currentSignal* to the value (input) of the EMG signal". 
+```py title="Basic Python Code"
+from microbit import *
+global EMG
+# Code in a 'while True:' loop repeats forever
+while True:
+  EMG =  pin0.read_analog()
+```
+We use the "read_analog()" method to take a sample of the EMG each time.  Congrats! The variable *EMG* now is reading in the EMG signal on each loop! 
 
 ## Placement of Electrodes ## 
 

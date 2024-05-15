@@ -53,13 +53,15 @@ A good way to start using EMG is to see what the signal looks like.  To do this,
 
 ```py title="Basic Python Code"
 from microbit import *
+import log
+log.set_labels('EMG')
 global EMG
 # Code in a 'while True:' loop repeats forever
 while True:
-  EMG =  pin0.read_analog()
-  serial.writeLine( "EMG: " + EMG)
+    EMG =  pin0.read_analog()
+    log.add({'EMG':EMG})
 ```
-Once the program is downloaded, you can click on "Show Data".  This will plot the variables we are sending over serial in realtime!
+Once the program is downloaded, you can click on "Show Data".  This will plot the variables we are sending over serial! They can then be accessed in the storage of the microbit via the folders, Microbit, log, and then access. THese instructions will also appear in the pop-up window,. //NEED TO ADD Log Explanation
 
 ![EMG Values in Action](../Block/blk_serialViewer.png)
 

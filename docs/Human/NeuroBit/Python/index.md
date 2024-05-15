@@ -13,6 +13,21 @@ Python is a programming language that can be used with the Neuro:Bit to easily d
 
 To code your project, you will need to head to the [micro:bit Python Editor](https://python.microbit.org/v/3/ideas) This is the software Microsoft developed to code the micro:bit with. It will open with the micro:bit library already imported, and a loop in place. Delete the code inside the workspace and you can start.
 
+
+```py title="Basic Python Code"
+from microbit import *
+
+# Code in a 'while True:' loop repeats forever
+while True:
+  display.show Image.HEART)
+  sleep (1000)
+  display.scroll('Hello')
+```
+
+
+
+
+
 ![Python newproject ](./python_newproject.png)
 
 ## Read EMG Signal into a Variable ##

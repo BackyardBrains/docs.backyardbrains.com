@@ -10,4 +10,4 @@ sidebar_label: Hand Neuroprosthetic
 # 
 (1). Body
 
-![(1).Body](./prosthetic hand_1.webp)
+![(1).Body](./prosthetic_hand_1.webp)

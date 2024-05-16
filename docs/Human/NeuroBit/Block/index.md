@@ -67,15 +67,7 @@ Note that here the EMG signal moves from a value of around 0 to a value around 1
 
 From here, you can use standard Micro:Bit code to make the EMG signal do something more interesting.  You can make the Micro:Bit play a sound when the signal is above a certain threshold, or you can make the Micro:Bit move a motor when the signal is below a certain threshold.  The possibilities are endless!  
 
-# Side Note - MicroPython and JavaScript Editor in MakeCode #
 
-You can alternatively code in MicroPython or JavaScript from the MakeCode editor. This can be accessed
-
-For this demo project, the block code converted into micropython looks like this:
-
-and JavaScript looks like this:
-
-A word of caution: sometimes, the code you write in Micropython and JavaScript will not properly load or be converted to block code, as switching back and forth between the tabs might accidentally clear all of your hard written code. We recommend saving this code in a separte document after writing a length MicroPython or JavaScript file to prevent this. 
 
 # Sample Projects #
   

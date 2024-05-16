@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-sidebar_label: Neuron Experiment Supplies
+sidebar_label: Neuropharmacology Kit
 ---
 
 # Neuropharmacology Kit #

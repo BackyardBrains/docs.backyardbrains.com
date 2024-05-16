@@ -67,9 +67,9 @@ After the EMG recording connect two servo motors from Muscle Maze to Neurobit. I
 ## Installing the program to Microbit ##
 There are two versions you can install for the Muscle Maze program
 
-1. Muscle Maze -general
+1. [Muscle Maze -general](./microbit-Muscle-Maze-general.hex)
 
-2. Muscle Maze -individual
+2. [Muscle Maze -individual](./microbit-Muscle-Maze-indiviudal.hex)
 
 While the first option is a good use for general cases, usually, we recommend installing the second option since this is more flexible with individual differences in EMG signal. However, if used for education purposes, we recommend starting from Muscle Maze -general since this involves less complexity.
 

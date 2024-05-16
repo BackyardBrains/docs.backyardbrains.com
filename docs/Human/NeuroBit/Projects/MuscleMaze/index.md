@@ -12,6 +12,32 @@ Welcome to Muscle Maze!! This project uses two Neuro:Bit with a Micro:Bit to con
 
 ![(1).Body](./Maze.png)
 
+(2). Top Bracket
+
+![(2).Top Bracket](./Top_Bracket.png)
+
+(3). Center Bracket
+
+![(3).Center Bracket](./Center_Bracket.png)
+
+(4). Base
+
+![(4).Base](./Base.png)
+
+(5). Maze Cover
+
+![(5).Maze Cover](./Maze_Cover.jpg)
+
+(6). 2× CFsunbird 9g micro servo
+
+![(6).2× CFsunbird 9g micro servo](./Servo.jpg)
+
+(7). 2× Accessories
+
+![(7).2× Accessories](./Etc.jpg)
+
+(8). Ball
+
 ## Check Parts ##
 To assemble the Muscle Maze, you will need to have the following items
 

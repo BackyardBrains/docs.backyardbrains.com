@@ -9,21 +9,22 @@ sidebar_label: Muscle Maze
 Welcome to Muscle Maze!! This project uses two Neuro:Bit with a Micro:Bit to control Maze using both arm muscles. 
 
 ## Check Parts ##
-To assemble the Muscle Maze, you will need to have the following items
+To assemble the Muscle Maze, you will need to have the following items.
+You can install stl files for (1)~(4) if you wish.
 
-(1). Body
+[(1). Body](./MazeBody.stl)
 
 ![(1).Body](./Maze.png)
 
-(2). Top Bracket
+[(2). Top Bracket](./TopBracket.stl)
 
 ![(2).Top Bracket](./Top_Bracket.png)
 
-(3). Center Bracket
+[(3). Center Bracket](./CenterBracket.stl)
 
 ![(3).Center Bracket](./Center_Bracket.png)
 
-(4). Base
+[(4). Base](./Base.stl)
 
 ![(4).Base](./Base.png)
 

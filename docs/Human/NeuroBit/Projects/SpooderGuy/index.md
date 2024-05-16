@@ -1,12 +1,12 @@
 ---
 sidebar_position: 4
-sidebar_label: Spooder Guy Web Slinger
+sidebar_label: Spiker-Man Web Slinger
 ---
 
-# Spooder Guy Web Slinger #
+# Spiker-Man Web Slinger #
 // Picture 
 
-*"Spiker man, Spiker man, does whatever a Spikerman can"*
+*"Spiker-Man, Spiker-Man, does whatever a Spiker-Man can"*
 
 Make your very own string shooting device that shares startling similarities to a certain Marvel / Sony superhero!
 

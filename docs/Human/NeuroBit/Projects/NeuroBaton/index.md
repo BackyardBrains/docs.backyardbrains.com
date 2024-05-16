@@ -23,7 +23,6 @@ Grab a cardboard sheet and use the provided template to cut out the shape of the
 
 ![5.box.png](./5.box.png)
 
-![6.music.png](./6.music.png)
 
 
 
@@ -39,30 +38,29 @@ With Microbit's intuitive interface, the possibilities for musical exploration a
 # 1. Select Your Music
 Choose between Music, Melody, or Synthesize to kickstart your composition journey.
 
- 
-![7.dj.png](./7.dj.png)
 
+![6.music.png](./6.music.png)
 
 You have the freedom to craft a DJ board melody:
 
-![8.piano.png](./8.piano.png)
+![7.dj.png](./7.dj.png)
 
 compose a piano-based piece:
 
-![9.waveform.png](./9.waveform.png)
+![8.piano.png](./8.piano.png)
 
 or explore the ethereal sounds of sine waveforms:
 
-![10.input.png](./10.input.png)
+![9.waveform.png](./9.waveform.png)
 
 Additionally, Microbit provides a library of pre-made musical compositions for your convenience.
 
 # 2. Define Your Controls
 Decide how you want to interact with your music. Whether it's through buttons, LED displays, or the magic of EMG signals, the choice is yours!
 
-![11.input.png](./11.input.png)
+![10.input.png](./10.input.png)
 
-![12.code.png](./12.code.png)
+![11.input.png](./11.input.png)
 
 # 3. Conduct Your Orchestra
 Feel the thrill of conducting with your body as you control the tempo and volume of your music. With NeuroBaton, every movement becomes a symphonic gesture.
@@ -85,7 +83,7 @@ Tilt your NeuroBaton up or down to control the volume, creating crescendos and d
 
 
 
-13
+![12.code.png](./12.code.png)
 
 # Unleash Your Creativity
 

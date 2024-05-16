@@ -3,7 +3,7 @@ sidebar_position: 3
 sidebar_label: NeuroBaton
 ---
 
-1
+![PenguinConductor.gif](./PenguinConductor.gif)
 
 
 # NeuroBaton: Conducting Music with Your Body and Mind

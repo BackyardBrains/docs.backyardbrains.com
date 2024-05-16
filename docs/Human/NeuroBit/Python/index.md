@@ -42,7 +42,7 @@ We use the "read_analog()" method to take a sample of the EOG each time.  Congra
 
 Place 2 Large Motor Electrodes over the particular muscle you are recording from.  We tend to use the forearm as it is an easy movement to make while testing and performing your BMI. 
 
-![Placement of Electrodes](  ) //>>>
+
 
 Place the electrode stickers *along* the muscle you want to read and connect the 2 red alligator leads.  You can place the black ground clip on a sticker behind your hand. This is good spot as we do not expect to see a lot of muscle activity on the hand.  This keeps the recordings quiet.
 

@@ -69,4 +69,4 @@ From here, you can use standard Micro:Bit code to make the EMG signal do somethi
 
 # Sample Projects #
   
-To get you started, we have provided some sample projects.  You can download these and try them out.  You can also modify them to see how they work.  We will be regularly updating the projects to include new features and make them more interesting.  You can find the projects in the [Projects](../projects) section. 
+To get you started, we have provided some sample projects.  You can download these and try them out.  You can also modify them to see how they work.  We will be regularly updating the projects to include new features and make them more interesting.  You can find the projects in the [Projects](../Projects) section. 

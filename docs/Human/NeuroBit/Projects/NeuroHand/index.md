@@ -8,3 +8,6 @@ sidebar_label: Hand Neuroprosthetic
 # Materials Needed #
 
 # 
+(1). Body
+
+![(1).Body](./prosthetic hand_1.webp)

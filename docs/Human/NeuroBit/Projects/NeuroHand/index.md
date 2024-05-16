@@ -23,9 +23,9 @@ Begin by assembling your materials at your work station. Plug in your hot glue g
 ![](./prosthetic_hand_5.webp)
 5.Take your long string and fold it in half. Then, like in the shape of an S sandwiched flat, fold it in thirds. Then, with three cuts, one at each bend in the thread, you can cut the entire length of thread into 6 equally long pieces.
 ![](./prosthetic_hand_6.webp)
-Thread one of the lengths of string from the bottom of the hand up through the finger pulleys. Once you have pulled the thread out the tip of the finger, use your hotglue gun to fill **ONLY** that final straw segment with glue - locking the thread in place. Give the glue a minute to dry, then give a tug on the string from the bottom of the hand. The finger should curl in!
+6.Thread one of the lengths of string from the bottom of the hand up through the finger pulleys. Once you have pulled the thread out the tip of the finger, use your hotglue gun to fill **ONLY** that final straw segment with glue - locking the thread in place. Give the glue a minute to dry, then give a tug on the string from the bottom of the hand. The finger should curl in!
 ![](./prosthetic_hand_7.webp)
-Follow the above instruction for the rest of the fingers on your hand. You should have 1 length of thread left over at the end.
+7.Follow the above instruction for the rest of the fingers on your hand. You should have 1 length of thread left over at the end.
 ![](./prosthetic_hand_8.webp)
 8.Set aside your hand a moment to let the glue dry. Take your servo motor out of its plastic baggy, and find the longest of the white plastic arms.
 ![](./prosthetic_hand_9.webp)

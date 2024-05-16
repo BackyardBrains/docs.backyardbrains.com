@@ -6,8 +6,9 @@ sidebar_label: Spooder Guy Web Slinger
 # Spooder Guy Web Slinger #
 // Picture 
 
-*"Spiker man, Spiker man, does whatever a Spikerman does"*
-Make your very own string shooting device that shares startling similarities to a certain Marvel / Sony superhero.
+*"Spiker man, Spiker man, does whatever a Spikerman can"*
+
+Make your very own string shooting device that shares startling similarities to a certain Marvel / Sony superhero!
 
 # Materials Needed #
 - Loop Lasso / two wheels close to each other

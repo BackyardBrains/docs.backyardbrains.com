@@ -9,17 +9,21 @@ sidebar_label: NeuroBaton
 # NeuroBaton: Conducting Music with Your Body and Mind
 Welcome to the world of NeuroBaton, where you become the maestro of your own symphony! In this documentation, we'll guide you through the exciting journey of building and programming your conductor baton, harnessing the power of your movements and EMG signals to orchestrate beautiful melodies. Let's dive in and unleash your inner conductor!
 
-2
+![2.box.png](./2.box.png)
 
 
 # Building Your Conductor Baton
 
 ## Step 1: Gather Your Materials
 Grab a cardboard sheet and use the provided template to cut out the shape of the base of your NeuroBaton. Let your creativity flow as you decorate it with colors, patterns, or anything that reflects your musical personality!
-3
-4
-5
-6
+
+![3.box.png](./3.box.png)
+
+![4.box.png](./4.box.png)
+
+![5.box.png](./5.box.png)
+
+![6.music.png](./6.music.png)
 
 
 

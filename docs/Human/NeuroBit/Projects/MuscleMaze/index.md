@@ -8,6 +8,9 @@ sidebar_label: Muscle Maze
 ## Overview ##
 Welcome to Muscle Maze!! This project uses two Neuro:Bit with a Micro:Bit to control Maze using both arm muscles. 
 
+## Check Parts ##
+To assemble the Muscle Maze, you will need to have the following items
+
 (1). Body
 
 ![(1).Body](./Maze.png)
@@ -38,8 +41,6 @@ Welcome to Muscle Maze!! This project uses two Neuro:Bit with a Micro:Bit to con
 
 (8). Ball
 
-## Check Parts ##
-To assemble the Muscle Maze, you will need to have the following items
 
 ## Assembling ##
 1. Place (8).Ball inside (1). Body, then ceil with (5).Maze Cover with hot glue

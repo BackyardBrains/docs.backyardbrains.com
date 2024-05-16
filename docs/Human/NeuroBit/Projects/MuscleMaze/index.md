@@ -28,5 +28,5 @@ To assemble Mucsle Maze, you will need to have following items
 (4)Base
 <div>
   <img src="Base.png" alt="Base" width="300">
-</div>div>
+</div>
 

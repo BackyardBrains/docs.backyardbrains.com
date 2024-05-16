@@ -1,6 +1,6 @@
 ---
-sidebar_position: 2
-sidebar_label: Neuron SpikerBox Pro
+sidebar_position: 1
+sidebar_label: Neuron SpikerBox
 ---
 
 # Neuron SpikerBox Pro #

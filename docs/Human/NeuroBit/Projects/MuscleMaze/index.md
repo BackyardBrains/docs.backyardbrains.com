@@ -28,7 +28,7 @@ You can install stl files for (1)~(4) if you wish.
 
 ![(4).Base](./Base.png)
 
-(5). Maze Cover
+[(5). Maze Cover](Acrylic.rd)
 
 ![(5).Maze Cover](./Maze_Cover.jpg)
 

@@ -8,6 +8,10 @@ sidebar_label: Muscle Maze
 ## Overview ##
 Welcome to Muscle Maze!! This project uses two Neuro:Bit with a Micro:Bit to control Maze using both arm muscles. 
 
+(1). Body
+
+![(1).Body](./Maze.png)
+
 ## Check Parts ##
 To assemble the Muscle Maze, you will need to have the following items
 

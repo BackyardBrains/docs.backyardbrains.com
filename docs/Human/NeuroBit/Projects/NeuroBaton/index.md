@@ -111,4 +111,4 @@ Share your creations with fellow music enthusiasts, collaborate on projects, and
 
 # Conclusion
 Congratulations on embarking on this exhilarating musical adventure with NeuroBaton! With the power of technology and the artistry of your movements, the world of music is yours to conduct. Let the symphony begin!
-![](./batonTest1.stl)
+[STL File](./batonTest1.stl)

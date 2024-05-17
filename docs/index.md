@@ -13,21 +13,26 @@ Explore comprehensive guides and detailed information on all our devices and sof
 ### Devices
 Dive into the specifics of each category and discover the right device for your needs:  
 
-**Human**  
+**Human Physiology**  
 - [Human SpikerBox](./human/HumanSB/)   
 - [Human-Human Interface](./Human/HHI/)  
-- [The Claw](./Human/Claw/)  
 - [Heart and Brain SpikerBox](./Human/H&BSB/)  
 - [Muscle SpikerShield](./Human/MuscleSS/)   
 - [Muscle SpikerBox](./Human/MuscleSB/)  
 
-**Insect**  
-- [Neuron SpikerBox Pro](./Insect/NSBpro/)  
-- [Neuron SpikerBox Classic](./Insect/NSBclassic/)  
-- [RoboRoach](./Insect/Roboroach/)  
+**Neuron Physiology**  
+- [Neuron SpikerBox](./Neuron/NSB/)  
+- [Neuron SpikerBox Classic](./Neuron/NSBclassic/)  
 
-**Plant**  
+**Plant Physiology**  
 - [Plant SpikerBox](./Plant/PlantSpikerBox/)
+
+**Neural Engineering**  
+- [The Claw](./Engineering/Claw/)  
+- [RoboRoach](./Engineering/Roboroach/)  
+- [Neuro:Bit](./Engineering/NeuroBit/)  
+
+
 
 Each device category provides detailed documentation on setup, usage, and troubleshooting, along with scientific background and potential experiments.
 

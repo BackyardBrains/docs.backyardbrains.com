@@ -1,6 +1,6 @@
 ---
-sidebar position: 4
-sidebar label: The NeuroBit
+sidebar position: 1
+sidebar label: The Neuro:Bit
 ---
 
 # The Neuro:Bit #

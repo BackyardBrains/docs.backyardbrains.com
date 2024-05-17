@@ -115,7 +115,35 @@ Wrap the thread you used to make the knot around the pencil close to the tip of 
 
 ## Code ##
 
-To Do.
+
+
+Here’s the code you need to get started on your experiment. You’ll see the inputs are set to P8 for the servo and P0 for your EMG. This code uses a nifty threshold function that adjusts to each person's unique threshold.
+
+```
+threshold = 0
+val = 0
+seconds = 100000
+key = True
+pins.servo_write_pin(AnalogPin.P8, 0)
+while seconds > 0:
+    val = pins.analog_read_pin(AnalogPin.P0)
+    if threshold < int(val):
+        threshold = int(val)
+    seconds += 0 - 1
+basic.show_number(threshold)
+while key:
+    val = pins.analog_read_pin(AnalogPin.P0)
+    serial.write_value("EMG", val)
+    degree = val * (1 / threshold) * 90
+    if int(val) >= int(threshold):
+        pins.servo_write_pin(AnalogPin.P8, int(degree))
+    else:
+        pins.servo_write_pin(AnalogPin.P8, int(degree))
+```
+
+Check out the code blocks below and let’s get experimenting! 🚀
+
+![image](https://github.com/BackyardBrains/docs.backyardbrains.com/assets/117298723/d71c7376-1e5c-44d3-a7f6-d18f183199f0)
 
 ## Operating Instructions ##
 

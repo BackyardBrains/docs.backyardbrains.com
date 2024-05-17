@@ -4,7 +4,7 @@ sidebar_label: Spiker-Man Web Slinger
 ---
 
 # Spiker-Man Web Slinger #
-// Picture 
+![Web Slinger in Action](./BD6510D4-0F44-4A33-8E83-FAB93F2CA073.jpeg) 
 
 *"Spiker-Man, Spiker-Man, does whatever a Spiker-Man can"*
 

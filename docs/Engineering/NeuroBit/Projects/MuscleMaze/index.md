@@ -59,7 +59,7 @@ You also need to laser cut the following parts (or you can cut out the triangle 
 
 7. Assemble the parts from Steps 3 and 6, using small screw.
 
-8. Now pull it all together by combining the assmbly from step 1 with step 7.   attach with hot glue ![Step8](./maze_Step8.png)
+8. Now pull it all together by combining the assmbly from step 1 with step 7.  You can these 2 parts with a hot glue gun. ![Step8](./maze_step8.png)
 
 
 ## Preparing Microbit ##

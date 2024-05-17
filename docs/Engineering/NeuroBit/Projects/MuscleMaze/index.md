@@ -4,107 +4,92 @@ sidebar_label: Muscle Maze
 ---
 
 # Muscle Maze #
+![Muscle Maze](./maze_title.png)
 
-## Overview ##
+|     |       |
+|--------------|--------------
+| Inventor     | Teruaki Kimishima             
+| Skill Level  | Advanced     
+| Best For     | Makerspace   
+
+## Project Overview ##
 Welcome to Muscle Maze!! This project uses two Neuro:Bit with a Micro:Bit to control Maze using both arm muscles. 
-![Full](./Full.jpg)
 
-## Check Parts ##
+## Materials Needed  ##
+
 To assemble the Muscle Maze, you will need to have the following items.
-You can install stl files for (1)~(4) if you wish.
 
-[(1). Body](./MazeBody.stl)
+1. 3D-Printer + Filiment
+2. Small sheet of acylic
+3. Laser Cutter or sharp blade. 
+4. 2× CFsunbird 9g micro servo with screws
+5. Tiny ball (small bead or bering) 
+6. 2x [Neuro:Bit kits](../../) with Micro:Bit, electrodes, and cables.
 
-![(1).Body](./Maze.png)
+### Parts ###
 
-[(2). Top Bracket](./TopBracket.stl)
+You will make a few parts.  Below are the 4 3d printed parts we will need:
 
-![(2).Top Bracket](./Top_Bracket.png)
+![3d parts needed for maze](./maze_3dParts.png)
 
-[(3). Center Bracket](./CenterBracket.stl)
+You can donload the STL files and print them on your 3D printer.
 
-![(3).Center Bracket](./Center_Bracket.png)
+1. [Body](./MazeBody.stl)
+2. [Top Bracket](./TopBracket.stl)
+3. [Center Bracket](./CenterBracket.stl)
+4. [Base](./Base.stl)
 
-[(4). Base](./Base.stl)
+You also need to laser cut the following parts (or you can cut out the triangle cover from acylic using a blade):
 
-![(4).Base](./Base.png)
-
-[(5). Maze Cover](AcrylicCut.rd)
-
-![(5).Maze Cover](./Maze_Cover.jpg)
-
-(6). 2× CFsunbird 9g micro servo
-
-![(6).2× CFsunbird 9g micro servo](./Servo.jpg)
-
-(7). 2× Accessories
-
-![(7).2× Accessories](./Etc.jpg)
-
-(8). Ball
-![(8).Ball](./Ball.jpg)
+1. [Maze Cover](AcrylicCut.rd)  <--- What is an RD file?  Need to explain or link to a PDF.
 
 
-## Assembling ##
-1. Place (8).Ball inside (1). Body, then ceil with (5).Maze Cover with hot glue ![Step1](./Step1.jpg)
+## Assembling the Maze ##
+1. Place Ball inside the maze, then seal with  Maze Cover with hot glue ![Step1](./maze_step1.png)
 
-2. Glue plastic from (7).Accessories to the pocket of (4).Base
+2. Glue plastic arm that comes with the servo to the pocket of Base
 
-3. Glue plastic from (7).Accessories to the pocket of (3).Center Bracket
+3. Glue the other plastic arm to the pocket of Center Bracket
 
-4. Joint (6).Servo and (2).Top Bracket using two middle screws from (7).Accessories, as shown below ![Step4](./Step4.jpg)
+4. Join one of the servos to the Top Bracket using the servo screws provided, as shown below ![Step4](./maze_step4.png)
 
-5. Joint (6).Servo and (3).Center Bracket(with a plastic part inside the pocket) using two middle screws from (7).Accessories, as shown below ![Step7](./Step7.jpg)
+5. Join the other servo to the Center Bracket using two screws, as shown below ![Step7](./maze_step5.png)
 
-6. Grab assembled parts from step2 and step5, attatch using small screw from (7).Accessories 
+6. Assemble the parts from Steps 2 and 5 above using a small servo screw.
 
-7. Grab assembled parts from step3 and step6, attatch using small screw from (7).Accessories 
+7. Assemble the parts from Steps 3 and 6, using small screw.
 
-8. Grab assembled parts from step1 and step7, attach with hot glue ![Step8](./Step8.jpg)
+8. Now pull it all together by combining the assmbly from step 1 with step 7.   attach with hot glue ![Step8](./maze_Step8.png)
 
 
 ## Preparing Microbit ##
-Refer to "Connecting Muscles to Read an EMG Signal" from our [Getting Started with Neuro:Bit Block Programming](../../Block) page to learn how to record an EMG signal from the arm. You will need to have two Microbit/Neurobit, each connected to the left and right arm.
-After the EMG recording connect two servo motors from Muscle Maze to Neurobit. If you don't know how where to connect the servo motor on Neurobit, please refer to  "Hardware Overview" from our [The Neuro:Bit](../../src) page.
+Refer to "Connecting Muscles to Read an EMG Signal" from our [Getting Started with Neuro:Bit Block Programming](../../Block) page to learn how to record an EMG signal from the arm. You will need two Neuro:Bits, one connected to each the left and right arm.
 
-## Installing the program to Microbit ##
-There are two versions you can install for the Muscle Maze program
+Connect the two servo motors from Muscle Maze to each Neuro:Bit. See the [The Neuro:Bit](../../) Hardware Overview page for more information on how to connect servos.
 
-1. [Muscle Maze -general](./microbit-Muscle-Maze-general.hex)
+## Programing the Micro:Bit for the Muscle Maze ##
 
-2. [Muscle Maze -individual](./microbit-Muscle-Maze-indiviudal.hex)
+Below you can download the code for the Muscle Maze program.  The first option is a good for general use cases.  The second option is more complex, but is more flexible with individual differences in EMG signal. 
 
-While the first option is a good use for general cases, usually, we recommend installing the second option since this is more flexible with individual differences in EMG signal. However, if used for education purposes, we recommend starting from Muscle Maze -general since this involves less complexity.
+1. [Muscle Maze - "Beginner"](./microbit-Muscle-Maze-general.hex)
 
-Refer to "Software Setup" from our [Getting Started with Neuro:Bit Block Programming](../../Block) page to learn how to create new projects for Microbit.
+2. [Muscle Maze - "Advanced"](./microbit-Muscle-Maze-indiviudal.hex)
 
-After successful project creation, install either Muscle Maze -general or Muscle Maze -individual on your local computer. Then, drag and drop the installed file to the project you have created. This will allow you to see the entire code on the project.
+While the advance option runs more smoothly, the Beginner code is easier to follow for education purposes.
+
+Install either Muscle Maze code on your local computer. Then, drag and drop the installed file to the project you have created. This will allow you to see the entire code on the project.
 
 Connect Microbit to your computer, then click "download". After this, you should now have the program inside the Microbit.
 
-## Instruction ##
-At this point, you should have,
+## Operation ##
 
--One Fully assembled Muscle Maze
+1. Turn on both Neuro:Bits
+2. (Advance Mode Only) Relax both of your arms and wait 3s for a smiley face to appear on Micro:Bit.   
+3. Contract your muscles to tilt the maze in 2 directions.
+4. Get the ball into the small hole at the end of the maze!
 
--Two Microbit connected to Neurobit
+Pressing the "B" Button on the Micro:Bit will pause the maze game from moving.
   
--Two Microbit with the installed program
-  
--Six electrodes are placed on your arm (Three on the left and Three on the right)
-  
--Two EMG cables are connected to each electrode and Neurobit
-  
--Two Servos (From Muscle Maze) connected to each Neurobit
+## Credits ##
 
-
-Now moving on to instruction
-
-1. Turn on both Neurobit
-2. Within 3 seconds, relax both of your arms and wait for a smiley face to appear on Microbit 
-  (skip this process if you have a general version of the program installed)
-3. Press Button "B" on Microbit to continue/pause the tilting
-4. Extract or Contract Muscle to decide the direction of tilting
-5. Once you are done press Button "A" on both Microbit
-
-
+The triangle maze model was first developed by John Lazarevic. Alex Hatch designed the updated base for easier assembly and stability.  Teruaki Kimishima developed the Muscle Maze program and oversaw the project.

@@ -1,6 +1,6 @@
 ---
-sidebar_position: 3
-sidebar_label: Hand Neuroprosthetic
+sidebar_position: 1
+sidebar_label: DIY Neuroprosthetic
 ---
 
 # Hand Neuroprosthetic #

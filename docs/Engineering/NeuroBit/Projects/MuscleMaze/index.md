@@ -9,8 +9,8 @@ sidebar_label: Muscle Maze
 |     |       |
 |--------------|--------------
 | Inventor     | Teruaki Kimishima             
-| Skill Level  | Advanced     
-| Best For     | Makerspace   
+| Micro:Bit IDE     | Python Editor
+| Best Location     | Makerspace   
 
 ## Project Overview ##
 Welcome to Muscle Maze!! This project uses two Neuro:Bit with a Micro:Bit to control Maze using both arm muscles. 

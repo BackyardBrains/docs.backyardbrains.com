@@ -7,6 +7,7 @@ sidebar_label: Muscle Maze
 
 ## Overview ##
 Welcome to Muscle Maze!! This project uses two Neuro:Bit with a Micro:Bit to control Maze using both arm muscles. 
+![Full](./Full.jpg)
 
 ## Check Parts ##
 To assemble the Muscle Maze, you will need to have the following items.
@@ -41,24 +42,25 @@ You can install stl files for (1)~(4) if you wish.
 ![(7).2× Accessories](./Etc.jpg)
 
 (8). Ball
+![(8).Ball](./Ball.jpg)
 
 
 ## Assembling ##
-1. Place (8).Ball inside (1). Body, then ceil with (5).Maze Cover with hot glue
+1. Place (8).Ball inside (1). Body, then ceil with (5).Maze Cover with hot glue ![Step1](./Step1.jpg)
 
 2. Glue plastic from (7).Accessories to the pocket of (4).Base
 
 3. Glue plastic from (7).Accessories to the pocket of (3).Center Bracket
 
-4. Joint (6).Servo and (2).Top Bracket using two middle screws from (7).Accessories, as shown below
+4. Joint (6).Servo and (2).Top Bracket using two middle screws from (7).Accessories, as shown below ![Step4](./Step4.jpg)
 
-5. Joint (6).Servo and (3).Center Bracket(with a plastic part inside the pocket) using two middle screws from (7).Accessories, as shown below
+5. Joint (6).Servo and (3).Center Bracket(with a plastic part inside the pocket) using two middle screws from (7).Accessories, as shown below ![Step7](./Step7.jpg)
 
-6. Grab assembled parts from step2 and step5, attatch using small screw from (7).Accessories
+6. Grab assembled parts from step2 and step5, attatch using small screw from (7).Accessories 
 
-7. Grab assembled parts from step3 and step6, attatch using small screw from (7).Accessories
+7. Grab assembled parts from step3 and step6, attatch using small screw from (7).Accessories 
 
-8. Grab assembled parts from step1 and step7, attach with hot glue
+8. Grab assembled parts from step1 and step7, attach with hot glue ![Step8](./Step8.jpg)
 
 
 ## Preparing Microbit ##

@@ -54,7 +54,10 @@ But I'm getting ahead of myself, how does a relay work? In a nut shell it's an e
 What I've done for my parts is to cut open the loop lasso, remove the physical switch, and solder a wire from the motors, into the relay, then back into ground. This means that when our code sends out a 1 to pin 8, the wires are shorted together and the motors recieve current. When our code sends a zero, 
 
 # Hardware - Mechanical #
-We have a fantastic in-house designer / inventor / general-knows-how-to-do-it guy here at Backyard Brains, and he designed the case I'm using in the pictures above. 
+We have a fantastic in-house designer / inventor / general-knows-how-to-do-it guy here at Backyard Brains, and he designed the case I'm using in the pictures above. You can find the 
+![Web Slinger in Casing](./ShooterInCasing)
 
+Putting it all together:
+![Putting it all together](./construction)
 # Demos #
 Finally, here's some other cool footage I took of messing around with the Spiker-Man toy

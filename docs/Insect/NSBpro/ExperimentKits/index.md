@@ -9,7 +9,12 @@ Pic
 
 ## How many should I order for my classroom? ## 
 
+This kit includes enough syringes to do the experiment in five groups. 
+A classroom of 15 students would be separated into five groups of three, as each group needs three syringes. 
+
 # Descrption #
+
+Engage your students with a hands-on neuropharmacology experiment that explores the effects of nicotine and MSG (glutamate) on cricket neuronal activity. By injecting crickets with these substances and observing their neuronal responses, students gain practical experience with key scientific concepts. This experiment demonstrates how different neurotransmitters influence neuronal communication, providing insights into the roles of inhibitory and excitatory neurotransmitters. The kit includes all necessary materials and easy-to-follow instructions, making it simple for teachers to implement. Designed to align with curriculum standards, this interactive activity helps students understand complex biological processes in an accessible and engaging way
 
 # Instructions # 
 
@@ -17,12 +22,11 @@ Nicotine Solution Prep
   Rip off the filter by pinching and pulling.
   Put the filter-less cigarette in a 10 mL falcon tube.
   Fill the tube with saline up to the 10 mL mark.
-  Let it soak for at least overnight to get the nicotine out.
-  Get Ready to Inject:
-  After 24 hours, use a syringe to take out 0.03 mL of the nicotine solution.
+  Let it soak for at least overnight to extract the nicotine.
 
 MSG Solution:
   Fill the tube with saline up to the 10 mL mark.
+    *we have already put the MSG in the tube for your convience 
   Shake the tube until the MSG is completely dissolved.
   
 Cricket Prep:
@@ -37,11 +41,14 @@ Set Up the Spikerbox:
 
 Injecting and Observing
 Inject the Solutions:
-  Inject one cricket with 0.03 mL of the nicotine solution.
-  Inject another cricket with 0.03 mL of the MSG solution.
-  Inject a third cricket with 0.03 mL of plain saline as a control.
+  With a new syringe Inject one cricket with 0.03 mL of the nicotine solution.
+  With a new syringe Inject another cricket with 0.03 mL of the MSG solution.
+  With a new syringe Inject a third cricket with 0.03 mL of plain saline as a control.
 Watch the Neuronal Response:
   Observe the cricket's neuronal activity on the app.
+  When injecting Glutamate you expect to see inhibitory behaviors
+  When injecting Nicotine you expect to see excitatory behaviors
+  When injecting just saline you expect to see no changing in spiking behaviors
   Record any changes in spike frequency or patterns after injection.
 
 Safety and Ethical Stuff

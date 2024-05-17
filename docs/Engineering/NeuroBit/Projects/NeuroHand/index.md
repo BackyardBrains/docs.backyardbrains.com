@@ -15,9 +15,9 @@ sidebar_label: DIY Neuroprosthetic
 
 
 ## Background ##
-In previous experiments, we've learned how we can record the the electrical signals our brain sends to our muscles, and we have also learned how we can capture those electrical signals and use them to control musical sounds, robotic claws, and even other people! These are all examples of neuroprosthetics. Neuroprosthetics are assistive devices, which are used to help people who have suffered from neurological illness or physical injury. They can also be used to create new and exciting control systems to enhance human ability!
+The Neuro:Bit can record the the electrical signals our brain sends to our muscles.  Our [Getting Started in Block](../../Block/) guide shows how we can capture those electrical signals and use them in a Micro:Bit Project.  This project will show you how to use that signals to control a neuroprosthetic hand.  Neuroprosthetics are assistive devices, which are used to help people who have suffered from neurological illness or physical injury. They can also be used to create new and exciting control systems to enhance human ability!
 
-In this experiment, you will create your very own Cyborg Hand which you will then control with the electrical systems in your nervous system. But, don't stop there! These same principals can be applied to countless other projects. In fact, this is the exact way many very advanced neuroprosthetics work! What will you discover?
+Here you will create your very own Cyborg Hand which you will then control with the electrical systems in your nervous system. But, don't stop there! These same principals can be applied to countless other projects. This is *the exact way* many very advanced neuroprosthetics work today! 
 
 ## Build Instructions ##
 Begin by assembling your materials at your work station. Plug in your hot glue gun to get it warming up, but it will be a few minutes before you need to use it.

@@ -10,14 +10,21 @@ sidebar_label: Spiker-Man Web Slinger
 
 Make your very own string shooting device that shares startling similarities to a certain Marvel / Sony superhero!
 
+This guide is still being developed, but below is a general overview.
+
 # Materials Needed ( Shown Left->Right, Top->Bottom ) #
 - Loop Lasso / two wheels close to each other
 - A loop of string with no knots
-- 
+- Micro bit and Neurobit
+- EMG Signal Cable
+- 3 Electrodes
+
+Optional
+- 3D printer / Some casing
+- Arm Bands
   
 # Software #
-This project is fairly simple from a software perspective: you'll simply pair the input from an EMG to a signal output. To make this work, we'll re-use code from the EMG lecture and pair it to a DigitalWrite command in an if-else statement. The code, in Python's makecode and blocks, will look like this:
-
+This project is fairly simple from a software perspective: you'll simply pair the input from an EMG to a signal output. To make this work, we'll re-use code from the EMG lecture and pair it to a DigitalWrite command in an if-else statement. 
 
 
 # Hardware #
@@ -27,4 +34,4 @@ First, how does the relay work?
 Soldering done to skip the switch ( not shown )
 
 # Demos #
-Here's me goofing off 
+To be featured

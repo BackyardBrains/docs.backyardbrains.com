@@ -131,39 +131,66 @@ Wrap the thread you used to make the knot around the pencil close to the tip of 
 
 Here’s the code you need to get started on your experiment. You’ll see the inputs are set to P8 for the servo and P0 for your EMG. This code uses a nifty threshold function that adjusts to each person's unique threshold.
 
-```
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+  <TabItem value="python" label="Python" default>
+    
+
+```py title="DIY Hand Neuroprosthetic"
+
+#Set up our variables
 threshold = 0
-val = 0
-seconds = 100000
-key = True
+EMG = 0
+seconds = 3000
+
+# Initialize the hand servo to the open position.
 pins.servo_write_pin(AnalogPin.P8, 0)
+
+# For the first few seconds, we will determine a threshold value of the EMG signal to close the hands.
 while seconds > 0:
-    val = pins.analog_read_pin(AnalogPin.P0)
-    if threshold < int(val):
-        threshold = int(val)
+    EMG = pins.analog_read_pin(AnalogPin.P0)
+    if threshold < int(EMG):
+        threshold = int(EMG)
     seconds += 0 - 1
+
 basic.show_number(threshold)
-while key:
-    val = pins.analog_read_pin(AnalogPin.P0)
-    serial.write_value("EMG", val)
-    degree = val * (1 / threshold) * 90
-    if int(val) >= int(threshold):
+
+while True:
+    EMG = pins.analog_read_pin(AnalogPin.P0)
+    serial.write_value("EMG", EMG)
+    degree = EMG * (1 / threshold) * 90
+    if int(EMG) >= int(threshold):
         pins.servo_write_pin(AnalogPin.P8, int(degree))
     else:
         pins.servo_write_pin(AnalogPin.P8, int(degree))
 ```
 
+
+  </TabItem>
+  <TabItem value="Block" label="Block Code">
+
 Check out the code blocks below and let’s get experimenting! 🚀
 
 ![image](https://github.com/BackyardBrains/docs.backyardbrains.com/assets/117298723/d71c7376-1e5c-44d3-a7f6-d18f183199f0)
 
+  </TabItem>
+</Tabs>
+
+
 ## Operating Instructions ##
 
-Test your hand by pressing the red button. It should change the resting state of the hand from open to closed! **Troubleshooting: If, when you plug it in, the servo motor and pencil immediately move the hand to the "closed" position, you can either adjust the starting position with the red button (needs to be done every time you plug it in), or pop the pencil off and reset it to the 90 degree position it was originally set to.**
-
-# Plug in your orange cable and control it by flexing your own muscles!
+Plug in your orange cable, and connect your electrodes to your arm and turn on the neuro:bit. 
 
 ![](./prosthetic_hand_22.webp)
 
+After a few seconds, you can control the DIY Hand Neuroprosthetic by flexing your own muscles! It should change the resting state of the hand from open to closed! 
+
 ![](./prosthetic_hand_23b.webp)
+
+:::tip
+If, when you plug it in, the servo motor and pencil immediately move the hand to the "closed" position, you pop the pencil off and reset it to the 90 degree position it was originally set to.
+
+
 

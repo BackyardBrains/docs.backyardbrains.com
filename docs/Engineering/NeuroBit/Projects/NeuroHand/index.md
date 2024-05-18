@@ -116,7 +116,7 @@ We keep at least half the length of the thread, as you measure from the base of 
 
 Use your last thread to tie a knot around the dangling threads.
 
-## 16. Adjust the Tension
+### 16. Adjust the Tension
 
 Pull the knot tight. You can adjust the tension of the individual fingers by pulling on the thread past the knot until the fingers seem "taut".
 ![](./prosthetic_hand_20.webp)

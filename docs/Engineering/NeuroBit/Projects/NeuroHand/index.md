@@ -129,55 +129,31 @@ Wrap the thread you used to make the knot around the pencil close to the tip of 
 
 ## Code ##
 
-Here’s the code you need to get started on your experiment. You’ll see the inputs are set to P8 for the servo and P0 for your EMG. This code uses a nifty threshold function that adjusts to each person's unique threshold.
+Time to bring that prosthetic hand to life with your coding skills! We'll show you how to connect the servo and EMG to your microbit, making it a robotic sidekick that moves with your muscles. You can view the sample code bellow in blocks and in Python!
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
+First up, let's set a threshold. Each of us has unique muscle signals, so we'll plot the EMG data to see your flex values on the y-axis. This way, your microbit can understand your muscular lingo. You’ll see the inputs are set to P8 for the servo and P0 for your EMG. 
 
-<Tabs>
-  <TabItem value="python" label="Python" default>
-    
+Once you've found the perfect threshold, get ready to control that prosthetic hand! With a little coding magic, you'll make it mimic your movements flawlessly.
 
 ```py title="DIY Hand Neuroprosthetic"
-
-#Set up our variables
-threshold = 0
-EMG = 0
-seconds = 3000
-
-# Initialize the hand servo to the open position.
-pins.servo_write_pin(AnalogPin.P8, 0)
-
-# For the first few seconds, we will determine a threshold value of the EMG signal to close the hands.
-while seconds > 0:
-    EMG = pins.analog_read_pin(AnalogPin.P0)
-    if threshold < int(EMG):
-        threshold = int(EMG)
-    seconds += 0 - 1
-
-basic.show_number(threshold)
-
+val = 0
+threshold = 300   # set your EMG threshold here
+pins.servo_write_pin(AnalogPin.P8, 0)  
 while True:
-    EMG = pins.analog_read_pin(AnalogPin.P0)
-    serial.write_value("EMG", EMG)
-    degree = EMG * (1 / threshold) * 90
-    if int(EMG) >= int(threshold):
-        pins.servo_write_pin(AnalogPin.P8, int(degree))
+    val = pins.analog_read_pin(AnalogPin.P0)
+    serial.write_value("EMG", val)    # read your EMG signal
+
+
+# if your EMG > your threshold the servo will move 90 degrees
+    if int(val) >= int(threshold):
+        pins.servo_write_pin(AnalogPin.P8, 90)
     else:
-        pins.servo_write_pin(AnalogPin.P8, int(degree))
+        
+        pins.servo_write_pin(AnalogPin.P8, 0)
 ```
 
 
-  </TabItem>
-  <TabItem value="Block" label="Block Code">
-
-Check out the code blocks below and let’s get experimenting! 🚀
-
-![image](https://github.com/BackyardBrains/docs.backyardbrains.com/assets/117298723/d71c7376-1e5c-44d3-a7f6-d18f183199f0)
-
-  </TabItem>
-</Tabs>
-
+![image](https://github.com/BackyardBrains/docs.backyardbrains.com/assets/117298723/c355bb6a-3848-4cef-8e92-d3ff10dfda16)
 
 ## Operating Instructions ##
 

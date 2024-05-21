@@ -12,19 +12,21 @@ sidebar_label: Spiker-Man Web Slinger
 
 Make your very own string shooting device that shares startling similarities to a certain Marvel / Sony superhero!
 
-This guide is still being developed, but below is a general overview.
 
-# Materials Needed ( Shown Left->Right, Top->Bottom ) #
+# Materials Needed #
 - Loop Lasso / two wheels close to each other
 - A loop of string with no knots
 - Micro bit and Neurobit
 - EMG Signal Cable
 - 3 Electrodes
+- A relay, we used [this one from grove / seeed studio] (https://www.seeedstudio.com/Grove-Relay.html) but any one-way electromechanical switch will do. 
 
-Optional
-- 3D printer / Some casing
+**Optional**
+- 3D printer / a case to hold both the neurobitand
+- Soldering iron, solder, protective gear
 - Arm Bands
-  
+- Three small screws or bolts
+
 # Software #
 This project is fairly simple from a software perspective: you'll simply pair the input from an EMG to a signal output. To make this work, we'll re-use code from the EMG lecture and pair it to a DigitalWrite command in an if-else statement. 
 
@@ -53,6 +55,16 @@ But I'm getting ahead of myself, how does a relay work? In a nut shell it's an e
 What I've done for my parts is to cut open the loop lasso, remove the physical switch, and solder a wire from the motors, into the relay, then back into ground. This means that when our code sends out a 1 to pin 8, the wires are shorted together and the motors recieve current. When our code sends a zero, 
 
 # Hardware - Mechanical #
-We have a fantastic in-house designer / inventor / general-knows-how-to-do-it guy here at Backyard Brains, and he designed the case I'm using in the pictures above. You can find the a
+
+We have a fantastic in-house designer / inventor / general-knows-how-to-do-it guy here at Backyard Brains, and he designed the case I'm using in the pictures above. You can find the STL files here as the following:
+1. The back case
+2. The
+3. The
+4. The
+
+Putting in the pieces into their 3D printed frames will look like this:
+[!Shooting part](./19A2C5F9-0177-45AE-BEE3-7796ED721018.jpeg)
+
+
 # Demos #
 Finally, here's some other cool footage I took of messing around with the Spiker-Man toy

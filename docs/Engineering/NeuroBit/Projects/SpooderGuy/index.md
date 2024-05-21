@@ -14,8 +14,8 @@ Make your very own string slinging device that shares startling similarities to 
 
 
 # Materials Needed #
-Step 1. Pick which materials you'd like to use
-Step 2. Order them from Amazon, seeed studio, or your distributor of choice
+Step 1. Pick which materials you'd like to use  
+Step 2. Order them from Amazon, seeed studio, or your distributor of choice  
 - Loop Lasso / two wheels close to each other
 - A loop of string with no knots
 - Micro bit and Neurobit

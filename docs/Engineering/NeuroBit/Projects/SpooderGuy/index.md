@@ -90,8 +90,9 @@ Step 19. Assembly the 3D prints, the web slinging component, the micorbit and nu
 
 Putting in the pieces into their 3D printed frames will look like this:
 ![Slinging part Construction](./19A2C5F9-0177-45AE-BEE3-7796ED721018.jpeg)
-
+![All together now](./C71FD012-A7AD-40A6-A6B3-D058D3C25DD8.jpeg)
 
 # Demos #
 
 Step 20. Mess around with your newly created Spiker-Man web slinger!  
+![Pchew](./12EFFA93-DF49-4AD4-A3BE-2F5C1FF4E5BC.jpeg)

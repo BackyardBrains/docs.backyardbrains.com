@@ -141,8 +141,8 @@ PLEAZE READ ALL instructions before your begin.
 CAUTION:
   Note that this process is curtial for accurate data aquisition happening later on. Therefore, while the program is running, please make sure your heads  are fixed and eyes focus on the center of screen ALL THE TIME. 
 
-## Check Preprocessing ## :
-  As explained previously, if you were not able to figure out the correct placement for red aligtor clips, this is where to check!! 
+## Check Preprocessed Data ## :
+As explained previously, if you were not able to figure out the correct placement for red aligtor clips, this is where to check!! 
   
   1. After the preprocessing, turn the power of Neuro:Bit off, then using USB cable, connect it with your local computer.
   2. Open the file explorer, then you should see new  drive call "MICROBIT".
@@ -152,8 +152,72 @@ CAUTION:
   6. If it is still not working, please check your electrode placement, aligator clips placement, Neuro:Bit switch (ECG mode) and try again.
 
 
-  
+## Prepare Real-Time Blink Aquisition ##
+Good job for making this far!! Now that you have good preprocessed data, it is time to move on to real-time blink  aquisiton!!
 
+BENEATH the program for preprocessing, paste the code below.
+
+```py title="EOG-Real_Time"
+#Pause the program for three seconds
+sleep(3000)
+
+#Begin processing
+S = [0.0] * size
+S_avg = 0
+
+NCC_list = [2.0] * 3
+real_time_recording = True
+processing = True
+
+@run_every(ms=1)
+def processing_function():
+    global processing,size,upper_bound,lower_bound
+    if processing:
+        val = pin0.read_analog()
+        top = 0
+        bottom_T = 0
+        bottom_S = 0
+        pass_upper_bound = False
+        pass_lower_bound = False
+        run_NCC = False
+        S.pop(0)
+        S.append(val)
+        S_avg = sum(S)/size
+        NCC = 0
+        for i in range(size):
+            if S[i] > upper_bound:
+                pass_upper_bound = True
+            if S[i] < lower_bound:
+                pass_lower_bound = True
+            if pass_upper_bound and pass_lower_bound:
+                run_NCC = True
+                break
+        if run_NCC:
+            for i in range(size):
+                top += (T[i] - T_avg) * (S[i] - S_avg)
+                bottom_T += (T[i] - T_avg) ** 2
+                bottom_S += (S[i] - S_avg) ** 2
+            NCC = top / ((bottom_T ** 0.5) * (bottom_S ** 0.5))
+        NCC_list.pop(0)
+        NCC_list.append(NCC)
+        if NCC > 0.5:
+            if NCC_list[0] < NCC_list[1] and NCC_list[1] > NCC_list[2]:
+                display.show(Image.SAD)
+                sleep(100)
+
+
+
+while real_time_recording:
+    display.show(Image.HAPPY)
+    if button_a.get_presses():
+        break
+
+display.show(Image.DIAMOND)
+```
+
+Now you should have all the program to run the everything, including the preprocessing. 
+
+## Begin Real-Time Blink Aquisition ##
 
   
 

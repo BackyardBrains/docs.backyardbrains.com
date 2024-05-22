@@ -76,7 +76,6 @@ If you have a small screwdriver, you can screw it into place, but the friction f
 We need to measure a slot on our sheet of balsa wood to fit the servo motor. With the included pencil, measure and mark from the bottom right hand corner of the balsa wood up as far as the long side of the servo motor with it oriented as you see in the picture.
 
 Similarly, mark the width of the servo motor. As you see, we are measuring out a slot in the bottom corner of the balsa wood to glue our servo motor in to.
-![](./np_07d_measure_2png.png)
 
 ### 10. Cut the Balsa Wood ###
 ![](./np_07e_cut_wood.png)

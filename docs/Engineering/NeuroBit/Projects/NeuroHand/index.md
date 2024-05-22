@@ -133,6 +133,12 @@ First up, let's set a threshold. Each of us has unique muscle signals, so we'll 
 
 Once you've found the perfect threshold, get ready to control that prosthetic hand! With a little coding magic, you'll make it mimic your movements flawlessly.
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+  <TabItem value="Python" label="Python" default>
+
 ```py title="DIY Hand Neuroprosthetic"
 val = 0
 threshold = 300   # set your EMG threshold here
@@ -149,9 +155,15 @@ while True:
         
         pins.servo_write_pin(AnalogPin.P8, 0)
 ```
+ </TabItem>
+  <TabItem value="Block" label="Block Code">
 
+Check out the code blocks below and let’s get experimenting! 🚀
 
 ![image](https://github.com/BackyardBrains/docs.backyardbrains.com/assets/117298723/c355bb6a-3848-4cef-8e92-d3ff10dfda16)
+
+ </TabItem>
+  </Tabs>
 
 ## Operating Instructions ##
 

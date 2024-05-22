@@ -4,13 +4,13 @@ sidebar_label: DIY Neuroprosthetic
 ---
 
 # DIY Hand Neuroprosthetic #
-
+![DIY Hand Neuroprosthetic](./np_title.png)
 
 |     |       |
 |--------------|--------------
 | Inventor     | Will Wharton            
 | Micro:Bit IDE     | MakeCode
-| Best Location     | Classroom  
+| Best Used    | Classroom  
 
 
 
@@ -21,40 +21,40 @@ Here you will create your very own Cyborg Hand which you will then control with 
 
 ## Build Instructions ##
 Begin by assembling your materials at your work station. Plug in your hot glue gun to get it warming up, but it will be a few minutes before you need to use it.
-![](./prosthetic_hand_1.webp)
+![Gather Materila](./np_00_needed.png)
 
 ### 1. Cut the Straws ###
-![](./prosthetic_hand_2.webp)
+![Cut the straws](./np_01_snip.png)
 Pick out your favorite colored straws and cut them with your scissors until you have at least 25 short segments (approx the width of a fingernail). For our example, we are using two colors to identify the fingers stimulated by the Ulnar and Median nerves. If you would also like to include this anatomical element in your model, pick out two colors and cut at least 10 of one color (for the pinky and ring finger pulleys), and 15 of the other color (for thumb, index, and middle finger pulleys)
 
 ### 2. Prepare for Hot Gluing ###
-![](./prosthetic_hand_3.webp)
+![](./np_02_prep.png)
 Ready your short straw segments, your hand, and your hotglue gun. Let your glue gun heat up.  
 
 ### 3. Glue Straws on Fingers ###
-![](./prosthetic_hand_4.webp)
+![](./np_03_tips.png)
 Begin to apply dabs of hot glue to your digits (don't cover the holes)!
 
 With every dab of hot glue, stick on one of your colored straw segments. As you can see in our picture, we are using the yellow straws on the pinky and ring finger, and red straws for the thumb, pointer, and middle fingers. You can do this too, or, if your creativity is speaking to you, pattern the colors however you'd like (Infinity Gauntlet Colors are also approved.)
 
 ### 4. Glue the Hand Together ###
-![](./prosthetic_hand_5.webp)
+![](./np_04_straw_done.png)
 
 Continue until you have straws glued to the digits of every finger (pulleys), and straws glue to the base of the hand (tendon sheath). Once the glue dries, pick off any of the hot glue "spiderwebs" and make sure that all the finger joints still bend and the fist can close.
 
 ### 5. Cut the Thread ###
-![](./prosthetic_hand_6.webp)
+![](./np_05_string.png)
 
 Take your long string and fold it in half. Then, like in the shape of an S sandwiched flat, fold it in thirds. Then, with three cuts, one at each bend in the thread, you can cut the entire length of thread into 6 equally long pieces.
 
 ### 6. Thread the First Finger ###
-![](./prosthetic_hand_7.webp)
+![](./np_06_thread_one.png)
 
 Thread one of the lengths of string from the bottom of the hand up through the finger pulleys. Once you have pulled the thread out the tip of the finger, use your hotglue gun to fill **ONLY** that final straw segment with glue - locking the thread in place. Give the glue a minute to dry, then give a tug on the string from the bottom of the hand. The finger should curl in!
 
 ### 7. Finish threading the Hand ###
 
-![](./prosthetic_hand_8.webp)
+![](./np_07_thread_all.png)
 
 Follow the above step for the rest of the fingers on your hand. You should have 1 length of thread left over at the end.
 
@@ -62,44 +62,42 @@ Follow the above step for the rest of the fingers on your hand. You should have 
 
 Set aside your hand a moment to let the glue dry. Take your servo motor out of its plastic baggy, and find the longest of the white plastic arms.
 
-![](./prosthetic_hand_9.webp)
+![](./np_07a_prep_servp.png)
 
 **This step is important for the Orientation of the motor**: with the wires of the servo motor coming in towards you, press the lever arm into place on the servo motor's gear so that the action arm makes a 90 degree angle (or close to it) with the rectangular body of the servo motor. 
 
-![](./prosthetic_hand_10.webp)
+![](./np_07b_servo.png)
 
 If you have a small screwdriver, you can screw it into place, but the friction fit should be good enough too (especially once we get a bit of hot glue on it!)
 
 ### 9. Measure Wood Cuts ###
 
-![](./prosthetic_hand_11.webp)
-
+![](./np_07c_measure_1.png)
 We need to measure a slot on our sheet of balsa wood to fit the servo motor. With the included pencil, measure and mark from the bottom right hand corner of the balsa wood up as far as the long side of the servo motor with it oriented as you see in the picture.
 
 Similarly, mark the width of the servo motor. As you see, we are measuring out a slot in the bottom corner of the balsa wood to glue our servo motor in to.
-![](./prosthetic_hand_12.webp)
+![](./np_07d_measure_2png.png)
 
 ### 10. Cut the Balsa Wood ###
-![](./prosthetic_hand_13.webp)
+![](./np_07e_cut_wood.png)
 
 Balsa wood is soft, so you should be able to use your scissors to cut out this small chunk of the wood. Make the long cut first, the short cut will be a little harder. If you can't cut all the way through, weaken it with your scissors, then bend and break off this small piece with your hands.
 
 ### 11. Orient the Servo Motor ###
 **Note: this step is important for the Orientation of the motor**: Glue the servo motor into this slot, and **make sure the wires coming out of the servo motor come out the tail end.**
-![](./prosthetic_hand_14.webp)
+![](./np_08a_glue_servo.png)
 
 ### 12. Glue a Pencil ###
-![](./prosthetic_hand_15.webp)
+![](./np_08b_glue_pencil.png)
 
 Glue the pencil on to the servo motor's action arm by applying a line of glue dow the servo motor's arm, then pressing your pencil into place. Careful not to let globs of glue get under the arm into the gears of the servo motor!
 
 ### 13. Glue the Hand ###
 
-![](./prosthetic_hand_16.webp)
+![](./np_09_glue_hand.png)
 
 Apply glue to the top side of the balsa wood. This is where we will be gluing the hand you created earlier.
 
-![](./prosthetic_hand_17.webp)
 
 Press the hand down into the glue. We recommend that the base of the fingers extend just past the end of the balsa wood.
 
@@ -107,25 +105,25 @@ Press the hand down into the glue. We recommend that the base of the fingers ext
 
 Trim the loose threads hanging from the hand, leaving plenty dangling, but evening out the lengths. 
 
-![](./prosthetic_hand_18.webp)
+![](./np_10_cut_strings.png)
 
 We keep at least half the length of the thread, as you measure from the base of the balsa wood to the base of the foam hand.
 
 ### 15. Tie a Knot ###
-![](./prosthetic_hand_19.webp)
+![](./np_11_tie.png)
 
 Use your last thread to tie a knot around the dangling threads.
 
 ### 16. Adjust the Tension
 
 Pull the knot tight. You can adjust the tension of the individual fingers by pulling on the thread past the knot until the fingers seem "taut".
-![](./prosthetic_hand_20.webp)
+![](./np_11_tighten.png)
 
 ### 17. Finish it up! ###
 
 Wrap the thread you used to make the knot around the pencil close to the tip of the pencil and hotglue the thread into place. Once that glue dries, you are done! Plug the hand into the Muscle SpikerShield, plug in two batteries.
 
-![](./prosthetic_hand_21.webp)
+![](./np_12_done.png)
 
 ## Code ##
 
@@ -183,11 +181,10 @@ Check out the code blocks below and let’s get experimenting! 🚀
 
 Plug in your orange cable, and connect your electrodes to your arm and turn on the neuro:bit. 
 
-![](./prosthetic_hand_22.webp)
+![](./np_13_demo.png)
 
 After a few seconds, you can control the DIY Hand Neuroprosthetic by flexing your own muscles! It should change the resting state of the hand from open to closed! 
 
-![](./prosthetic_hand_23b.webp)
 
 :::tip
 If, when you plug it in, the servo motor and pencil immediately move the hand to the "closed" position, you pop the pencil off and reset it to the 90 degree position it was originally set to.

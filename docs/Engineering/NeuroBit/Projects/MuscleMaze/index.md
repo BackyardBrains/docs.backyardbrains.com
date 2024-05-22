@@ -69,17 +69,87 @@ Connect the two servo motors from Muscle Maze to each Neuro:Bit. See the [The Ne
 
 ## Programing the Micro:Bit for the Muscle Maze ##
 
-Below you can download the code for the Muscle Maze program.  The first option is a good for general use cases.  The second option is more complex, but is more flexible with individual differences in EMG signal. 
+To program the Micro:Bit, you can choose from two options: Muscle Maze - "Beginner" and Muscle Maze - "Advanced."
+
+The first option is good for general use cases. The second option is more complex but is more flexible with individual differences in EMG signals.
+
+Below is a quick overview of Muscle Maze - "Beginner" coding.
+
+```py title="Muscle Maze - "Beginner""
+val = 0
+stop = True
+key = True
+threshold = 50
+bound = 10
+original_angle = 70
+zero_angle = 70
+seconds = 100000
+pins.servo_write_pin(AnalogPin.P8, zero_angle)
+# Main Program
+while key:
+    val = pins.analog_read_pin(AnalogPin.P0)
+    # Controll continue/pause of servo using buttom B
+    if input.button_is_pressed(Button.B):
+        basic.pause(500)
+        if stop: # Continue
+            basic.show_icon(IconNames.DIAMOND)
+            stop = False
+        else: # Pause
+            basic.show_icon(IconNames.HEART)
+            stop = True
+    if not (stop):
+        if int(val) >= threshold:
+            if zero_angle < original_angle + bound:
+                basic.pause(150)
+                zero_angle = zero_angle + 1
+                pins.servo_write_pin(AnalogPin.P8, zero_angle)
+        elif int(val) < threshold:
+            if zero_angle > original_angle - bound:
+                basic.pause(150)
+                zero_angle = zero_angle - 1
+                pins.servo_write_pin(AnalogPin.P8, zero_angle)
+    if input.button_is_pressed(Button.A):
+        key = False
+basic.pause(1000)
+# Reset the position to original angle
+if zero_angle != original_angle:
+    if zero_angle < original_angle:
+        while zero_angle < original_angle:
+            basic.pause(100)
+            zero_angle = zero_angle + 1
+            pins.servo_write_pin(AnalogPin.P8, zero_angle)
+    else:
+        while zero_angle > original_angle:
+            basic.pause(100)
+            zero_angle = zero_angle - 1
+            pins.servo_write_pin(AnalogPin.P8, zero_angle)
+# Done!!
+basic.show_icon(IconNames.GHOST)
+```
+To modify Muscle Maze - "Beginner" into Muscle Maze - "Advanced", all you have to do is add a few lines of code between lines 9 and 10.
+
+```py title="Muscle Maze - "Advanced"
+# Advaned option: Threshold controll (Bandpass filter)
+basic.pause(3000)
+while seconds > 0:
+    val = pins.analog_read_pin(AnalogPin.P0)
+    if threshold < int(val) and int(val) < 50 and int(val) > 10:
+        threshold = int(val)
+    seconds += 0 - 1
+basic.show_icon(IconNames.HAPPY)
+```
+
+While the advanced option runs more smoothly, the Beginner code is easier to follow for educational purposes.
+
+If you would like to, you can aslo download codes for the Muscle Maze program from below:
 
 1. [Muscle Maze - "Beginner"](./microbit-Muscle-Maze-general.hex)
 
-2. [Muscle Maze - "Advanced"](./microbit-Muscle-Maze-indiviudal.hex)
+2. [Muscle Maze - "Advanced"](./microbit-Muscle-Maze-individual.hex)
+   
+Install either version of Muscle Maze program on your local computer. Then, drag and drop the installed file into the project you have created. This will allow you to see the entire code in the project.
 
-While the advance option runs more smoothly, the Beginner code is easier to follow for education purposes.
-
-Install either Muscle Maze code on your local computer. Then, drag and drop the installed file to the project you have created. This will allow you to see the entire code on the project.
-
-Connect Microbit to your computer, then click "download". After this, you should now have the program inside the Microbit.
+Connect the Microbit to your computer, then click "download." After this, you should now have the program inside the Microbit.
 
 ## Operation ##
 

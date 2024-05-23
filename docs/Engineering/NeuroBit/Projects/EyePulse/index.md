@@ -270,30 +270,28 @@ display.show(Image.DIAMOND)
 Now you should have a complete program that includes everything you need to run the entire process, from preprocessing to real-time blink acquisition.
 
 ## Begin Real-Time Blink Aquisition ##
-
-Before running the real-time aquisition, you must go through the preprocessing every time. After that is done, you will see a SMILEY FACE appear on your screen. This is indicating that preproccessing is over and ready to test your blink!!
-
-If everything was done correctly, you should see blip of SAD FACE appear on the screen. 
+Turn on the Neuro:Bit
+Before running the real-time acquisition, you must go through the preprocessing step each time. Once preprocessing is complete, a SMILEY FACE will appear on Micro:Bit screen, indicating that the system is ready to test your blinks. 
+If everything is functioning correctly, a SAD FACE should briefly appear on the screen whenever a blink is detected. 
 
 ## Tips for improvement ##
-As this projects reslult varies due to many factors can influence, I decided to put some tips you can make to imporve the results.
+As the results of this project can vary due to numerous influencing factors, here are some tips to help improve the accuracy of your blink detection.
 
-If you are seeing or not seeing SAD FACE when it supposed to be, below is few things you can try
+If you are seeing the SAD FACE too often or not at all when it is supposed to appear, try the following adjustments:
 
-- Adjust NCC (Normalized Cross Correlation) threshold
-  At the end of the code, you should see the line,
+- Adjust NCC (Normalized Cross Correlation) Threshold
+  At the end of the code, you should see a line like this:
   ```py title="NCC"
   if NCC > 0.5:
-  ```
-  The general rule is, if the threshold (0.5) is higher, harder for the detection to occur and vice verse. Therefore, you should make this threshold to be higher if you see too many false posives (seeing SAD FACE when it shouldn't) and lower if you see too many true negatives (not seeing SAD FACE when it shouldn't)
-  The range of value is -1 to 1 but I reccomend not to adjust threshold lower than 0.4
+   ```
+  Generally, if you increase the threshold (0.5), detection will become harder, reducing false positives (seeing SAD FACE when you shouldn’t). If you lower the threshold, detection becomes easier, reducing false negatives (not seeing SAD FACE when you should). The threshold value ranges from -1 to 1, but it is recommended not to set it lower than 0.4.
 
-- Change number of blinks in preproccessing stage
-  This is to imporve the preproccessing accuraccy. By default, you blink five times before beggining real-time data aquisition. You can increase or decrease the number by assigning different value at,
+- Change the Number of Blinks in the Preprocessing Stage
+  This adjustment improves preprocessing accuracy. By default, you blink five times before beginning real-time data acquisition. You can change this number by modifying the following line:
   ```py title="set trials"
   set_trials = 5 #Modify set_trials to change number of blink tirals
   ```
-  Usually, more data is better, however I reccomend to have it less than 10 times.
+  Generally, more data is better, but it is recommended to keep this number below 10.
 
-  Lastly, please note that there is no perfect data processing in real time. Regardless of adjustment, there would be false data as eye movement are very precise. It is better to keep in mind too many adjustment may cause the result to be worse than previous and do the adjustment one by one.
+Remember, perfect real-time data processing is challenging. Even with adjustments, some errors are inevitable due to the precise nature of eye movements. It’s important to make adjustments one at a time, as too many changes at once may degrade the performance rather than improve it.
 

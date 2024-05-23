@@ -2,11 +2,11 @@
 sidebar_position: 3
 sidebar_label: Eye Pulse
 ---
+# Eye Pulse #
+![Header](./Header.jpeg)
 
 # Overview #
 Welcome to Project Eye Pulse! Here, you can experiment with real-time eye blink detection. This project utilizes a pair of Micro:Bit and Neuro:Bit devices, leveraging muscle movements around your eyes and EOG (Electrooculography) filtering to detect blinks.
-
-![Header](./Header.jpeg)
 
 ## Check supplies ##
 To get started with this project, you will need the following materials:

@@ -96,7 +96,141 @@ SpikerBox will use HID, CDC (serial), or vendor specific interface to receive or
 - **Max Useful Data Throughput**: 1000 packages/s with 62 Bytes (62kB)
 - **Expansion Port**: Reaction timer, Reflex hammer, Game controller events
 
-... (continue for each device)
+### Neuron SpikerBox Pro (HID)
+- **USB VID**: 0x2E73 (Backyard Brains Inc.)
+- **USB PID**: 0x002
+- **Max sampling rate**: 10kHz
+- **Number of channels**:
+  - **2 @ 10kHz**
+  - **3 @ 5kHz**
+  - **4 @ 5kHz**
+- **Sample resolution**: 10bit
+- **USB Device Name**: SpikeRecorder
+- **Max useful data throughput**: 1000 packages/s with 62 Bytes (62kB)
+  - **Expansion port (Reaction timer, Reflex hammer, Game controller,  events)**
+
+### Neuron SpikerBox Pro (Serial)
+- **USB VID**: 0x2E73 (Backyard Brains Inc.)
+- **USB PID**: 0x007
+- **Max sampling rate**: 10kHz
+- **Number of channels**:
+  - **2 @ 10kHz**
+  - **3 @ 5kHz**
+  - **4 @ 5kHz**
+- **Sample resolution**: 10bit
+- **USB Device Name**: Neuron SpikerBox Pro
+- **Max useful data throughput**: 1000 packages/s with 62 Bytes (62kB)
+  - **Expansion port (Reaction timer, Reflex hammer, Game controller,  events)**
+
+### Neuron SpikerBox Pro (Serial + Mfi)
+- **USB VID**: 0x2E73 (Backyard Brains Inc.)
+- **USB PID**: 0x009
+- **Max sampling rate**: 10kHz
+- **Number of channels**:
+  - **2 @ 10kHz**
+  - **3 @ 10kHz**
+- **Sample resolution**: 14bit
+- **USB Device Name**: Neuron SpikerBox Pro
+- **Serial baud rate**: 222222bps or 500000bps
+  - **Expansion port (Reaction timer, Reflex hammer, Game controller,  events)**
+
+### Heart & Brain SpikerBox
+- **USB VID**: 0x0403 (FTDI)
+- **USB PID**: 0x6015
+- **Max sampling rate**: 10kHz
+- **Number of channels**:
+  - **1**
+- **Sample resolution**: 10bit
+- **Serial baud rate**: 222222bps
+- **USB Device Name**: FT231X USB UART
+
+### Plant SpikerBox
+- **USB VID**: 0x2341 (Arduino SA)
+- **USB PID**: 0x8036
+- **Max sampling rate**: 10kHz
+- **Number of channels**:
+  - **1**
+- **Sample resolution**: 10bit
+- **Serial baud rate**: 222222bps (or 230400bps)
+- **USB Device Name**: Arduino Leonardo
+
+### (OBSOLETE) Human-Human-Interface
+- **USB VID**: 0x2341 (Arduino SA)
+- **USB PID**: 0x0043
+- **Max sampling rate**: 10kHz
+- **Number of channels**:
+  - **1**
+- **Sample resolution**: 10bit
+- **Serial baud rate**: 222222bps (or 230400bps)
+- **USB Device Name**: Arduino Uno
+
+### Human-Human-Interface (second generation)
+- **USB VID**: 0x0403 (FTDI)
+- **USB PID**: 0x6015
+- **Max sampling rate**: 10kHz
+- **Number of channels**:
+  - **1**
+- **Sample resolution**: 10bit
+- **Serial baud rate**: 500000 bps
+- **USB Device Name**: HHI 1v1, Human Human Interface
+
+### Muscle SpikerShield
+- **USB VID**: 0x2341 (Arduino SA)
+- **USB PID**: 0x0043
+- **Max sampling rate**: 10kHz
+- **Number of channels**:
+  - **1 @ 10kHz**
+  - **2 @ 5kHz**
+  - **3 @ 3333Hz**
+  - **4 @ 2500Hz**
+  - **5 @ 2000Hz**
+  - **6 @ 1666Hz**
+- **Sample resolution**: 10bit
+- **Serial baud rate**: 222222bps (or 230400bps)
+- **USB Device Name**: Arduino Uno
+
+### Muscle SpikerShield Pro
+- **USB VID**: 0x2341 (Arduino SA)
+- **USB PID**: 0x0043
+- **Max sampling rate**: 10kHz
+- **Number of channels**:
+  - **1 @ 10kHz**
+  - **2 @ 5kHz**
+  - **3 @ 3333Hz**
+  - **4 @ 2500Hz**
+  - **5 @ 2000Hz**
+  - **6 @ 1666Hz**
+- **Sample resolution**: 10bit
+- **Serial baud rate**: 222222bps (or 230400bps)
+- **USB Device Name**: Arduino Uno
+
+### Human SpikerBox
+- **USB VID**: 0x2E73 (Backyard Brains Inc)
+- **USB PID**: 0x0004
+- **Max sampling rate**: 5kHz
+- **Number of channels**:
+  - **2 @ 5kHz**
+  - **3 @ 5kHz**
+  - **4 @ 5kHz**
+- **Sample resolution**: 14bit
+- **USB Device Name**: SpikerBox
+- **Serial baud rate**: any
+  - **Expansion port (Reaction timer, Reflex hammer, Game controller, events)**
+
+### Human SpikerBox Bootloader
+- **USB VID**: 0x2E73 (Backyard Brains Inc)
+- **USB PID**: 0x0005
+- **USB Device Name**: STM32L4_Boot
+
+### Neuron SpikerBox Bootloader
+- **USB VID**: 0x2E73 (Backyard Brains Inc)
+- **USB PID**: 0x000A
+- **USB Device Name**: Neuron SB Bootloader
+
+### Spike Station Bootloader
+- **USB VID**: 0x2E73 (Backyard Brains Inc)
+- **USB PID**: 0x000B
+- **USB Device Name**: Spike Station Bootloader
 
 ## SpikerBox Custom Protocol
 
@@ -105,6 +239,8 @@ Sample stream is a byte stream divided into frames. Each frame contains one samp
 ### Frame Structure
 
 In order to mark the beginning of the frame, we reserve the most significant bit of every byte for the frame flag. If this bit is set to 1, the current byte represents the start of the frame. Ten bits of one data sample are divided into two bytes so that the first byte contains 3 most significant bits, and the second byte contains 7 least significant bits.
+
+![Frame Structure](./FrameStructure.png)
 
 ### Escape Sequences
 

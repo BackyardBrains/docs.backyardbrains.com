@@ -4,10 +4,10 @@ sidebar_label: Eye Pulse
 ---
 
 # Overview #
-Welcome to project Eye Pulse where you can have experiment with eye blink detection in REAL TIME!!. This project uses a pair of Micro:Bit and Neuro:Bit. We will utilze muscle movenemnt from your eyes and EOG filtering to catch your eyeblinks!!
+Welcome to Project Eye Pulse! Here, you can experiment with real-time eye blink detection. This project utilizes a pair of Micro:Bit and Neuro:Bit devices, leveraging muscle movements around your eyes and EOG (Electrooculography) filtering to detect blinks.
 
 ## Check supplies ##
-For this project, you would need following material
+To get started with this project, you will need the following materials:
 
 1. Micro:bit
 2. Neuro:bit
@@ -15,44 +15,61 @@ For this project, you would need following material
 4. Three Electrodes
 
 ## Know where to place electrodes ##
-Once you are ready to place your electrodes, first, choose which side you want to place the electrodes at.
+Proper placement of the electrodes is crucial for accurate detection. Follow these steps to correctly position them:
 
-Place first electrode on outer canthus of whichever side you choose.
+1. First Electrode: Place the first electrode on the outer canthus (the outer corner) of the eye on your chosen side.
+2. Second Electrode: Position the second electrode just below the eye on the same side you selected.
+3. Third Electrode (Ground): Place the last electrode behind the ear, on the bony area. This electrode serves as the "Ground" and is essential for reducing noise in the signal.
 
-Place second electode just below the eye. Also choose side of the eye you pick.
-
-Place last electrode behind the ears where you can feel the bone. This also must be the same side of the eye you choose.
-We refer this as "Ground" electrodes which is important for noise reduction from signal.
+Make sure all electrodes are placed on the same side of the face for optimal performance.
 
 ## Connecting right cables to right place ##
-Take a look at the red colored aligator clips. If you see the black dot, place it on the electrodes located below the eye. 
+Identifying and Placing the Red Alligator Clips
+- Red Clip with Black Dot:
+  Look for the red alligator clip with a black dot.
+  Attach this clip to the electrode placed below the eye.
+- Red Clip without Black Dot:
+  The second red alligator clip, which does not have a black dot, should be attached to the electrode on the outer canthus of the eye.
+  Placing the Black Alligator Clips
+  
+The black alligator clips are to be connected to the "Ground" electrode, which is located behind the ear.
 
-Second red aligator clops (one with no black dot) will be placed on the electrode located outer cathus. 
-
-The black colored aligator clips will be placed on the "Ground" electrodes.(located behind the ear)
-
-Don't see the black dot? 
-  No worries! Just place your red clips randomly and black on the behind the ear. We will show how to check the correct placement later.  
+Troubleshooting: Identifying the Clips Without a Black Dot
+  If you don't see a black dot, don't worry. You can place the red clips randomly and the black clip behind the ear. We'll guide you on how to verify the correct placement later.
 
 Pro Tip:
-  If you don't see the black dot or you got confuse which one is which, you can always check with device that allows to to check the connectivity of electric flow. For example: Digital Multimeter(DMM).
+If you're unsure about the clips or can't find the black dot, use a device to check the electrical connectivity, such as a Digital Multimeter (DMM). Follow these steps to identify the clips:
 
-  Here are the instructions if you are interested: 
-  
-  1. Grab positive cable (usually a red colored) and clip the red aligator clip.
-  2. Grab negative cable (usually a black colored) and slides over the audio jack port
-  3. If you have done it correctly, you should be able to know which part of the audiojack port corresponds to the red aligator tip. (In case of DMM, you would hear the sound of beep)
-  4. If the device signals you at the edge of audiojack, this will BE a black-dotted red aligator clip. (Also known as inverting input voltage) Therefore, it should be placed at bottom of the eye.
-  5. If the device signals you at the middle of audiojack this will NOT BE a black-dotted red aligator clip. (Also known as non-inverting input voltage) Therefore, it should be placed at outer cathus of the eye.
+Using a Digital Multimeter (DMM):
+
+Positive Cable: Attach the positive cable (usually red) to one of the red alligator clips.
+Negative Cable: Connect the negative cable (usually black) to the audio jack port on the device.
+
+Checking Connectivity:
+Edge of Audio Jack: If the DMM beeps when the positive cable is connected to the edge of the audio jack, this is the black-dotted red alligator clip (inverting input voltage). Therefore, it should be placed below the eye.
+Middle of Audio Jack: If the DMM beeps when the positive cable is connected to the middle of the audio jack, this is the non-black-dotted red alligator clip (non-inverting input voltage). Therefore, it should be placed on the outer canthus of the eye.
+Using these methods will ensure that your alligator clips are correctly placed, leading to accurate eye blink detection.
 
 ## Prepare Preprocessing ##
-Take out your Micro:Bit, insert into Neruo:Bit, and connect Cable to the Neuro:Bit, now you are ready to do some code!
+1. Setup:
+   
+Take out your Micro:Bit.
+Insert it into the Neuro:Bit.
+Connect the cable to the Neuro:Bit.
 
-For this project, step for preprocessing is going to be very crusial. Therefore, please follow the instruction carefully.
+2. Using the Online Python Editor:
 
-First, we will going to use an online Python editor provided by the Micro:Bit. You can access directly from [here](https://python.microbit.org/v/3).
+We will use the online Python editor provided by Micro:Bit. You can access it directly from [here](https://python.microbit.org/v/3).
 
-Paste the following code to the editor.
+3. Install the Program:
+
+Ensure that the power of the Neuro:Bit is turned off. This is important to prevent potential issues.
+
+Download and flash the program to the Micro:Bit:
+  Paste the code below to the editor
+  Connect your Micro:Bit to your computer via USB.
+  Click on the download
+  This should download the program to Micro:Bit.
 
 ```py title="EOG-Preprocessing"
 from microbit import *
@@ -125,35 +142,71 @@ T_avg = sum(T) / size
 display.show(Image.DIAMOND)
 ```
 
-At this point, your program is ready to installed. However, please always make sure that your Neuro:Bit power is turned off since this may cause some issues later on.
-After successfull installation of the program, within 3 seconds, please unplug the USB connector from the Micro:Bit. If you powered off the Neuro:Bit earlier, then there should be no LED lights displayed on the Micro:Bit screen.
-Also, make your your Neuro:Bit switch (on the back) is in "ECG" mode. 
+4. Post-Installation:
+
+After a successful installation, within 3 seconds, unplug the USB connector from the Micro:Bit.
+If you turned off the Neuro:Bit earlier, there should be no LED lights displayed on the Micro:Bit screen.
+Ensure that the Neuro:Bit switch (on the back) is in "ECG" mode.
 
 ## Begin Preprocessing ##
-Now, that your program is installed, it is time for preprocessing!!
-PLEAZE READ ALL instructions before your begin.
+Now that your program is installed, it is time for preprocessing!
 
-1. Turn on the Neuro:Bit
-2. Soon after, you will see GHOST LED appear on your screen
-3. With in few seconds (deafault 3 to 5 seconds) the LED will change to HEART. Once you see the HEART, blink as usual.
-4. Repeat this until the DIAMOND LED appears on the screen.
+PLEASE READ ALL INSTRUCTIONS BEFORE YOU BEGIN.
+
+1. Turn on the Neuro:Bit:
+
+2. Switch on the Neuro:Bit device.
+Ghost LED:
+Soon after powering on, you will see a GHOST LED appear on your screen.
+
+Heart LED:
+Within a few seconds (default is 3 to 5 seconds), the LED will change to a HEART. Once you see the HEART. Please blink as usual.
+
+Repeat Until Diamond LED:
+Continue blinking as usual until the DIAMOND LED appears on the screen.
+
 
 CAUTION:
-  Note that this process is curtial for accurate data aquisition happening later on. Therefore, while the program is running, please make sure your heads  are fixed and eyes focus on the center of screen ALL THE TIME. 
+This process is crucial for accurate data acquisition later on. Therefore, while the program is running, please ensure that:
+
+Your head remains fixed.
+Your eyes stay focused on the center of the screen at all times.
+Following these steps carefully will help ensure the success of your eye blink detection project.
 
 ## Check Preprocessed Data ## :
-As explained previously, if you were not able to figure out the correct placement for red aligtor clips, this is where to check!! 
-  
-  1. After the preprocessing, turn the power of Neuro:Bit off, then using USB cable, connect it with your local computer.
-  2. Open the file explorer, then you should see new  drive call "MICROBIT".
-  3. Naviate yourself to the MICROBIT drive, then you should now see a HTML file named, "MY_DATA"
-  4. Double click to open it, then click "Open Visual Preview"
-  5. Compare with figure below. Does the shape of greeen looks similar? If so, you are in good shape!! If not, flip your red aligator clips and try again!!
-  6. If it is still not working, please check your electrode placement, aligator clips placement, Neuro:Bit switch (ECG mode) and try again.
+As explained previously, if you were not able to figure out the correct placement for the red alligator clips, this is where to check!
+
+1. Connect Neuro:Bit to Your Computer:
+After the preprocessing, turn off the power of the Neuro:Bit.
+Using a USB cable, connect the Neuro:Bit to your local computer.
+
+2. Open File Explorer:
+Open the file explorer on your computer.
+You should see a new drive named "MICROBIT".
+
+3. Navigate to MICROBIT Drive:
+Navigate to the MICROBIT drive.
+You should see an HTML file named "MY_DATA".
+
+4. Open Visual Preview:
+Double-click the "MY_DATA" file to open it.
+Click on "Open Visual Preview".
+
+5 Compare Data:
+Compare the displayed data with the figure below. Does the shape of the green line look similar? If so, you're in good shape!
+If not, flip your red alligator clips and try again.
+
+Troubleshooting:
+If it is still not working, please check:
+- Your electrode placement.
+- Alligator clips placement.
+- Neuro:Bit switch (ensure it's in ECG mode).
+
+Try again after making these adjustments.
 
 
 ## Prepare Real-Time Blink Aquisition ##
-Good job for making this far!! Now that you have good preprocessed data, it is time to move on to real-time blink  aquisiton!!
+Great job getting this far! Now that you have your preprocessed data ready, it's time to move on to real-time blink acquisition.
 
 BENEATH the program for preprocessing, paste the code below.
 
@@ -214,10 +267,33 @@ while real_time_recording:
 
 display.show(Image.DIAMOND)
 ```
-
-Now you should have all the program to run the everything, including the preprocessing. 
+Now you should have a complete program that includes everything you need to run the entire process, from preprocessing to real-time blink acquisition.
 
 ## Begin Real-Time Blink Aquisition ##
 
-  
+Before running the real-time aquisition, you must go through the preprocessing every time. After that is done, you will see a SMILEY FACE appear on your screen. This is indicating that preproccessing is over and ready to test your blink!!
+
+If everything was done correctly, you should see blip of SAD FACE appear on the screen. 
+
+## Tips for improvement ##
+As this projects reslult varies due to many factors can influence, I decided to put some tips you can make to imporve the results.
+
+If you are seeing or not seeing SAD FACE when it supposed to be, below is few things you can try
+
+- Adjust NCC (Normalized Cross Correlation) threshold
+  At the end of the code, you should see the line,
+  ```py title="NCC"
+  if NCC > 0.5:
+  ```
+  The general rule is, if the threshold (0.5) is higher, harder for the detection to occur and vice verse. Therefore, you should make this threshold to be higher if you see too many false posives (seeing SAD FACE when it shouldn't) and lower if you see too many true negatives (not seeing SAD FACE when it shouldn't)
+  The range of value is -1 to 1 but I reccomend not to adjust threshold lower than 0.4
+
+- Change number of blinks in preproccessing stage
+  This is to imporve the preproccessing accuraccy. By default, you blink five times before beggining real-time data aquisition. You can increase or decrease the number by assigning different value at,
+  ```py title="set trials"
+  set_trials = 5 #Modify set_trials to change number of blink tirals
+  ```
+  Usually, more data is better, however I reccomend to have it less than 10 times.
+
+  Lastly, please note that there is no perfect data processing in real time. Regardless of adjustment, there would be false data as eye movement are very precise. It is better to keep in mind too many adjustment may cause the result to be worse than previous and do the adjustment one by one.
 

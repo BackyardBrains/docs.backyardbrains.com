@@ -1,6 +1,5 @@
-
 ---
-id: usb-communication-with-spikerbox
+sidebar_position: 1
 title: Guide for USB Communication with SpikerBox
 sidebar_label: USB Communication Guide
 ---

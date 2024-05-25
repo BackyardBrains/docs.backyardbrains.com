@@ -4,7 +4,26 @@ sidebar_label: Muscle SpikerShield
 ---
 # Muscle SpikerShield #
 
-![image](./MuscleSpikershield.jpg)
+![image](./diagram.png)
+
+## Getting Started ##
+
+First, connect the Arduino to a power source using the blue USB cable
+
+Now peel the back of the sticker-electrodes and place three of them on your muscle (arm, leg, jaw, etc.). If you choose your biceps, you can do it like shown in the picture below
+
+![muscle electrode placement](./muscleElectrodes.png)
+
+Connect the EMG leads to the electrode pads and flex as hard as you can! Watch the LEDs decode your EMG activity.
+
+The code on the Arduino is already preloaded so you can controll LEDs, but you can come up with your own experiments and write your own code. Control a light in the house with a move of the leg? or perform a left mouse click by blinking? Why not play packman using your jaw?
+
+Check out our [experiment pages](https://backyardbrains.com/experiments/) for more detailed instructions
+
+Try writing your own code and upload it using the Arduino IDE software.
+
+
+You can also record and analize your EMG by connecting to our [Spike Recorder software](../../Software/SpikeRecorder/)
 
 
 ## Technical Specifications ##

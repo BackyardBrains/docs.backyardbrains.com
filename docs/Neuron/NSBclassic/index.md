@@ -7,6 +7,37 @@ sidebar_label: Neuron SpikerBox Classic
 
 ![nsb classic](nsbc.jpeg)
 
+## Getting Started ##
+
+Below are some basic setup steps for recording action potentials, for more advanced aplications, check out [our experiment pages](#experiments)
+
+![anestetize](./roach1.png)
+
+First anesthetize the Cockroach. Put it in a jar of ice water. Wait a few minutes until it stops moving.  
+
+![surgery](./roach2.png)
+
+Neurosurgery! Remove the cockroach from ice, and cut off one of his legs near the body.
+
+![place](./3.png)
+
+Place the leg on the cork of your SpikerBox, allowing a bit of the leg to overhang, like this.
+
+![electrodes](./4.png)
+
+And put the two electrodes in. It doesn’t matter which pins are where.
+
+![spikes](./5.png)
+
+Turn your SpikerBox on! If you hear a popcorn sound, congratulations, you have just heard the spikes from your first neurons!  
+Now let’s see what the electrical discharge looks like. Plug in the cable from the SpikerBox into your smartphone computer and connect to the [Spike Recorder app](../../Software/SpikeRecorder/)
+
+
+Inside of Spike Recorder zoom into the spikes by using the scroll wheel on a computer, or by using a horizontal reverse pinch motion on a smartphone. You will see something like this:
+
+![single spike](./6.png)
+
+This is due to ion channels opening and closing in the neurons, causing a spike, or Action Potential.
 
 ## Technical Specifications ##
 

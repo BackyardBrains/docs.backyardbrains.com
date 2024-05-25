@@ -8,6 +8,32 @@ sidebar_label: Heart and Brain SpikerBox
 ![image](./HeartAndBrainSpikerBox-bundle.jpg)
 
 
+## Getting Started ##
+
+Decide which experiment you want to do and gather all the required materials for it.
+
+Below are some basic setup steps for recording ECG and EEG, for more advanced aplications, check out [our experiment pages](#experiments)
+
+For the EKG experiment, it works best to place two patch electrodes on the inner wrists and one patch electrode as a ground on the back of the hand.
+
+![EKG placement](./EKG_placement.png)
+
+For EEG, place the headband with the metal electrodes on the top back of your head (over the visual cortex). The flat metal part should be making contact with your head, with a dab of electrode gel to increase contact.  
+Place a patch electrode on the bony part behind your ear as a ground.
+
+![EEG placement](./EEG_placement.png)
+
+Plug in the orange electrode cable to the corresponding orange jack at the front of the box.  
+For EKG, the two red leads attach to the electrodes inside the wrists, and the black on the  back of the hand.  
+For EEG, the two red leads attach to the clips on the headband, and the black ground behind the ear.  
+
+![setup](./setup.png)
+
+Power the Heart & Brain SpikerBox on with a 9V battery, and turn on the red switch at the front of the SpikerBox.   
+If you are using a smartphone or tablet, plug the green smartphone cable into the green output jack to connect the Heart & Brain SpikerBox.  
+If recording on a computer, plug the blue USB cable into the metal port on the back of the board to connect.  
+Open SpikeRecorder on your device.
+
 ## Technical Specifications ##
 
 |||

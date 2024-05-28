@@ -87,6 +87,7 @@ Decide how you want to interact with your music. Whether it's through buttons, L
 
 ![10.input.png](./10.input.png)
 
+Here we see the EMG and Y variables.
 
 ![11.input.png](./11.input.png)
 

@@ -7,6 +7,14 @@ sidebar_label: NeuroConducting Baton
 
 ![Conduct Music with Your Mind and Body](./nc_Title.png)
 
+
+|     |       |
+|--------------|--------------
+| Inventor     | Sofia Andrikou           
+| Micro:Bit IDE     | Block Code
+| Best Location     | Classroom 
+
+
 Welcome to the world of NeuroBaton, where you become the maestro of your own symphony! In this documentation, we'll guide you through the exciting journey of building and programming your conductor baton, harnessing the power of your movements and EMG signals to orchestrate beautiful melodies. Let's dive in and unleash your inner conductor!
 
 # Materials Needed
@@ -78,6 +86,7 @@ Additionally, Microbit provides a library of pre-made musical compositions for y
 Decide how you want to interact with your music. Whether it's through buttons, LED displays, or the magic of EMG signals, the choice is yours!
 
 ![10.input.png](./10.input.png)
+
 
 ![11.input.png](./11.input.png)
 

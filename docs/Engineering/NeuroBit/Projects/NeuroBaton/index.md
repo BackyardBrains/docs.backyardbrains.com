@@ -3,41 +3,60 @@ sidebar_position: 2
 sidebar_label: NeuroConducting Baton
 ---
 
-![PenguinConductor.gif](./PenguinConductor.gif)
+# neuro:baton - Conduct Music with Your Mind and Body
 
+![Conduct Music with Your Mind and Body](./nc_Title.png)
 
-# NeuroBaton: Conducting Music with Your Body and Mind
 Welcome to the world of NeuroBaton, where you become the maestro of your own symphony! In this documentation, we'll guide you through the exciting journey of building and programming your conductor baton, harnessing the power of your movements and EMG signals to orchestrate beautiful melodies. Let's dive in and unleash your inner conductor!
 
-![2.box.png](./2.box.png)
+# Materials Needed
 
+For this project, you will need some cardboard, paper, pen, tape, and a 3D printer.  You also need a micro:bit and neuro:bit. 
 
-# Building Your Conductor Baton
+# Build Instructions
 
 ## Step 1: Gather Your Materials
-Grab a cardboard sheet and use the provided template to cut out the shape of the base of your NeuroBaton. Let your creativity flow as you decorate it with colors, patterns, or anything that reflects your musical personality!
+Grab a cardboard sheet and use the provided template to cut out the shape of the base of your NeuroBaton. 
 
-![3.box.png](./3.box.png)
+![Materials Needed](./nc_01_materials.png)
 
-![4.box.png](./4.box.png)
+## Step 2: Cut out 
 
-![5.box.png](./5.box.png)
+Print out a PDF of our [baton outline](./nc_baton_trace.pdf) and trace it on the cardboard (include the dotted lines).
+
+![Trace the outline of your baton](./nc_02_trace.png)
+
+Then cut ir out with scissors.
+
+![](./nc_03_trace.png)
+
+## Step 3: Fold and Decorate the Baton Holder
+
+Fold up the cardboard to firt snuggly around the micro:bit.  Then add some tape to the top to hold it in place, and give it some character. 
+
+![Fold and Decorate the Baton Holder](./nc_04_fold.png)
 
 
+## Step 4: Final Assembly of your neuro:baton
 
 
-## Step 2: Assemble Your NeuroBaton
-Place the baton tip on top of the base. You can choose to secure it firmly with glue or tape, or leave it loose for a more dynamic feel. Let it rest while we delve into the exciting world of music creation!
+You can download the [STL File for 3D priting your own baton here](./batonTest1.stl).  Print the baton and place the baton tip on top of the base.
 
-## Step 3: Combose the Music you will Conduct, choose the orchestra!
+![](./nc_05_final.png)
+
+ You can choose to secure it firmly with glue or tape, or leave it loose for a more dynamic feel. 
+ 
+Let your creativity flow as you decorate it with colors, patterns, or anything that reflects your musical personality!  
+
+Once youre ready, let it rest while we delve into the exciting world of music creation!
 
 
-## Harnessing Microbit's Power
+# Programming Your Baton
+
 With Microbit's intuitive interface, the possibilities for musical exploration are endless. Let's explore how you can program your baton's brain to create and control captivating melodies.
 
-# 1. Select Your Music
+## 1. Select Your Music
 Choose between Music, Melody, or Synthesize to kickstart your composition journey.
-
 
 ![6.music.png](./6.music.png)
 
@@ -55,17 +74,17 @@ or explore the ethereal sounds of sine waveforms:
 
 Additionally, Microbit provides a library of pre-made musical compositions for your convenience.
 
-# 2. Define Your Controls
+## 2. Define Your Controls
 Decide how you want to interact with your music. Whether it's through buttons, LED displays, or the magic of EMG signals, the choice is yours!
 
 ![10.input.png](./10.input.png)
 
 ![11.input.png](./11.input.png)
 
-# 3. Conduct Your Orchestra
+## 3. Conduct Your Orchestra
 Feel the thrill of conducting with your body as you control the tempo and volume of your music. With NeuroBaton, every movement becomes a symphonic gesture.
 
-# 4. Add Personal Touches
+## 4. Add Personal Touches
 Customize your experience by incorporating features like DJ board melodies, piano-based compositions, or even experimental sine waveform sounds. Let your imagination soar!
 
 
@@ -80,7 +99,6 @@ Flex your muscles to speed up the tempo and infuse your music with vibrant energ
 
 ## Volume Adjustment
 Tilt your NeuroBaton up or down to control the volume, creating crescendos and diminuendos with graceful movements.
-
 
 
 ![12.code.png](./12.code.png)
@@ -112,5 +130,3 @@ Share your creations with fellow music enthusiasts, collaborate on projects, and
 # Conclusion
 Congratulations on embarking on this exhilarating musical adventure with NeuroBaton! With the power of technology and the artistry of your movements, the world of music is yours to conduct. Let the symphony begin!
 
-
-You can download the [STL File for 3D priting your own baton here](./batonTest1.stl)

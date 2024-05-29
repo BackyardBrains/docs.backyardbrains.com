@@ -83,13 +83,43 @@ or explore the ethereal sounds of sine waveforms:
 Additionally, Microbit provides a library of pre-made musical compositions for your convenience.
 
 ## 2. Define Your Controls
-Decide how you want to interact with your music. Whether it's through buttons, LED displays, or the magic of EMG signals, the choice is yours!
 
-![10.input.png](./10.input.png)
+To master your Neurobaton and become a skilled conductor, you need to empower it with some control options. Decide how you want to interact with your music. Whether it's through buttons, LED displays, or the magic of EMG signals, the choice is yours!
 
-Here we see the EMG and Y variables.
+In this example, we’ll use the strength of our muscles to control the music's tempo, and use vertical movements to adjust the volume.
+
+Here's how it works:
+
+###Muscle Power for Tempo: 
+We'll use an EMG (electromyogram) connected to your hand muscles, as detailed in the Human SpikerBox documentation under EMG. 
+When you flex your muscles, it sends a signal to the EMG variable, allowing you to control the tempo of the music.
+
+###Motion for Volume:
+The microbit has an accelerometer, which is a sensor that detects movement and orientation. We'll utilize the vertical (up and down) motion of your Neurobaton to control the volume. Move it up to increase the volume and down to decrease it.
+
+![image](https://github.com/BackyardBrains/docs.backyardbrains.com/assets/117298723/22d2e600-da62-4a2a-985c-2dde50f77632)
+
+
+By combining these two inputs, you'll have dynamic control over your musical performance, making you a true maestro with the Neurobaton!
+
+Here's how you allign your MEG and y axis inputs to your microbit:
+
+![image](https://github.com/BackyardBrains/docs.backyardbrains.com/assets/117298723/bbe7522f-3711-467c-82a9-48a1a30bfbfa)
+
+
+And here we can we see the EMG and Y variables. Remember that it is always important to check how the signals appear in time for validation.
 
 ![11.input.png](./11.input.png)
+
+
+Another cool feature you can add is the ability to stop all the music by turning your Neurobaton upside down, just like signaling your orchestra to pause. Similar to how we use the y-axis for volume control, we can use the z-axis for this stop function (by cheking when the z valus are positive).
+
+![image](https://github.com/BackyardBrains/docs.backyardbrains.com/assets/117298723/2cd552a2-ae23-4ace-8c0d-c3067ae9d921)
+
+
+
+
+The control possibilities are endless—this is just one suggestion to get you started.
 
 ## 3. Conduct Your Orchestra
 Feel the thrill of conducting with your body as you control the tempo and volume of your music. With NeuroBaton, every movement becomes a symphonic gesture.

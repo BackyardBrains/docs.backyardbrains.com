@@ -141,6 +141,9 @@ Flex your muscles to speed up the tempo and infuse your music with vibrant energ
 Tilt your NeuroBaton up or down to control the volume, creating crescendos and diminuendos with graceful movements.
 
 
+
+The following code brings together everything we've discussed. Feel free to experiment, modify it, and add more features and controls to make it your own.
+
 ![12.code.png](./12.code.png)
 
 # Unleash Your Creativity

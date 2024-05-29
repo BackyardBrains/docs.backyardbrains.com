@@ -15,7 +15,7 @@ sidebar_label: NeuroConducting Baton
 | Best Location     | Classroom 
 
 
-Welcome to the world of NeuroBaton, where you become the maestro of your own symphony! In this documentation, we'll guide you through the exciting journey of building and programming your conductor baton, harnessing the power of your movements and EMG signals to orchestrate beautiful melodies. Let's dive in and unleash your inner conductor!
+Welcome to the neuro:baton, the only device where you can conduct your own symphony with EMG!  These instructions will guide you through the process of building and programming your baton, harnessing the power of your movements and EMG signals to orchestrate beautiful melodies. Let's dive in and unleash your inner conductor!
 
 # Materials Needed
 
@@ -24,6 +24,7 @@ For this project, you will need some cardboard, paper, pen, tape, and a 3D print
 # Build Instructions
 
 ## Step 1: Gather Your Materials
+
 Grab a cardboard sheet and use the provided template to cut out the shape of the base of your NeuroBaton. 
 
 ![Materials Needed](./nc_01_materials.png)
@@ -45,23 +46,21 @@ Fold up the cardboard to firt snuggly around the micro:bit.  Then add some tape 
 ![Fold and Decorate the Baton Holder](./nc_04_fold.png)
 
 
-## Step 4: Final Assembly of your neuro:baton
+## Step 4: 3D Print and Final Assembly
 
-
-You can download the [STL File for 3D priting your own baton here](./batonTest1.stl).  Print the baton and place the baton tip on top of the base.
+What makes a conductors baton is the baton!  So we will 3D print the baton and place it on top of the base.  You can download the [STL File for 3D priting your own baton here](./batonTest1.stl).  
 
 ![](./nc_05_final.png)
 
- You can choose to secure it firmly with glue or tape, or leave it loose for a more dynamic feel. 
+You can firmly secure with glue or tape, or leave it a bit loosey-gooesy for a more dynamic feel. 
  
 Let your creativity flow as you decorate it with colors, patterns, or anything that reflects your musical personality!  
 
 Once youre ready, let it rest while we delve into the exciting world of music creation!
 
-
 # Programming Your Baton
 
-With Microbit's intuitive interface, the possibilities for musical exploration are endless. Let's explore how you can program your baton's brain to create and control captivating melodies.
+Now that your baton is built, we need to to produce music. With Microbit's many options, the possibilities for musical exploration are endless. Let's explore how you can program your baton's brain to create and control captivating melodies.
 
 ## 1. Select Your Music
 Choose between Music, Melody, or Synthesize to kickstart your composition journey.
@@ -84,99 +83,74 @@ Additionally, Microbit provides a library of pre-made musical compositions for y
 
 ## 2. Define Your Controls
 
-To master your Neurobaton and become a skilled conductor, you need to empower it with some control options. Decide how you want to interact with your music. Whether it's through buttons, LED displays, or the magic of EMG signals, the choice is yours!
+A skilled conductor controls an entire orchestra with simple hand and baton gestures.  We can do the same for the neuro:baton, but now we can be more creative with how we can control music.  Whether it's through buttons, acceleometer or the magic of EMG signals, the choice is yours!
 
-In this example, we’ll use the strength of our muscles to control the music's tempo, and use vertical movements to adjust the volume.
+In this example, we’ll use the strength of our muscles' EMG to control the music's tempo, and use vertical movements to adjust the volume.  Let's see how it works, exactly.
 
-Here's how it works:
+### Muscle EMG for Tempo: 
 
-### Muscle Power for Tempo: 
-We'll use an EMG (electromyogram) connected to your hand muscles.
-When you flex your muscles, it sends a signal to the EMG variable, allowing you to control the tempo of the music.
+We'll use an EMG (electromyogram) connected to your forearm muscles.  For more information on how to connect the neuro:bit to your muscles, see [Getting Started with Block](https://docs.backyardbrains.com/Engineering/NeuroBit/Block/) under "Connecting Muscles to Read an EMG Signal".  The forearm was chosen as these muscles get activating when conducting.
 
-![image](https://github.com/BackyardBrains/docs.backyardbrains.com/assets/117298723/c18121f9-56c7-4cfd-9bd4-7ce0d96f1818)
-
-For more information on how to connect the NeuroBit to your muscles, see [Getting Started with Block](https://docs.backyardbrains.com/Engineering/NeuroBit/Block/) under "Connecting Muscles to Read an EMG Signal"
-
+When you flex your muscles to raise the baton, the EMG increases. By reading the EMG values into a variable, we can use it to control the tempo of the music.
 
 ### Motion for Volume:
-The microbit has an accelerometer, which is a sensor that detects movement and orientation. We'll utilize the vertical (up and down) motion of your Neurobaton to control the volume. Move it up to increase the volume and down to decrease it.
 
-![image](https://github.com/BackyardBrains/docs.backyardbrains.com/assets/117298723/22d2e600-da62-4a2a-985c-2dde50f77632)
+The micro:bit has a built in accelerometer, which is a sensor that detects movement and orientation. We'll utilize the vertical (up and down) motion of your neuro:baton to control the volume.  Given the oreintation of the baton in your hand, the Y axis responds well to raising and lowering the baton in the air (similar to a conductor).  We will therefor use that to increase the volume and down to decrease it.
 
+![microbit accelerometers](./nc_10a_accell.png) 
 
-By combining these two inputs, you'll have dynamic control over your musical performance, making you a true maestro with the Neurobaton!
+By combining these two inputs, you'll have dynamic control over your musical performance, making you a true maestro with the neuro:baton!
 
-Here's how you allign your MEG and y axis inputs to your microbit:
+Here's how you read in your EMG and y axis variables on your microbit:
 
-![image](https://github.com/BackyardBrains/docs.backyardbrains.com/assets/117298723/313ce1f9-e7fd-4b81-9d56-f1453b239db1)
+![microbit accelerometers](./10.input.png) 
 
-
-
-And here we can we see the EMG and Y variables. Remember that it is always important to check how the signals appear in time for validation.
+The last 2 serial blocks allow communication to the host which allows us to see the EMG and Y variables in real time.  You should check what the values are as we will use these numnbers to control.  Most of youyr time will be spent adjusting the program to respond to the right values in these signals.  It is always important to see how the signals appear when you are using the baton.  Below is a trace of 2 vairables during the conducting of a song.
 
 ![11.input.png](./11.input.png)
 
+## 3. Putting it all together
 
-Another cool feature you can add is the ability to stop all the music by turning your Neurobaton upside down, just like signaling your orchestra to pause. Similar to how we use the y-axis for volume control, we can use the z-axis for this stop function (by cheking when the z valus are positive).
+The code below encapsulates the essence of neuro:baton, mapping EMG signals and accelerometer data to tempo and volume control.  In a while loop, we will add the ability to update the music based on our control variables.  Add the music to the bottom, and adjust the volume and tempo on each pass through the loop. 
 
-![image](https://github.com/BackyardBrains/docs.backyardbrains.com/assets/117298723/2cd552a2-ae23-4ace-8c0d-c3067ae9d921)
+![All of the code](./nc_13_code.png)
 
+Another cool feature you can add is the ability to stop all the music by turning your neuro:baton upside down, just like when a conductor signals to the orchestra to pause. Similar to how we use the y-axis for volume control, we can add a z-axis varible and use it to stop all melodies. All that needs to be done is to see how the z variable behaves when you perform that action.
 
+![12.z_stop.png](./nc_12_z.png)
 
+# Using the neuro:baton 
 
-The control possibilities are endless—this is just one suggestion to get you started.
+Now it is time for your big performance.  Unplug from the computer and turn it on to start the music!  Flex your wrist muscles to dictate the tempo and add dynamic flair to your performance.  The more you flex your muscles, the faster the music goes!  This can be done from either the hand that holds the baton, or from your free hand... regardless the power of EMG is at your fingertips!
 
-## 3. Conduct Your Orchestra
-Feel the thrill of conducting with your body as you control the tempo and volume of your music. With NeuroBaton, every movement becomes a symphonic gesture.
+Lift your baton up to creating crescendos and lower to provide diminuendos with graceful movements.
 
-## 4. Add Personal Touches
-Customize your experience by incorporating features like DJ board melodies, piano-based compositions, or even experimental sine waveform sounds. Let your imagination soar!
-
-
-# Putting It All Together
-The code below encapsulates the essence of NeuroBaton, mapping EMG signals and accelerometer data to tempo and volume control. With a flick of your wrist, you can pause the music or reignite the symphony, just like a conductor commanding an orchestra. Don't panic, move your NeuroBaton facing up again and the music will restart!
-
-## Embracing EMG Technology
-With EMG sensors, your NeuroBaton becomes an extension of your musical expression. By simply moving your hand, you can dictate the tempo and add dynamic flair to your performance.
-
-## Tempo Control
-Flex your muscles to speed up the tempo and infuse your music with vibrant energy. Whether you're holding the baton or using your free hand, the power of EMG is at your fingertips.
-
-## Volume Adjustment
-Tilt your NeuroBaton up or down to control the volume, creating crescendos and diminuendos with graceful movements.
+With a flick of your wrist, you can pause the music or reignite the symphony, just like a conductor commanding an orchestra. Don't panic, move your NeuroBaton facing up again and the music will restart!
 
 
-## Complete Code Example: Customize and Expand Your Neurobaton
+# Customize and Make it Your Own! 
 
-The following code brings together everything we've discussed. Feel free to experiment, modify it, and add more features and controls to make it your own.
+You can customize your experience by incorporating features like DJ board melodies, piano-based compositions, or even experimental sine waveform sounds. Use the buttons to switch the music in realtime.  Let your imagination soar!
 
-![12.code.png](./12.code.png)
+You can even explore some more innovative ideas like using other body signals for control.  Here is a short list of possibilities:
 
-# Unleash Your Creativity
+### Heartbeat Drumming Experience
+Use EKG (Electrocardiogram) signals to synchronize your heartbeat with rhythmic drumbeats, turning your neuro:baton into a heart-powered percussion instrument.
 
-## Beyond the Baton
-Explore innovative ideas like using EKG signals to synchronize your heartbeat with drumbeats, turning your body into the ultimate percussion instrument.
-
-## 1. Heartbeat Drumming Experience
-Utilize EKG (Electrocardiogram) signals to synchronize your heartbeat with rhythmic drumbeats, turning your NeuroBaton into a heart-powered percussion instrument.
-
-## 2. Dance Choreography Integration
+### Dance Choreography Integration
 Combine the art of dance with music by mapping specific dance moves to trigger different musical elements. Imagine choreographing a routine where each step or gesture influences the melody, rhythm, or even lighting effects for a multimedia performance.
 
-## 3. Gesture-Based Composition
+### Gesture-Based Composition
 Create a library of hand gestures or body movements, each assigned to a musical note, chord, or sound effect. By interpreting these gestures in real-time, you can compose music on the fly, turning any space into a symphonic playground.
 
-## 4. Interactive Storytelling
+### Interactive Storytelling
 Transform your NeuroBaton into a narrative device, where each movement advances the storyline through sound effects, voiceovers, or musical cues. Invite participants to engage in immersive storytelling experiences, where their actions shape the unfolding narrative.
 
-## 5. Collaborative Jam Sessions
+###  Collaborative Jam Sessions
 Connect multiple NeuroBaton devices wirelessly to facilitate collaborative jam sessions among friends, family, or even strangers. Each participant can control different musical layers or instruments, fostering creativity, teamwork, and spontaneous musical exploration.
 
-
-## Collaborate and Inspire
-Share your creations with fellow music enthusiasts, collaborate on projects, and inspire others to embark on their own musical journeys with NeuroBaton.
+Share your creations with fellow music enthusiasts, collaborate on projects, and inspire others to embark on their own musical journeys with neuro:baton.
 
 # Conclusion
-Congratulations on embarking on this exhilarating musical adventure with NeuroBaton! With the power of technology and the artistry of your movements, the world of music is yours to conduct. Let the symphony begin!
+Congratulations on embarking on this exhilarating musical adventure with neuro:baton! With the power of technology and the artistry of your movements, the world of music is yours to conduct. Let the symphony begin!
 

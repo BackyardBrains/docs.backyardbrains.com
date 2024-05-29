@@ -91,10 +91,12 @@ In this example, we’ll use the strength of our muscles to control the music's 
 Here's how it works:
 
 ### Muscle Power for Tempo: 
-We'll use an EMG (electromyogram) connected to your hand muscles, as detailed in the Human SpikerBox documentation under EMG. 
+We'll use an EMG (electromyogram) connected to your hand muscles.
 When you flex your muscles, it sends a signal to the EMG variable, allowing you to control the tempo of the music.
 
 ![image](https://github.com/BackyardBrains/docs.backyardbrains.com/assets/117298723/c18121f9-56c7-4cfd-9bd4-7ce0d96f1818)
+
+For more information on how to connect the NeuroBit to your muscles, see [Getting Started with Block](https://docs.backyardbrains.com/Engineering/NeuroBit/Block/) under "Connecting Muscles to Read an EMG Signal"
 
 
 ### Motion for Volume:

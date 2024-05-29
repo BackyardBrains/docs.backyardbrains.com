@@ -37,6 +37,17 @@ You can also record and analize your EMG by connecting to our [Spike Recorder so
 
 The inputs and outputs can be customized by uploading custom firmware to the Arduino UNO board.
 
+## Experiments ##
+
+[Using the Muscle SpikerShield](https://backyardbrains.com/experiments/emgspikershield)   
+[Controlling a Light Bar in an LCD](https://backyardbrains.com/experiments/MuscleSpikerShield_LCD)   
+[Controlling a Stepper Motor](https://backyardbrains.com/experiments/MuscleSpikerShield_StepperMotor)   
+[Controlling a Gripper Hand](https://backyardbrains.com/experiments/MuscleSpikerShield_GripperHand)   
+[Getting Started with Electromyograms (EMGs)](https://backyardbrains.com/experiments/emgspikerbox)   
+[Muscle Action Potentials](https://backyardbrains.com/experiments/muscleActionPotential)   
+[Muscle Contraction and Fatigue](https://backyardbrains.com/experiments/fatigue)   
+[Modeling Muscle Fatigue](https://backyardbrains.com/experiments/rateoffatigue)   
+
 ## Stacking ##
 
 One Muscle SpikerShield can measure one channel of EMG.

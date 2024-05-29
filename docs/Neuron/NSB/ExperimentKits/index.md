@@ -9,10 +9,18 @@ Pic
 
 ## How many should I order for my classroom? ## 
 
+| Item | Amount in One Kit|
+|----------|----------|
+| MSG | 0.1g|
+| Cigarette | 1 |
+| Syringes | 15 |
+| Falcon tube | 3 |
+| Saline Solution | 25mL |
+
 This kit includes enough syringes to do the experiment in five groups. 
 A classroom of 15 students would be separated into five groups of three, as each group needs three syringes. 
 
-# Descrption #
+# Description #
 
 Engage your students with a hands-on neuropharmacology experiment that explores the effects of nicotine and MSG (glutamate) on cricket neuronal activity. By injecting crickets with these substances and observing their neuronal responses, students gain practical experience with key scientific concepts. This experiment demonstrates how different neurotransmitters influence neuronal communication, providing insights into the roles of inhibitory and excitatory neurotransmitters. The kit includes all necessary materials and easy-to-follow instructions, making it simple for teachers to implement. Designed to align with curriculum standards, this interactive activity helps students understand complex biological processes in an accessible and engaging way
 
@@ -51,7 +59,7 @@ Watch the Neuronal Response:
   When injecting just saline you expect to see no changing in spiking behaviors
   Record any changes in spike frequency or patterns after injection.
 
-Safety and Ethical Stuff
+Safety and Ethics
   Wear gloves and safety goggles when preparing and injecting solutions.
   Dispose of syringes and biological materials properly.
 Be Kind to Crickets:

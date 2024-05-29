@@ -3,18 +3,18 @@ sidebar_position: 1
 sidebar_label: Getting Started with Block 
 ---
 
-# Getting Started with Neuro:Bit Block Programming #
+# Getting Started with neuro:bit Block Programming #
 
 ## Overview ##
 
-In this example, we will read in the EMG signal from the Neuro:Bit and display it on the Micro:Bit.  You will need a Neuro:Bit with a Micro:Bit connected to the front slot, some large motor electrodes, and a USB and electrode cable.
+In this example, we will read in the EMG signal from the neuro:bit and display it on the micro:bit.  You will need a neuro:bit with a micro:bit connected to the front slot, some large motor electrodes, and a USB and electrode cable.
 
 ## Software Setup ##
-We will use the [Make Code editor](https://makecode.microbit.org/) developed by Microsoft for Micro:Bit to program our Brain Machine Interfaces.  Navigate to the Make Code website and click on the "New Project" button.
+We will use the [Make Code editor](https://makecode.microbit.org/) developed by Microsoft for micro:bit to program our Brain Machine Interfaces.  Navigate to the Make Code website and click on the "New Project" button.
 
 ![Add a Block Variable]( ./blk_newProject.png)
 
-Give your project a name and click "Create".  This will let you into the code editor.  You will see the Micro:Bit, code block palette, and a workspace.  You can add blocks to the project by dragging them from the center section to the workspace on the right.
+Give your project a name and click "Create".  This will let you into the code editor.  You will see the micro:bit, code block palette, and a workspace.  You can add blocks to the project by dragging them from the center section to the workspace on the right.
 
 ![Add a Block Variable]( ./blk_editor.png)
 
@@ -47,7 +47,7 @@ Place the electrode stickers *along* the muscle you want to read and connect the
 
 ## Read an EMG Signal ##
 
-A good way to start using EMG is to see what the signal looks like.  To do this, we will send the data from the Micro:Bit to the host computer.   Find the Serial tab and drag the "Write Value" block into the "forever" block.  
+A good way to start using EMG is to see what the signal looks like.  To do this, we will send the data from the micro:bit to the host computer.   Find the Serial tab and drag the "Write Value" block into the "forever" block.  
 
 ![Serial Communication]( ./blk_serial.png)
 
@@ -65,7 +65,7 @@ Once the program is downloaded, you can click on "Show Data".  This will plot th
 
 Note that here the EMG signal moves from a value of around 0 to a value around 1000 when flexed. (See values on the right side of the graph).  This range will become important as you start to use this signal within your project.  
 
-From here, you can use standard Micro:Bit code to make the EMG signal do something more interesting.  You can make the Micro:Bit play a sound when the signal is above a certain threshold, or you can make the Micro:Bit move a motor when the signal is below a certain threshold.  The possibilities are endless!  
+From here, you can use standard micro:bit code to make the EMG signal do something more interesting.  You can make the micro:bit play a sound when the signal is above a certain threshold, or you can make the micro:bit move a motor when the signal is below a certain threshold.  The possibilities are endless!  
 
 ## Side Note - MicroPython and JavaScript Editor in MakeCode ##
 

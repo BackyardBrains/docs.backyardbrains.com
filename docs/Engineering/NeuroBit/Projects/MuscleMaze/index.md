@@ -9,11 +9,11 @@ sidebar_label: Muscle Maze
 |     |       |
 |--------------|--------------
 | Inventor     | Teruaki Kimishima             
-| Micro:Bit IDE     | Python Editor
+| micro:bit IDE     | Python Editor
 | Best Location     | Makerspace   
 
 ## Project Overview ##
-Welcome to Muscle Maze!! This project uses two Neuro:Bit with a Micro:Bit to control Maze using both arm muscles. 
+Welcome to Muscle Maze!! This project uses two neuro:bit with a micro:bit to control Maze using both arm muscles. 
 
 ## Materials Needed  ##
 
@@ -24,7 +24,7 @@ To assemble the Muscle Maze, you will need to have the following items.
 3. Laser Cutter or sharp blade. 
 4. 2× CFsunbird 9g micro servo with screws
 5. Tiny ball (small bead or bering) 
-6. 2x [Neuro:Bit kits](../../) with Micro:Bit, electrodes, and cables.
+6. 2x [neuro:bit kits](../../) with micro:bit, electrodes, and cables.
 
 ### Parts ###
 
@@ -63,13 +63,13 @@ You also need to laser cut the following parts (or you can cut out the triangle 
 
 
 ## Preparing Microbit ##
-Refer to "Connecting Muscles to Read an EMG Signal" from our [Getting Started with Neuro:Bit Block Programming](../../Block) page to learn how to record an EMG signal from the arm. You will need two Neuro:Bits, one connected to each the left and right arm.
+Refer to "Connecting Muscles to Read an EMG Signal" from our [Getting Started with neuro:bit Block Programming](../../Block) page to learn how to record an EMG signal from the arm. You will need two neuro:bits, one connected to each the left and right arm.
 
-Connect the two servo motors from Muscle Maze to each Neuro:Bit. See the [The Neuro:Bit](../../) Hardware Overview page for more information on how to connect servos.
+Connect the two servo motors from Muscle Maze to each neuro:bit. See the [The neuro:bit](../../) Hardware Overview page for more information on how to connect servos.
 
-## Programing the Micro:Bit for the Muscle Maze ##
+## Programing the micro:bit for the Muscle Maze ##
 
-To program the Micro:Bit, you can choose from two options: Muscle Maze - "Beginner" and Muscle Maze - "Advanced."
+To program the micro:bit, you can choose from two options: Muscle Maze - "Beginner" and Muscle Maze - "Advanced."
 
 The first option is good for general use cases. The second option is more complex but is more flexible with individual differences in EMG signals.
 
@@ -153,12 +153,12 @@ Connect the Microbit to your computer, then click "download." After this, you sh
 
 ## Operation ##
 
-1. Turn on both Neuro:Bits
-2. (Advance Mode Only) Relax both of your arms and wait 3s for a smiley face to appear on Micro:Bit.   
+1. Turn on both neuro:bits
+2. (Advance Mode Only) Relax both of your arms and wait 3s for a smiley face to appear on micro:bit.   
 3. Contract your muscles to tilt the maze in 2 directions.
 4. Get the ball into the small hole at the end of the maze!
 
-Pressing the "B" Button on the Micro:Bit will pause the maze game from moving.
+Pressing the "B" Button on the micro:bit will pause the maze game from moving.
   
 ## Credits ##
 

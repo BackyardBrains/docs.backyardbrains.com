@@ -3,11 +3,11 @@ sidebar_position: 2
 sidebar_label: Getting Started with Python
 ---
 
-# Getting Started with Neuro:Bit Python Programming #
+# Getting Started with neuro:bit Python Programming #
 
 ## Overview ##
 
-Python is a programming language that can be used with the Neuro:Bit to easily develop Brain Machine Interfaces. It is a powerful language, easy to learn, and a great way to get started with Neuro:Bit.
+Python is a programming language that can be used with the neuro:bit to easily develop Brain Machine Interfaces. It is a powerful language, easy to learn, and a great way to get started with neuro:bit.
 
 ## Software Set-up ## 
 

@@ -3,7 +3,7 @@ sidebar_position: 2
 sidebar_label: NeuroConducting Baton
 ---
 
-# neuro:baton - Conduct Music with Your Mind and Body
+# neuro:baton
 
 ![Conduct Music with Your Mind and Body](./nc_Title.png)
 

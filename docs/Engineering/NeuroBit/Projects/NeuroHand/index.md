@@ -9,13 +9,13 @@ sidebar_label: DIY Neuroprosthetic
 |     |       |
 |--------------|--------------
 | Inventor     | Will Wharton            
-| Micro:Bit IDE     | MakeCode
+| micro:bit IDE     | MakeCode
 | Best Used    | Classroom  
 
 
 
 ## Background ##
-The Neuro:Bit can record the the electrical signals our brain sends to our muscles.  Our [Getting Started in Block](../../Block/) guide shows how we can capture those electrical signals and use them in a Micro:Bit Project.  This project will show you how to use that signals to control a neuroprosthetic hand.  Neuroprosthetics are assistive devices, which are used to help people who have suffered from neurological illness or physical injury. They can also be used to create new and exciting control systems to enhance human ability!
+The neuro:bit can record the the electrical signals our brain sends to our muscles.  Our [Getting Started in Block](../../Block/) guide shows how we can capture those electrical signals and use them in a micro:bit Project.  This project will show you how to use that signals to control a neuroprosthetic hand.  Neuroprosthetics are assistive devices, which are used to help people who have suffered from neurological illness or physical injury. They can also be used to create new and exciting control systems to enhance human ability!
 
 Here you will create your very own Cyborg Hand which you will then control with the electrical systems in your nervous system. But, don't stop there! These same principals can be applied to countless other projects. This is *the exact way* many very advanced neuroprosthetics work today! 
 

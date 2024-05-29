@@ -109,7 +109,8 @@ By combining these two inputs, you'll have dynamic control over your musical per
 
 Here's how you allign your MEG and y axis inputs to your microbit:
 
-![image](https://github.com/BackyardBrains/docs.backyardbrains.com/assets/117298723/bbe7522f-3711-467c-82a9-48a1a30bfbfa)
+![image](https://github.com/BackyardBrains/docs.backyardbrains.com/assets/117298723/313ce1f9-e7fd-4b81-9d56-f1453b239db1)
+
 
 
 And here we can we see the EMG and Y variables. Remember that it is always important to check how the signals appear in time for validation.

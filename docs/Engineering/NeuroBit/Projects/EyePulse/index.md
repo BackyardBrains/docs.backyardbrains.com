@@ -6,7 +6,7 @@ sidebar_label: Eye Pulse
 ![Header](./Header.jpeg)
 
 # Overview #
-Welcome to Project Eye Pulse! Here, you can experiment with real-time eye blink detection. This project utilizes a pair of Micro:Bit and Neuro:Bit devices, leveraging muscle movements around your eyes and EOG (Electrooculography) filtering to detect blinks.
+Welcome to Project Eye Pulse! Here, you can experiment with real-time eye blink detection. This project utilizes a pair of Micro:bit and Neuro:bit devices, leveraging muscle movements around your eyes and EOG (Electrooculography) filtering to detect blinks.
 
 ## Check supplies ##
 To get started with this project, you will need the following materials:
@@ -23,7 +23,7 @@ Proper placement of the electrodes is crucial for accurate detection. Follow the
 2. Second Electrode: Position the second electrode just below the eye on the same side you selected.
 3. Third Electrode (Ground): Place the last electrode behind the ear, on the bony area. This electrode serves as the "Ground" and is essential for reducing noise in the signal.
 
-Make sure all electrodes are placed on the same side of the face for optimal performance.
+Make sure all electrodes are placed on the **same side** of the face and as **close as possible** to the eyes for optimal performance.
 
 ## Connecting right cables to right place ##
 Identifying and Placing the Red Alligator Clips:
@@ -43,7 +43,7 @@ The black alligator clips are to be connected to the "Ground" electrode, which i
 
 If you don't see a black dot, don't worry. You can place the red clips randomly and the black clip behind the ear. We'll guide you on how to verify the correct placement later.
 
-Pro Tip:
+## Additional Tip (optional) ##
 If you're unsure about the clips or can't find the black dot, use a device to check the electrical connectivity, such as a Digital Multimeter (DMM). Follow these steps to identify the clips:
 
 Using a Digital Multimeter (DMM):
@@ -61,19 +61,19 @@ Using these methods will ensure that your alligator clips are correctly placed, 
 
 ## Prepare Preprocessing ##
 1. Setup:  
-- Take out your Micro:Bit.
-- Insert it into the Neuro:Bit.
-- Connect the cable to the Neuro:Bit.
+- Take out your Micro:bit.
+- Insert it into the Neuro:bit.
+- Connect the cable to the Neuro:bit.
 
 2. Using the Online Python Editor:
-We will use the online Python editor provided by Micro:Bit. You can access it directly from [here](https://python.microbit.org/v/3).
+We will use the online Python editor provided by Micro:bit. You can access it directly from [here](https://python.microbit.org/v/3).
 
 3. Install the Program:
-Ensure that the power of the Neuro:Bit is turned off. This is important to prevent potential issue
+Ensure that the power of the Neuro:bit is turned off. This is important to prevent potential issue
 - Paste the code below to the editor
-- Connect your Micro:Bit to your computer via USB.
+- Connect your Micro:bit to your computer via USB.
 - Click on the download
-- This should download the program to Micro:Bit.
+- This should download the program to Micro:bit.
 
 ```py title="EOG-Preprocessing"
 from microbit import *
@@ -147,18 +147,18 @@ display.show(Image.DIAMOND)
 ```
 
 4. Post-Installation:
-After a successful installation, within 3 seconds, unplug the USB connector from the Micro:Bit.
-If you turned off the Neuro:Bit earlier, there should be no LED lights displayed on the Micro:Bit screen.
-Ensure that the Neuro:Bit switch (on the back) is in "ECG" mode.
+After a successful installation, within 3 seconds, unplug the USB connector from the Micro:bit.
+If you turned off the Neuro:bit earlier, there should be no LED lights displayed on the Micro:bit screen.
+Ensure that the Neuro:bit switch (on the back) is in **ECG mode**.
 
 ## Begin Preprocessing ##
 Now that your program is installed, it is time for preprocessing!
 
 PLEASE READ ALL INSTRUCTIONS BEFORE YOU BEGIN.
 
-1. Turn on the Neuro:Bit:
+1. Turn on the Neuro:bit:
 
-2. Switch on the Neuro:Bit device.
+2. Switch on the Neuro:bit device.
 - Ghost LED:
 Soon after powering on, you will see a GHOST LED appear on your screen.
 
@@ -184,16 +184,16 @@ Following these steps carefully will help ensure the success of your eye blink d
 ## Check Preprocessed Data ##
 As explained previously, if you were not able to figure out the correct placement for the red alligator clips, this is where to check!
 
-1. Connect Neuro:Bit to Your Computer:
-After the preprocessing, turn off the power of the Neuro:Bit.
-Using a USB cable, connect the Neuro:Bit to your local computer.
+1. Connect Neuro:bit to Your Computer:
+After the preprocessing, turn off the power of the Neuro:bit.
+Using a USB cable, connect the Neuro:bit to your local computer.
 
 2. Open File Explorer:
 Open the file explorer on your computer.
-You should see a new drive named "MICROBIT".
+You should see a new drive named "MICRObit".
 
-3. Navigate to MICROBIT Drive:
-Navigate to the MICROBIT drive.
+3. Navigate to MICRObit Drive:
+Navigate to the MICRObit drive.
 You should see an HTML file named "MY_DATA".
 
 4. Open Visual Preview:
@@ -210,13 +210,13 @@ Troubleshooting:
 If it is still not working, please check:
 - Your electrode placement.
 - Alligator clips placement.
-- Neuro:Bit switch (ensure it's in ECG mode).
+- Neuro:bit switch (ensure it's in ECG mode).
 
 Try again after making these adjustments.
 
 
 ## Prepare Real-Time Blink Aquisition ##
-Great job getting this far! Now that you have your preprocessed data ready, it's time to move on to real-time blink acquisition.
+Great job for getting this so far! Now that you have your preprocessed data ready, it's time to move on to real-time blink acquisition.
 
 BENEATH the program for preprocessing, paste the code below.
 
@@ -280,17 +280,15 @@ display.show(Image.DIAMOND)
 Now you should have a complete program that includes everything you need to run the entire process, from preprocessing to real-time blink acquisition.
 
 ## Begin Real-Time Blink Aquisition ##
-Turn on the Neuro:Bit
-Before running the real-time acquisition, you must go through the preprocessing step each time. Once preprocessing is complete, a SMILEY FACE will appear on Micro:Bit screen, indicating that the system is ready to test your blinks. 
+Turn on the Neuro:bit
+Before running the real-time acquisition, you must go through the preprocessing step each time. Once preprocessing is complete, a SMILEY FACE will appear on Micro:bit screen, indicating that the system is ready to test your blinks. 
 If everything is functioning correctly, a SAD FACE should briefly appear on the screen whenever a blink is detected. 
 
 ![HAPPY](./HAPPY.png)
 ![SAD](./SAD.png)
 
 ## Tips for improvement ##
-As the results of this project can vary due to numerous influencing factors, here are some tips to help improve the accuracy of your blink detection.
-
-If you are seeing the SAD FACE too often or not at all when it is supposed to appear, try the following adjustments:
+As the results of this project can vary due to numerous influencing factors, here are some tips to help improve the accuracy of your blink detection. In other words, if you are seeing the SAD FACE too often or not at all when it is supposed to appear, try the following adjustments:
 
 - Adjust NCC (Normalized Cross Correlation) Threshold
   
@@ -298,15 +296,20 @@ If you are seeing the SAD FACE too often or not at all when it is supposed to ap
   ```py title="NCC"
   if NCC > 0.5:
    ```
-  Generally, if you increase the threshold (0.5), detection will become harder, reducing false positives (seeing SAD FACE when you shouldn’t). If you lower the threshold, detection becomes easier, reducing false negatives (not seeing SAD FACE when you should). The threshold value ranges from -1 to 1, but it is recommended not to set it lower than 0.4.
-
+  In general, if you increase the threshold, detection will become harder, reducing false positives (e.g., seeing a SAD FACE when you shouldn’t). Conversely, if you lower the threshold, detection becomes easier, reducing false negatives (not seeing a SAD FACE when you should).
+  
+  **Why this?:** Normalized Cross Correlation (NCC) is commonly used as a strategy for image template matching. When two data are very similar, the NCC value is close to 1 (perfect correlation), and when they are very different, the NCC value is close to -1 (inverse correlation). In our project, we used NCC to compare the closeness of preprocessed blink data with real-time data. 
+  
 - Change the Number of Blinks in the Preprocessing Stage
   
-  This adjustment improves preprocessing accuracy. By default, you blink five times before beginning real-time data acquisition. You can change this number by modifying the following line:
+   By default, you blink five times before beginning real-time data acquisition. You can change this number by modifying the following line:
   ```py title="set trials"
   set_trials = 5 #Modify set_trials to change number of blink tirals
   ```
-  Generally, more data is better, but it is recommended to keep this number below 10.
+  Generally, more data is better, but to save the time it takes to process, I recommend to keep this number below 10.
+  
+  **Why this?:** As explained previously, preprocessing data is critical for this project. Therefore, having adjustments typically improves preprocessing accuracy. How this works is very simple. Every time you blink, the data is recorded. After you have blinked for all trials, the Micro:bit
+will sum all the "raw" blink data and then average it out. This way, we have a higher chance of ignoring "bad" blinks, and the more "raw" blinks we have, the better we can ignore those.
 
 Remember, perfect real-time data processing is challenging. Even with adjustments, some errors are inevitable due to the precise nature of eye movements. It’s important to make adjustments one at a time, as too many changes at once may degrade the performance rather than improve it.
 

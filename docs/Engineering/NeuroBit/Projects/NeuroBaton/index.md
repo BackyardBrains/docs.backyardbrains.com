@@ -94,6 +94,9 @@ Here's how it works:
 We'll use an EMG (electromyogram) connected to your hand muscles, as detailed in the Human SpikerBox documentation under EMG. 
 When you flex your muscles, it sends a signal to the EMG variable, allowing you to control the tempo of the music.
 
+![image](https://github.com/BackyardBrains/docs.backyardbrains.com/assets/117298723/c18121f9-56c7-4cfd-9bd4-7ce0d96f1818)
+
+
 ### Motion for Volume:
 The microbit has an accelerometer, which is a sensor that detects movement and orientation. We'll utilize the vertical (up and down) motion of your Neurobaton to control the volume. Move it up to increase the volume and down to decrease it.
 

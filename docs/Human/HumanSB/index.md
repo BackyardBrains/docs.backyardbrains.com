@@ -46,7 +46,7 @@ Plug the orange cable into a channel on the SpikerBox.
 Place a 9v battery into the Human SpikerBox.  
 Power it on using the volume knob switch. This can of course also adjust speaker volume.  
 Connect the Lightning to USB-C cable to the device and to your iPhone, sold separately, or use the included standard USB-C cable for other devices.  
-Open SpikeRecorder and wait for the device to connect.  
+Open [SpikeRecorder](../../Software/SpikeRecorder/) and wait for the device to connect.  
 If you are on iOS, set the filters to whichever experiment you are doing.  
 
 

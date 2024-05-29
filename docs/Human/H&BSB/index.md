@@ -32,7 +32,7 @@ For EEG, the two red leads attach to the clips on the headband, and the black gr
 Power the Heart & Brain SpikerBox on with a 9V battery, and turn on the red switch at the front of the SpikerBox.   
 If you are using a smartphone or tablet, plug the green smartphone cable into the green output jack to connect the Heart & Brain SpikerBox.  
 If recording on a computer, plug the blue USB cable into the metal port on the back of the board to connect.  
-Open SpikeRecorder on your device.
+Open [SpikeRecorder](../../Software/SpikeRecorder/) on your device.
 
 ## Technical Specifications ##
 

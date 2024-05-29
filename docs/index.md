@@ -14,7 +14,7 @@ Explore comprehensive guides and detailed information on all our devices and sof
 Dive into the specifics of each category and discover the right device for your needs:  
 
 **Human Physiology**  
-- [Human SpikerBox](./human/HumanSB/)   
+- [Human SpikerBox](./Human/HumanSB/)   
 - [Human-Human Interface](./Human/HHI/)  
 - [Heart and Brain SpikerBox](./Human/H&BSB/)  
 - [Muscle SpikerShield](./Human/MuscleSS/)   

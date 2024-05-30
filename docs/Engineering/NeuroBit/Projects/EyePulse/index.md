@@ -19,11 +19,11 @@ To get started with this project, you will need the following materials:
 ## Know where to place electrodes ##
 Proper placement of the electrodes is crucial for accurate detection. Follow these steps to correctly position them:
 
-1. First Electrode: Place the first electrode on the outer canthus (the outer corner) of the eye on your chosen side.
-2. Second Electrode: Position the second electrode just below the eye on the same side you selected.
+1. First Electrode: Place the first electrode on the outer canthus.
+2. Second Electrode: Position the second electrode just below the eye.
 3. Third Electrode (Ground): Place the last electrode behind the ear, on the bony area. This electrode serves as the "Ground" and is essential for reducing noise in the signal.
 
-Make sure all electrodes are placed on the **same side** of the face and as **close as possible** to the eyes for optimal performance.
+Make sure all electrodes are placed on the **same side** of the face and as **close as possible** to the eyes (except for ground electrode) for optimal performance.
 
 ## Connecting right cables to right place ##
 Identifying and Placing the Red Alligator Clips:

@@ -63,18 +63,14 @@ The .rd file extension is associated with various file types depending on the co
 8. Now pull it all together by combining the assmbly from step 1 with step 7.  You can these 2 parts with a hot glue gun. ![Step8](./maze_step8.png)
 
 
-## Preparing Microbit ##
+## Preparing micro:bit ##
 Refer to "Connecting Muscles to Read an EMG Signal" from our [Getting Started with neuro:bit Block Programming](../../Block) page to learn how to record an EMG signal from the arm. You will need two neuro:bits, one connected to each the left and right arm.
 
 Connect the two servo motors from Muscle Maze to each neuro:bit. See the [The neuro:bit](../../) Hardware Overview page for more information on how to connect servos.
 
 ## Programing the micro:bit for the Muscle Maze ##
 
-To program the micro:bit, you can choose from two options: Muscle Maze - "Beginner" and Muscle Maze - "Advanced."
-
-The first option is good for general use cases. The second option is more complex but is more flexible with individual differences in EMG signals.
-
-Below is a quick overview of Muscle Maze - "Beginner" coding.
+To program the micro:bit, you can refer to the code below. 
 
 ```py title="Muscle Maze - "Beginner""
 val = 0
@@ -127,10 +123,15 @@ if zero_angle != original_angle:
 # Done!!
 basic.show_icon(IconNames.GHOST)
 ```
-To modify Muscle Maze - "Beginner" into Muscle Maze - "Advanced", all you have to do is add a few lines of code between lines 9 and 10.
+However, we always need to be aware that there is variation in signal between individuals. Sometimes this is due to electrode placement, and sometimes it is due to individual body differences. To account for these differences, I have provided additional code below. All you have to do is add a few lines of code between lines 9 and 10. 
+
+By adding this optional code, we will need to go through a calibration process. Here are the steps to follow:
+1. Turn on both micro:bit.
+2. Quickly relax both of your arm and hold still.
+3. Wait until you see HAPPY face appear on both of the micro:bit
 
 ```py title="Muscle Maze - "Advanced"
-# Advaned option: Threshold controll (Bandpass filter)
+# Optional: Threshold controll (Calibration)
 basic.pause(3000)
 while seconds > 0:
     val = pins.analog_read_pin(AnalogPin.P0)
@@ -140,17 +141,14 @@ while seconds > 0:
 basic.show_icon(IconNames.HAPPY)
 ```
 
-While the advanced option runs more smoothly, the Beginner code is easier to follow for educational purposes.
+If you would like to, you can also download both codes for the Muscle Maze program from below. 
+1. [Muscle Maze](./micro:bit-Muscle-Maze-general.hex)
 
-If you would like to, you can aslo download codes for the Muscle Maze program from below:
-
-1. [Muscle Maze - "Beginner"](./microbit-Muscle-Maze-general.hex)
-
-2. [Muscle Maze - "Advanced"](./microbit-Muscle-Maze-individual.hex)
+2. [Muscle Maze with calibration](./micro:bit-Muscle-Maze-individual.hex)
    
-Install either version of Muscle Maze program on your local computer. Then, drag and drop the installed file into the project you have created. This will allow you to see the entire code in the project.
+Install either version of the Muscle Maze program on your local computer. Then, drag and drop the installed file into the project you have created. This will allow you to see the entire code in the project.
 
-Connect the Microbit to your computer, then click "download." After this, you should now have the program inside the Microbit.
+Connect the micro:bit to your computer, then click "download." After this, you should now have the program inside the micro:bit.
 
 ## Operation ##
 
@@ -163,4 +161,4 @@ Pressing the "B" Button on the micro:bit will pause the maze game from moving.
   
 ## Credits ##
 
-The triangle maze model was first developed by John Lazarevic. Alex Hatch designed the updated base for easier assembly and stability.  Teruaki Kimishima developed the Muscle Maze program and oversaw the project.
+The triangle maze model was first developed by John Lazarevic. Alex Hatch designed the updated base for easier assembly and stability. Teruaki Kimishima developed the Muscle Maze program and oversaw the project.

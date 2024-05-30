@@ -305,7 +305,7 @@ As the results of this project can vary due to numerous influencing factors, her
   Generally, more data is better, but to save the time it takes to process, I recommend to keep this number below 10.
   
   **Why this?:** As explained previously, preprocessing data is critical for this project. Therefore, having adjustments typically improves preprocessing accuracy. How this works is very simple. Every time you blink, the data is recorded. After you have blinked for all trials, the micro:bit
-will sum all the "raw" blink data and then average it out. This way, we have a higher chance of ignoring "bad" blinks, and the more "raw" blinks we have, the better we can ignore those.
+will sum all the "raw" blink data and then average it out. This way, we have a higher chance of ignoring "bad" blinks. Therefore, the more "raw" blinks we have, the better chance we can ignore those.
 
 Remember, perfect real-time data processing is challenging. Even with adjustments, some errors are inevitable due to the precise nature of eye movements. It’s important to make adjustments one at a time, as too many changes at once may degrade the performance rather than improve it.
 

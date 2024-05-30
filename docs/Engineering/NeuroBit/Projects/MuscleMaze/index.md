@@ -41,8 +41,9 @@ You can donload the STL files and print them on your 3D printer.
 
 You also need to laser cut the following parts (or you can cut out the triangle cover from acylic using a blade):
 
-1. [Maze Cover](AcrylicCut.rd) What is an RD file?  Need to explain or link to a PDF.
+1. [Maze Cover](AcrylicCut.rd) 
 
+The .rd file extension is associated with various file types depending on the context in which it is used. One common use is for laser cutting.
 
 ## Assembling the Maze ##
 1. Place Ball inside the maze, then seal with  Maze Cover with hot glue ![Step1](./maze_step1.png)

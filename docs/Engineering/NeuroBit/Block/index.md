@@ -66,7 +66,24 @@ Once the program is downloaded, you can click on "Show Data".  This will plot th
 Note that here the EMG signal moves from a value of around 0 to a value around 1000 when flexed. (See values on the right side of the graph).  This range will become important as you start to use this signal within your project.  
 
 From here, you can use standard micro:bit code to make the EMG signal do something more interesting.  You can make the micro:bit play a sound when the signal is above a certain threshold, or you can make the micro:bit move a motor when the signal is below a certain threshold.  The possibilities are endless!  
+
+
+## Connecting for ECG ##
+
+Speaking of those possibilities, our second step could be repurposing this code for ECG signals! To do this, we'll add some new electrode placement. The two recommendations stem from "Einthoven's triangle", a commonly taught electrode placement guide in biomedical classes. For the following example, we placed a ground electrode on the back of the left hand and a positive electrode right beneath the palms on the insides of both arms. We're also going to connect the alligator clips with the positive on the right side, the negative on the left arm, and the black cable on the back of the hand.
+
+![ECGPlacement](./ECGPlacement.png)
+
+You'll also want to make sure that the second switch on the neuro:bit is set to the "ECG" setting, as otherwise you'll get a different signal. Finally, you can change the graph name in quotes from EMG to EKG or ECG, whichever you prefer. This is just a cosmetic change to the graph's title. After that, you'll be all set! Our code is still reading in the analog input, pin 1 is still out source, and the serial write function won't change.  
+
+Here's the new code:
+![EKGCode](./EKGSerialCode.png)
+Here's what the signal will look like once you're successful:
 ![EKGGood](./EKGGood.png)
+
+Be careful though, if the polarity is swaped your spikes will go in the opposite direction:
+
+![ekgInverse](./ekgInverse.png)
 
 
 ## Side Note - MicroPython and JavaScript Editor in MakeCode ##

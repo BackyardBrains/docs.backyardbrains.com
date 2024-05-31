@@ -7,6 +7,7 @@ sidebar_label: Heart and Brain SpikerBox
 
 ![image](./HeartAndBrainSpikerBox-bundle.jpg)
 
+With our Heart and Brain SpikerBox, you can view and record the action potentials of your heart (EKG) and the slow rhythms of your brain (EEG) 
 
 ## Getting Started ##
 

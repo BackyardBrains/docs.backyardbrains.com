@@ -7,6 +7,8 @@ sidebar_label: The Claw
 
 ![image of claw](./claw_action.png)
 
+The Claw is a motorized gripper that helps develop human-machine interfaces. A brain-machine interface (BMI) allows the nervous system to directly communicate with a device using neural activity. These interfaces amplify electrical signals from neurons, process them, and send commands to an external device. BMIs are useful in robotics and machinery and can also help people with sensory or motor impairments.
+
 ## Getting Started ##
 
 [PDF instructions](./Claw_Insert.pdf)

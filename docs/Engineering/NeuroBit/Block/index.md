@@ -7,7 +7,7 @@ sidebar_label: Getting Started with Block
 
 ## Overview ##
 
-In this example, we will read in the EMG signal from the neuro:bit and display it on the micro:bit.  You will need a neuro:bit with a micro:bit connected to the front slot, some large motor electrodes, and a USB and electrode cable.
+In this example, we will read in the EMG (Electromyography) and ECG signal (Electrocardiography or EKG) from the neuro:bit and display it on the micro:bit.  You will need a neuro:bit with a micro:bit connected to the front slot, some large motor electrodes, and a USB and electrode cable.
 
 ## Software Setup ##
 We will use the [Make Code editor](https://makecode.microbit.org/) developed by Microsoft for micro:bit to program our Brain Machine Interfaces.  Navigate to the Make Code website and click on the "New Project" button.
@@ -68,8 +68,7 @@ Note that here the EMG signal moves from a value of around 0 to a value around 1
 From here, you can use standard micro:bit code to make the EMG signal do something more interesting.  You can make the micro:bit play a sound when the signal is above a certain threshold, or you can make the micro:bit move a motor when the signal is below a certain threshold.  The possibilities are endless!  
 ![EKGGood](./EKGGood.png)
 
-Be careful though, if the polarity is swaped your spikes will go in the opposite direction:
-![ekgInverse](./ekgInverse.png)
+
 ## Side Note - MicroPython and JavaScript Editor in MakeCode ##
 
 You can alternatively code in MicroPython or JavaScript from the MakeCode editor. This can be accessed

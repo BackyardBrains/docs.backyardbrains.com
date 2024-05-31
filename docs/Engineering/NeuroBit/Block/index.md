@@ -70,14 +70,14 @@ From here, you can use standard micro:bit code to make the EMG signal do somethi
 
 ## Connecting for ECG ##
 
-Speaking of those possibilities, our second step could be repurposing this code for ECG signals! To do this, we'll add some new electrode placement. The two recommendations stem from "Einthoven triangle", a commonly taught electode placement guide in biomedical classes. 
+Speaking of those possibilities, our second step could be repurposing this code for ECG signals! To do this, we'll add some new electrode placement. The two recommendations stem from "Einthoven triangle", a commonly taught electode placement guide in biomedical classes. For the following example, we placed a ground electrode on the back of the left hand and a positive electrode right beneath the palms on the insides of both arms. We're also going to connect the alligator clips with the positive on the right side, the negative on the left arm, and the black cable on the back of the hand.
 
 ![ECGPlacement](./ECGPlacement.png)
 
 You'll also want to make sure that the second switch on the neuro:bit is set to the "ECG" setting, as otherwise you'll get a different signal. Finally, you can change the graph name in quotes from EMG to EKG or ECG, whichever you prefer. This is just a cosmetic change to the graph's title. After that, you'll be all set! Our code is still reading in the analog input, pin 1 is still out source, and the serial write function won't change.  
 
 Here's the new code:
-
+![EKGCode](./EKGSerialCode.png)
 Here's what the signal will look like once you're successful:
 ![EKGGood](./EKGGood.png)
 

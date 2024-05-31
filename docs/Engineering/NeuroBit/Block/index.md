@@ -88,7 +88,7 @@ Be careful though, if the polarity is swaped your spikes will go in the opposite
 
 ## Side Note - MicroPython and JavaScript Editor in MakeCode ##
 
-You can alternatively code in MicroPython or JavaScript from the MakeCode editor. This can be accessed
+You can alternatively code in MicroPython or JavaScript from the MakeCode editor. This can be accessed via the switch towards the top of the micro:bit editor.
 
 For this demo project, the block code converted into micropython looks like this:
 ![EKGPython](./EKGPython.png)

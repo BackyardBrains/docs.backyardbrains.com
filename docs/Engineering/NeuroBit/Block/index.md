@@ -70,7 +70,7 @@ From here, you can use standard micro:bit code to make the EMG signal do somethi
 
 ## Connecting for ECG ##
 
-Speaking of those possibilities, our second step could be repurposing this code for ECG signals! To do this, we'll add some new electrode placement. The two recommendations stem from "Einthoven triangle", a commonly taught electode placement guide in biomedical classes. For the following example, we placed a ground electrode on the back of the left hand and a positive electrode right beneath the palms on the insides of both arms. We're also going to connect the alligator clips with the positive on the right side, the negative on the left arm, and the black cable on the back of the hand.
+Speaking of those possibilities, our second step could be repurposing this code for ECG signals! To do this, we'll add some new electrode placement. The two recommendations stem from "Einthoven's triangle", a commonly taught electrode placement guide in biomedical classes. For the following example, we placed a ground electrode on the back of the left hand and a positive electrode right beneath the palms on the insides of both arms. We're also going to connect the alligator clips with the positive on the right side, the negative on the left arm, and the black cable on the back of the hand.
 
 ![ECGPlacement](./ECGPlacement.png)
 

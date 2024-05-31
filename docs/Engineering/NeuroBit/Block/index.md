@@ -66,7 +66,10 @@ Once the program is downloaded, you can click on "Show Data".  This will plot th
 Note that here the EMG signal moves from a value of around 0 to a value around 1000 when flexed. (See values on the right side of the graph).  This range will become important as you start to use this signal within your project.  
 
 From here, you can use standard micro:bit code to make the EMG signal do something more interesting.  You can make the micro:bit play a sound when the signal is above a certain threshold, or you can make the micro:bit move a motor when the signal is below a certain threshold.  The possibilities are endless!  
+![EKGGood](./EKGGood.png)
 
+Be careful though, if the polarity is swaped your spikes will go in the opposite direction:
+![ekgInverse](./ekgInverse.png)
 ## Side Note - MicroPython and JavaScript Editor in MakeCode ##
 
 You can alternatively code in MicroPython or JavaScript from the MakeCode editor. This can be accessed

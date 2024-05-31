@@ -60,6 +60,6 @@ while True:
 The micro:bit will now function like a hard drive or an SD card: it will save these data values into a .csv file into a log. Navigate to the Micro:bit drive and open the "my data" document. This will then take you to a micro:bit data log page which can do basic graphical analysis, interact with the log, and copy the data for more extensive analysis in Excel or any other data platform.
 
 
-![myDataDoc](./py_EOGplacement.png)
+![myDataDoc](./Screenshot 2024-05-31 080807.png)
 
 ![micro:bit datalog](./py_EOGplacement.png)

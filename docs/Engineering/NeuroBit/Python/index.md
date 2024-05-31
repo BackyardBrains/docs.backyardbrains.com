@@ -63,3 +63,5 @@ The micro:bit will now function like a hard drive or an SD card: it will save th
 ![myDataDoc](./myData.png)
 
 ![micro:bit datalog](./datalogg.png)
+
+![micro:bit datalog graph](./EOGDataLog.png)

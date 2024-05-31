@@ -3,7 +3,7 @@ sidebar_position: 1
 sidebar_label: Getting Started with Block 
 ---
 
-# Getting Started with neuro:bit Block Programming with ECG EMG#
+# Getting Started with neuro:bit Block Programming #
 
 ## Overview ##
 

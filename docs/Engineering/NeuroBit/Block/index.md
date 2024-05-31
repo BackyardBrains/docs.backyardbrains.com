@@ -91,8 +91,10 @@ Be careful though, if the polarity is swaped your spikes will go in the opposite
 You can alternatively code in MicroPython or JavaScript from the MakeCode editor. This can be accessed
 
 For this demo project, the block code converted into micropython looks like this:
+![EKGPython](./EKGPython.png)
 
 and JavaScript looks like this:
+![EKGJava](./EKGJava.png)
 
 A word of caution: sometimes, the code you write in Micropython and JavaScript will not properly load or be converted to block code, as switching back and forth between the tabs might accidentally clear all of your hard written code. We recommend saving this code in a separte document after writing a length MicroPython or JavaScript file to prevent this. 
 

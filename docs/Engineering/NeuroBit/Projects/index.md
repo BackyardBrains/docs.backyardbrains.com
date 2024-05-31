@@ -1,9 +1,9 @@
 ---
 sidebar_position: 3
-sidebar_label: Neuro:Bit Projects
+sidebar_label: neuro:bit Projects
 ---
 
-# Neuro:Bit Projects #
+# neuro:bit Projects #
 
 ## Overview ##
 

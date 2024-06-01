@@ -7,6 +7,8 @@ sidebar_label: Muscle SpikerBox
 
 ![image](./diagram.png)
 
+The Muscle Spikerbox is designed to non-invasively detect electrical activity in human muscles using simple skin surface electrodes. It can be used to record and analyze EMG signals, when connected to our [Spike Recorder App](../../Software/SpikeRecorder/). 
+
 ## Getting Started ##
 
 Below are some basic setup steps for recording ECG and EEG, for more advanced aplications, check out [our experiment pages](#experiments)

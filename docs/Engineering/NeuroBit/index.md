@@ -20,9 +20,6 @@ The neuro:bit allows you to develop DIY Brain Machine Interfaces (BMI) or someti
 |Inputs| 1x [Orange Electrode Cable](https://backyardbrains.com/products/muscleElectrodeCable)|
 
 [Download schematic PDF](./ )
-> Is there a PDF reader we can embed?  Shoudl we?  Dont want to make it too heavy.
-## Pin Out ##
-![NeuroBit Pin Out](./NeuroBit_IO.png)
 
 ## Hardware Overview ## 
 The neuro:bit has a slot that accepts a V1 or V2 micro:bit.  The electrode required for recording is our orange cable with 3 leads (2 recording electrodes and a ground). 
@@ -31,6 +28,9 @@ The neuro:bit has a slot that accepts a V1 or V2 micro:bit.  The electrode requi
 You can select between EMG (Muscle) or EKG (Heart) on the Signal Select switch.  A Servo controller is provided on PIN 8. There is also an expansion port on the bottom to get clean access to additional pins for your project. 
 
 ![NeuroBit Bottom](./NeuroBit_Back.png )
+
+## Pin Out ##
+![NeuroBit Pin Out](./NeuroBit_IO.png)
 
 ## What Will You Need? ##
 

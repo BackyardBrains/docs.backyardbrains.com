@@ -57,4 +57,11 @@ while True:
     log.add({'EOG':EOG})
 ```
 
-Once the program is downloaded and is running, you can go back to the MakeCode editor, and click on "Show Data". This will plot the EOG variable you are sending over the serial port in real time. The log data can also be accessed later from the micro:bit's storage. Navigate to the Micro:bit drive, open the "log" folder, and then access the stored data files. The log feature will automatically save your EOG data for later analysis.
+The micro:bit will now function like a hard drive or an SD card: it will save these data values into a .csv file into a log. Navigate to the Micro:bit drive and open the "my data" document. This will then take you to a micro:bit data log page which can do basic graphical analysis, interact with the log, and copy the data for more extensive analysis in Excel or any other data platform.
+
+
+![myDataDoc](./myData.png)
+
+![micro:bit datalog](./datalogg.png)
+
+![micro:bit datalog graph](./EOGDataLog.png)

@@ -7,6 +7,8 @@ sidebar_label: Human SpikerBox
 
 ![Human SpikerBox](./diagram.png)
 
+This versatile kit enables the recording and analysis of electrical activity from muscles, heart, brain, eyes, and more. It allows you to easily record EMG, EKG, EEG, and EOG signals, providing the tools needed to perform comprehensive human physiology experiments.
+
 ## Getting Started ##
 
 Decide which experiment you want to do and gather all the required materials for it.

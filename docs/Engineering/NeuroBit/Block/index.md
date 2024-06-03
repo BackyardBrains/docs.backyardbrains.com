@@ -7,7 +7,7 @@ sidebar_label: Getting Started with Block
 
 ## Overview ##
 
-In this example, we will read in the EMG signal from the neuro:bit and display it on the micro:bit.  You will need a neuro:bit with a micro:bit connected to the front slot, some large motor electrodes, and a USB and electrode cable.
+In this example, we will read in the EMG (Electromyography) and ECG signal (Electrocardiography or EKG) from the neuro:bit and display it on the micro:bit.  You will need a neuro:bit with a micro:bit connected to the front slot, some large motor electrodes, and a USB and electrode cable.
 
 ## Software Setup ##
 We will use the [Make Code editor](https://makecode.microbit.org/) developed by Microsoft for micro:bit to program our Brain Machine Interfaces.  Navigate to the Make Code website and click on the "New Project" button.
@@ -67,13 +67,35 @@ Note that here the EMG signal moves from a value of around 0 to a value around 1
 
 From here, you can use standard micro:bit code to make the EMG signal do something more interesting.  You can make the micro:bit play a sound when the signal is above a certain threshold, or you can make the micro:bit move a motor when the signal is below a certain threshold.  The possibilities are endless!  
 
+
+## Connecting for ECG ##
+
+Speaking of those possibilities, our second step could be repurposing this code for ECG signals! To do this, we'll add some new electrode placement. The two recommendations stem from "Einthoven's triangle", a commonly taught electrode placement guide in biomedical classes. For the following example, we placed a ground electrode on the back of the left hand and a positive electrode right beneath the palms on the insides of both arms. We're also going to connect the alligator clips with the positive on the right side, the negative on the left arm, and the black cable on the back of the hand.
+
+![ECGPlacement](./ECGPlacement.png)
+
+You'll also want to make sure that the second switch on the neuro:bit is set to the "ECG" setting, as otherwise you'll get a different signal. Finally, you can change the graph name in quotes from EMG to EKG or ECG, whichever you prefer. This is just a cosmetic change to the graph's title. After that, you'll be all set! Our code is still reading in the analog input, pin 1 is still out source, and the serial write function won't change.  
+
+Here's the new code:
+![EKGCode](./EKGSerialCode.png)
+Here's what the signal will look like once you're successful:
+![EKGGood](./EKGGood.png)
+
+Be careful though, if the polarity is swaped your spikes will go in the opposite direction:
+
+![ekgInverse](./ekgInverse.png)
+
+
 ## Side Note - MicroPython and JavaScript Editor in MakeCode ##
 
-You can alternatively code in MicroPython or JavaScript from the MakeCode editor. This can be accessed
+You can alternatively code in MicroPython or JavaScript from the MakeCode editor. This can be accessed via the mode switch towards the top of the micro:bit editor.
+![Python_Java_Editor](./EditorJava_Pyth.png)
 
 For this demo project, the block code converted into micropython looks like this:
+![EKGPython](./EKGPython.png)
 
 and JavaScript looks like this:
+![EKGJava](./EKGJava.png)
 
 A word of caution: sometimes, the code you write in Micropython and JavaScript will not properly load or be converted to block code, as switching back and forth between the tabs might accidentally clear all of your hard written code. We recommend saving this code in a separte document after writing a length MicroPython or JavaScript file to prevent this. 
 

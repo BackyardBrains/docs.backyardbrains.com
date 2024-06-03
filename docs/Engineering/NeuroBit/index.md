@@ -8,7 +8,7 @@ sidebar label: The neuro:bit
 ![ Image of neuro:bit ](./NeuroBit.png)
 
 ## What is the neuro:bit? ## 
-The neuro:bit allows you to develop DIY Brain Machine Interfaces (BMI) or sometimes called Brain Computer Interfaces (BCI).  A BMI is a computers that interfaces directly with the electrical signals of your body. The neuro:bit has a port to connect to a Micro:Bit (computer), and a port to record from your body.  
+The neuro:bit allows you to develop DIY Brain Machine Interfaces (BMI) or sometimes called Brain Computer Interfaces (BCI).  A BMI is a computers that interfaces directly with the electrical signals of your body. The neuro:bit has a port to connect to a micro:bit (computer), and a port to record from your body.  
 
 ## Technical Specifications ## 
 
@@ -22,10 +22,10 @@ The neuro:bit allows you to develop DIY Brain Machine Interfaces (BMI) or someti
 [Download schematic PDF](./ )
 > Is there a PDF reader we can embed?  Shoudl we?  Dont want to make it too heavy.
 ## Pin Out ##
-
+![NeuroBit Pin Out](./NeuroBit_IO.png)
 
 ## Hardware Overview ## 
-The neuro:bit has a slot that accepts a V1 or V2 Micro:Bit.  The electrode required for recording is our orange cable with 3 leads (2 recording electrodes and a ground). 
+The neuro:bit has a slot that accepts a V1 or V2 micro:bit.  The electrode required for recording is our orange cable with 3 leads (2 recording electrodes and a ground). 
 ![NeuroBit Top]( ./NeuroBit_Front.png)
 
 You can select between EMG (Muscle) or EKG (Heart) on the Signal Select switch.  A Servo controller is provided on PIN 8. There is also an expansion port on the bottom to get clean access to additional pins for your project. 
@@ -39,22 +39,25 @@ To get started, you will need:
 * 3x BYB Large Muscle Electrodes
 * 1x BYB Orange Electrode Cable
 * 1x neuro:bit
-* 1x Micro:Bit
+* 1x micro:bit
 
-Connect the Micro:Bit to the front slot on the neuro:bit.  Be sure that the LEDs are facing outwards. Connect the orange cable to the electrode on the neuro:bit side port.  
+Connect the micro:bit to the front slot on the neuro:bit.  Be sure that the LEDs are facing outwards. Connect the orange cable to the electrode on the neuro:bit side port.  
 ![NeuroBit Connecting](./NeuroBit_Connect.png )
 
-Connect the USB cable from your computer to the Micro:Bit. 
+Connect the USB cable from your computer to the micro:bit. 
 
 ![NeuroBit USB](./NeuroBit_USB.png)
+
+Or download the micro:bit app on the App Store and program wirelessly. 
+
+![micro:bit App Programming](./NeuroBit_Phone.png)
 
  You are now ready to start programming your neuro:bit.   The following tutorials will get you started.  We have tutorials for [Block Code](./Block), [Python](./Python).  The [Block Code](./Block) is the easiest way to get started.
 
 ## Experiments and Tutorials ## 
 
+To get started on programming the neuro:bit, take a look at the [Getting Started with Block Programming](./Block/) or [Getting Started with Python](./Python/). To see how this can be used in a real-world project, take a look at the [DIY Hand Neuroprosthetic](./DIY_Hand_Neuroprosthetic) page. 
 
-
->To Do:  Add Table with Rows of EMG, EKG, EOG, and columns of Block, Python, and Javascript experiment here.
 
 
 

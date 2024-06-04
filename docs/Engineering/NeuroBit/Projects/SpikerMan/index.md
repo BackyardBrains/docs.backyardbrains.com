@@ -1,10 +1,10 @@
 ---
 sidebar_position: 4
-sidebar_label: Spiker-Man String Slinger
+sidebar_label: Spiker-Man Web Flinger
 ---
-# Spiker-Man String Slinger # 
+# Spiker-Man Web Flinger # 
 
-![String Slinger in Action](./spikerman_title.png)
+![Web Flinger in Action](./spikerman_title.png)
 
 
 
@@ -87,8 +87,8 @@ Step 18. Print out the STL files or design your own for printing
     We have a fantastic in-house designer / inventor / general-knows-how-to-do-it guy here at Backyard Brains, and he designed the case I'm using in the pictures above. You can find the STL files here as the following:
 1. [The Micro:Bit's Case](./MicrobitCase.stl)  
 2. [The Micro:Bit's lid](./MicrobitLid.stil)  
-3. [The String Slinger's case](./StringCase.stl)  
-4. [The String Slinger's lid](./StringLid.stl)  
+3. [The Web Flinger's case](./StringCase.stl)  
+4. [The Web Flinger's lid](./StringLid.stl)  
 
 Step 19. Assemble the 3D prints, the string slinging component, the Micro:Bit and Neuro:Bit combination, and the wires  
 
@@ -98,5 +98,5 @@ Step 19. Assemble the 3D prints, the string slinging component, the Micro:Bit an
 
 # Demos #
 
-Step 20. Mess around with your newly created Spiker-Man string slinger!  
+Step 20. Mess around with your newly created Spiker-Man Web Flinger!  
 ![Pchew](./12EFFA93-DF49-4AD4-A3BE-2F5C1FF4E5BC.jpeg)

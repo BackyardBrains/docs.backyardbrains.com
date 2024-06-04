@@ -5,7 +5,7 @@ sidebar_label: Blink:Bit
 import ReactPlayer from 'react-player';
 
 # Blink:Bit #
-![Header](./Header.jpeg)
+![Blink Bit Title Demo](./blinkbit_title.gif)
 
 # Overview #
 Welcome to Project Blink:Bit! Here, you can experiment with real-time eye blink detection. This project utilizes a pair of micro:bit and neuro:bit devices, leveraging muscle movements around your eyes and EOG (Electrooculography) filtering to detect blinks.

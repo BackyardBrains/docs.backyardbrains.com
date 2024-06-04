@@ -2,6 +2,8 @@
 sidebar_position: 3
 sidebar_label: Eye Pulse
 ---
+import ReactPlayer from 'react-player';
+
 # Eye Pulse #
 ![Header](./Header.jpeg)
 

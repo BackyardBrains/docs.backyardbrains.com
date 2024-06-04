@@ -10,7 +10,7 @@ sidebar_label: Getting Started with Block
 In this example, we will read in the EMG (Electromyography) and ECG signal (Electrocardiography or EKG) from the neuro:bit and display it on the micro:bit.  You will need a neuro:bit with a micro:bit connected to the front slot, some large motor electrodes, and a USB and electrode cable.
 
 ## Software Setup ##
-We will use the [Make Code editor](https://makecode.microbit.org/) developed by Microsoft for micro:bit to program our Brain Machine Interfaces.  Navigate to the Make Code website and click on the "New Project" button.
+We will use the [Make Code editor](https://makecode.microbit.org/) developed by Microsoft for micro:bit to program our Brain Machine Interfaces. There are a few other editors available, but we'll cover those and their differences in "Getting Started with Python". For now, navigate to the Make Code website and click on the "New Project" button.
 
 ![Add a Block Variable]( ./blk_newProject.png)
 
@@ -79,11 +79,11 @@ You'll also want to make sure that the second switch on the neuro:bit is set to 
 Here's the new code:
 ![EKGCode](./EKGSerialCode.png)
 Here's what the signal will look like once you're successful:
-![EKGGood](./EKGGood.png)
+![EKGGood](./ECGGOOOD.png)
 
 Be careful though, if the polarity is swaped your spikes will go in the opposite direction:
 
-![ekgInverse](./ekgInverse.png)
+![ekgInverse](./ECGBAAD.png)
 
 
 ## Side Note - MicroPython and JavaScript Editor in MakeCode ##

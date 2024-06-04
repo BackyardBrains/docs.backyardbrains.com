@@ -16,8 +16,8 @@ Coding your project in Python gives you a choice of editors. The first is to use
 |_**Editor**_ | **Makecode**  | Python |
 | --- | --- | --- |
 | _Language_ |Block, Micro Python, JavaScript  | Python  |
-| _Pros_ | Better Libraries and documentation<br>Easier to see other projects from the community<br>Real time serial or data output| Stronger as a base language<br>Uses actual Python syntax<br>Better for long term data analysis  |
-| _Cons_ | Odd naming conventions<br>Heavily constrained by block code  | Limited Libraries<br>No real time data output   |
+| _Pros_ | Better Libraries and documentation<br/>Easier to see other projects from the community<br/>Real time serial or data output| Stronger as a base language<br/>Uses actual Python syntax<br/>Better for long term data analysis  |
+| _Cons_ | Odd naming conventions<br/>Heavily constrained by block code  | Limited Libraries<br/>No real time data output   |
 
 Creating a project here will open with the micro:bit library already imported and the "forever" loop in place.
 

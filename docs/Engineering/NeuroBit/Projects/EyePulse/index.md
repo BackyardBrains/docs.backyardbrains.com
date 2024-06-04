@@ -11,7 +11,7 @@ import ReactPlayer from 'react-player';
 Welcome to Project Eye Pulse! Here, you can experiment with real-time eye blink detection. This project utilizes a pair of micro:bit and neuro:bit devices, leveraging muscle movements around your eyes and EOG (Electrooculography) filtering to detect blinks.
 
 # Video #
-<ReactPlayer playing controls url='nb_eyeblink.mp4' />
+<ReactPlayer playing controls url='/video/nb_eyeblink.mp4' />
 
 ## Materials ##
 To get started with this project, you will need the following materials:

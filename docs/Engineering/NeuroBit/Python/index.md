@@ -11,7 +11,13 @@ Python is a programming language that can be used with the neuro:bit to easily d
 
 ## Software Set-up ## 
 
-Coding your project in Python gives you a choice of editors. The first is to use the [Microsoft MakeCode](https://makecode.microbit.org/) editor that can toggle between Block Code and Python. This is great for learning Python as you can switch back and forth between your Block Code and Python. Changes to one development language will sync to the other. You will also be able to visually see your data inside the same editor in real time. This functionality comes at a slight cost: it does not support a full implementation of Python. So if you want to import other Python libraries, you should head to the [BBC micro:bit Python Editor](https://python.microbit.org/v/3/ideas). This has fewer features but gives you more flexibility.
+Coding your project in Python gives you a choice of editors. The first is to use the [Microsoft MakeCode](https://makecode.microbit.org/) editor that can toggle between Block Code and Python. This is great for learning the structure and logic of Python as you can switch back and forth between your Block Code and Python. Changes to one development language will sync to the other. You will also be able to visually see your data inside the same editor in real time. This functionality comes at a slight cost: it does not support a full implementation of Python. So if you want to use actual Python functions and syntax, you should head to the [BBC micro:bit Python Editor](https://python.microbit.org/v/3/ideas). This has fewer features but gives you more flexibility.
+
+|_**Editor**_ | **Makecode**  | Python |
+| --- | --- | --- |
+| _Language_ |Block, Micro Python, JavaScript  | Python  |
+| _Pros_ | Better Libraries and documentation<br>Easier to see other projects from the community<br>Real time serial / data output| Stronger as a base language<br>Uses actual Python syntax<br>Better for long term data analysis  |
+| _Cons_ | Odd naming conventions<br>Heavily constrained by block code  | Limited Libraries<br>No real time data output   |
 
 Creating a project here will open with the micro:bit library already imported and the "forever" loop in place.
 

@@ -2,9 +2,9 @@
 sidebar_position: 4
 sidebar_label: Spiker-Man String Slinger
 ---
-
-![String Slinger in Action](./Spiker-Man.png)
 # Spiker-Man String Slinger # 
+
+![String Slinger in Action](./spikerman_title.png)
 
 
 

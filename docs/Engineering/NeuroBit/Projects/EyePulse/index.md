@@ -8,13 +8,14 @@ sidebar_label: Eye Pulse
 # Overview #
 Welcome to Project Eye Pulse! Here, you can experiment with real-time eye blink detection. This project utilizes a pair of micro:bit and neuro:bit devices, leveraging muscle movements around your eyes and EOG (Electrooculography) filtering to detect blinks.
 
-## Check supplies ##
+# Video #
+<ReactPlayer playing controls url='./nb_eyeblink.mp4' />
+
+## Materials ##
 To get started with this project, you will need the following materials:
 
 1. micro:bit
 2. neuro:bit
-3. Cable
-4. Three Electrodes
 
 ## Know where to place electrodes ##
 Proper placement of the electrodes is crucial for accurate detection. Follow these steps to correctly position them:

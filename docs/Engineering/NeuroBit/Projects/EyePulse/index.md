@@ -1,14 +1,14 @@
 ---
 sidebar_position: 3
-sidebar_label: Eye Pulse
+sidebar_label: Blink:Bit
 ---
 import ReactPlayer from 'react-player';
 
-# Eye Pulse #
+# Blink:Bit #
 ![Header](./Header.jpeg)
 
 # Overview #
-Welcome to Project Eye Pulse! Here, you can experiment with real-time eye blink detection. This project utilizes a pair of micro:bit and neuro:bit devices, leveraging muscle movements around your eyes and EOG (Electrooculography) filtering to detect blinks.
+Welcome to Project Blink:Bit! Here, you can experiment with real-time eye blink detection. This project utilizes a pair of micro:bit and neuro:bit devices, leveraging muscle movements around your eyes and EOG (Electrooculography) filtering to detect blinks.
 
 # Video #
 <ReactPlayer playing controls url='/video/nb_eyeblink.mp4' />
@@ -218,6 +218,20 @@ Great job for getting this so far! Now that you have your preprocessed data read
 BENEATH the program for preprocessing, paste the code below.
 
 ```py title="EOG-Real_Time"
+# Define the open eye image
+open_eye = Image("09990:"
+                 "90009:"
+                 "90909:"
+                 "90009:"
+                 "09990")
+
+# Define the closed eye image
+closed_eye = Image("00000:"
+                   "00000:"
+                   "99999:"
+                   "00000:"
+                   "00000")
+
 #Pause the program for three seconds
 sleep(3000)
 
@@ -262,13 +276,13 @@ def processing_function():
         NCC_list.append(NCC)
         if NCC > 0.5:
             if NCC_list[0] < NCC_list[1] and NCC_list[1] > NCC_list[2]:
-                display.show(Image.SAD)
+                display.show(closed_eye)
                 sleep(100)
 
 
 
 while real_time_recording:
-    display.show(Image.HAPPY)
+    display.show(open_eye)
     if button_a.get_presses():
         break
 
@@ -278,13 +292,9 @@ Now you should have a complete program that includes everything you need to run 
 
 ## Begin Real-Time Blink Aquisition ##
 Turn on the neuro:bit
-Before running the real-time acquisition, you must go through the preprocessing step each time. Once preprocessing is complete, a SMILEY FACE will appear on micro:bit screen, indicating that the system is ready to test your blinks. 
+Before running the real-time acquisition, you must go through the preprocessing step each time. Once preprocessing is complete, an OPEN EYE will appear on micro:bit screen, indicating that the system is ready to test your blinks. 
 
-![HAPPY](./HAPPY.png)
-
-If everything is functioning correctly, a SAD FACE should briefly appear on the screen whenever a blink is detected. 
-
-![SAD](./SAD.png)
+If everything is functioning correctly, a CLOSED EYE should briefly appear on the screen whenever a blink is detected. 
 
 ## Tips for improvement ##
 As the results of this project can vary due to numerous influencing factors, here are some tips to help improve the accuracy of your blink detection. In other words, if you are seeing the SAD FACE too often or not at all, try the following adjustments:

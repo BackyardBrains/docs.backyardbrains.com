@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 sidebar_label: NeuroConducting Baton
+description: Conduct Music with Your Mind and Body!
 ---
 
 # neuro:baton

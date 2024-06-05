@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 sidebar_label: Muscle Maze
+description: Control a Maze using both arm muscles.
 ---
 
 # Muscle Maze #

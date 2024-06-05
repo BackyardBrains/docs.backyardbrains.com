@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 sidebar_label: Blink:Bit
+description: Experiment with real-time eye blink detection
 ---
 import ReactPlayer from 'react-player';
 

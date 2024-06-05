@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 sidebar_label: DIY Neuroprosthetic
+description: create your very own Cyborg Hand prosthetic
 ---
 
 # DIY Hand Neuroprosthetic #

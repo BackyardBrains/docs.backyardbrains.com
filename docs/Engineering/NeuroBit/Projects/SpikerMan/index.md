@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 sidebar_label: Spiker-Man Web Flinger
+description: Make your very own string-slinging device
 ---
 # Spiker-Man Web Flinger # 
 

@@ -32,8 +32,6 @@ Dive into the specifics of each category and discover the right device for your 
 - [RoboRoach](./Engineering/Roboroach/)  
 - [Neuro:Bit](./Engineering/NeuroBit/)  
 
-
-
 Each device category provides detailed documentation on setup, usage, and troubleshooting, along with scientific background and potential experiments.
 
 ### Software

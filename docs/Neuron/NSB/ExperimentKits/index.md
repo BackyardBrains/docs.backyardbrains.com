@@ -20,6 +20,8 @@ When someone thinks of neurotransmitters, they think of chemicals that are compl
 
 *talk about neurotransmitters like caffiene, SSRI's, alcohol* 
 
+Somethings in your everyday lives are neurotransmitters that you might not even think! Caffeine is one of the most widely consumed psychoactive substances in the world. It primarily works by blocking adenosine receptors in the brain. Adenosine is a neurotransmitter that promotes sleep and relaxation. By inhibiting its action, caffeine prevents the onset of drowsiness, making you feel more alert and awake. 
+
 *option of going further into detail about the mechanism -reuptake etc.*
 
 Neurotransmitters in the brain are stored in vesticles, and is released by a neuron in order to make another neuron react depending on what's inside. Certain neurotransmitters will make the post-synaptic neuron fire more which are called excitatory neurotransmitters. Others will make the post-synaptic neuron fire less which are called inhibitory neurotransmitters. 

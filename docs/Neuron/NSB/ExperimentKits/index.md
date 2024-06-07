@@ -6,7 +6,20 @@ sidebar_label: Neuropharmacology Kit
 # Neuropharmacology Kit #
 
 Pic
+![pic](./Image0.psd)
 
+
+# Introduction #
+
+Have you ever wondered how your neurons communicate with each other? It's not just electricity at play; neurons rely on a complex interplay of chemical messengers to convey messages and meanings. In this kit we will be exploring both types of neurotransmitters - Inhibitory and Excitatory - in a cricket. 
+
+# Background information #
+
+Earlier, we looked at different ways that neurons can spike, the rate that they spike at, and more, but now we can see why they spike in the first place. 
+
+When someone thinks of neurotransmitters, they think of chemicals that are complex, or hard to obtain, but they are in our every day lives. The two receptors we will be focusing on are the Acetylcholine receptor, and the Glutamate receptors, both can be triggered using items you can buy down the street. First we will be using Nicotine from a cigarette, Nicotine mimics Acetylcholine's response when it binds to the nicotine receptors. Next we will use Monosodiumglutamate (MSG), which is a glutamate salt. 
+
+Neurotransmitters in the brain are stored in vesticles, and is released by a neuron in order to make another neuron react depending on what's inside. Certain neurotransmitters will make the post-synaptic neuron fire more which are called excitatory neurotransmitters. Others will make the post-synaptic neuron fire less which are called inhibitory neurotransmitters. 
 ## How many should I order for my classroom? ## 
 
 | Item | Amount in One Kit|
@@ -22,7 +35,7 @@ A classroom of 15 students would be separated into five groups of three, as each
 
 # Description #
 
-Engage your students with a hands-on neuropharmacology experiment that explores the effects of nicotine and MSG (glutamate) on cricket neuronal activity. By injecting crickets with these substances and observing their neuronal responses, students gain practical experience with key scientific concepts. This experiment demonstrates how different neurotransmitters influence neuronal communication, providing insights into the roles of inhibitory and excitatory neurotransmitters. The kit includes all necessary materials and easy-to-follow instructions, making it simple for teachers to implement. Designed to align with curriculum standards, this interactive activity helps students understand complex biological processes in an accessible and engaging way
+Engage your students with a hands-on neuropharmacology experiment that explores the effects of nicotine and MSG (glutamate) on cricket neuronal activity. By injecting crickets with these substances and observing their neuronal responses, students gain practical experience with key scientific concepts. This experiment demonstrates how different neurotransmitters influence neuronal communication, providing insights into the roles of inhibitory and excitatory neurotransmitters. The kit includes all necessary materials and easy-to-follow instructions, making it simple for teachers to implement. Designed to align with curriculum standards, this interactive activity helps students understand complex biological processes in an accessible and engaging way. 
 
 # Instructions # 
 

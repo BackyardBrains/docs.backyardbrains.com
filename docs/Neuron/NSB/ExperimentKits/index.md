@@ -8,24 +8,36 @@ sidebar_label: Neuropharmacology Kit
 Pic
 ![pic](./Image0.psd)
 
+# Prior required knowledge #
+
+How an action potential is formed and how it travels through the neuron 
+Knowledge of how receptors work in neurotransmission
+Familiarity with the roles of neurotransmitters
 
 # Introduction #
-
+*add section about published research* 
 Have you ever wondered how your neurons communicate with each other? It's not just electricity at play; neurons rely on a complex interplay of chemical messengers to convey messages and meanings. In this kit we will be exploring both types of neurotransmitters - Inhibitory and Excitatory - in a cricket. 
 
 # Background information #
-Earlier, we looked at different ways that neurons can spike, the rate that they spike at, and more, but now lets look at "why" they spike. 
+*option of going further into detail about the mechanism of neurotransmitters in general -reuptake, req picture of synapse.*
+*we can rip this from the book* 
 
-When someone thinks of neurotransmitters, they think of chemicals that are complex, or hard to obtain, but they are in our every day lives. The two receptors we will focus on are the Acetylcholine receptor and the Glutamate receptor. First we will be using Nicotine from a cigarette, Nicotine mimics Acetylcholine's response when it binds to the nicotine receptors. Next we will use Monosodiumglutamate (MSG), which is glutamate with a single sodium ion, making it a salt. 
+Have you ever wondered how your neurons communicate with each other? It's not just electricity at play; neurons rely on a complex interplay of chemical messengers to convey messages and meanings. In this kit, we will be exploring both types of neurotransmitters - Inhibitory and Excitatory - in a cricket.
 
-*talk about neurotransmitters like caffiene, SSRI's, alcohol* 
+Earlier, we looked at different ways that neurons can spike, the rate that they spike at, and more, but now lets look at why and what provokes them to spike. Scientists in the 1800's had a debate with two leading theories; whether the neurons were fused together, or if there was space in between them. With their technology, they had no way of telling if there was a gap or not, which brings us to the 1950's when the first electron microscope was used in order to scan neurons. They found that there was a gap that is about 20nm wide, so what goes on in that gap?
 
-Somethings in your everyday lives are neurotransmitters that you might not even think! Caffeine is one of the most widely consumed psychoactive substances in the world. It primarily works by blocking adenosine receptors in the brain. Adenosine is a neurotransmitter that promotes sleep and relaxation. By inhibiting its action, caffeine prevents the onset of drowsiness, making you feel more alert and awake. 
+In the synaptic gap, neurotransmitters are released by one neuron and received by another, facilitating communication and interpretation of signals between neurons. Each animal possesses a unique neural system, and the significance of various neurotransmitters can vary across species. What do these neurotransmitters actually do though, and how do they affect the post-synaptic neuron?
 
-*option of going further into detail about the mechanism -reuptake etc.*
+When a neurotransmitter reaches the post-synaptic neuron, it triggers one of two competing responses. Excitatory neurotransmitters stimulate the post-synaptic neuron to increase its firing rate, while inhibitory neurotransmitters suppress neuronal activity, causing it to fire less frequently. A post-synaptic neuron is recieving thousands of signals so how does it decide when it's going to spike from these neurotransmitters? It takes the average of all of the inputs, and if the average for the last couple of milliseconds reaches above the -50mV threshold, it will cause the neuron to spike.
 
-Neurotransmitters in the brain are stored in vesticles, and is released by a neuron in order to make another neuron react depending on what's inside. Certain neurotransmitters will make the post-synaptic neuron fire more which are called excitatory neurotransmitters. Others will make the post-synaptic neuron fire less which are called inhibitory neurotransmitters. 
+When someone thinks of neurotransmitters, they think of chemicals that are complex, or hard to obtain, but they are in our every day lives. The two receptors we will focus on are the Acetylcholine receptor and the Glutamate receptor. First we will be using Nicotine from a cigarette; Nicotine mimics Acetylcholine's response when it binds to the nicotine receptors. Next we will use Monosodiumglutamate (MSG), which is glutamate with a single sodium ion, making it a salt. MSG is commonly used in cooking to add an umami flavor, and when ingested doesn't affect your neurons. Somethings in your everyday lives are neurotransmitters that you might not even think! Caffeine is one of the most widely consumed psychoactive substances in the world. It primarily works by blocking adenosine receptors in the brain. Adenosine is a neurotransmitter that promotes sleep and relaxation. By inhibiting its action, caffeine prevents the onset of drowsiness, making you feel more alert and awake.
 
+Glutamate in human systems is an excitatory neurotransmitter, but every animal's system is different. For crickets, glutamate does the exact opposite than it does in a human, it inhibits the production of action potentials. Nicotine when in the bloodstream makes it's way up to the brain, and when it reaches it, it binds with the Nicotine Acetylcholine receptors. These receptors are very diverse on which neuron they're on, and can be found in many different systems in the brain. When nicotine binds to Nicotine Acetylcholine receptors (nAChR); for a couple of milliseconds the nAChR opens their positive ion channels producing an action potential. After a couple of milliseconds, the ACh either returns to its resting potential, closing the channels, or it becomes desensitized, and becomes unresponsive to their agonist. This system is why nicotine can become so addictive. Nicotine can be on a neuron that releases dopamine, and if the neuron becomes densitized it will not fire to anything but nicotine making a strong motivation for nicotine. Glutamate itself is a neurotransmitter, and directly binds to the receptor performing it's action as a chemical messenger. In crickets, it acts as an inhibitor, but how can adding a chemical into a neuron, make it more negative, as most ion channels in neurons are positive. The inhibitory neurons will *inhibit* the ion channels, making them let less positive ion into the cell. This reduces the chance of depolarization, making it harder for the neuron to create an action potential.
+
+In this kit we will be inducing both neurotransmitter responses in a cricket, and watch the whole time.  
+
+"The main endogenous agonist for all of these nAChRs is acetylcholine (ACh), but nicotine obtained exogenously from tobacco also is an agonist. Upon binding an agonist, a nAChR briefly enters the open conformation of the ion channel, which provides a water-filled pathway through the membrane for cations. After a couple milliseconds, the receptor undergoes another conformational change that closes the channel, and the receptor returns to the resting conformation or enters into a desensitized conformation that is unresponsive to agonists. The speed of activation, the ionic current, the rates of desensitization and recovery from desensitization, the pharmacology and the regulatory controls of the agonist response all depend on the subunit composition of the nAChRs as well as other local factors." 
+- https://pubmed.ncbi.nlm.nih.gov/11796143/
 
 ## How many should I order for my classroom? ## 
 
@@ -37,17 +49,36 @@ Neurotransmitters in the brain are stored in vesticles, and is released by a neu
 | Falcon tube | 3 |
 | Saline Solution | 25mL |
 
+- Add on +3 syringes 
+- Add on +9 syringes for $?
+- Add on +15 syringes for $? 
+every group needs 3 syringes 
+
+# Option 1: #
+
 For a Class of 15 Students:
   Order 1 Kit (enough for 5 groups of 3 students each).
+
 For a Class of 20-25 Students:
-  Order 2 Kits (enough for 5-6 groups of 4-5 students each).
+  Order 1 Kit + 9 extra syringes (enough for 8 groups of 3 students each).
+  
 For a Class of 30 Students:
-  Order 2 Kits (enough for 6 groups of 5 students each).
-- *we can offer more syringes as an add-on option, as it's the limiting factor*
+  Order 1 Kit + 15 extra syringes (enough for 10 groups of 3 students each).
+
+# Option 2:# 
+
+For a Class of 15 Students:
+  Order 1 Kit (enough for 5 groups of 3 students each).
+
+For every extra group add one extra set of syringes (Three come in one set) 
+ 
+  ex: for a class of 30 
+    Order 1 kit + 5 sets of extra syringes (enough for 10 groups of 3 students each)
+
   
 # Description #
 
-Engage your students with a hands-on neuropharmacology experiment that explores the effects of nicotine and MSG (glutamate) on cricket neuronal activity. By injecting crickets with these substances and observing their neuronal responses, students gain practical experience with key scientific concepts. This experiment demonstrates how different neurotransmitters influence neuronal communication, providing insights into the roles of inhibitory and excitatory neurotransmitters. The kit includes all necessary materials and easy-to-follow instructions, making it simple for teachers to implement. Designed to align with curriculum standards, this interactive activity helps students understand complex biological processes in an accessible and engaging way. 
+
 
 # Instructions # 
 

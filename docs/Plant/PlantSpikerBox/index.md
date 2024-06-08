@@ -5,7 +5,7 @@ sidebar_label: Plant SpikerBox
 
 # Plant SpikerBox #
 
-![Psb](Plant-SpikerBox-Bundle.jpg)
+![Psb](./PlantSB.png)
 
 The Plant SpikerBox allows for data-driven experiments between various species of plants.
 

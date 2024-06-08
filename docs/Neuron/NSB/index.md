@@ -5,7 +5,7 @@ sidebar_label: Neuron SpikerBox Pro
 
 # Neuron SpikerBox Pro #
 
-![nsb pro](nsbpro.jpg)
+![nsb pro](./nsbpro.png)
 
 The Neuron SpikerBox pro is a dual channel bio bioamplifier that allows you to hear and see real-time electrical "spikes", or action potentials, of live neurons in invertebrates. It can be used to record and analyze action potentials, when connected to our [Spike Recorder App](../../Software/SpikeRecorder/). 
 

@@ -8,9 +8,9 @@ description: Make your very own string-slinging device
 ![Web Flinger in Action](./spikerman_title.png)
 
 
-## ~hint
+
 *"Spiker-Man, Spiker-Man, does whatever a Spiker-Man can"*
-## ~
+
 Make your very own string-slinging device that shares startling similarities to a certain Marvel / Sony superhero!
 
 

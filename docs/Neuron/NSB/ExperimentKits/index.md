@@ -10,11 +10,13 @@ Pic
 
 # Prior required knowledge #
 
-How an action potential is formed and how it travels through the neuron 
-Knowledge of how receptors work in neurotransmission
-Familiarity with the roles of neurotransmitters
+- How an action potential is formed and how it travels through the neuron 
+- Knowledge of how receptors work in neurotransmission
+- Familiarity with the roles of neurotransmitters
+- Basic principles of electrophysiological recording, including what electrodes are and how they detect neuronal activity
 
 # Introduction #
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3852874/ 
 *add section about published research* 
 Have you ever wondered how your neurons communicate with each other? It's not just electricity at play; neurons rely on a complex interplay of chemical messengers to convey messages and meanings. In this kit we will be exploring both types of neurotransmitters - Inhibitory and Excitatory - in a cricket. 
 
@@ -82,46 +84,76 @@ For every extra group add one extra set of syringes (Three come in one set)
 
 # Instructions # 
 
-Nicotine Solution Prep
-  Rip off the filter by pinching and pulling.
-  Put the filter-less cigarette in a 10 mL falcon tube.
-  Fill the tube with saline up to the 10 mL mark.
-  Let it soak for at least overnight to extract the nicotine.
+## Nicotine Solution Preparation
 
-MSG Solution:
-  Fill the tube with saline up to the 10 mL mark.
-    *we have already put the MSG in the tube for your convience 
-  Shake the tube until the MSG is completely dissolved.
-  
-Cricket Prep:
-  Put a cricket in the freezer for about 3 minutes. Too short, and it won't be sleepy; too long, and it might not make it.
-Place the Electrodes:
-  Once the cricket is sleepy, put one electrode in its abdomen.
-  Place the second electrode two spiracles away from the first one.
-Set Up the Spikerbox:
-  Turn on the spikerbox and connect it to the tablet or smartphone.
-  Wait about ~2 minutes for the cricket to wake up.
-  Blow gently on its abdomen to make sure it's awake. You should see spikes on the app if it is.
+1. Remove the filter from a cigarette by pinching and pulling it off.
+2. Place the filter-less cigarette into a 10 mL falcon tube.
+3. Fill the tube with saline up to the 10 mL mark.
+4. Let it soak overnight to extract the nicotine.
 
-Injecting and Observing
-Inject the Solutions:
-  With a new syringe Inject one cricket with 0.03 mL of the nicotine solution.
-  With a new syringe Inject another cricket with 0.03 mL of the MSG solution.
-  With a new syringe Inject a third cricket with 0.03 mL of plain saline as a control.
-Watch the Neuronal Response:
-  Observe the cricket's neuronal activity on the app.
-  When injecting Glutamate you expect to see inhibitory behaviors
-  When injecting Nicotine you expect to see excitatory behaviors
-  When injecting just saline you expect to see no changing in spiking behaviors
-  Record any changes in spike frequency or patterns after injection.
+## MSG Solution Preparation
 
-Safety and Ethics
-  Wear gloves and safety goggles when preparing and injecting solutions.
-  Dispose of syringes and biological materials properly.
-Be Kind to Crickets:
-  Talk about the ethical use of animals in research.
-  Make sure students understand the importance of treating the crickets humanely and minimizing their discomfort.
+1. Fill a tube with saline up to the 10 mL mark (MSG is already in the tube for your convenience).
+2. Shake the tube until the MSG is completely dissolved.
 
+## Cricket Preparation
+
+1. Place a cricket in the freezer for about 3 minutes. Ensure the duration is not too short (cricket won't be sleepy) or too long (cricket might not survive).
+
+## Placing the Electrodes
+
+1. Once the cricket is sleepy, insert one electrode into its abdomen.
+2. Insert the second electrode two spiracles away from the first one.
+
+## Setting Up the SpikerBox
+
+1. Turn on the SpikerBox and connect it to your tablet or smartphone.
+2. Wait approximately 2 minutes for the cricket to wake up.
+3. Gently blow on its abdomen to confirm it’s awake. You should see spikes on the app if it is.
+
+## Injecting and Observing
+
+### Injecting the Solutions
+
+1. Use a new syringe to inject 0.03 mL of the nicotine solution into one cricket.
+2. Use a new syringe to inject 0.03 mL of the MSG solution into another cricket.
+3. Use a new syringe to inject 0.03 mL of plain saline into a third cricket as a control.
+
+### Observing Neuronal Response
+
+1. Observe the cricket's neuronal activity on the app.
+2. When injecting MSG, expect to see inhibitory behaviors.
+3. When injecting nicotine, expect to see excitatory behaviors.
+4. When injecting just saline, expect no change in spiking behaviors.
+5. Record any changes in spike frequency or patterns after injection.
+
+## Sharing Data and Conducting Multiple Trials
+
+1. **Importance of Multiple Trials**:
+   - Conducting multiple trials ensures the reliability and reproducibility of experimental results.
+   - Different groups may observe variations due to biological variability or experimental conditions.
+
+2. **Collaborative Data Sharing**:
+   - Share experimental data with classmates to increase sample size and verify trends.
+   - Utilize a shared spreadsheet to compile and analyze collective data.
+
+3. **Class Data Analysis**:
+   - Combine data from multiple trials to identify consistent patterns and draw robust conclusions.
+   - Discuss findings as a class to interpret results and consider potential implications.
+
+4. **Critical Thinking and Discussion**:
+   - Encourage critical analysis of discrepancies or unexpected results between different experimental groups.
+   - Foster discussions on possible reasons for variations and refine experimental techniques for future trials.
+
+## Safety and Ethics
+
+1. Wear gloves and safety goggles when preparing and injecting solutions.
+2. Dispose of syringes and biological materials properly.
+
+### Be Kind to Crickets
+
+1. Discuss the ethical use of animals in research.
+2. Ensure students understand the importance of treating the crickets humanely and minimizing their discomfort.
 
 
 

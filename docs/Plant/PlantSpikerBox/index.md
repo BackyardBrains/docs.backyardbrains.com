@@ -15,7 +15,7 @@ Below are some basic setup steps for recording plant action potentials, for more
 
 First, decide which experiment you are doing and the materials you will need.
 
-![1](1.png)
+![1](1.jpg)
 
 For the Venus Flytrap experiment, you need the yellow RCA cable, one of the orange and red stake electrodes, and a black ground pin electrode. Place the stake electrode in the soil  close to the trap you’re going to record from, situating the silver wire around the tip close to the outside of the trap. Plant the black ground pin electrode into the soil.
 
@@ -25,7 +25,7 @@ For the Sensitive Mimosa experiment, you need the yellow RCA cable, the long red
 
 Place a dab of electrode gel at the contact points between your electrodes and the plants. This will increase conductivity for your experiment readings. Also make sure the soil is damp.
 
-![3](3.png)
+![3](3.jpg)
 
 Plug in the yellow RCA with black and red electrode clips. Push down the tops of these clips to expose the metal hooks, and clip the red hook to the recording wire and the black hook to the ground wire.  
 

@@ -3,6 +3,8 @@ sidebar_position: 3
 sidebar_label: Game Controller
 ---
 
+![game controller](GameController.jpeg)
+
 # Game Controller #
 :::warning
 Please Note: Works on Windows only and requires a Human SpikerBox

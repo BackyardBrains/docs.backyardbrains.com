@@ -19,7 +19,7 @@ First, decide which experiment you are doing and the materials you will need.
 
 For the Venus Flytrap experiment, you need the yellow RCA cable, one of the orange and red stake electrodes, and a black ground pin electrode. Place the stake electrode in the soil  close to the trap you’re going to record from, situating the silver wire around the tip close to the outside of the trap. Plant the black ground pin electrode into the soil.
 
-![2](2.png)
+![2](./2.jpg)
 
 For the Sensitive Mimosa experiment, you need the yellow RCA cable, the long red electrode wire, and a black ground pin electrode. Carefully, wrap the silver tip from the long red electrode wire snugly around a large Mimosa branch, close to the joint where the branch meets the stem. Plant the black ground pin electrode into the soil.
 

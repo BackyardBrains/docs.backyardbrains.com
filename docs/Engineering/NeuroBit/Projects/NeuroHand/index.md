@@ -137,6 +137,13 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
+  <TabItem value="Block" label="Block Code">
+
+Check out the code blocks below and let’s get experimenting! 🚀
+
+![](./np_blocks.png)
+
+ </TabItem>
   <TabItem value="Python" label="Python" default>
 
 ```py title="DIY Hand Neuroprosthetic"
@@ -155,13 +162,6 @@ while True:
         
         pins.servo_write_pin(AnalogPin.P8, 0)
 ```
- </TabItem>
-  <TabItem value="Block" label="Block Code">
-
-Check out the code blocks below and let’s get experimenting! 🚀
-
-![](./np_blocks.png)
-
  </TabItem>
   </Tabs>
 

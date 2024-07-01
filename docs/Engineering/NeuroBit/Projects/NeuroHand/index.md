@@ -160,7 +160,7 @@ while True:
 
 Check out the code blocks below and let’s get experimenting! 🚀
 
-![image](https://github.com/BackyardBrains/docs.backyardbrains.com/assets/117298723/c355bb6a-3848-4cef-8e92-d3ff10dfda16)
+![](./np_blocks.png)
 
  </TabItem>
   </Tabs>

@@ -5,7 +5,7 @@ description: No keyboard? No Problem. Put the MyoTyper to work.
 ---
 
 # The MyoTyper #
-![MyoTyper](./nb_mt_01.png)
+![MyoTyper](./nb_mt_00.png)
 
 |     |       |
 |--------------|--------------

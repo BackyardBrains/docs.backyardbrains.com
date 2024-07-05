@@ -37,8 +37,7 @@ You will make a few parts.  Below are the 4 3d printed parts we will need:
 The .rd file extension is associated with various file types depending on the context in which it is used. One common use is for laser cutting.
 
 ## Assembling the Maze ##
-1. Place Ball inside the maze, then seal with  Maze Cover with hot glue ![Step1](./maze_step1.png)
-
+1. Place Ball inside the maze, then seal with  Maze Cover with hot glue 
 ![Cut to length](./nb_mt_02.png)
 
 2. Glue plastic arm that comes with the servo to the pocket of Base
@@ -47,16 +46,15 @@ The .rd file extension is associated with various file types depending on the co
 
 3. Glue the other plastic arm to the pocket of Center Bracket
 
-4. Join one of the servos to the Top Bracket using the servo screws provided, as shown below ![Step4](./maze_step4.png)
+4. Join one of the servos to the Top Bracket using the servo screws provided, as shown below
 
-5. Join the other servo to the Center Bracket using two screws, as shown below ![Step7](./maze_step5.png)
+5. Join the other servo to the Center Bracket using two screws, as shown below
 
 6. Assemble the parts from Steps 2 and 5 above using a small servo screw.
 
 7. Assemble the parts from Steps 3 and 6, using small screw.
 
-8. Now pull it all together by combining the assmbly from step 1 with step 7.  You can these 2 parts with a hot glue gun. ![Step8](./maze_step8.png)
-
+8. Now pull it all together by combining the assmbly from step 1 with step 7.  You can these 2 parts with a hot glue gun.
 
 ## Preparing micro:bit ##
 Refer to "Connecting Muscles to Read an EMG Signal" from our [Getting Started with neuro:bit Block Programming](../../Block) page to learn how to record an EMG signal from the arm. You will need two neuro:bits, one connected to each the left and right arm.
@@ -136,11 +134,7 @@ while seconds > 0:
 basic.show_icon(IconNames.HAPPY)
 ```
 
-If you would like to, you can also download both codes for the Muscle Maze program from below. 
-1. [Muscle Maze](./micro:bit-Muscle-Maze-general.hex)
 
-2. [Muscle Maze with calibration](./micro:bit-Muscle-Maze-individual.hex)
-   
 Install either version of the Muscle Maze program on your local computer. Then, drag and drop the installed file into the project you have created. This will allow you to see the entire code in the project.
 
 Connect the micro:bit to your computer, then click "download." After this, you should now have the program inside the micro:bit.

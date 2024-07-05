@@ -5,7 +5,7 @@ description: Dozing off in class? The snooze smacker will help.
 ---
 
 # The Snooze Smacker #
-![Snooze Smacker](./np_ss_00.png)
+![Snooze Smacker](./nb_ss_00.png)
 
 |     |       |
 |--------------|--------------

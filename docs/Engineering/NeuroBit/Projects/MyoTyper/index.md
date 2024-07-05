@@ -4,7 +4,7 @@ sidebar_label: MyoTyper
 description: No keyboard? No Problem. Put the MyoTyper to work.
 ---
 
-# Muscle Maze #
+# The MyoTyper #
 ![MyoTyper](./nb_mt_01.png)
 
 |     |       |

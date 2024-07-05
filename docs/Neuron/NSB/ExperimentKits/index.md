@@ -4,9 +4,7 @@ sidebar_label: Neuropharmacology Kit
 ---
 
 # Neuropharmacology Kit #
-
-Pic
-![pic](./Image0.psd)
+![image14 (2)](https://github.com/BackyardBrains/docs.backyardbrains.com/assets/112901487/7ecbbcef-49aa-49c1-9e21-e1f46904826e)
 
 # Prior required knowledge #
 

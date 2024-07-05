@@ -14,7 +14,7 @@ description: Dozing off in class? The snooze smacker will help.
 | Best Location     | Classroom
 
 ## Project Overview ##
-\
+
 ## Materials Needed  ##
 
 To assemble the Muscle Maze, you will need to have the following items.

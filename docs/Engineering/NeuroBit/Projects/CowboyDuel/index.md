@@ -4,12 +4,12 @@ sidebar_label: Cowboy Duel
 description: It's high noon!  Are you ready for a duel?
 ---
 
-# Muscle Maze #
-![Muscle Maze](./np_cd_00.png)
+# Cowboy Duel #
+![Cowboy Duel](./np_cd_00.png)
 
 |     |       |
 |--------------|--------------
-| Inventor     | XX             
+| Inventor     | Petar Barlov            
 | micro:bit IDE     | Python Editor
 | Best Location     | Classroom
 

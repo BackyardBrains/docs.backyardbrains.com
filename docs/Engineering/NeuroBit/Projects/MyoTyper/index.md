@@ -9,8 +9,7 @@ description: No keyboard? No Problem. Put the MyoTyper to work.
 
 |     |       |
 |--------------|--------------
-| Inventor     | 
-Lana Novicic          
+| Inventor     | Lana Novicic
 | micro:bit IDE     | Block Code
 | Best Location     | Classroom   
 

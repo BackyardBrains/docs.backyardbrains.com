@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 8
 sidebar_label: Cowboy Duel
 description: It's high noon!  Are you ready for a duel?
 ---

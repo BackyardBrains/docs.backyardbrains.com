@@ -1,7 +1,7 @@
 ---
 sidebar_position: 10
 sidebar_label: BeatBite
-description: No keyboard? No Problem. Put the MyoTyper to work.
+description: Boring song on the bus? Just bite!
 ---
 
 

@@ -1,5 +1,9 @@
 ### BeatBite Control
-
+|     |       |
+|--------------|--------------
+| Inventors     | Pavle Vasic, Kosta Dedakin
+| micro:bit IDE     | Block Code
+| Best Location     | Classroom  
 Ever been on a bus ride that seems to stretch on forever?
 You reach for your earphones, eager to drown out the
 monotony with some tunes, only to find the first few songs

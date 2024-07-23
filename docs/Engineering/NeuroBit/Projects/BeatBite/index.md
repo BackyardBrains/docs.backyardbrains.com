@@ -5,7 +5,7 @@ description: No keyboard? No Problem. Put the MyoTyper to work.
 ---
 
 
-### BeatBite Control
+# BeatBite Control #
 |     |       |
 |--------------|--------------
 | Inventors     | Pavle Vasic, Kosta Dedakin

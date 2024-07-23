@@ -1,4 +1,4 @@
-#BeatBite Control
+### BeatBite Control
 
 Ever been on a bus ride that seems to stretch on forever?
 You reach for your earphones, eager to drown out the

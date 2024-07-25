@@ -37,12 +37,12 @@ Electrophysiology is a method used by scientists to detect and amplify small ele
 
 ### Obtaining and Caring for Fiddler Crabs
 1. **Collecting Crabs:** Collect fiddler crabs at low tide in a marsh or purchase them from bait and tackle shops.
-2. **Setting Up Habitat:** Place wet sand or marsh mud in a plastic container, covering about two-thirds of the bottom, and fill the rest with saltwater.
+2. **Setting Up Habitat:** Place wet sand or marsh mud in a plastic container, covering about two-thirds of the bottom, and fill the rest with salt water.
 3. **Maintaining Habitat:** Keep extra saltwater on hand to replenish as needed to prevent dehydration.
 4. **Feeding Crabs:** Feed the crabs with pellet or flake fish food twice a week.
 
 ### Preparing the Specimen
-1. **Anesthetizing the Crab:** Place a fiddler crab in a plastic cup filled with ice to anesthetize it.  *Do Not Leave the Crab in Ice!  It will die!* 
+1. **Anesthetizing the Crab:** Place a fiddler crab in a plastic cup filled with ice to anesthetize it.  *Do Not Leave the Crab on Ice for over ~5 minutes!*  Crabs can die if kept for too long.  
 2. **Removing a Leg:** After a few minutes, remove the crab from the ice and gently pull off one of its legs from the base of the carapace.  Don't keep the crab in ice for too long.  Just a few minutes is all you need... until you see the crab is not moving. 
 3. **Setting Up the Leg:** Place the leg on the small corkboard on top of the Spikerbox with part of it hanging off the edge.
 

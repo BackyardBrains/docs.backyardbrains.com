@@ -42,7 +42,7 @@ Electrophysiology is a method used by scientists to detect and amplify small ele
 4. **Feeding Crabs:** Feed the crabs with pellet or flake fish food twice a week.
 
 ### Preparing the Specimen
-1. **Anesthetizing the Crab:** Place a fiddler crab in a plastic cup filled with ice to anesthetize it. 
+1. **Anesthetizing the Crab:** Place a fiddler crab in a plastic cup filled with ice to anesthetize it.  *Do Not Leave the Crab in Ice!  It will die!* 
 2. **Removing a Leg:** After a few minutes, remove the crab from the ice and gently pull off one of its legs from the base of the carapace.  Don't keep the crab in ice for too long.  Just a few minutes is all you need... until you see the crab is not moving. 
 3. **Setting Up the Leg:** Place the leg on the small corkboard on top of the Spikerbox with part of it hanging off the edge.
 
@@ -54,7 +54,7 @@ After the leg is removed, the neurons inside can survive for a limited time by u
 ### Recording Electrical Activity
 1. **Inserting Electrodes:** Insert the electrodes into the leg, one at the top of the femur and the other at the bottom of the femur near the knee joint.
 2. **Connecting Equipment:** Connect the SpikerBox to your recording device and open the Spike Recorder app.
-3. **Recording Activity:** Flip the “ON” switch on the SpikerBox and observe the neuron's action potentials in real-time.
+3. **Recording Activity:** Rotate the “ON” switch on the SpikerBox and listen for spontaneous neuronal action potentials.  Also, observe the signal trace on the Spike Recorder App to determine if you can see spikes.
 4. **Brush the Leg:** Use a toothpick or small coffee stirrer to gently poke the leg and observe changes in electrical activity.
 
 ### Data Analysis

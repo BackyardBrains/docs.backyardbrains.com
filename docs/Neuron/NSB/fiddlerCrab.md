@@ -49,9 +49,7 @@ Electrophysiology is a method used by scientists to detect and amplify small ele
 ### Viability of Neurons After Leg Removal ####
 Fiddler crabs, like other crustaceans, have an open circulatory system where the blood (hemolymph) is not confined exclusively to blood vessels but flows freely through the body cavity. The hemolymph in fiddler crabs is typically blue due to the presence of hemocyanin, a copper-based molecule that carries oxygen, similar to how hemoglobin functions in vertebrates. This blue blood transports nutrients and oxygen to cells and removes waste products.
 
-When a leg is removed from a fiddler crab, the neurons within the leg can remain viable for a limited period, allowing for electrophysiological recordings. The duration of viability depends on several factors, including temperature, humidity, and how the leg is handled. Under optimal conditions, such as keeping the leg cool and moist, you can expect to record electrical activity from the neurons for approximately 1 to 2 hours post-removal.
-
-Maintaining the leg in a cool, moist environment can help prolong the viability of the neurons. This can be achieved by placing the leg on a damp paper towel or in a small container with a moist environment. Recording as soon as possible after the leg is removed will ensure the best results.
+After the leg is removed, the neurons inside can survive for a limited time by using the residual oxygen in the tissues and the hemolymph remaining within the leg. However, without the active circulation of hemolymph, the supply of oxygen is finite. The neurons will gradually deplete the available oxygen, leading to a decline in their function and eventual death. The duration of viability depends on several factors, including temperature, humidity, and how the leg is handled. Under optimal conditions, such as keeping the leg cool and moist, you can expect to record electrical activity from the neurons for approximately 1h post-removal.
 
 ### Recording Electrical Activity
 1. **Inserting Electrodes:** Insert the electrodes into the leg, one at the top of the femur and the other at the bottom of the femur near the knee joint.

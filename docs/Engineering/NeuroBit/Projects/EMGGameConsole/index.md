@@ -1,6 +1,6 @@
 # EMG Game Console
 
-![Cover Image](path/to/your/image.png)
+![Cover Image  path/to/your/image.png)
 
 |                    |                                                             |
 | ------------------ | ----------------------------------------------------------- |

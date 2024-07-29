@@ -70,7 +70,7 @@ Before connecting the electronics, we should slice and start printing the files.
 
 5. Insert the microSD card into your computer and transfer the files from the `Assets/bmp` folder of the attachment.
 
-![Illustrations Image Images/Illustration.png)
+![Illustrations Image Illustration.png)
 
 6. Insert the microSD card into the Wio Terminal's slot beside the power switch _(pins toward the screen/facing up)_.
 
@@ -100,14 +100,14 @@ Before connecting the electronics, we should slice and start printing the files.
 
 1. Follow the pictures to assemble the tug of war part.
 
-![Tug of War Image](Images/Assembly1.png)
-![Tug of War Image](Images/Assembly2.png)
-![Tug of War Image](Images/Assembly3.png)
-![Tug of War Image](Images/Assembly4.png)
+![Tug of War Image](Assembly1.png)
+![Tug of War Image](Assembly2.png)
+![Tug of War Image](Assembly3.png)
+![Tug of War Image](Assembly4.png)
 
 2. Rotate the gear in the tug of war part and snap the white servo motor horn in place _(a screwdriver might be helpful)_.
 
-![Tug of War Image](Images/Assembly5.png)
+![Tug of War Image](Assembly5.png)
 
 3. Connect the servo motor’s cable to the right neuro:bit, ensuring the letters on the micro:bit port _(BlackRedYellow)_ match the colors on the cable.
 
@@ -117,11 +117,11 @@ Before connecting the electronics, we should slice and start printing the files.
 
 5. Put the servo in its slot orienting it so it lines up with the horn, carefully centering the gear as well.
 
-![Tug of War Image](Images/Assembly6.png)
+![Tug of War Image](Assembly6.png)
 
 5. Secure the servo motor in place with screws. Press upwards on the gear to ensure the horn is tight on the servo.
 
-![Tug of War Image](Images/Assembly7.png)
+![Tug of War Image](Assembly7.png)
 
 6. Cut a piece of string a little over 10 cm.
 
@@ -129,11 +129,11 @@ Before connecting the electronics, we should slice and start printing the files.
 
 8. Position the flag so that its bottom points to a mark on the tug of war part.
 
-![Tug of War Image](Images/AssemblyComplete.png)
+![Tug of War Image](AssemblyComplete.png)
 
 9. Done, now the angle of the servo should be proportional to the position of the flag!
 
-![Rotation Image](Images/Rotation.gif)
+![Rotation Image](Rotation.gif)
 
 ## Software
 

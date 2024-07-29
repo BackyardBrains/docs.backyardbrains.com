@@ -9,7 +9,7 @@ description: Dozing off in class? The snooze smacker will help.
 
 |     |       |
 |--------------|--------------
-| Inventor     | Ana            
+| Inventor     | Ana Markovic and Milica Ivankovic           
 | micro:bit IDE     | Block Code 
 | Best Location     | Classroom
 

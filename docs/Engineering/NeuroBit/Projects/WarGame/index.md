@@ -1,6 +1,10 @@
 # The War Game
-Inventors: Todor Šolajić and Mila Urošević
-Programmed in block code
+|     |       |
+|--------------|--------------
+| Inventor     | Todor Šolajić and Mila Urošević            
+| micro:bit IDE     | Block Code 
+| Best Location     | Classroom
+## Project Overview
 Are you tired of the powerful red army always winning over your troops? Well, fear no more,
 because we have a solution for you! The War Game is a fun 2-player game which tests your
 logical skills and makes the time fly by.
@@ -22,4 +26,4 @@ A big part of the game is the communication between the two micro:bits. We wante
 register which moves the players chose, but also to react to the other player’s decision and
 react based on that. With this communication we were able to program the micro:bits to
 automatically count and display the amount of arrows each player has, as well as count their
-lives and display the outcome in the end:
+lives and display the outcome in the end

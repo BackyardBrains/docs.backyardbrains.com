@@ -1,9 +1,10 @@
-# EMG Game Console
 ---
 sidebar_position: 6
 sidebar_label: EMG Game Console
 description: Fully Body gaming like never before
 ---
+
+# EMG Game Console
 ![Cover Image  path/to/your/image.png)
 
 |                    |                                                             |

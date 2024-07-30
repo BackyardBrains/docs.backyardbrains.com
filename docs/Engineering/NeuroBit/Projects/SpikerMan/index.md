@@ -12,7 +12,11 @@ description: Make your very own string-slinging device
 *"Spiker-Man, Spiker-Man, does whatever a Spiker-Man can"*
 
 Make your very own string-slinging device that shares startling similarities to a certain Marvel / Sony superhero!
-
+|     |       |
+|--------------|--------------
+| Inventor     | Chethan Magnan          
+| micro:bit IDE     | MakeCode / MicroPython
+| Best Location     | Makerspace 
 
 # Materials Needed #
 Step 1. Pick which materials you'd like to use  

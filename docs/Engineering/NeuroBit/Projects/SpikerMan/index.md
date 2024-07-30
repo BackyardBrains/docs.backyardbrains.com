@@ -104,4 +104,4 @@ Step 19. Assemble the 3D prints, the string slinging component, the Micro:Bit an
 # Demos #
 
 Step 20. Mess around with your newly created Spiker-Man Web Flinger!  
-![Pchew](./12EFFA93-DF49-4AD4-A3BE-2F5C1FF4E5BC.jpeg)
+![Pchew](./6F6943EF-E2DB-46D7-90C4-FCB8CB2B2016.jpeg)

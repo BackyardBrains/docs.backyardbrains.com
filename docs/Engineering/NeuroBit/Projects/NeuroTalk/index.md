@@ -87,7 +87,7 @@ Test your device by performing ASL gestures and observing the outputs.
 - Adjust the sensitivity of the EMG signal reading if necessary.
 - Fine-tune the Morse code timing for accurate interpretation.
 
-![Testing Neuro:Talk](./neurotalk_06_testing.png)
+![Testing Neuro:Talk ./neurotalk_06_testing.png)
 
 ## Build Instructions
 

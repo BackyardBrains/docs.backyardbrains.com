@@ -27,7 +27,7 @@ These instructions will guide you through the process of building and programmin
 - An assortment of Wires and connectors
 - 1x Cardboard, tape, and scissors for housing
 
-# Programming Your Neuro:Talk Device
+## Programming Your Neuro:Talk Device
 
 Now that your device is assembled, it's time to program it to decode ASL gestures into Morse code and display it.
 
@@ -38,7 +38,7 @@ Now that your device is assembled, it's time to program it to decode ASL gesture
 
 ![Programming Setup /neurotalk_05_programming_setup.png)
 
-## Step 2: Code the EMG Signal Interpretation
+### Step 2: Code the EMG Signal Interpretation
 
 Write code to interpret EMG signals from your muscles.
 
@@ -54,7 +54,7 @@ if (emgSignal > threshold) {
 }
 ```
 
-## Step 3: Convert Morse Code to Output Signals
+### Step 3: Convert Morse Code to Output Signals
 
 Once you've mapped the ASL gestures to Morse code, you'll need to display this information.
 
@@ -80,7 +80,7 @@ void displayMorseCode(char* morseCode) {
 }
 ```
 
-## Step 4: Test and Calibrate
+### Step 4: Test and Calibrate
 
 Test your device by performing ASL gestures and observing the outputs.
 
@@ -111,7 +111,7 @@ Use cardboard to build a housing for your components.
 ![Assembled Housing ./neurotalk_04_housing.png)
 
 
-# Using Neuro:Talk
+## Using Neuro:Talk
 
 Now that your device is ready, it's time to use it!
 
@@ -123,7 +123,7 @@ Now that your device is ready, it's time to use it!
 As you practice using the Neuro:Talk, you'll become more adept at controlling the output, ensuring that your ASL gestures are accurately represented.
 
 
-# Customizing Your Neuro:Talk Device
+## Customizing Your Neuro:Talk Device
 
 You can further enhance your device with additional features:
 
@@ -139,6 +139,6 @@ You can further enhance your device with additional features:
 - Integrate additional sensors for more nuanced control and feedback.
 
 
-# Conclusion
+## Conclusion
 
 Congratulations on building and programming your Neuro:Talk device! By translating ASL gestures into Morse code, you've created a unique bridge between physical expression and digital communication. Keep exploring, customizing, and sharing your innovations with the world!

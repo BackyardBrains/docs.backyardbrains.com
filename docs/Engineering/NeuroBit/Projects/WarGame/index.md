@@ -4,15 +4,22 @@
 | Inventor     | Todor Šolajić and Mila Urošević            
 | micro:bit IDE     | Block Code 
 | Best Location     | Classroom
+
 ## Project Overview
 Are you tired of the powerful red army always winning over your troops? Well, fear no more,
 because we have a solution for you! The War Game is a fun 2-player game which tests your
 logical skills and makes the time fly by.
+
 With one grip of your hand you can choose which move you want to make, but be careful!
 Each move makes you vulnerable in a different way and gives the opponent a chance to
 make a move in their favour. So choose wisely and most importantly have fun!
 We used two neuro:bit kits with micro:bit, electrodes and cables combined with some
 programming skills to bring this idea to life.
+
+
+## Materials needed
+
+
 At first we needed to make the game accessible to everybody, which is why we needed to
 create a separate code that automatically measures the strength each player needs to use
 to make each move. This is important because the strength needed differs from person to

@@ -28,3 +28,14 @@ Although relatively simple, the game is extremely fun and cool.
 
 ## Code explanation:
 Making the code for this project was fairly simple and straight forward. We first assign the “val” which is going to be the value of the signal read from the electrodes. We then assign the threshold to 250, the threshold can be changed if the electrodes are placed elsewhere. Afterwards, we check If the analog value exceeds the threshold of 250, and if it does the servo is set to 180 degrees, making the dinosaur jump (grounded = 0). If the value is below or equal to the threshold, the servo is set to 13 degrees, keeping the dinosaur on the ground (grounded = 1).
+
+## Future Work 
+These can all be done in the future for your own projects:
+
+Function for the death of the dinosaur
+  If the dinosaur is grounded at a certain predefined time frame (which is defined according to the speed of the track rotation and the distance of cactuses), the track stops moving.
+
+Score counting:
+  After a certain timeframe, the score increases by one, this function also stops when the dinosaur dies.
+
+All models could be made using a 3D printer, making the game smoother and more professional.

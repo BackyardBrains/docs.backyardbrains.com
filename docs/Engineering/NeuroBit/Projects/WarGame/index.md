@@ -18,8 +18,13 @@ programming skills to bring this idea to life.
 
 
 ## Materials needed
+- 2x neuro:bit and micro:bit, including two emg cables
+- Cosmetics for making your armies this can be:
+      Action figures
+      Paper with red and blue stick figures
+      3D printed casings in red and blue
 
-
+## Coding
 At first we needed to make the game accessible to everybody, which is why we needed to
 create a separate code that automatically measures the strength each player needs to use
 to make each move. This is important because the strength needed differs from person to

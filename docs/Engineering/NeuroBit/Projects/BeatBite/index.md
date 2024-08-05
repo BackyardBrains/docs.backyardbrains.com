@@ -22,12 +22,12 @@ What if that could be a reality? Here is what we came up with:
 ## Materials Needed
 Using simple block codes and imagination, we
 turned our idea into reality.For this project, we need
-- 1x micro:bit
-- 1x neuro:bit
+- 1x micro:bit and neuro:bit
 - 1x audio jack with alligator clips- for measuring EMG in jaw muscles
-- 3x Jumper wires - connecting pinhead with neuro:bit and alligator clips
+- 2x Jumper wires - connecting pinhead with neuro:bit and alligator clips
 - 1x wired headphones
 - 2x alligator clips
+- 1x Grove connector
   ![materials](./MaterialsBeatBite.png)
   
 Optional

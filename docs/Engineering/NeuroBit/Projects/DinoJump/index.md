@@ -3,6 +3,8 @@ sidebar_label: Dino Jump game
 description: For when you have no internet, IRL
 ---
 # Dino Jump Game
+
+![The Dino Jump](./DinoJump.png)
 |     |       |
 |--------------|--------------
 | Inventor     | Anastasija Matić, Elena Andjelković, and Milan Tomić          

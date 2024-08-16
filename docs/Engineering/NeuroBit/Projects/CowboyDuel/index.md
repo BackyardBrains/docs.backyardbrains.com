@@ -42,26 +42,118 @@ see a “W” on their display (winner), and others will see an “L” (loser).
 to be just a micro:bit held in one hand, and the other hand would be finger guns. This could be much more fun, so I added a 3D-printed gun with a micro:bit on top.
 
 ## Code
-(Image for on start, on logo pressed, radio)
+There are three main parts to this program: the ready system, the beginning phase, and the duel.
 
-This represents the ready system. First, it sets all variables to 0 and the radio
-group (server) to 5. It also has a variable “Random” which is a timer for the
+The on logo pressed and on start blocks represents the ready system. First, it sets all variables to 0 and the radio group (server) to 5. It also has a variable “Random” which is a timer for the
 beginning phase. When the logo is pressed, it sets the “Ready” variable to 1
 (or to 0 if it’s already 1) and sends values “Ready” and “Random” to the
 other player. When a player receives the variables, it equalizes the
 “Random” value and it checks whether the other player is ready, and it
 begins the game with the “Start” variable.
 
-(Forever block)
-
-This represents the beginning phase. Firstly, it checks whether the “Start”
+The first forever block represents the beginning phase. Firstly, it checks whether the “Start”
 the variable is “activated” (equal to 1), it displays a dot and starts playing the
 suspense melody. Then, it waits the “Random” amount of time and plays the sound signal. After that, it activates the “Signal” variable and
 deactivates the “Start” and “Ready” variables.
 
 
-(on Radio and another forever block )
-- Finally, this represents the action phase. First of all, it reads the digital
+Finally, the second forever block and the on_recieved_value block represents the action phase. First of all, it reads the digital
 EMG signal and sets the “Key” variable to it. I found the digital read command to be a bit more effective than analog read. This is because digital read only shows 0 (when no motion is present) and
 1 (when some motion is present), while analog needs more
 optimization. Whoever activates “Key” first, sets their “Signal” to 0, gets the “W” screen, and sets the others' screens to “L”.
+
+```
+def on_received_number(receivedNumber):
+    global Signal
+    basic.show_leds("""
+        . # . . .
+        . # . . .
+        . # . . .
+        . # . . .
+        . # # # .
+        """)
+    Signal = 0
+radio.on_received_number(on_received_number)
+
+def on_received_string(receivedString):
+    global Start
+    Start = 1
+radio.on_received_string(on_received_string)
+
+def on_received_value(name, value):
+    global Random, Start
+    if name == "Random":
+        Random = value
+    elif Ready == value:
+        radio.send_string("Start")
+        Start = 1
+radio.on_received_value(on_received_value)
+
+def on_logo_pressed():
+    global Ready
+    if Ready == 0:
+        basic.show_icon(IconNames.YES)
+        Ready = 1
+        radio.send_value("Random", Random)
+        radio.send_value("Ready", Ready)
+    else:
+        basic.clear_screen()
+        Ready = 0
+input.on_logo_event(TouchButtonEvent.PRESSED, on_logo_pressed)
+
+Key = 0
+timer = 0
+Start = 0
+Random = 0
+Ready = 0
+Signal = 0
+radio.set_group(5)
+Signal = 0
+Ready = 0
+Pobednik = 0
+Random = Math.round(randint(10, 20))
+
+def on_forever():
+    global timer, Signal, Start, Ready
+    if Start == 1:
+        basic.show_leds("""
+            . . . . .
+            . . . . .
+            . . # . .
+            . . . . .
+            . . . . .
+            """)
+        music.play(music.string_playable("C5 B A G F E D C ", 120),
+            music.PlaybackMode.LOOPING_IN_BACKGROUND)
+        basic.pause(Random * 1000)
+        music.stop_melody(MelodyStopOptions.ALL)
+        timer = control.millis()
+        music.play(music.string_playable("C5 C5 C5 C5 C5 C5 C5 C5 ", 120),
+            music.PlaybackMode.IN_BACKGROUND)
+        basic.show_leds("""
+            # . . . #
+            . # . # .
+            . . # . .
+            . # . # .
+            # . . . #
+            """)
+        Signal = 1
+        Start = 0
+        Ready = 0
+basic.forever(on_forever)
+
+def on_forever2():
+    global Key, Signal
+    Key = pins.digital_read_pin(DigitalPin.P0)
+    if Signal == 1 and Key == 1:
+        Signal = 0
+        radio.send_number(0)
+        basic.show_leds("""
+            # . # . #
+            # . # . #
+            # . # . #
+            # . # . #
+            . # . # .
+            """)
+basic.forever(on_forever2)
+```

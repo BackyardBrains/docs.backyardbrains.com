@@ -1,4 +1,12 @@
+---
+sidebar_position: 11
+sidebar_label: The War Game
+description: Never lose to the powerful red army with 10000 power again
+---
+
 # The War Game
+![WARGaming](./WARGaming.png)
+
 |     |       |
 |--------------|--------------
 | Inventor     | Todor Šolajić and Mila Urošević            
@@ -188,3 +196,4 @@ def on_every_interval():
 loops.every_interval(9000, on_every_interval)
 
 ```
+![WarGameInAction](./WARGame.jpg)

@@ -157,3 +157,6 @@ def on_forever2():
             """)
 basic.forever(on_forever2)
 ```
+![DDDUEL1](./DDDUEL1.png)
+![DDDUEL2](./DDDUEL2.png)
+

@@ -1,3 +1,9 @@
+---
+sidebar_position: 10
+sidebar_label: HeartBit
+description: Music reimagined
+---
+
 # HeartBit
 ![Finished](./19.png)
 

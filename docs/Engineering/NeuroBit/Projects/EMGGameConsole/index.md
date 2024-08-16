@@ -5,7 +5,7 @@ description: Fully Body gaming like never before
 ---
 
 # EMG Game Console
-![Cover Image  path/to/your/image.png)
+![Cover Image](./35.png)
 
 |                    |                                                             |
 | ------------------ | ----------------------------------------------------------- |
@@ -49,11 +49,11 @@ Before connecting the electronics, we should slice and start printing the files.
 
 1. 3D print all parts located in the `TugOfWarGame` folder of the attached ZIP file. Apply supports as needed.
 
-![Tug Of War Game Plate Image path/to/your/image.png)
+![Tug Of War Game Plate Image](./TugOfWarPlate.png)
 
 2. _If you don’t have the Wio Terminal:_ 3D print all parts in the `GameConsole` folder. Note that some files need to be printed twice, and you need to apply supports.
 
-![Game Console Plate Image path/to/your/image.png)
+![Game Console Plate Image](./ConsolePlate.png)
 
 3. Thoroughly clean the parts from the supports after printing.
 
@@ -63,19 +63,19 @@ Before connecting the electronics, we should slice and start printing the files.
 
 2. Cut the red _(power)_ wire of the Grove cable. We want to power the Wio Terminal externally.
 
-![Grove Cable Image path/to/your/image.png)
+![Grove Cable Image](./27.png)
 
 3. Plug one side of the cable into one of the neuro:bit's "digital" Grove ports _(the one with the SCL and SDA - i2c pins)_. This micro:bit is now the "right one".
 
-![Microbit Grove Image path/to/your/image.png)
+![Microbit Grove Image](./28.png)
 
 4. Plug the other side of the cable into the matching i2c Grove port on the Wio Terminal _(the left one when the screen is up)_.
 
-![Wio Terminal Grove Image path/to/your/image.png)
+![Wio Terminal Grove Image](./32.png)
 
 5. Insert the microSD card into your computer and transfer the files from the `Assets/bmp` folder of the attachment.
 
-![Illustrations Image Illustration.png)
+![Illustrations Image](./Illustration.png)
 
 6. Insert the microSD card into the Wio Terminal's slot beside the power switch _(pins toward the screen/facing up)_.
 
@@ -87,19 +87,21 @@ Before connecting the electronics, we should slice and start printing the files.
 
 3. Insert the switches, ensuring the higher side is toward the neuro:bit sign and they are in the OFF position.
 
-![Switches Image path/to/your/image.png)
+![Switches Image](./6.png)
 
 4. Insert both neuro:bits into their holders _(the right one goes to the right one)_ with the ports facing outward. Angle them slightly and push them in. This might take a few tries, so do it one by one, paying attention not to move the switches.
 
-![Neurobit Holder Image path/to/your/image.png)
+![NeuroHolder1](./7.png)
 
 5. Snap the Wio Terminal into the display holder.
 
-![Display Holder Image path/to/your/image.png)
+![Display Holder Image1](./10.png)
+![Display Holder Image2](./12.png)
 
 6. Position the display holder so that the blue button is in the top left corner and slide it onto the stand.
 
-![Sliding onto the Stand Image path/to/your/image.png)
+![Sliding_Into_Stand1](./13.png)
+![Sliding_Into_Stand2](./14.png)
 
 ## Tug of War Extension Assembly
 
@@ -116,7 +118,7 @@ Before connecting the electronics, we should slice and start printing the files.
 
 3. Connect the servo motor’s cable to the right neuro:bit, ensuring the letters on the micro:bit port _(BlackRedYellow)_ match the colors on the cable.
 
-![Servo Connection Image   path)
+![Servo Connection Image](./29.png)
 
 4. Flash the temporary code using the micro:bit Python Editor from the file servo_calibration.py to the right neuro:bit. This will center the servo to 90°.
 
@@ -168,39 +170,30 @@ Once everything is assembled and coded, both players should follow these steps:
 
 1. Place one gel electrode on the back of your hand _(any bony part without muscle interference will do, like your elbow)_. Bend your ring and pinkie fingers while you search for the muscle that contracts on your forearm with the other hand. Place two electrodes on that muscle.
 
-![Tug of War Image path/to/your/image.png)
-
 2. Connect the black cable clip to the electrode on the back of your hand and the two red cable clips to the other two electrodes.
-
-![Tug of War Image path/to/your/image.png)
 
 3. Connect the orange cables to the neuro:bits, with the left player _(red cable)_ connecting to the left one and the right player _(green cable)_ connecting to the right one.
 
-![Tug of War Image path/to/your/image.png)
+![Tug of War Image](./34.png)
 
 4. Plug the USB C cable into the Wio Terminal and the other end into a power bank.
 
-![Tug of War Image path/to/your/image.png)
+![Tug of War Image](./31.png)
 
-5. Turn on the switches on both neuro:bits.
-
-![Tug of War Image path/to/your/image.png)
+5. Turn on the switches on both neuro:bits. Remeber, these switches are on the bottom of the containers and near the middle.
 
 6. When the display turns on, press the blue button to select the game.
 
-![Tug of War Image path/to/your/image.png)
+![Tug of War Image](./32.png)
 
 7. Press the black button on the bottom of the micro:bit and then squeeze your muscle as hard as you can until the red tick mark appears on the micro:bit.
 
-![Tug of War Image path/to/your/image.png)
-
 8. Now you can play by squeezing your wrists - the stronger you squeeze, the more the flag will move in your direction. Enjoy the game that NEVER ENDS. 🤗
 
-![Tug of War Image path/to/your/image.png)
+![Tug of War Image](./35.png)
 
 ## Credits
 
 The 3D modeling and printing were done by Alex Hatch _(based on Jovana's incredible sketches)_, and the project was overseen by Chethan Magnan. We thank them from the bottom of our hearts for being such open and helpful people.
 
-//Add in Stefana's pics + Code
 

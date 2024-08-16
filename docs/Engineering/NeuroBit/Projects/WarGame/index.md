@@ -39,3 +39,152 @@ register which moves the players chose, but also to react to the other player’
 react based on that. With this communication we were able to program the micro:bits to
 automatically count and display the amount of arrows each player has, as well as count their
 lives and display the outcome in the end
+```
+def on_received_string(receivedString):
+    global life, DONE
+    if receivedString == "shoot":
+        if not (sentString == "shield"):
+            life = life - 1
+            basic.show_leds("""
+                . # . # .
+                . # . # .
+                . . . . .
+                . # # # .
+                # . . . #
+                """)
+    elif receivedString == "reload":
+        if sentString == "shoot":
+            basic.show_leds("""
+                . # . # .
+                . # . # .
+                . . . . .
+                # . . . #
+                . # # # .
+                """)
+    elif receivedString == "shield":
+        pass
+    elif receivedString == "LOSE":
+        DONE = True
+        basic.show_string("YOU WIN")
+    elif receivedString == "BAD":
+        if sentString == "shoot":
+            basic.show_leds("""
+                . # . # .
+                . # . # .
+                . . . . .
+                # . . . #
+                . # # # .
+                """)
+radio.on_received_string(on_received_string)
+
+index = 0
+maxsignal = 0
+y_position = 0
+x_position = 0
+DONE = False
+sentString = ""
+threshold_1 = 0
+threshold = 0
+val = 0
+life = 0
+basic.pause(3000)
+life = 3
+numShiled = 2
+allowShiled = 2
+ammo = 5
+StartTime = control.millis()
+music.play(music.tone_playable(262, music.beat(BeatFraction.HALF)),
+    music.PlaybackMode.UNTIL_DONE)
+while control.millis() - StartTime < 3000:
+    val = pins.analog_read_pin(AnalogPin.P0)
+    threshold = max(threshold, val)
+basic.pause(1000)
+StartTime = control.millis()
+music.play(music.tone_playable(262, music.beat(BeatFraction.HALF)),
+    music.PlaybackMode.UNTIL_DONE)
+while control.millis() - StartTime < 3000:
+    val = pins.analog_read_pin(AnalogPin.P0)
+    threshold_1 = max(threshold_1, val)
+
+def on_every_interval():
+    global x_position, y_position, StartTime, maxsignal, val, ammo, sentString, numShiled, index, DONE
+    if not (DONE):
+        radio.set_group(1)
+        x_position = 0
+        y_position = 0
+        # threshold = 100
+        # threshold_1 = 500
+        if life > 0:
+            music.play(music.tone_playable(262, music.beat(BeatFraction.WHOLE)),
+                music.PlaybackMode.UNTIL_DONE)
+            StartTime = control.millis()
+            maxsignal = 0
+            while control.millis() - StartTime < 1000:
+                val = pins.analog_read_pin(AnalogPin.P0)
+                if val > maxsignal:
+                    maxsignal = val
+            if maxsignal >= threshold_1:
+                if ammo > 0:
+                    ammo = ammo - 1
+                    sentString = "shoot"
+                    numShiled = 0
+                    radio.send_string("shoot")
+                    basic.show_leds("""
+                        . . # . .
+                        . # # # .
+                        . . # . .
+                        . . # . .
+                        . # . # .
+                        """)
+                    basic.clear_screen()
+                else:
+                    radio.send_string("BAD")
+            elif maxsignal < threshold * 0.7:
+                ammo = ammo + 1
+                numShiled = 0
+                sentString = "reload"
+                radio.send_string("reload")
+                basic.show_leds("""
+                    . . . . #
+                    . # . # #
+                    # # # . #
+                    . # . . #
+                    . . . . #
+                    """)
+                basic.clear_screen()
+            else:
+                if numShiled < allowShiled:
+                    sentString = "shield"
+                    numShiled = numShiled + 1
+                    radio.send_string("shield")
+                    basic.show_leds("""
+                        # . . . #
+                        . # . # .
+                        . . # . .
+                        . # . # .
+                        # . . . #
+                        """)
+                    basic.clear_screen()
+                else:
+                    radio.send_string("BAD")
+            if ammo < 0:
+                ammo = 0
+            if ammo > 10:
+                ammo = 10
+            index = 0
+            while index <= ammo - 1:
+                if index > 4:
+                    x_position = index % 5
+                    y_position = 3
+                else:
+                    x_position = index
+                    y_position = 4
+                led.plot(x_position, y_position)
+                index += 1
+        else:
+            radio.send_string("LOSE")
+            DONE = True
+            basic.show_string("YOU LOSE")
+loops.every_interval(9000, on_every_interval)
+
+```

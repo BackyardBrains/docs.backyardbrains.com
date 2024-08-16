@@ -65,6 +65,7 @@ display the words we wrote.
 
 Below is the completed code in micro:bit makecode python.
 
+![MyoCode](./MyoCode.png)
 ```
 slovo = ""
 _2click = 0

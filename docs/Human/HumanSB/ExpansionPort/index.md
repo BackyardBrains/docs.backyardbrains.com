@@ -42,7 +42,7 @@ When SpikerBox Pro detects voltage change on ENC pin it will wait 1.5 seconds fo
 
 ### Mode 0: 5x Digital Event Markers (Default)
 
-Mode 0 sets pins IOs 1, 2, 3, 4, and 5 to a digital input mode. Using these IO pins, the user can generate events via the SpikerBox Pro that will be sent via USB interface to software on host computer.  This allows for external events (mechanical switches, etc.)  Each time SpikerBox Pro observes a rising edge of input signal (logic level high for at least 200ms, max 9V input), an event will appear on the SpikeRecorder Software.  
+Mode 0 sets pins IOs 1, 2, 3, 4, and 5 to a digital input mode. Using these IO pins, the user can generate events via the SpikerBox Pro that will be sent via USB interface to software on host computer.  This allows for external events (mechanical switches, etc.)  Each time SpikerBox Pro observes a rising edge of input signal (logic level high for at least 200ms, max 9V input), an event will appear on the SpikeRecorder Software. The fastest possible rate of events is 5Hz.
 
 ![events inside of Spike Recorder](./eventsSR.png)
 

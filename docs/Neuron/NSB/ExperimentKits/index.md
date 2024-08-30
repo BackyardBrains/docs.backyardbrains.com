@@ -9,35 +9,32 @@ sidebar_label: Neuropharmacology Kit
 ![image14 (2)](https://github.com/BackyardBrains/docs.backyardbrains.com/assets/112901487/7ecbbcef-49aa-49c1-9e21-e1f46904826e)
 
 ## Introduction 
-The Neuropharmacology Kit is an educational add-on designed to complement the Neuron SpikerBox by allowing students to explore the effects of neurotransmitters on neuronal activity. Using everyday substances like nicotine and monosodium glutamate (MSG), students can directly observe how these chemicals interact with neurons in a live cricket model. This kit provides a hands-on, engaging way to learn about excitatory and inhibitory neurotransmission, making neuroscience concepts more accessible and relatable.
+The Neuropharmacology Kit is a practical add-on for the Neuron SpikerBox, designed to enhance students’ understanding of neurotransmission. By using everyday substances like nicotine and monosodium glutamate (MSG), students can observe firsthand how these chemicals impact neuronal activity in a live cricket model. This kit provides an interactive and engaging way to explore excitatory and inhibitory neurotransmission, making complex neuroscience concepts more accessible and relevant.
 
 # Background information #
-
-This kit uses nicotine and monosodium glutamate (MSG) to demonstrate how neurotransmitters affect neuronal activity. Nicotine mimics acetylcholine, an excitatory neurotransmitter, by binding to nicotinic acetylcholine receptors, which increases the likelihood of neurons firing action potentials. MSG, commonly used in food as a flavor enhancer, acts as an inhibitory neurotransmitter in crickets, reducing neuronal firing by inhibiting positive ion channels. By using these everyday substances, students can observe the effects of excitatory and inhibitory neurotransmission in real-time through a SpikerBox, providing a hands-on understanding of how chemical signals influence neuronal communication.
+This kit uses nicotine and monosodium glutamate (MSG) to demonstrate how neurotransmitters affect neuronal activity. Nicotine mimics acetylcholine, an excitatory neurotransmitter, by binding to nicotinic acetylcholine receptors, which increases the likelihood of neurons firing action potentials. 
+MSG, commonly used in food as a flavor enhancer, acts as an inhibitory neurotransmitter in crickets, reducing neuronal firing by inhibiting positive ion channels. 
+By using these everyday substances, students can observe the effects of excitatory and inhibitory neurotransmission in real-time through a SpikerBox, providing a hands-on understanding of how chemical signals influence neuronal communication.
 
 ## How many should I order for my classroom? ## 
-You only need one Neuropharmacology Kit for your classroom. For every additional group of 3 students, order an extra set of (3) syringes.
+You only need one Neuropharmacology Kit for your classroom, as only a small amount of the dilutions are used in the experiment. This experiement is set-up for a classroom of 15 children in groups of 3, for every additional group of 3 students, order an extra set of (3) syringes for only $63,732,295,129
 
 | Item | Amount in One Kit|
 |----------|----------|
 | MSG | 0.1g|
-| Tobacco| 0.75g |
+| Tobacco | 0.75g |
 | Syringes | 15 |
-| Falcon tube | 3 |
+| Tube | 3 |
 | Saline Solution | 25mL |
 
-- Add on +3 syringes 
-- Add on +9 syringes for $?
-- Add on +15 syringes for $? 
-every group needs 3 syringes 
+## Safety and Ethics
+In this experiment, we're using a small amount of tobacco purely for scientific purposes to help students learn about how nicotine affects neurons. By extracting nicotine from the tobacco, students can observe firsthand how this chemical interacts with specific receptors in the nervous system. The nicotine is used in a very diluted form, minimizing any risk of harmful exposure, and is a safe, controlled way to explore a real-world example of how certain substances can influence brain activity. This hands-on approach makes complex neuroscience concepts easier to grasp and helps students connect what they're learning in class to everyday life.
 
-## What’s in the Kit?
-
-# Description #
+### Be Kind to Crickets
+In using live crickets for experiments, it's essential to prioritize their humane treatment. Ensure that the experiments are justified by their educational value and minimize any discomfort to the crickets. Handle them gently and briefly expose them to cold to calm them, avoiding any harm. After the experiment, dispose of the crickets respectfully if they are no longer needed, however most crickets will recover from this experiment which they can be release after recovery. Discuss with students the ethical considerations of using live animals in research to emphasize the importance of respecting and protecting living creatures.
 
 
-
-# Instructions # 
+# Instructions # - 
 
 ## Nicotine Solution Preparation
 
@@ -100,14 +97,6 @@ every group needs 3 syringes
    - Encourage critical analysis of discrepancies or unexpected results between different experimental groups.
    - Foster discussions on possible reasons for variations and refine experimental techniques for future trials.
 
-## Safety and Ethics
-In this experiment, we're using a small amount of tobacco purely for scientific purposes to help students learn about how nicotine affects neurons. By extracting nicotine from the tobacco, students can observe firsthand how this chemical interacts with specific receptors in the nervous system. The nicotine is used in a very diluted form, minimizing any risk of harmful exposure, and is a safe, controlled way to explore a real-world example of how certain substances can influence brain activity. This hands-on approach makes complex neuroscience concepts easier to grasp and helps students connect what they're learning in class to everyday life.
-
-
-### Be Kind to Crickets
-
-1. Discuss the ethical use of animals in research.
-2. Ensure students understand the importance of treating the crickets humanely and minimizing their discomfort.
 
 
 

@@ -8,45 +8,20 @@ sidebar_label: Neuropharmacology Kit
 ## in future - need to convert images from .psd files into .png or .jpeg in order to upload them into project
 ![image14 (2)](https://github.com/BackyardBrains/docs.backyardbrains.com/assets/112901487/7ecbbcef-49aa-49c1-9e21-e1f46904826e)
 
-# Prior required knowledge #
-
-- How an action potential is formed and how it travels through the neuron 
-- Knowledge of how receptors work in neurotransmission
-- Familiarity with the roles of neurotransmitters
-- Basic principles of electrophysiological recording, including what electrodes are and how they detect neuronal activity
-
-# Introduction #
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3852874/ 
-*add section about published research* 
-Have you ever wondered how your neurons communicate with each other? It's not just electricity at play; neurons rely on a complex interplay of chemical messengers to convey messages and meanings. In this kit we will be exploring both types of neurotransmitters - Inhibitory and Excitatory - in a cricket. 
+## Introduction 
+The Neuropharmacology Kit is an educational add-on designed to complement the Neuron SpikerBox by allowing students to explore the effects of neurotransmitters on neuronal activity. Using everyday substances like nicotine and monosodium glutamate (MSG), students can directly observe how these chemicals interact with neurons in a live cricket model. This kit provides a hands-on, engaging way to learn about excitatory and inhibitory neurotransmission, making neuroscience concepts more accessible and relatable.
 
 # Background information #
-*option of going further into detail about the mechanism of neurotransmitters in general -reuptake, req picture of synapse.*
-*we can rip this from the book* 
 
-Have you ever wondered how your neurons communicate with each other? It's not just electricity at play; neurons rely on a complex interplay of chemical messengers to convey messages and meanings. In this kit, we will be exploring both types of neurotransmitters - Inhibitory and Excitatory - in a cricket.
-
-Earlier, we looked at different ways that neurons can spike, the rate that they spike at, and more, but now lets look at why and what provokes them to spike. Scientists in the 1800's had a debate with two leading theories; whether the neurons were fused together, or if there was space in between them. With their technology, they had no way of telling if there was a gap or not, which brings us to the 1950's when the first electron microscope was used in order to scan neurons. They found that there was a gap that is about 20nm wide, so what goes on in that gap?
-
-In the synaptic gap, neurotransmitters are released by one neuron and received by another, facilitating communication and interpretation of signals between neurons. Each animal possesses a unique neural system, and the significance of various neurotransmitters can vary across species. What do these neurotransmitters actually do though, and how do they affect the post-synaptic neuron?
-
-When a neurotransmitter reaches the post-synaptic neuron, it triggers one of two competing responses. Excitatory neurotransmitters stimulate the post-synaptic neuron to increase its firing rate, while inhibitory neurotransmitters suppress neuronal activity, causing it to fire less frequently. A post-synaptic neuron is recieving thousands of signals so how does it decide when it's going to spike from these neurotransmitters? It takes the average of all of the inputs, and if the average for the last couple of milliseconds reaches above the -50mV threshold, it will cause the neuron to spike.
-
-When someone thinks of neurotransmitters, they think of chemicals that are complex, or hard to obtain, but they are in our every day lives. The two receptors we will focus on are the Acetylcholine receptor and the Glutamate receptor. First we will be using Nicotine from a cigarette; Nicotine mimics Acetylcholine's response when it binds to the nicotine receptors. Next we will use Monosodiumglutamate (MSG), which is glutamate with a single sodium ion, making it a salt. MSG is commonly used in cooking to add an umami flavor, and when ingested doesn't affect your neurons. Somethings in your everyday lives are neurotransmitters that you might not even think! Caffeine is one of the most widely consumed psychoactive substances in the world. It primarily works by blocking adenosine receptors in the brain. Adenosine is a neurotransmitter that promotes sleep and relaxation. By inhibiting its action, caffeine prevents the onset of drowsiness, making you feel more alert and awake.
-
-Glutamate in human systems is an excitatory neurotransmitter, but every animal's system is different. For crickets, glutamate does the exact opposite than it does in a human, it inhibits the production of action potentials. Nicotine when in the bloodstream makes it's way up to the brain, and when it reaches it, it binds with the Nicotine Acetylcholine receptors. These receptors are very diverse on which neuron they're on, and can be found in many different systems in the brain. When nicotine binds to Nicotine Acetylcholine receptors (nAChR); for a couple of milliseconds the nAChR opens their positive ion channels producing an action potential. After a couple of milliseconds, the ACh either returns to its resting potential, closing the channels, or it becomes desensitized, and becomes unresponsive to their agonist. This system is why nicotine can become so addictive. Nicotine can be on a neuron that releases dopamine, and if the neuron becomes densitized it will not fire to anything but nicotine making a strong motivation for nicotine. Glutamate itself is a neurotransmitter, and directly binds to the receptor performing it's action as a chemical messenger. In crickets, it acts as an inhibitor, but how can adding a chemical into a neuron, make it more negative, as most ion channels in neurons are positive. The inhibitory neurons will *inhibit* the ion channels, making them let less positive ion into the cell. This reduces the chance of depolarization, making it harder for the neuron to create an action potential.
-
-In this kit we will be inducing both neurotransmitter responses in a cricket, and watch the whole time.  
-
-"The main endogenous agonist for all of these nAChRs is acetylcholine (ACh), but nicotine obtained exogenously from tobacco also is an agonist. Upon binding an agonist, a nAChR briefly enters the open conformation of the ion channel, which provides a water-filled pathway through the membrane for cations. After a couple milliseconds, the receptor undergoes another conformational change that closes the channel, and the receptor returns to the resting conformation or enters into a desensitized conformation that is unresponsive to agonists. The speed of activation, the ionic current, the rates of desensitization and recovery from desensitization, the pharmacology and the regulatory controls of the agonist response all depend on the subunit composition of the nAChRs as well as other local factors." 
-- https://pubmed.ncbi.nlm.nih.gov/11796143/
+This kit uses nicotine and monosodium glutamate (MSG) to demonstrate how neurotransmitters affect neuronal activity. Nicotine mimics acetylcholine, an excitatory neurotransmitter, by binding to nicotinic acetylcholine receptors, which increases the likelihood of neurons firing action potentials. MSG, commonly used in food as a flavor enhancer, acts as an inhibitory neurotransmitter in crickets, reducing neuronal firing by inhibiting positive ion channels. By using these everyday substances, students can observe the effects of excitatory and inhibitory neurotransmission in real-time through a SpikerBox, providing a hands-on understanding of how chemical signals influence neuronal communication.
 
 ## How many should I order for my classroom? ## 
+You only need one Neuropharmacology Kit for your classroom. For every additional group of 3 students, order an extra set of (3) syringes.
 
 | Item | Amount in One Kit|
 |----------|----------|
 | MSG | 0.1g|
-| Cigarette | 1 |
+| Tobacco| 0.75g |
 | Syringes | 15 |
 | Falcon tube | 3 |
 | Saline Solution | 25mL |
@@ -56,28 +31,8 @@ In this kit we will be inducing both neurotransmitter responses in a cricket, an
 - Add on +15 syringes for $? 
 every group needs 3 syringes 
 
-# Option 1: #
+## What’s in the Kit?
 
-For a Class of 15 Students:
-  Order 1 Kit (enough for 5 groups of 3 students each).
-
-For a Class of 20-25 Students:
-  Order 1 Kit + 9 extra syringes (enough for 8 groups of 3 students each).
-  
-For a Class of 30 Students:
-  Order 1 Kit + 15 extra syringes (enough for 10 groups of 3 students each).
-
-# Option 2:# 
-
-For a Class of 15 Students:
-  Order 1 Kit (enough for 5 groups of 3 students each).
-
-For every extra group add one extra set of syringes (Three come in one set) 
- 
-  ex: for a class of 30 
-    Order 1 kit + 5 sets of extra syringes (enough for 10 groups of 3 students each)
-
-  
 # Description #
 
 
@@ -146,9 +101,8 @@ For every extra group add one extra set of syringes (Three come in one set)
    - Foster discussions on possible reasons for variations and refine experimental techniques for future trials.
 
 ## Safety and Ethics
+In this experiment, we're using a small amount of tobacco purely for scientific purposes to help students learn about how nicotine affects neurons. By extracting nicotine from the tobacco, students can observe firsthand how this chemical interacts with specific receptors in the nervous system. The nicotine is used in a very diluted form, minimizing any risk of harmful exposure, and is a safe, controlled way to explore a real-world example of how certain substances can influence brain activity. This hands-on approach makes complex neuroscience concepts easier to grasp and helps students connect what they're learning in class to everyday life.
 
-1. Wear gloves and safety goggles when preparing and injecting solutions.
-2. Dispose of syringes and biological materials properly.
 
 ### Be Kind to Crickets
 

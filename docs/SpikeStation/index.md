@@ -122,7 +122,7 @@ Here is the information formatted into a markdown table:
 
 
 
-## 3. Main Menu Settings (Tailored for Educational Use)
+## 3. Main Menu Settings 
 
 ### Setting Up SpikeStation for Classroom Experiments
 
@@ -152,7 +152,7 @@ The main menu provides full access to customizable parameters, including indepen
 
 Figure 3. Screenshot of the SpikeStation Main Menu on the LCD
 
-## 4. Custom Input Channel Settings (Classroom Integration)
+## 4. Custom Input Channel Settings 
 
 ### Using SpikeStation’s Custom Settings for Advanced Experiments
 In addition to pre-configured modes, SpikeStation allows teachers and students to customize experiments to fit specific educational needs. Through the custom settings menu (as shown in the figure below), the following parameters can be adjusted:
@@ -181,7 +181,7 @@ The user can turn on/off software 60Hz/50Hz notch filters by pressing the notch 
 
 Figure 5. Notch filter settings. Notch filter turned on at 60Hz (left) an Notch filter turned on at 50Hz (right) 
 
-## 6. Stimulation Settings Menu (Enhanced for Teachers and Students)
+## 6. Stimulation Settings Menu 
 
 ### Introducing Electrical Stimulation in the Classroom
 The stimulation settings in SpikeStation enable students to apply controlled electrical stimuli to biological samples, such as neurons or muscle tissues, to observe their responses. The parameters that can be modified include:

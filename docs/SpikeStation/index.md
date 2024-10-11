@@ -72,7 +72,6 @@ Figure 2. Hardware Diagram with Annotations for Input Amplifiers, Outputs, Conne
 
 Detailed hardware specifications can be found below:
 
-Here is the information formatted into a markdown table:
 
 | **Category**             | **Specification**                                                        |
 |--------------------------|--------------------------------------------------------------------------|

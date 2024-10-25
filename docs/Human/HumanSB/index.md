@@ -3,96 +3,108 @@ sidebar_position: 1
 sidebar_label: Human SpikerBox
 ---
 
-# Human SpikerBox #
+# Human SpikerBox
 
 ![Human SpikerBox](./diagram.png)
 
-This versatile kit enables the recording and analysis of electrical activity from muscles, heart, brain, eyes, and more. It allows you to easily record EMG, EKG, EEG, and EOG signals, providing the tools needed to perform comprehensive human physiology experiments.
+*Figure 1. Diagram of the Human SpikerBox Setup*
 
-## Getting Started ##
+The Human SpikerBox kit is a versatile, user-friendly device designed for recording and analyzing electrical activity from muscles (EMG), heart (EKG), brain (EEG), and eyes (EOG). With this tool, students and enthusiasts can perform a variety of human physiology experiments to observe bioelectric phenomena in real time.
 
-Decide which experiment you want to do and gather all the required materials for it.
+## Getting Started with the Human SpikerBox ##
 
-Below are some basic setup steps for recording EMG/EEG/ECG, for more advanced aplications, check out [our experiment pages](#experiments)
-### EMG ###
+To begin, choose the type of experiment you'd like to perform and gather the necessary materials. Below are setup instructions for basic recordings, including EMG, EEG, and ECG. For advanced applications, check out [our experiment pages](#experiments).
 
-Place two patch electrodes on each end of the muscle you want to record, then clip a red lead from the orange cable onto each one. The photo shows a forearm EMG setup.
+### Recording Muscle Activity (EMG) ###
 
-![muscle electrode placement](./EMG_electrode_placement.png)
+1. **Electrode Placement**: Place two patch electrodes on each end of the target muscle (for example, on the forearm).
+   - Attach a red lead from the orange cable to each electrode.  
+   - For grounding, place a third electrode on the back of your hand and connect the black lead from the orange cable to this ground electrode.
+   
+2. **Connection**: Plug the orange cable into one of the channels on the Human SpikerBox. The left channel provides an audio output.
 
-Place another electrode on the back of your hand and clip the orange cable’s black lead onto it.  
-Plug the orange electrode cable into a channel on the SpikerBox. There are two channels, the first one (left) is connected to audio output.
+![emg placement](./EMG_electrode_placement.png)
+
+*Figure 2. Example of forearm EMG setup, showing electrode placement*
+
+### Recording Brainwaves (EEG) ###
+
+1. **Headband Setup**: Position the headband with metal electrodes around the top of your head.
+   - Apply electrode gel to the flat metal contacts to enhance conductivity.  
+   - Adjust the band so it sits securely under the jaw, with the electrodes aligned over the Pz and P4 regions of your scalp (refer to the image below for placement).
+   
+2. **Ground Electrode**: Place a patch electrode on the bony part behind your ear as a ground.
+   - Connect each red lead from the orange cable to one of the headband’s electrodes.  
+   - Clip the black lead onto the ground electrode behind your ear.
+   
+3. **Connection**: Plug the orange cable into one of the channels on the SpikerBox.
+
+This setup is designed for a [P300 experiment](https://backyardbrains.com/experiments/p300). For other EEG applications, see the BYB [experiments page](#experiments).
+
+![eeg placement](./EEG_placement.png)  
+*Figure 3. EEG electrode setup for P300 experiment*
+
+You can also experiment with [other electrode placements](https://en.wikipedia.org/wiki/10%E2%80%9320_system_(EEG))
 
 
-### EEG ###
+### Recording Heart Activity (ECG/EKG) ###
 
-Place the headband with the metal electrodes around the top of your head. The flat metal buttons should make contact with your head, with a dab of electrode gel on them to increase connection. The area under your jaw should hold the band in place. The buttons should be over the Pz and P4 regions as shown.
+1. **Electrode Placement**: Attach patch electrodes to the inner wrists, with an additional electrode on the back of the hand for grounding.
+   - Connect each red lead from the orange cable to the wrist electrodes and the black lead to the ground electrode.
+   
+2. **Connection**: Plug the orange cable into a channel on the SpikerBox.
 
-![EEG electrode placement](./EEG_placement.png)
+For additional ECG configurations, refer to the BYB [experiments page](#experiments).
 
-Place a patch electrode on the bony part behind your ear as a ground.  
-Clip the two red leads of the orange cable onto each metal button on the headband. Clip the black lead onto the ground electrode behind your ear.   
-This is a preparation for the P300 experiment (see below). For other EEG experiments, see the BYB website experiments page.  
-Plug the orange cable into one of the channels on the SpikerBox.  
+![ecg placement](./EKG_placement.png)
 
 
-### ECG/EKG ###
+### Setting Up for Recording ###
 
-Place patch electrodes onto each of your inner wrists.   
-Place another on the back of your hand as a ground.  
-Clip the two red leads from the orange cable onto your wrist electrodes, and the black one onto the ground electrode.  
-For other electrode placement options, reference the BYB website experiments page.  
-Plug the orange cable into a channel on the SpikerBox.  
-
-### Recording ###
-Place a 9v battery into the Human SpikerBox.  
-Power it on using the volume knob switch. This can of course also adjust speaker volume.  
-Connect the Lightning to USB-C cable to the device and to your iPhone, sold separately, or use the included standard USB-C cable for other devices.  
-Open [SpikeRecorder](../../Software/SpikeRecorder/) and wait for the device to connect.  
-If you are on iOS, set the filters to whichever experiment you are doing.  
-
+1. **Power On**: Insert a 9V battery into the Human SpikerBox and power it by turning the black dial, which also controls speaker volume.
+2. **Device Connection**: Use the USB-C cable provided to connect the device to your computer or mobile device. iOS devices with a lightning connector will require This Cable, which is sold separately.
+3. **Recording Software**: Open [SpikeRecorder](https://backyardbrains.com/products/spikerecorder) and wait for the device to connect. Adjust the filter settings by selecting the type of signal that you are trying to record.  
+![filter settings](./filters.png)
 
 ## Technical Specifications ##
 
-|||
-|---|---|
-|Sampling Rate|10k (2ch)|
-|Frequency range|0.15-2000Hz|
-|Gain when software bandpass filter high end is set above 70Hz|850x|
-|Gain when software bandpass filter high end is set below 70Hz|3250x|
-|Output|USB-C, Headphones/Smartphone, 2 Analog out pins|
-|Inputs|2x [Orange Cables](https://backyardbrains.com/products/muscleElectrodeCable), 5x Digital Ins or 3x Digital Ins/2x Analog Ins|
-|CMRR |>140dB|
-|Input impedance differential mode|10Gohm|
-|Input impedance common mode|5Gohm|
+The Human SpikerBox is engineered for high-quality physiological signal recording, making it a powerful tool for both educational and research purposes.
 
-:::warning
-Connecting to iOS devices with a lightning port requires our USB-C to Lightning cable which is sold seperately
-:::
+| **Category** | **Specification** |
+|--------------|--------------------|
+| Sampling Rate | 10 kHz (2 channels) |
+| Frequency Range | 0.15–2000 Hz |
+| Gain (High-Pass Filter above 70 Hz) | 850x |
+| Gain (High-Pass Filter below 70 Hz) | 3250x |
+| Output | USB-C, Headphone/Smartphone, 2 Analog Out pins |
+| Inputs | 2x [Orange Cables](https://backyardbrains.com/products/muscleElectrodeCable), 5x Digital Ins or 3x Digital Ins/2x Analog Ins |
+| CMRR | >140 dB |
+| Differential Input Impedance | 10 GΩ |
+| Common Mode Input Impedance | 5 GΩ |
 
-While it's possible to connect using our Green Smartphone cable, only the data from channel 1 will be transfered. Low frequency signals like EEG, EOG and ECG will be mostly or entirely filtered out by the phone or laptop when connecting using this method
+> **Note**: Connecting to iOS with a lightning port requires a USB-C to Lightning cable (sold separately).
 
-## Experiments ##
+USB connection is highly advised, as connecting via the Green Smartphone Cable only transfers data from Channel 1. Low-frequency signals (such as EEG, EOG, and ECG) will be filtered out by the sound card of the phone or computer when using this method.
 
-[What are agonist and antagonist muscle pairs?](https://backyardbrains.com/experiments/musclespikerboxpro)
+## Experiments to Explore ##
 
-How does your [Patellar Reflex](https://backyardbrains.com/experiments/Musclekneejerk) compare to your [Reaction Time](https://backyardbrains.com/experiments/MusclReactionTime)?
+With the Human SpikerBox, you can dive into various hands-on experiments:
 
-[Can you find a single motor unit?](https://backyardbrains.com/experiments/MuscleSingleunit)
+- Discover the function of [agonist and antagonist muscle pairs](https://backyardbrains.com/experiments/musclespikerboxpro).
+- Compare [Patellar Reflex](https://backyardbrains.com/experiments/Musclekneejerk) with [Reaction Time](https://backyardbrains.com/experiments/MusclReactionTime).
+- Locate [a single motor unit](https://backyardbrains.com/experiments/MuscleSingleunit).
+- Explore muscle recruitment by [monitoring jaw activity while chewing](https://backyardbrains.com/experiments/Musclechewing).
 
-[How can you learn about muscle recruitment by eating candy?](https://backyardbrains.com/experiments/Musclechewing)
+## Expansion Options ##
 
-## Addon Devices ##
+The SpikerBox’s expansion port offers the possibility to broaden its functionality by adding devices such as:
 
-[The expansion port](../../Engineering/ExpansionPort) on the board can be used to expand the functionality, and can be used with a few addon devices:
-
-[The Reaction Timer](./ReactionTimer/index.md)
-
-[The Reflex Hammer](./ReflexHammer/index.md)
-
-[The Game Controller](./GameController/index.md)
-
+- **Reaction Timer**: For measuring reaction times in various experiments.
+- **Reflex Hammer**: Ideal for studies involving reflexes and muscle response.
+- **Game Controller**: Allows integration with software-controlled tasks and games.
 
 ## Troubleshooting ##
 
-Check out the [General Troubleshooting steps](../../index.md#troubleshooting)
+For common troubleshooting steps, see the [General Troubleshooting Guide](../../index.md#troubleshooting). 
+
+---

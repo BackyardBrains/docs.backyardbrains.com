@@ -1,3 +1,12 @@
+---
+id: HHIv3
+title: "HHIv3 - Development Version"
+sidebar_label: 'HHI - Development Specs 2025'
+pagination_next: null
+pagination_prev: null
+slug: /human/HHI/HHIv3
+---
+
 # Human-Human Interface (HHI) User Manual (v3.0 -  2025)
 
 ## Overview

@@ -42,7 +42,7 @@ The Spiker:bit then uses math ✨ to calculate the position of a flag on the tug
 - 1 x Power bank / external USB power supply
 - 1 x Arduino IDE v2
 - ∞ x Enthusiasm 😄
-Additionally, there a re a few files in the forms of .STL and code. These can either be found via downloading this zip file: [Attachments.zip](./Attachments.zip) or in github, here: [GithubFolder](./Attachment)
+Additionally, there a re a few files in the forms of .STL and code. These can either be found via downloading this zip file: [Attachments.zip](https://github.com/BackyardBrains/docs.backyardbrains.com/blob/main/docs/Engineering/SpikerBit/Projects/EMGGameConsole/Attachment.zip) or in github, here: [GithubFolder](https://github.com/BackyardBrains/docs.backyardbrains.com/tree/main/docs/Engineering/SpikerBit/Projects/EMGGameConsole/Attachment)
 ## 3D Printing
 
 Before connecting the electronics, we should slice and start printing the files. If you don't have a 3D printer _(bummer)_, you can still play the game on the Wio Terminal. If you don’t have the Wio Terminal, you can still create the physical extension _(or do both if you have both)_.

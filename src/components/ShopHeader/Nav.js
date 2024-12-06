@@ -2,9 +2,6 @@ const Nav = () => {
   return (
     <nav className="header-nav">
       <ul className="header-nav__list">
-        <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-572">
-          <a href="https://shop.backyardbrains.com/">Home</a>
-        </li>
         <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-39">
           <a href="https://shop.backyardbrains.com/collections/shop-all">Store</a>
         </li>

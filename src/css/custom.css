@@ -15,6 +15,7 @@
   --ifm-color-primary-lighter: #ffa27d;
   --ifm-color-primary-lightest: #ffb799;
   --ifm-navbar-height: 91px;
+  --ifm-font-family-base: 'Roboto', sans-serif;
 }
 
 .requirenments {

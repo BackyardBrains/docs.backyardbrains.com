@@ -5,7 +5,7 @@ import ShopHeader from '../../components/ShopHeader';
 export default function NavbarWrapper(props) {
   return (
     <>
-      <ShopHeader />
+      {/* <ShopHeader /> */}
       <div style={{ display: 'none' }}>
         <Navbar {...props} />
       </div>

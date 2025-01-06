@@ -5,16 +5,15 @@ sidebar_label: Neuropharmacology Kit
 
 # Neuropharmacology Kit #
 
-## in future - need to convert images from .psd files into .png or .jpeg in order to upload them into project
 ![image14 (2)](https://github.com/BackyardBrains/docs.backyardbrains.com/assets/112901487/7ecbbcef-49aa-49c1-9e21-e1f46904826e)
 
 ## Introduction 
 The Neuropharmacology Kit is a practical add-on for the Neuron SpikerBox, designed to enhance students’ understanding of neurotransmission. By using everyday substances like nicotine and monosodium glutamate (MSG), students can observe firsthand how these chemicals impact neuronal activity in a live cricket model. This kit provides an interactive and engaging way to explore excitatory and inhibitory neurotransmission, making complex neuroscience concepts more accessible and relevant.
 
 # Background information #
-This kit uses nicotine and monosodium glutamate (MSG) to demonstrate how neurotransmitters affect neuronal activity. Nicotine mimics acetylcholine, an excitatory neurotransmitter, by binding to nicotinic acetylcholine receptors, which increases the likelihood of neurons firing action potentials. 
-MSG, commonly used in food as a flavor enhancer, acts as an inhibitory neurotransmitter in crickets, reducing neuronal firing by inhibiting positive ion channels. 
-By using these everyday substances, students can observe the effects of excitatory and inhibitory neurotransmission in real-time through a SpikerBox, providing a hands-on understanding of how chemical signals influence neuronal communication.
+Understanding how neurotransmitters influence neuronal activity is fundamental to the study of neuroscience. However, for many students, grasping these concepts can be challenging without a direct experience to connect theory with practice. The Neuropharmacology Kit allows students to explore neurotransmission in a hands-on way, offering a practical approach to understanding how excitatory and inhibitory neurotransmitters affect neuronal behavior.
+
+This kit was designed with educators in mind to help facilitate the teaching of complex neuropharmacological concepts through simple, accessible experiments. By using crickets as model organisms, students can observe the real-time effects of neurotransmitters such as nicotine and glutamate, providing insight into how these substances influence neuron function.
 
 ## How many should I order for my classroom? ## 
 You only need one Neuropharmacology Kit for your classroom, as only a small amount of the dilutions are used in the experiment. This experiement is set-up for a classroom of 15 children in groups of 3, for every additional group of 3 students, order an extra set of (3) syringes for only $63,732,295,129
@@ -33,8 +32,7 @@ In this experiment, we're using a small amount of tobacco purely for scientific 
 ### Be Kind to Crickets
 In using live crickets for experiments, it's essential to prioritize their humane treatment. Ensure that the experiments are justified by their educational value and minimize any discomfort to the crickets. Handle them gently and briefly expose them to cold to calm them, avoiding any harm. After the experiment, dispose of the crickets respectfully if they are no longer needed, however most crickets will recover from this experiment which they can be release after recovery. Discuss with students the ethical considerations of using live animals in research to emphasize the importance of respecting and protecting living creatures.
 
-
-# Instructions # - 
+# Instructions 
 
 ## Nicotine Solution Preparation
 
@@ -78,24 +76,6 @@ In using live crickets for experiments, it's essential to prioritize their human
 3. When injecting nicotine, expect to see excitatory behaviors.
 4. When injecting just saline, expect no change in spiking behaviors.
 5. Record any changes in spike frequency or patterns after injection.
-
-## Sharing Data and Conducting Multiple Trials
-
-1. **Importance of Multiple Trials**:
-   - Conducting multiple trials ensures the reliability and reproducibility of experimental results.
-   - Different groups may observe variations due to biological variability or experimental conditions.
-
-2. **Collaborative Data Sharing**:
-   - Share experimental data with classmates to increase sample size and verify trends.
-   - Utilize a shared spreadsheet to compile and analyze collective data.
-
-3. **Class Data Analysis**:
-   - Combine data from multiple trials to identify consistent patterns and draw robust conclusions.
-   - Discuss findings as a class to interpret results and consider potential implications.
-
-4. **Critical Thinking and Discussion**:
-   - Encourage critical analysis of discrepancies or unexpected results between different experimental groups.
-   - Foster discussions on possible reasons for variations and refine experimental techniques for future trials.
 
 
 

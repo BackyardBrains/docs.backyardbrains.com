@@ -82,6 +82,11 @@ const config = {
         //   },
         // ],
       },
+       algolia: {
+            appId: 'YOUR_APP_ID',
+            apiKey: 'YOUR_SEARCH_API_KEY',
+            indexName: 'backyard_brains',
+        },
       footer: {
         style: 'dark',
         links: [

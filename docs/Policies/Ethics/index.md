@@ -3,7 +3,7 @@ title: Ethics
 ---
 # Ethical Issues Regarding the Use of Invertebrates in Education #
 
-Our experiments are not philosophically perfect and without controversy. However, we believe strongly that our use of animals in education is ethical and important. Our protocols are reviewed annually by an external ethics review board (IRB) and have met the rigorous standards of what is considered ethical.
+Our experiments are not philosophically perfect and without controversy. However, we believe that using animals in education is ethical and important. Our protocols are reviewed annually by an external ethics review board (IRB) and have met the rigorous standards of what is considered ethical.
 
 When working with animals in science, one has to calculate a "cost/benefit ratio". Meaning, what is the cost to the animal vs. what is the benefit from the experiment.  
 

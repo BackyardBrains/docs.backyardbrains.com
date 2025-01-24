@@ -10,19 +10,19 @@ description: create your very own Cyborg Hand prosthetic
 |     |       |
 |--------------|--------------
 | Inventor     | Will Wharton            
-| micro:bit IDE     | MakeCode
+| micro:bit IDE| MakeCode
 | Best Used    | Classroom  
 
 
 
-## Background ##
+## Project Overview ##
 The Spiker:bit can record the the electrical signals our brain sends to our muscles.  Our [Getting Started in Block](../../Block/) guide shows how we can capture those electrical signals and use them in a micro:bit Project.  This project will show you how to use that signals to control a neuroprosthetic hand.  Neuroprosthetics are assistive devices, which are used to help people who have suffered from neurological illness or physical injury. They can also be used to create new and exciting control systems to enhance human ability!
 
 Here you will create your very own Cyborg Hand which you will then control with the electrical systems in your nervous system. But, don't stop there! These same principals can be applied to countless other projects. This is *the exact way* many very advanced neuroprosthetics work today! 
 
 ## Build Instructions ##
-Begin by assembling your materials at your work station. Plug in your hot glue gun to get it warming up, but it will be a few minutes before you need to use it.
 ![Gather Materila](./np_00_needed.png)
+Begin by assembling your materials at your work station. Plug in your hot glue gun to get it warming up, but it will be a few minutes before you need to use it.
 
 ### 1. Cut the Straws ###
 ![Cut the straws](./np_01_snip.png)
@@ -51,7 +51,7 @@ Take your long string and fold it in half. Then, like in the shape of an S sandw
 ### 6. Thread the First Finger ###
 ![](./np_06_thread_one.png)
 
-Thread one of the lengths of string from the bottom of the hand up through the finger pulleys. Once you have pulled the thread out the tip of the finger, use your hotglue gun to fill **ONLY** that final straw segment with glue - locking the thread in place. Give the glue a minute to dry, then give a tug on the string from the bottom of the hand. The finger should curl in!
+Thread one of the lengths of string from the bottom of the hand up through the finger pulleys. Once you have pulled the thread out the tip of the finger, use your hotglue gun to fill **ONLY** that final straw segment with glue - locking the thread in place. Give the glue a minute to dry, then give a tug on the string from the bottom of the hand. The finger should curl in.
 
 ### 7. Finish threading the Hand ###
 
@@ -139,31 +139,32 @@ import TabItem from '@theme/TabItem';
 <Tabs>
   <TabItem value="Block" label="Block Code">
 
-Check out the code blocks below and let’s get experimenting! 🚀
+  Check out the code blocks below and let’s get experimenting! 🚀
 
-![](./np_blocks.png)
+  ![](./np_blocks.png)
 
- </TabItem>
+  </TabItem>
+
   <TabItem value="Python" label="Python" default>
 
-```py title="DIY Hand Neuroprosthetic"
-val = 0
-threshold = 300   # set your EMG threshold here
-pins.servo_write_pin(AnalogPin.P8, 0)  
-while True:
-    val = pins.analog_read_pin(AnalogPin.P0)
-    serial.write_value("EMG", val)    # read your EMG signal
+  ```py title="DIY Hand Neuroprosthetic"
+  val = 0
+  threshold = 300   # set your EMG threshold here
+  pins.servo_write_pin(AnalogPin.P8, 0)  
+  while True:
+      val = pins.analog_read_pin(AnalogPin.P0)
+      serial.write_value("EMG", val)    # read your EMG signal
 
 
-# if your EMG > your threshold the servo will move 90 degrees
-    if int(val) >= int(threshold):
-        pins.servo_write_pin(AnalogPin.P8, 90)
-    else:
-        
-        pins.servo_write_pin(AnalogPin.P8, 0)
-```
- </TabItem>
-  </Tabs>
+  # if your EMG > your threshold the servo will move 90 degrees
+      if int(val) >= int(threshold):
+          pins.servo_write_pin(AnalogPin.P8, 90)
+      else:
+          
+          pins.servo_write_pin(AnalogPin.P8, 0)
+  ```
+  </TabItem>
+</Tabs>
 
 ## Operating Instructions ##
 

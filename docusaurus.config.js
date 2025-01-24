@@ -57,27 +57,30 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      
+      colorMode: {
+        defaultMode: 'light',
+        disableSwitch: true,
+      },
       navbar: {
-        title: 'Backyard Brains',
-        logo: {
-          alt: 'My Site Logo',
-          src: 'https://blog.backyardbrains.com/wp-content/uploads/2017/06/Icon-60@3x-150x150.png',
-        },
-        items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Documentation',
-          },
+        // title: 'Backyard Brains',
+        // logo: {
+        //   alt: 'My Site Logo',
+        //   src: 'https://blog.backyardbrains.com/wp-content/uploads/2017/06/Icon-60@3x-150x150.png',
+        // },
+        // items: [
+        //   {
+        //     type: 'docSidebar',
+        //     sidebarId: 'tutorialSidebar',
+        //     position: 'left',
+        //     label: 'Documentation',
+        //   },
           
-          {
-            href: 'https://github.com/BackyardBrains',
-            label: 'GitHub',
-            position: 'right',
-          },
-        ],
+        //   {
+        //     href: 'https://github.com/BackyardBrains',
+        //     label: 'GitHub',
+        //     position: 'right',
+        //   },
+        // ],
       },
       footer: {
         style: 'dark',

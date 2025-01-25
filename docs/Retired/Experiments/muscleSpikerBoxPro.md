@@ -30,7 +30,7 @@ between flexor and extensor muscles.
 
 ##### Prerequisite Labs
 
-  * [Getting Started with the Muscle SpikerBox](musclespikerbox) - You should read this experiment first to learn about electromyography (EMG) and motor units. 
+  * [Getting Started with the Muscle SpikerBox](./muscleSpikerBox.md) - You should read this experiment first to learn about electromyography (EMG) and motor units. 
 
 ##### Equipment
 
@@ -40,7 +40,7 @@ between flexor and extensor muscles.
 ## Background
 
 As explained in the experiment: [Getting Started with the Muscle
-SpikerBox](musclespikerbox), when you decide to make a movement your upper motor
+SpikerBox](./muscleSpikerBox.md), when you decide to make a movement your upper motor
 neurons from the motor cortex of your brain send action potentials (spikes!)
 traveling down your corticospinal tract (spinal cord) where they synapse with
 lower motor neurons which continue to propagate the signal to the designated

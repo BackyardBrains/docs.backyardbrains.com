@@ -55,7 +55,7 @@ carriers (ATP), and blood circulation to deliver O2 and remove CO2.
 [ ![](./img/skeletalmuscles.jpg)](./img/skeletalmuscles.jpg)
 
 Each of your muscles is subdivided into functional groups of muscle fibers
-called motor units (Again, see our [Introduction to EMG's](./emgspikerbox) experiment). A
+called motor units (Again, see our [Introduction to EMG's](./muscleSpikerBox.md) experiment). A
 motor unit is a motor neuron and all of the muscle fibers it innervates. To
 achieve great things, like lifting a heavy weight, motor units join together
 in a systematic way to supply the force required to achieve strength. This

@@ -24,7 +24,7 @@ Arduino interface!.
 
 ##### Prerequisite Labs
 
-  * [Muscle SpikerBox](musclespikerbox) - You should become familiar with what an EMG signal is.
+  * [Muscle SpikerBox](./muscleSpikerBox.md) - You should become familiar with what an EMG signal is.
 
 ##### Equipment
 

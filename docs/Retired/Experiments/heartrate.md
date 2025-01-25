@@ -62,7 +62,7 @@ known as an ECG or EKG, which is a measurement of the coordinated "electrical
 wave" of different parts of your heart contracting in a controlled sequence.
 Since the heart is made up of specialized muscle cells, and these muscle cells
 fire action potentials to contract, we can measure these in much the same way
-we have previously measured [skeletal muscle contraction](./emgspikerbox). But
+we have previously measured [skeletal muscle contraction](./muscleSpikerBox.md). But
 these action potentials, at 200 ms in length, are much slower than the action
 potentials of your neuron (1 ms) and muscles (3 ms). Moreover, spiking of
 neurons and muscles is measured in spikes per second (or Hz), but the spiking

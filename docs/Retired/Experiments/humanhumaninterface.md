@@ -89,7 +89,7 @@ If you like who is controlling you, the feeling can be quite nice.
 >
 > [Arduino Software](http://arduino.cc/en/main/software#.Uxd6XYWhZMk)
 >
-> Download our Arduino(.ino) Human-Human-Interface Sketch. Check out the comments for some insight into how it works! (You can also use this code for [the Claw Experiment!)](https://backyardbrains.com/experiments/MuscleSpikerShield_GripperHand)
+> Download our Arduino(.ino) Human-Human-Interface Sketch. Check out the comments for some insight into how it works! (You can also use this code for [the Claw Experiment!)](./muscleSpikerShield_GripperHand.md)
 >
 > [Human-Human-Interface and Claw](./files/HHIClawCombined.zip)
 
@@ -113,7 +113,7 @@ If you like who is controlling you, the feeling can be quite nice.
 
 [ ![](./img/HHI5.jpg)](./img/HHI5.jpg)
 
-  3. Now, have the controller flex their forearm muscles. With a sufficient strong flex, your controller should be able to light up all the LEDs, just like the [wholesale paper cup](https://www.somepromotional.com/mugs-bottle/paper-cup) [Muscle SpikerShield experiment](musclespikershield). 
+  3. Now, have the controller flex their forearm muscles. With a sufficient strong flex, your controller should be able to light up all the LEDs, just like the [wholesale paper cup](https://www.somepromotional.com/mugs-bottle/paper-cup) [Muscle SpikerShield experiment](./muscleSpikerShield.md). 
 
 **Note** Press the white button directly below the LEDs to change the
 sensitivity level to make it easier or harder to light up the LEDs.

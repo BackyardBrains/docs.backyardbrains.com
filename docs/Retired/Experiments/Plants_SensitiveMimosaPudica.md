@@ -71,7 +71,7 @@ investigated.
 [ ![](./img/MimosaActions_web.jpg)](./img/MimosaActions_web.jpg)
 
 But how then do the plants actually move? Since plants do not have
-[muscles](muscleSpikerBox) like we do, plant movement occurs through hydraulic
+[muscles](./muscleSpikerBox.md) like we do, plant movement occurs through hydraulic
 forces (the flow of water). Plant cells have special large organs called
 "[vacuoles](https://en.wikipedia.org/wiki/Vacuole)" which are filled with
 water and can make up 70-80% of the cell volume. Plants thus have developed

@@ -37,8 +37,7 @@ manifesting.
 
 ## Background
 
-In our previous [microsimulation
-experiment](https://backyardbrains.com/experiments/microstimulation) we
+In our previous [microsimulation experiment](microstimulation) we
 plugged the audio cable of an mp3 player directly into pins inserted into a
 cockroach leg. The electrical waves of the music then excited the nerves and
 muscles of the leg, causing the leg to appear to "dance" to the low
@@ -58,8 +57,7 @@ debate between the two scientists.
 Our differences are minor_ 1) We won't need to sacrifice frogs like Galvani
 did. Rather, we will remove a hind leg from a cockroach, which the cockroach
 can easily tolerate, continue walking, eating, being a cockroach, and,
-moreover, will [regrow a new hind
-leg](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146778)
+moreover, will [regrow a new hind leg](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146778)
 within 125 days, and 2) Volta's "Pile" used alternating layers of copper and
 **zinc** separated by cardboard soaked with salty water. We will use
 alternating layers of copper and **aluminum** , as aluminum sheeting is easier
@@ -92,12 +90,10 @@ knowledge of his time? Systematic study of electricity as "something" was just
 beginning in the 18th century in Europe. Some clues were eternally present.
 The ancient Greeks had observed odd properties of substances living and
 material. For instance, Amber is an excretion of certain trees in response to
-wounds and was made famous by the movie [Jurassic
-park](https://en.wikipedia.org/wiki/Jurassic_Park_\(film\)). When rubbed with
+wounds and was made famous by the movie [Jurassic park](https://en.wikipedia.org/wiki/Jurassic_Park_\(film\)). When rubbed with
 a piece of cloth or hair, hardened amber will attract small particles of dust,
 and indeed the Greek word for amber is "elektron". Mediterranean peoples had
-also long known of the strange properties of the [torpedo
-fish](https://en.wikipedia.org/wiki/Common_torpedo) that lived in coastal
+also long known of the strange properties of the [torpedo fish](https://en.wikipedia.org/wiki/Common_torpedo) that lived in coastal
 areas and caused stinging sensations when bothered (the fish uses electrical
 shocks for attack and defense behaviors [1]).
 
@@ -108,8 +104,7 @@ what is even going on in [lodestones](https://en.wikipedia.org/wiki/Lodestone)
 (naturally occurring magnets). Such questions were very of the age in 18th
 century Europe. The [Leyden Jar](https://en.wikipedia.org/wiki/Leyden_jar)
 (the first capacitor) had been invented in the 1740's, and reliable
-[electrostatic friction
-machines](https://en.wikipedia.org/wiki/Electrostatic_generator) (machines
+[electrostatic friction machines](https://en.wikipedia.org/wiki/Electrostatic_generator) (machines
 capability of generating electrical sparks) had recently just been invented as
 well.
 
@@ -130,8 +125,7 @@ in his 1791 magnum opus_ "De viribus electricitatis in motu musculari
 commentarius" - translated from Latin to "Commentary on the Force of
 Electricity on Muscular Motion." Beginning his general experiments on exactly
 November 6th, 1780 (noted from his lab book), he connected a type of capacitor
-- a "Franklin Square" (yes, an invention of [Benjamin
-Franklin](https://en.wikipedia.org/wiki/Benjamin_Franklin)) to the nerve of a
+- a "Franklin Square" (yes, an invention of [Benjamin Franklin](https://en.wikipedia.org/wiki/Benjamin_Franklin)) to the nerve of a
 frog leg, causing the leg to famously twitch.
 
 [ ![](./img/FranklinwithColor_web2.jpg)](img/FranklinwithColor_web2.jpg)
@@ -180,12 +174,10 @@ salt-water impregnated cardboard, and zinc, and when he sent his battery to
 the Royal Society in England in 1800, Volta gained enormous international
 recognition. The use of the battery as a continuous controllable source of
 voltage and current allowed many more experiments by many more scientists,
-such as [Humphrey Davy
-](https://en.wikipedia.org/wiki/Humphry_Davy#Discovery_of_new_elements) and
+such as [Humphrey Davy](https://en.wikipedia.org/wiki/Humphry_Davy#Discovery_of_new_elements) and
 [Michael Faraday](https://en.wikipedia.org/wiki/Michael_Faraday) who used the
 battery for electrolysis experiments that led to the discovery of new elements
-(sodium, potassium, chlorine, calcium, etc), and [Georg
-Ohm](https://en.wikipedia.org/wiki/Georg_Ohm) using the battery to derive the
+(sodium, potassium, chlorine, calcium, etc), and [Georg Ohm](https://en.wikipedia.org/wiki/Georg_Ohm) using the battery to derive the
 law after his namesake.
 
 [ ![](./img/Volta_Ohm_English_web.jpg)](img/Volta_Ohm_English_web.jpg)
@@ -194,8 +186,7 @@ This excellent "Galvani/Volta" debate centers on 1) whether nerve or muscle
 tissue generates its own electricity or if 2) externally applied electricity
 merely excites the tissue. The debate was not resolved until the mid-19th
 century when electrical impulses in nerves were observed through indirect
-methods with the [first primitive
-amplifiers](https://backyardbrains.com/experiments/history) [5], and finally
+methods with the [first primitive amplifiers](https://backyardbrains.com/experiments/history) [5], and finally
 unequivocally in the early 20th century with the invention of the vacuum tube
 amplifier. But, being residents of the future, we can now see that both
 Italian scientists were correct. Volta's suggestion that two metals connected
@@ -275,8 +266,7 @@ Well said, Professor Galvani.
 * 1\. It was later discovered that a torpedo fish can deliver up to 200 V electric shocks due to highly modified parallel arranged muscle tissue contained inside its head. 
 * 2\. Galvani also performed a wireless variant that would be bizarre even if replicated today (stay tuned). When an electrostatic machine was generating electrical sparks, while _at the same time, in the same room_ Luigi Galvani touched a frog nerve with a metallic scalpel (unconnected to the machine), the leg muscles would contract as well! At the time there was no theory to explain this effect, as this was a full 100 years before [Heinrich Hertz's](https://en.wikipedia.org/wiki/Heinrich_Hertz) experiments showing that a high voltage spark generated electromagnetic waves that could induce another spark in an isolated adjacent coil, beginning the wireless telegraphy age. 
 
-[
-![](./img/DoesthisWorkbetter_trimmed_web.gif)](img/DoesthisWorkbetter_trimmed_web.gif)
+[![](./img/DoesthisWorkbetter_trimmed_web.gif)](img/DoesthisWorkbetter_trimmed_web.gif)
 
 * 3\. This can seem confusing, but it was later found in the 19th century that cut nerve has a damage current called a "demarcation current" that can sometimes be sufficient to excite other nerves and muscle if the preparation is very fresh. 
 * 4\. Oddly enough, inspired by the torpedo fish, due to, again, the specialized shocking muscles cells arranged in parallel columns. 

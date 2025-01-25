@@ -82,8 +82,7 @@ parietal lobe.
 ![](./img/P300_Experimental_Setup_web.jpg)](img/P300_Experimental_Setup_web.jpg)
 
 One of the most fascinating applications of the auditory p300 is to examine
-the brain activity of comatose patients. [Some evidence
-shows](https://www.neurology.org/content/82/10_Supplement/P1.281) that if you
+the brain activity of comatose patients. [Some evidence shows](https://www.neurology.org/content/82/10_Supplement/P1.281) that if you
 perform this experiment on an individual in a coma and see a variant of the
 p300 signal in their EEG, it is a strong indicator that they might be able to
 be brought out of the coma. Hence why we name this experiment the
@@ -104,8 +103,7 @@ versus when we hypothesize it should not.
 
 #### Downloads
 
-> Before you begin, make sure you have the [Backyard Brains Spike
-> Recorder](https://backyardbrains.com/products/spikerecorder) and
+> Before you begin, make sure you have the [Backyard Brains Spike Recorder](https://backyardbrains.com/products/spikerecorder) and
 > [Arduino](https://arduino.cc/en/main/software#.Uxd6XYWhZMk) Programs
 > installed on your computer. The Arduino "Sketch" is what you install on your
 > Arduino circuit board using the Arduino laptop software (your board comes
@@ -185,8 +183,7 @@ Here is a circuit diagram showing the connections to be made_
     2. Each gray line in this figure shows one second of the EEG recording surrounding each standard tone onset in the experiment. The average of each of these tone responses is taken and plotted in red.
     3. Each gray line in this figure shows one second of the EEG recording surrounding each oddball tone onset in the experiment. The average of each of these tone responses is taken and plotted in green. Since the P300 is only between 10 to 20 mV, it can easily be lost in the EEG "noise". For this reason the signal is only visible when average around the flash onset after the EEG "noise" is averaged to zero.
 
-[
-![](./img/p300_standard_v_oddball_labeled.png)](img/p300_standard_v_oddball_labeled.png)
+[![](./img/p300_standard_v_oddball_labeled.png)](./img/p300_standard_v_oddball_labeled.png)
 
     4. We must check that our results are scientifically significant by applying statistics principles to our data. To check whether our results may have occurred by chance, we choose as many points as there are flashes by random and average one second of data surrounding these randomly chosen points to be plotted in gray. This is done one hundred times and another average is taken and plotted in blue. This is the Monte Carlo average
     5. All averages are plotted together. A 95% confidence interval based around the Monte Carlo average mean value is plotted to show significant data - data outside of the confidence interval. The P300 waveform has a label for the latency of the largest positive potential occurring between 250 ms and 600 ms after the oddball tone, as the P300 signal is defined.

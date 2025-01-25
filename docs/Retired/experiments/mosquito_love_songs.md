@@ -13,9 +13,9 @@ and study the power of the most ubiquitous sound known to man_ the Mosquito
 Love Song. This experiment was prepared by Haley Smith, a senior from Temple
 University, during our Summer Fellowship Program.
 
-Time  60 Minutes
+**Time:**  60 Minutes
 
-Difficulty  Intermediate
+**Difficulty:**   Intermediate
 
 #### What will you learn?
 

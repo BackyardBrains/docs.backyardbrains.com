@@ -10,9 +10,9 @@ While not an experiment, this gives you the historical context behind the
 efforts of scientists to amplify the neural signals that you regularly observe
 every day with Backyard Brains.
 
-Time  2 hours
+**Time:**  2 hours
 
-Difficulty  Advanced
+**Difficulty:**   Advanced
 
 #### What will you learn?
 

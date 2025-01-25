@@ -11,9 +11,9 @@ diameter of the nerves, and thus the speed of impulse conduction. Here we
 investigate. The real question_ Is the nerve an antique telephone cord or a
 Chinese finger trap?
 
-Time  1 Hour
+**Time:**  1 Hour
 
-Difficulty  Advanced
+**Difficulty:**   Advanced
 
 #### What will you learn?
 

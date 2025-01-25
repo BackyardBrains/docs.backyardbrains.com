@@ -132,7 +132,7 @@ at some more epithelial cells - but this time we're going to examine an onion!
   10. Move the light source to one side so that the onion cells are near the edge of the shadow. This may allow the cell nucleus to be seen (slightly darker than the rest of the cell, about 0.01 mm diameter, quite round). The nucleus houses all of the DNA needed for the entire onion plant. 
   11. With patience, good edge illumination, and a high-power view, some very active cells may have tiny dark vesicles (packages of stuff) moving or vibrating within the cell, usually near the nucleus, but sometimes quite a distance away. These vesicles can be found in areas of the onion that are actively growing. 
 
-![Onion cells](./img/onioncells.jpg)
+![Onion cells](./img/onion_cells.jpg)
 
 Think about what you've seen and talk about it with your peers! Compare your
 Human and Onion cell pictures. Try to draw from one of the pictures you took

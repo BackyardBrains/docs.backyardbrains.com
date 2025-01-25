@@ -586,7 +586,7 @@ is much easier and simpler than navigational systems in other animals.
 
 ##### What are the specifications of the RoboRoach?
 
-    * Total Weight: <4.5g 
+    * Total Weight: Less than 4.5g 
     * Stimulation Frequencies: 1Hz-150Hz 
     * Stimulation Pulse Widths: 1ms-500ms (Max pulse width is dependent on the Frequency) 
     * Stimulation Gain: 0 to 100%

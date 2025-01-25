@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'BYB docs',
+  title: 'BYB documentation',
   tagline: 'Neuroscience for everyone',
   favicon: 'https://blog.backyardbrains.com/wp-content/uploads/2017/06/Icon-60@3x-150x150.png',
 
@@ -21,7 +21,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Vikara-Industries', // Usually your GitHub org/user name.
-  projectName: 'BYBDeviceDocs', // Usually your repo name.
+  projectName: 'docs.backyardbrains.com', // Usually your repo name.
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -40,10 +40,10 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          routeBasePath: '/',
+          path: 'docs', // Path to the documentation files
+          routeBasePath: '/', // Route base for docs
           sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
+          exclude: ['.hidden/**'], // Exclude the .hidden folder
         },
         blog: false,
         theme: {
@@ -104,7 +104,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Backyard Brains Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Backyard Brains.`,
       },
       prism: {
         theme: prismThemes.github,

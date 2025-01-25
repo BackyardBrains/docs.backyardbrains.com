@@ -25,7 +25,7 @@ hand. Can you find other small muscles to record from?
 
 ##### Prerequisite Labs
 
-  * [Muscle SpikerBox](emgspikerbox) \- You should become familiar with how to use your Muscle SpikerBox and Smartphone, iPad, or Computer.
+  * [Muscle SpikerBox](musclespikerbox) \- You should become familiar with how to use your Muscle SpikerBox and Smartphone, iPad, or Computer.
 
 ##### Equipment
 

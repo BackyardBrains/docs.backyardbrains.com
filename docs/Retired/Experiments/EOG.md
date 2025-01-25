@@ -28,8 +28,7 @@ how to measure it.
 
 ## Background
 
-_Inspired by a prototype built by José Enrique López Pérez, student of
-Electronic Engineering in Oaxaca, Mexico._
+_Inspired by a prototype built by José Enrique López Pérez, student of Electronic Engineering in Oaxaca, Mexico._
 
 While it is fairly well known that your heart and brain generate electrical
 potentials, you may not know that your whole eye has a potential as well! It
@@ -38,7 +37,7 @@ but does have a voltage difference we can measure. Specifically, the front of
 the eye, where the cornea is located, is more positive than the back of the
 eye (where the retina is).
 
-[ ![](./img/Tesla_Eye_Polarity_web.jpg)](./img/Tesla_Eye_Polarity_web.jpg)
+![Tesla Eye Polarity](./img/Tesla_Eye_Polarity_web.jpg)
 
 With this potential difference, the eye is an electric dipole. And when
 dipoles move, they cause electric field changes that can be observed. By

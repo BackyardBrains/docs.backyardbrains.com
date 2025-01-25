@@ -100,10 +100,10 @@ measure graded responses.
 > Download our Arduino(.ino) and Processing(.pde) sketches
 >
 > [Arduino Sketch for Sending Data from Phenomenogram to
-> Computer](https://backyardbrains.com./files/BYB_Arduino_FenomenogramaV2.ino.zip)
+> Computer](./files/BYB_Arduino_FenomenogramaV2.ino.zip)
 >
 > [Processing Sketch for Displaying and Saving Data of Phenomenogram on
-> Computer](https://backyardbrains.com./files/BYB_Processing_Fenomenogram.pde.zip)
+> Computer](./files/BYB_Processing_Fenomenogram.pde.zip)
 
 ## Video
 

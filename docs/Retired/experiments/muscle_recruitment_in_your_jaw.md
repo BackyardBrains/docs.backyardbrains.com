@@ -99,7 +99,7 @@ chewing muscles of your face as a reflection of the command from the brain.
 > Software](https://backyardbrains.com/products/spikerecorder)
 >
 > [Class
-> Handout](https://backyardbrains.com./files/MuscleChewing_Hand-
+> Handout](./files/MuscleChewing_Hand-
 > Out.pdf)
 
 ## Video

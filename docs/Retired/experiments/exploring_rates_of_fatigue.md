@@ -172,7 +172,7 @@ few years of the same age.
 > Software](https://backyardbrains.com/products/spikerecorder)
 >
 > [Class
-> Handout](https://backyardbrains.com./files/Fatigue_HandOut.pdf)
+> Handout](./files/Fatigue_HandOut.pdf)
 
 ## Video
 

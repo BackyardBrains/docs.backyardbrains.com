@@ -266,4 +266,4 @@ for you to explain this!
 Computer](https://backyardbrains.com/products/spikerecorder)
 
 [Arduino Sketch for Sending Data to
-Computer](https://backyardbrains.com./files/SpikeRecorderArduino.zip)
+Computer](./files/SpikeRecorderArduino.zip)

@@ -107,7 +107,7 @@ of a single motor nerve cell from your own central nervous system.
 > Software](https://backyardbrains.com/products/spikerecorder)
 >
 > [Class
-> Handout](https://backyardbrains.com./files/Hunt_for_Motor_Unit_handout.pdf)
+> Handout](./files/Hunt_for_Motor_Unit_handout.pdf)
 
 ## Video
 

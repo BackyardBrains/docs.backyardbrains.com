@@ -84,7 +84,7 @@ too!
 > Software](https://backyardbrains.com/products/spikerecorder)
 >
 > [Class
-> Handout](https://backyardbrains.com./files/Knee_Jerk_Handout.pdf)
+> Handout](./files/Knee_Jerk_Handout.pdf)
 >
 > [Firmware Update
 > Instructions](https://backyardbrains.com/products/files/UpdateMuscleSpikerBoxProFirmware.pdf)

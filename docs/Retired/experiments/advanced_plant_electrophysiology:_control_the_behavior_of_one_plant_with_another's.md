@@ -97,8 +97,6 @@ react to the stimulus and drop its branch.
   11. Apply a dab of conductive gel where the wrapped electrode meets the plant. 
   12. Plug the red stimulation cable into the Plant SpikerBox and, pay attention here_ Attach the BLACK clip to the RED cable and the RED clip to the BLACK cable. 
 
-  
-
 Sorry, we know it is confusing, we repeat, **attach the red cable's black clip
 to the red wire (tied around the stem) and the red clip to the black wire
 (pinned into the dirt).** For the experiment to work, we must reverse the

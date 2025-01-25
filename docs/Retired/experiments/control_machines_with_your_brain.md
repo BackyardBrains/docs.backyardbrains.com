@@ -101,7 +101,7 @@ we're about to see... LEDs!
 > Arduino(.ino) Sketch for this Experiment
 >
 >
-> [led_strip2014_highergain.ino](https://backyardbrains.com./files/led_strip2014_highergain.zip)
+> [led_strip2014_highergain.ino](./files/led_strip2014_highergain.zip)
 
 #### Print Materials
 

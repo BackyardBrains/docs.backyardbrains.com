@@ -100,7 +100,7 @@ control.
 > SpikerShield Board
 >
 > [StepperMotor SpikerShield
-> Sketch.ino](https://backyardbrains.com./files/ControlStepperMotor_Arduino_SpikerShield.ino.zip)
+> Sketch.ino](./files/ControlStepperMotor_Arduino_SpikerShield.ino.zip)
 
 ## Video
 
@@ -191,7 +191,7 @@ A Servo Motor is a DC motor with internal feedback circuitry and gears. The serv
 #### Downloads
 
 > Take our (.ino) Stepper Motor Sketch and load it on your Arduino / Muscle SpikerShield Board  
-> [StepperMotor SpikerShield Sketch.ino](https://backyardbrains.com./files/ControlStepperMotor_Arduino_SpikerShield.ino.zip)
+> [StepperMotor SpikerShield Sketch.ino](./files/ControlStepperMotor_Arduino_SpikerShield.ino.zip)
 
 ## Video
 

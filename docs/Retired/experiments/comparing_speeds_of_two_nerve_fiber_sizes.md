@@ -267,7 +267,7 @@ our results match the theory!
 > [Spike Recorder Software](https://backyardbrains.com/products/spikerecorder)
 >
 > [Experiment in Editable Word .docx
-> Format](https://backyardbrains.com./files/Experiment-Comparing-
+> Format](./files/Experiment-Comparing-
 > Nerve-Speed.docx)
 
 ## Video

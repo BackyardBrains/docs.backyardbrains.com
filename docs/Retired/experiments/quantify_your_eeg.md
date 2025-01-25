@@ -109,13 +109,13 @@ an example below.
 > Download](https://www.anaconda.com/products/individual)
 >
 > [Our Python Script for Analyzing
-> EEG](https://backyardbrains.com./files/Quantify_EEG4.py.zip)
+> EEG](./files/Quantify_EEG4.py.zip)
 
 ## Procedure
 
 Now let's get our hands dirty with some code!
 
-  1. You can download our [test recording](https://backyardbrains.com./files/EEG_Alpha_SampleData.zip) of the alpha waves of the visual cortex while we opened and closed our eyes or [you can record the data on yourself](https://backyardbrains.com/experiments/eeg). Just remember to press the number 1 every time you close your eyes and the number 2 every time you open your eyes on your keyboard. 
+  1. You can download our [test recording](./files/EEG_Alpha_SampleData.zip) of the alpha waves of the visual cortex while we opened and closed our eyes or [you can record the data on yourself](https://backyardbrains.com/experiments/eeg). Just remember to press the number 1 every time you close your eyes and the number 2 every time you open your eyes on your keyboard. 
   2. Download the Anaconda Program and install it on your computer. 
   3. Once installed, you will open the Spyder Application, and you will see a window that looks like this. 
 

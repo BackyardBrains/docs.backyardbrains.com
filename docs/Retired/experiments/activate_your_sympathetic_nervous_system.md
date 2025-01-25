@@ -98,7 +98,7 @@ Now let's see it for ourselves!
 >
 > [Spike Recorder Computer Software](https://backyardbrains.com/products/spikerecorder)
 >
-> [Class Handout](https://backyardbrains.com./files/Heart_Rate_HandOut.pdf)
+> [Class Handout](./files/Heart_Rate_HandOut.pdf)
 
 ## Video
 

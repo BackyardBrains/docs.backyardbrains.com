@@ -122,13 +122,13 @@ flow!
 > [Arduino Software](https://arduino.cc/en/main/software#.Uxd6XYWhZMk)
 >
 > [MIDI library for
-> Arduino](https://backyardbrains.com./files/MIDI.zip)
+> Arduino](./files/MIDI.zip)
 >
 > [Arduino MIDI sketch you
-> upload](https://backyardbrains.com./files/InvisibleDrums.ino.zip)
+> upload](./files/InvisibleDrums.ino.zip)
 >
 > [Simple Serial Reader for Troubleshooting](
-> https://backyardbrains.com./files/SpikerShield_Pro_Serial_Read.zip)
+> ./files/SpikerShield_Pro_Serial_Read.zip)
 
 ### Procedure
 
@@ -336,7 +336,7 @@ flow!
 ### Troubleshooting
 
   1. Since we have six wires going to different muscles, we have to be careful about the organization of the wires to make sure we have a full range of movement. 
-  2. If you are not causing a tone to activate, you can look at the serial monitor to see the values your muscle contracting is causing, and change the gain by increasing it (clockwise) or decreasing it (counter-clockwise) on the corresponding white knobs on the SpikerShield Pro board. With our MIDI control Arduino code, unfortunately you cannot open the Serial Monitor on the Arduino Program (you will just see a bunch of weird symbols). However, you can use a [Serial Test Reader](https://backyardbrains.com./files/SpikerShield_Pro_Serial_Read.zip) (also downloadable above) that Pablo Pardo, a high school intern, wrote for us. Upload this code to check your values, and then you can re-upload the MIDI sketch again. 
+  2. If you are not causing a tone to activate, you can look at the serial monitor to see the values your muscle contracting is causing, and change the gain by increasing it (clockwise) or decreasing it (counter-clockwise) on the corresponding white knobs on the SpikerShield Pro board. With our MIDI control Arduino code, unfortunately you cannot open the Serial Monitor on the Arduino Program (you will just see a bunch of weird symbols). However, you can use a [Serial Test Reader](./files/SpikerShield_Pro_Serial_Read.zip) (also downloadable above) that Pablo Pardo, a high school intern, wrote for us. Upload this code to check your values, and then you can re-upload the MIDI sketch again. 
 
 ### Acknowledgements
 

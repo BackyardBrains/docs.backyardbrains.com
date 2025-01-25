@@ -130,13 +130,13 @@ experiment!
 > [Audacity](https://www.audacityteam.org/)
 >
 > [Click Sound File - 9 minutes of 4 Hz
-> clicks](https://backyardbrains.com./files/9_minutes_of_clicks.mp3)
+> clicks](./files/9_minutes_of_clicks.mp3)
 >
 > [Matlab Trial
 > Download](https://www.mathworks.com/campaigns/products/trials.highResolutionDisplay.html)
 >
 > [Matlab Script for Doing ABR
-> Analysis](https://backyardbrains.com./files/ABR_analysisV2.zip)
+> Analysis](./files/ABR_analysisV2.zip)
 
 ## Video
 

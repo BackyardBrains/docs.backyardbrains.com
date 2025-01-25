@@ -138,7 +138,7 @@ This experiment assumes you have a basic understanding of how to use the Arduino
 
 You can download the sketch here. Check out the comments for some insight into how it works!
 
-[Music Sketch](https://backyardbrains.com./files/musicalBox2.ino.zip)
+[Music Sketch](./files/musicalBox2.ino.zip)
 
 ### Procedure
 

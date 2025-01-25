@@ -4,7 +4,7 @@ title: "Experiment:  Advanced Plant Electrophysiology_ Control the Behavior of O
 slug: /retired/experiments/advanced_plant_electrophysiology__control_the_behavior_of_one_plant_with_another's
 ---
 
-# Experiment: Advanced Plant Electrophysiology_ Control the Behavior of One Plant with Another's
+# Experiment: Advanced Plant Electrophysiology: Control the Behavior of One Plant with Another's
 
 Time  1 hour
 
@@ -12,10 +12,7 @@ Difficulty  Intermediate
 
 #### What will you learn?
 
-In this experiment, featured on the [TED Main
-Stage](https://www.ted.com/talks/greg_gage_electrical_experiments_with_plants_that_count_and_communicate?utm_campaign=tedspread
---a&utm_medium=referral&utm_source=tedcomshare), you will learn about plant
-electrophysiology and record the action potential of the Venus fly trap.
+In this experiment, featured on the [TED Main Stage](https://www.ted.com/talks greg_gage_electrical_experiments_with_plants_that_count_and_communicate?utm_campaign=tedspread--a&utm_medium=referral&utm_source=tedcomshare), you will learn about plant electrophysiology and record the action potential of the Venus fly trap.
 
 ##### Prerequisite Labs
 

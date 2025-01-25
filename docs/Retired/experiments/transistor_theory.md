@@ -1,10 +1,10 @@
 ---
-id: _background__transistor_theory
-title: " Background_ Transistor Theory"
+id: _Background:_transistor_theory
+title: " Background: Transistor Theory"
 slug: /retired/experiments/transistor_theory
 ---
 
-#  Background_ Transistor Theory
+#  Background: Transistor Theory
 
 Ahh yes, the transistor. We all owe you so much. The transistor is the reason
 why your cell phone fits inside your pocket and why your SpikerBox can measure

@@ -25,8 +25,8 @@ in muscle cells and neural signals during fatigue.
 
 #### Prerequisite Labs
 
-  * [Muscle SpikerBox](./musclespikerbox) - You should read the "Introduction to EMG's" experiment for you to understand what motor units are.
-  * [Oxygen and Spiking](./oxygen) - You should also read our experiment on Oxygen and Neuronal Spiking to learn some basic metabolism and biochemistry. 
+  * [Muscle SpikerBox](./muscleSpikerBox.md) - You should read the "Introduction to EMG's" experiment for you to understand what motor units are.
+  * [Oxygen and Spiking](./oxygen.md ) - You should also read our experiment on Oxygen and Neuronal Spiking to learn some basic metabolism and biochemistry. 
 
 #### Equipment
 

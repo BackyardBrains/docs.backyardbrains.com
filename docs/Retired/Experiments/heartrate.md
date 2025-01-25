@@ -31,10 +31,10 @@ and listen to the contractions of your heart.
 ## Background
 
 Pump, Pump, Pump. Your hearts works continuously, day in and day out, to
-supply blood and [oxygen](./oxygen)
+supply blood and [oxygen](./oxygen.md)
 through your body. Did you know that, like
-[neurons](./spikerbox) and
-[muscles](./musclespikerbox), your heart
+[neurons](./spikerbox.md) and
+[muscles](./muscleSpikerBox.md), your heart
 uses spikes (electrical impulses) to function as well? Our hearts are made up
 of four chambers, of which the upper two chambers are called the atria and the
 lower two are called ventricles. Regular, rhythmic electrical signals

@@ -23,7 +23,7 @@ electrophysiology and record the Action Potential of the Venus Flytrap.
 
 ##### __Prerequisite Labs
 
-  * [None]()
+  * None
 
 ##### __Equipment
 

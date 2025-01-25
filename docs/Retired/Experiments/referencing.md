@@ -157,7 +157,7 @@ That's it!
   6. Repeat steps 3-4 as above. 
   7. Finally, move both your ground and recording electrode into the coxa, as shown below. 
 
-[ ![](./img/Pinsleg3.jpeg)](./img/Pinsinleg3.jpeg)
+[ ![](./img/Pinsleg3.jpeg)](./img/Pinsleg3.jpeg)
 
 What do you notice? Can you provide an explanation for the difference? Here is
 a [classic cockroach leg neuroanatomy

@@ -245,7 +245,7 @@ create a "second stage" of amplification, much like we do with our normal
 SpikerBox, where you have output of the circuit go into the input of another
 copy of the circuit, as below_
 
-[ ![](./img/2StageAmp.jpg)](./img/2StageAmp.jpg.)
+[ ![](./img/2StageAmp.jpg)](./img/2StageAmp.jpg)
 
 [ ![](./img/2StageSmall.jpg)](./img/2StageSmall.jpg)
 

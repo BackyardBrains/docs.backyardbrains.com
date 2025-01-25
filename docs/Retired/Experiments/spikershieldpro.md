@@ -22,7 +22,7 @@ of multiple muscles and use that information to generate multiple outputs
 
 ##### Prerequisite Labs
 
-  * [ Muscle SpikerShield ](muscleSpikershield) - You should be familiar with the Muscle SpikerShield and how it generally works. 
+  * [ Muscle SpikerShield ](muscleSpikerShield) - You should be familiar with the Muscle SpikerShield and how it generally works. 
   * [ Music with Muscles ](music) - This previous experiment introduces you to basic music theory and control with our simpler one-channel device. 
 
 ##### Equipment

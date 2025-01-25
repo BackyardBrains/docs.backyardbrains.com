@@ -119,7 +119,7 @@ frontal lobe/forehead of the subject. Place a good amount of gel on each of
 the two headband electrodes (the electrode patch already comes with gel).
 Connect the electrode cable with its 3 alligator clips as follows_
 
-[ ![](./img/tmrPlacement.png)](./img/tmr4.png)
+[ ![](./img/tmrPlacement.png)](./img/tmr6.png)
 
 * Red_ Place one of the red alligator clips at the headband electrode furthest from the patch behind the ear.
 * Red_ Place the other red alligator clip at the electrode patch behind the ear.

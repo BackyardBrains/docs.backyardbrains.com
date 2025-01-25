@@ -182,7 +182,7 @@ But, beyond the Bernstein Rheotome, the technology of recording and
 visualization was limited to photography, videography, and paper machines_ All
 of which are too slow to record the 1 ms action potential of neurons. These
 three techniques though did allow for steady progress in
-[Electroencephalography](https://backyardbrains.com/experiments/eeg) (EEG's),
+[Electroencephalography](https://backyardbrains.com/experiments/eeg) (eeg),
 [Electrocardiography](https://backyardbrains.com/experiments/heartrate)
 (EKG's), and general physiology of respiration and movement.
 

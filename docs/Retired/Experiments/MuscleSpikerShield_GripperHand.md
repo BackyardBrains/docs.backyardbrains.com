@@ -23,7 +23,7 @@ just to dive into the study of Neuroprosthetics!
 
 ##### Prerequisite Labs
 
-  * [Getting to know the Muscle SpikerShield](https://backyardbrains.com/experiments/muscleSpikerShield)
+  * [Getting to know the Muscle SpikerShield](https://backyardbrains.com/experiments/MuscleSpikerShield)
 
 ##### Equipment
 

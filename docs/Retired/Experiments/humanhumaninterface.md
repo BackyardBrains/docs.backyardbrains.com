@@ -17,13 +17,13 @@ you ever had the desire to take someone's free will? Now you can with our new
 #### What will you learn?
 
 In a continuation of our [1) Neuroprosthetics Experiment](./neuroprosthetics.md) and
-[2) Muscle SpikerShield Experiment](./muscleSpikerShield.md), you will learn how to use your muscle signal to control other devices, in this
+[2) Muscle SpikerShield Experiment](./MuscleSpikerShield.md), you will learn how to use your muscle signal to control other devices, in this
 case, a TENS (transcutaneous electrical nerve stimulator) to excite and
 contract the muscle of another human.
 
 ##### Prerequisite Labs
 
-  * [Muscle SpikerShield](./muscleSpikerShield.md) - You should become familiar with how to use your Muscle SpikerShield and an Arduino
+  * [Muscle SpikerShield](./MuscleSpikerShield.md) - You should become familiar with how to use your Muscle SpikerShield and an Arduino
 
 ##### Equipment
 
@@ -113,7 +113,7 @@ If you like who is controlling you, the feeling can be quite nice.
 
 [ ![](./img/HHI5.jpg)](./img/HHI5.jpg)
 
-  3. Now, have the controller flex their forearm muscles. With a sufficient strong flex, your controller should be able to light up all the LEDs, just like the [wholesale paper cup](https://www.somepromotional.com/mugs-bottle/paper-cup) [Muscle SpikerShield experiment](./muscleSpikerShield.md). 
+  3. Now, have the controller flex their forearm muscles. With a sufficient strong flex, your controller should be able to light up all the LEDs, just like the [wholesale paper cup](https://www.somepromotional.com/mugs-bottle/paper-cup) [Muscle SpikerShield experiment](./MuscleSpikerShield.md). 
 
 **Note** Press the white button directly below the LEDs to change the
 sensitivity level to make it easier or harder to light up the LEDs.
@@ -151,7 +151,7 @@ We receive a lot of questions regarding this experiment, and we collect some
 of the most common.
 
 * **Can you achieve more full control, like say, an entire limb?** These experiment works because the ulnar nerve lies just below the surface of the skin in your forearm and elbow, and it is relatively easy to stimulate. Putting the electrodes in other places on the arm stimulates the muscles more than the nerves. While someone could place more pairs of stimulating electrodes on the arm, the movements will always appear "jerky" due to stimulation thresholds and types of muscle fibers activated.
-* **Can you control another person by using your brain waves (EEG) instead of muscle electrical activity (EMG)?** [Some research groups](http://www.washington.edu/news/2013/08/27/researcher-controls-colleagues-motions-in-1st-human-brain-to-brain-interface/) have had success with analogous experiments, but the set-up is more complicated and susceptible to false positives. EMG is much easier to amplify and control things with.  [https://backyardbrains.com](https://backyardbrains.com/products/css/index.html)
+* **Can you control another person by using your brain waves (eeg) instead of muscle electrical activity (EMG)?** [Some research groups](http://www.washington.edu/news/2013/08/27/researcher-controls-colleagues-motions-in-1st-human-brain-to-brain-interface/) have had success with analogous experiments, but the set-up is more complicated and susceptible to false positives. EMG is much easier to amplify and control things with.  [https://backyardbrains.com](https://backyardbrains.com/products/css/index.html)
 
 ## Troubleshooting
 

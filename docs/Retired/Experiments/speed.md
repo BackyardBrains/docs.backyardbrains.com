@@ -115,7 +115,7 @@ its length, the "medial giant" fiber and the two "lateral giant" fibers. The
 medial giant fiber transmits information about the front of the worm (the part
 closest to the clitellum), and the lateral giant fibers transmit information
 from the skin cells of the posterior end of the worm ([Kladt et. al
-2010](/./files/kladt_2010_earthworm.pdf)).
+2010](/files/kladt_2010_earthworm.pdf)).
 
 [ ![](./img/Exp11fig8_cross.jpeg)](./img/Exp11fig8_cross.jpeg)
 
@@ -164,7 +164,7 @@ the spikes.
     5. Place a Faraday Cage around the Earthworm, and clip the Faraday cage to the ground of either channel 1 or channel 2 of your SpikerBox. 
     6. Plug the electrodes into your Neuron SpikerBox Pro and the USB cable into your PC. 
     7. Open our [SpikeRecorder](https://backyardbrains.com/products/spikerecorder) software, and click on the USB symbol to pair with the Neuron SpikerBox Pro. 
-    8. Press the record button on your Spike Recorder software, and, using a plastic or glass probe, tap the posterior end of the worm. You should hear the evoked spikes caused by the tap. Interestingly, the neurons in the earthworm are myelinated (covered in insulating fat), and you will notice the spikes are much quieter than you are used to ([Hartline & Coleman 2007](/./files/Hartline_Colman_2007_MyelinReview.pdf)). Many nerve diseases, such as Multiple sclerosis, are caused by a degeneration of this fatty covering. 
+    8. Press the record button on your Spike Recorder software, and, using a plastic or glass probe, tap the posterior end of the worm. You should hear the evoked spikes caused by the tap. Interestingly, the neurons in the earthworm are myelinated (covered in insulating fat), and you will notice the spikes are much quieter than you are used to ([Hartline & Coleman 2007](/files/Hartline_Colman_2007_MyelinReview.pdf)). Many nerve diseases, such as Multiple sclerosis, are caused by a degeneration of this fatty covering. 
     9. Make 3-4 taps, separated by about 3-4 seconds each. 
     10. Measure the time delay between the two channels by clicking at the beginning of one spike, then dragging to the start of the next. In the corner of the screen, you should see the amount of time you have selected. 
     11. Using a ruler with divisions in the mm range, measure the distance between the electrode one and electrode two. 

@@ -22,7 +22,7 @@ inventions that move things with your muscle signals.
 
 ##### Prerequisite Labs
 
-  * [Getting started with the Muscle SpikerShield](https://backyardbrains.com/experiments/musclespikershield)
+  * [Getting started with the Muscle SpikerShield](https://backyardbrains.com/experiments/MuscleSpikerShield)
 
 ##### Equipment
 
@@ -106,7 +106,7 @@ control.
 
 ## Procedures
 
-  1. First, upload the Stepper Motor sketch to your Arduino, as you have [previously learned how to do](https://backyardbrains.com/experiments/muscleSpikerShield). 
+  1. First, upload the Stepper Motor sketch to your Arduino, as you have [previously learned how to do](https://backyardbrains.com/experiments/MuscleSpikerShield). 
   2. Now, we will have to add a library from ---
 id: experiment__controlling_a_stepper_motor_with_your_muscles
 title: "Experiment: Controlling a Stepper Motor with Your Muscles"
@@ -131,7 +131,7 @@ In this experiment, we will drive a stepper motor using EMG signals from the Mus
 
 ##### Prerequisite Labs
 
-- [Getting started with the Muscle SpikerShield](https://backyardbrains.com/experiments/musclespikershield)
+- [Getting started with the Muscle SpikerShield](https://backyardbrains.com/experiments/MuscleSpikerShield)
 
 ---
 
@@ -199,7 +199,7 @@ A Servo Motor is a DC motor with internal feedback circuitry and gears. The serv
 
 ## Procedures
 
-1. **Upload the Stepper Motor sketch** to your Arduino, as you have [previously learned](https://backyardbrains.com/experiments/musclespikershield).  
+1. **Upload the Stepper Motor sketch** to your Arduino, as you have [previously learned](https://backyardbrains.com/experiments/MuscleSpikerShield).  
 2. **Add the AccelStepper library** from the library manager (Tools → Manage Libraries → “AccelStepper”).  
 3. **Find the circuit diagram** of your stepper motor driver by searching its part number or checking the board.  
 4. **Put the Stepper Motor Driver** on a breadboard, attach the heat sink, and connect a 9V battery to VMOT (+) and GND (–).  

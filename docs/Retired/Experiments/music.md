@@ -19,7 +19,7 @@ and notes by reading your muscle's action potentials.
 
 ##### Prerequisite Labs
 
-  * [Muscle SpikerShield](muscleSpikerShield) - You should be familiar with the Muscle SpikerShield for Arduino.
+  * [Muscle SpikerShield](MuscleSpikerShield) - You should be familiar with the Muscle SpikerShield for Arduino.
 
 ##### Equipment
 

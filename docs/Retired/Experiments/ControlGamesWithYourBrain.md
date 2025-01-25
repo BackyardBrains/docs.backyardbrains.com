@@ -27,7 +27,7 @@ signals from your nervous system.
 
 ##### Prerequisite Labs
 
-  * [Experiment:Control Machines with Your Brain](https://backyardbrains.com/experiments/muscleSpikerShield) - This will introduce you to the concept of digitizing body signals for control applications.
+  * [Experiment:Control Machines with Your Brain](https://backyardbrains.com/experiments/MuscleSpikerShield) - This will introduce you to the concept of digitizing body signals for control applications.
   * [Experiment:Eye Potentials (EOG)](https://backyardbrains.com/experiments/EOG) - This will introduce to the voltage changes you can measure when the eye blinks and moves.
 
 ##### Equipment
@@ -64,7 +64,7 @@ their princess... (Video games get a bit weird when you explain them!)
 To support Mario on his quest for connecting to a real body, we will control
 Mario using electrical signals from the body. The question becomes_ which
 biosignal to choose? In non-invasive human electrophysiology, we have four
-signals we can use_ 1) muscles (EMG), 2) the eyes (EOG), 3) the brain (EEG),
+signals we can use_ 1) muscles (EMG), 2) the eyes (EOG), 3) the brain (eeg),
 and and the heart (EKG).
 
 [
@@ -72,7 +72,7 @@ and and the heart (EKG).
 
 The easiest to use in interfacing is muscle EMG, as by definition, skeletal
 muscles compose the "voluntary movement system" as [we have
-shown](https://backyardbrains.com/experiments/muscleSpikerShield) in our
+shown](https://backyardbrains.com/experiments/MuscleSpikerShield) in our
 previous projects. Many of our muscles are large and reside directly under the
 skin, making their signals easy to record. The second easiest electrical
 signal to control is the electrical activity evoked by blinking of the eye,
@@ -81,7 +81,7 @@ interesting, as blinking happens constantly without you thinking about it
 (involuntary control), but you can also decide when to blink (voluntary
 control).
 
-The brain (EEG) signal can [be used to control
+The brain (eeg) signal can [be used to control
 things](https://www.pnas.org/content/101/51/17849), but is more difficult and
 complicated given that the signal is famously weak and noisy. Also, being the
 collective electrical activity of large populations of neurons (tens of

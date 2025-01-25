@@ -161,7 +161,7 @@ That's it!
 
 What do you notice? Can you provide an explanation for the difference? Here is
 a [classic cockroach leg neuroanatomy
-paper](http://www.backyardbrains.com/./files/Nijenhuis_Dresden1954_cockroach_neuroanatomy.pdf)
+paper](http://www.backyardbrains.com/files/Nijenhuis_Dresden1954_cockroach_neuroanatomy.pdf)
 from 1954 that can help.
 
 ## Discussion Questions

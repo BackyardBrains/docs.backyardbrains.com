@@ -8,7 +8,7 @@ slug: /retired/experiments/eeg
 
 You've seen spikes from individual neurons, your heart, your muscles, and even
 plants. Here, finally, we tackle the much sought after, often misunderstood,
-signal of neuroscience: the Electroencephalogram (EEG). See the electrical
+signal of neuroscience: the Electroencephalogram (eeg). See the electrical
 rhythms of your own brain! Try to Exploit them!
 
 **Time**  1 hours
@@ -108,7 +108,7 @@ These "alpha waves" were first observed by the German scientist Hans Berger in
 
 _The Theory_.
 
-So what are we actually recording in the electroencephalogram (EEG)? We are
+So what are we actually recording in the electroencephalogram (eeg)? We are
 observing the "oscillating slow fields" of neurons in the upper layers of the
 cerebral cortex: specifically, the ["excitatory post-synaptic potentials."](http://en.wikipedia.org/wiki/Excitatory_postsynaptic_potential)
 These post-synaptic potentials are the small changes in electrical potential
@@ -187,7 +187,7 @@ the changes you make.
 
   1. Problems isolating your EEG alpha rhythm. See our [troubleshooting guide](https://backyardbrains.com/products/files/EEG_Troubleshooting_Guide.pdf) for tips. 
   2. Here is a [reference recording](./files/EEG_Alpha_SampleData.zip) we made of eyes closed versus eyes open while recording EEG over visual cortex, to help you learn what eyes closed versus eyes open looks like. In the .zip file is a .wav file containing the recording and a .txt file containing the eyes open and eyes closed times. Place both files in your SpikeRecorder recordings folder and open the .wav file within SpikeRecorder to examine this data with embedded markers. 
-  3. Try this experiment without opening and closing your eyes, but turning the lights on and off in your room. Also, when the lights are off, try to actively "look" for something in the darkness. Do the alpha rhythms appear, disappear, etc? You can look at our second [sample recording](/./files/EEG_Alpha_ActiveSearching_SampleData.zip) where we do this, but perhaps your data will be different. 
+  3. Try this experiment without opening and closing your eyes, but turning the lights on and off in your room. Also, when the lights are off, try to actively "look" for something in the darkness. Do the alpha rhythms appear, disappear, etc? You can look at our second [sample recording](/files/EEG_Alpha_ActiveSearching_SampleData.zip) where we do this, but perhaps your data will be different. 
   4. Is this alpha really generated in the visual cortex? Try moving the headband around your head to see where the rhythm is the strongest. 
   5. Like Adrian in 1934, can you try to generate this rhythm with flicker stimuli? See the paper link above. 
   6. There are other rhythms you can record, such as the motor rhythm, but they are noisy. Can you isolate them? We shall try as well. 

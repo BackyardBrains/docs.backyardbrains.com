@@ -83,7 +83,7 @@ works whether or not you are paying attention! Great for babies. The ABR
 measures the averaged potential to the presentation of about 2000 clicks. One
 electrode goes on the mastoid process behind the ear (or on the earlobe), the
 second electrode on [encephalography
-point](https://en.wikipedia.org/wiki/10%E2%80%9320_system_\(EEG\)) Cz on the
+point](https://en.wikipedia.org/wiki/10%E2%80%9320_system_\(eeg)) Cz on the
 top of your head between your ears, and the ground on Fz in the middle of your
 forehead.
 

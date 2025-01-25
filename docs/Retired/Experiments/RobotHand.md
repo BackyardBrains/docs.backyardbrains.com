@@ -24,7 +24,7 @@ attempt to control individual fingers on a robotic hand.
 
 ##### Prerequisite Labs
 
-  * [EMG SpikerShield](./muscleSpikerShield.md) - You should learn about how we amplify muscle signals and decode them in single channel settings.
+  * [EMG SpikerShield](./MuscleSpikerShield.md) - You should learn about how we amplify muscle signals and decode them in single channel settings.
 
 ##### Equipment
 

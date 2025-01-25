@@ -204,7 +204,7 @@ brain take longer to react? Your students can find out! To see just how simple
 it is to use, check out the [How Fast can your Body
 React?](https://backyardbrains.com/experiments/EMGReactionTimer)Everything
 comes pre-assembled, and it pairs with our free, user-friendly software_
-[SpikeRecorder](products/SpikeRecorder) (which is available on any smart
+[SpikeRecorder](https://backyardbrains.com/products/spikerecorder) (which is available on any smart
 device.)
 
 #### Questions to Consider

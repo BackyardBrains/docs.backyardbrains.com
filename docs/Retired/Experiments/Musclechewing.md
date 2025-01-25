@@ -25,7 +25,7 @@ neurons and muscle fibers to produce different amounts of force.
 ##### Prerequisite Labs
 
   * [Record Electricity from your Muscles](./muscleSpikerBox.md) - You should read this experiment first to learn about electromyography and motor units.
-  * [Muscle Action Potentials](./MuscleSingleunit.md) - You should be familiar with using the small popsicle stick electrodes to record muscle action potentials.
+  * [Muscle Action Potentials](./muscleactionpotential.md) - You should be familiar with using the small popsicle stick electrodes to record muscle action potentials.
 
 ##### Equipment
 

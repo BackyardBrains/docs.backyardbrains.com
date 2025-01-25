@@ -98,7 +98,7 @@ additional Materials_
   7. Another iPhone or other video recording device
   8. Pro Microphone app (or any phone app that can record and export data)
   9. Another iPhone or other video recording device
-  10. Backyard Brains [Micromanipulators](/product/micromanipulator) (2x)
+  10. Backyard Brains [Micromanipulators](https://backyardbrains.com/products/micromanipulator) (2x)
   11. Silly putty 
   12. Tweezers
 

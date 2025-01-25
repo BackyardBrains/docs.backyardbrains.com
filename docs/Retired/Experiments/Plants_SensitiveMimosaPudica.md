@@ -174,7 +174,7 @@ stem/petiole joint of Mimosa plants.
 * We stated above that excessive gel will actually prevent branch movement. Why could this be? Perhaps because conductive gel contains ionic elements and can affect the osmotic pressure? 
 * In the osmosis figure, the inside of the cell becomes more positive initially due to the chloride ion efflux. But, in our recordings, which were done outside the cells, we also noticed an increase. It should be in reverse? We should be observing a decrease in potential. Why is this? We are unsure. 
 * Now that we have studied the two most famous "rapid movement plants," an obvious next step is to study the electrical impulses of other "normal" plants that don't have rapid movement properties. This is a more difficult experiment. Why? 
-* While the molecular biology is completely different between muscles and plant cells, it is interesting that an [Action Potential](muscleAP) in animal muscles is also what initiates movement. 
+* While the molecular biology is completely different between muscles and plant cells, it is interesting that an [Action Potential](muscleactionpotential.md) in animal muscles is also what initiates movement. 
 * Sometimes we see mysterious "double Action Potentials." What could these be? 
 
 ## Notes on Growing Mimosas

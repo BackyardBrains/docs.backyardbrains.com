@@ -1,7 +1,7 @@
 ---
 id: experiment__hunt_for_a_single_motor_unit
 title: "Experiment: Hunt for a Single Motor Unit"
-slug: /retired/experiments/MuscleSingleunit
+slug: /retired/experiments/ngleunit
 ---
 
 # Experiment:Hunt for a Single Motor Unit
@@ -21,7 +21,7 @@ patient and creative enough to complete the hunt.
 ##### Prerequisite Labs
 
   * [Record Electricity from your Muscles](./muscleSpikerBox.md) - You should read this experiment first to learn about electromyography and motor units.
-  * [Muscle Action Potentials](muscleap) - You should be familiar with using the small popsicle stick electrodes to record muscle action potentials.
+  * [Muscle Action Potentials](muscleactionpotential.md) - You should be familiar with using the small popsicle stick electrodes to record muscle action potentials.
 
 ##### Equipment
 

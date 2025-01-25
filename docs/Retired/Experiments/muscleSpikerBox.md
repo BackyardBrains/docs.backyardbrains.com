@@ -56,7 +56,7 @@ of muscle fibers, whereas small muscles that require a lot of precision, such
 as your eyeball muscles, have motor neurons that only innervate ~10 muscle
 fibers.
 
-[ ![](./img/SuperHero_Web.jpg)](img/SuperHero_Web.jpg)
+[ ![](./img/emg_brain_muscle_superhero.jpg)](img/emg_brain_muscle_superhero.jpg)
 
 When a motor neuron fires an action potential, this causes a release of
 acetylcholine at the synapse between the neuron and the muscle (this synapse

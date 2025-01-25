@@ -1,10 +1,10 @@
 ---
 id: _history__in_search_of_the_spike
-title: " History_ In Search of the Spike"
+title: " History: In Search of the Spike"
 slug: /retired/experiments/history
 ---
 
-#  History_ In Search of the Spike
+#  History: In Search of the Spike
 
 While not an experiment, this gives you the historical context behind the
 efforts of scientists to amplify the neural signals that you regularly observe

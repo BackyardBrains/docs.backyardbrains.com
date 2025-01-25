@@ -31,10 +31,10 @@ and listen to the contractions of your heart.
 ## Background
 
 Pump, Pump, Pump. Your hearts works continuously, day in and day out, to
-supply blood and [oxygen](https://www.backyardbrains.com/experiments/oxygen)
+supply blood and [oxygen](./oxygen)
 through your body. Did you know that, like
-[neurons](https://www.backyardbrains.com/experiments/spikerbox) and
-[muscles](https://www.backyardbrains.com/experiments/emgspikerbox), your heart
+[neurons](./spikerbox) and
+[muscles](./emgspikerbox), your heart
 uses spikes (electrical impulses) to function as well? Our hearts are made up
 of four chambers, of which the upper two chambers are called the atria and the
 lower two are called ventricles. Regular, rhythmic electrical signals
@@ -62,7 +62,7 @@ known as an ECG or EKG, which is a measurement of the coordinated "electrical
 wave" of different parts of your heart contracting in a controlled sequence.
 Since the heart is made up of specialized muscle cells, and these muscle cells
 fire action potentials to contract, we can measure these in much the same way
-we have previously measured [skeletal muscle contraction](https://www.backyardbrains.com/experiments/emgspikerbox). But
+we have previously measured [skeletal muscle contraction](./emgspikerbox). But
 these action potentials, at 200 ms in length, are much slower than the action
 potentials of your neuron (1 ms) and muscles (3 ms). Moreover, spiking of
 neurons and muscles is measured in spikes per second (or Hz), but the spiking

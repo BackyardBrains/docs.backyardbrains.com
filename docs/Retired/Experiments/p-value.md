@@ -30,8 +30,8 @@ You should have data ready from previous experiments. If not, go back to one
 of the experiments listed below and collect some data, or follow along using
 our data set for left and right hand reaction times.
 
-  * [Reaction Time](https://www.backyardbrains.com/experiments/reactiontime)
-  * [Comparing Nerve Speed](https://www.backyardbrains.com/experiments/comparingNerveSpeed)
+  * [Reaction Time](./reactiontime)
+  * [Comparing Nerve Speed](./comparingNerveSpeed)
 
 ##### Equipment
 

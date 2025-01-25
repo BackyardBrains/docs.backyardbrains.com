@@ -61,7 +61,7 @@ Video explanation of experiment.
 
 We can observe these two processes indirectly with the cockroach leg prep you
 have [previously
-learned](https://www.backyardbrains.com/experiments/spikerbox). Take your
+learned](./spikerbox). Take your
 SpikerBox and place it in the freezer of a household refrigerator. Make sure
 the cable from your laptop/smartphone/tablet stays connected to the SpikerBox
 you placed inside. Also place a digital thermometer inside the freezer, and
@@ -75,7 +75,7 @@ of the freezer, how long does it take for the spikes to come back?
 
 Note_ depending on your freezer model, you may find a lot of electrical noise
 occurring when you put the SpikerBox in it. You can use a [Faraday
-cage](https://www.backyardbrains.com/experiments/faraday), but if you live in
+cage](./faraday), but if you live in
 cold land like Michigan, you can simply take your SpikerBox outside in deep
 winter. Otherwise, if you have access to dry ice (solid carbon dioxide,
 usually available at ice cream stores), you can put dry ice and the SpikerBox

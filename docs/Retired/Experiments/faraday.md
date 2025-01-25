@@ -132,7 +132,7 @@ to visit the hardware store.
 
 ##### Using the Faraday Cage for Spikes
 
-  1. Set up a standard cockroach leg recording prep as described in [Experiment 1](https://www.backyardbrains.com/experiments/spikerbox)
+  1. Set up a standard cockroach leg recording prep as described in [Experiment 1](./spikerbox)
   2. Create a noisy environment by hooking up a laptop to wall outlet and turning on a soldering iron or other high power appliance. Place your SpikerBox by these electronics, and also turn on all fluorescent lights in the room. Record your observations on noise level vs. neural signal level. 
   3. Clip an alligator clip to the ground (outside of RCA connector) on the Spikerbox. 
   4. Place your Spikerbox into your Faraday cage, with cage open. Record your observations on noise level vs. neural signal level. 

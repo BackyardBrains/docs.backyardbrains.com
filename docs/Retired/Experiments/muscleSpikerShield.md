@@ -17,7 +17,7 @@ Neural Engineering continues, using the popular Arduino microcontroller.
 
 Here you will learn how to interface an Muscle SpikerShield with external
 hardware. This is continuation of our [Neuroprosthetics
-Experiment](https://www.backyardbrains.com/experiments/neuroprosthetics); only
+Experiment](./neuroprosthetics); only
 now, you will use an EMG Signal from a muscle of choice, paired with an
 Arduino Microcontroller, to control a bank of LED lights with this Brain-
 Arduino interface!.

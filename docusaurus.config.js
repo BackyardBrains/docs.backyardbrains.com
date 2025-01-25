@@ -56,6 +56,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      noSSR: true,
       // Replace with your project's social card
       colorMode: {
         defaultMode: 'light',

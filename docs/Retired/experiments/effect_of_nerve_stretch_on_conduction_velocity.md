@@ -1,7 +1,7 @@
 ---
-id_ experiment__effect_of_nerve_stretch_on_conduction_velocity
-title_ "Experiment_ Effect of Nerve Stretch on Conduction Velocity"
-slug_ /retired/experiments/effect_of_nerve_stretch_on_conduction_velocity
+id: experiment__effect_of_nerve_stretch_on_conduction_velocity
+title: "Experiment_ Effect of Nerve Stretch on Conduction Velocity"
+slug: /retired/experiments/effect_of_nerve_stretch_on_conduction_velocity
 ---
 
 # Experiment_ Effect of Nerve Stretch on Conduction Velocity

@@ -1,7 +1,7 @@
 ---
-id_ experiment__recording_the_muscles_of_clams
-title_ "Experiment_ Recording the Muscles of Clams"
-slug_ /retired/experiments/recording_the_muscles_of_clams
+id: experiment__recording_the_muscles_of_clams
+title: "Experiment_ Recording the Muscles of Clams"
+slug: /retired/experiments/recording_the_muscles_of_clams
 ---
 
 # Experiment_ Recording the Muscles of Clams

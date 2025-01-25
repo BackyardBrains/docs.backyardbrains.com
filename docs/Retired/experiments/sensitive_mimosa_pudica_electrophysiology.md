@@ -1,7 +1,7 @@
 ---
-id_ experiment__sensitive_mimosa_pudica_electrophysiology
-title_ "Experiment_ Sensitive Mimosa Pudica Electrophysiology"
-slug_ /retired/experiments/sensitive_mimosa_pudica_electrophysiology
+id: experiment__sensitive_mimosa_pudica_electrophysiology
+title: "Experiment_ Sensitive Mimosa Pudica Electrophysiology"
+slug: /retired/experiments/sensitive_mimosa_pudica_electrophysiology
 ---
 
 # Experiment_ Sensitive Mimosa Pudica Electrophysiology

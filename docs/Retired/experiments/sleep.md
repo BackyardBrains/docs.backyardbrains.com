@@ -1,7 +1,7 @@
 ---
-id_ experiment__sleep
-title_ "Experiment_ Sleep"
-slug_ /retired/experiments/sleep
+id: experiment__sleep
+title: "Experiment_ Sleep"
+slug: /retired/experiments/sleep
 ---
 
 # Experiment_ Sleep

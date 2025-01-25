@@ -1,7 +1,7 @@
 ---
-id_ experiment__signal_classification
-title_ "Experiment_ Signal Classification"
-slug_ /retired/experiments/signal_classification
+id: experiment__signal_classification
+title: "Experiment_ Signal Classification"
+slug: /retired/experiments/signal_classification
 ---
 
 # Experiment_ Signal Classification

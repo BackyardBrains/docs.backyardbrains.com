@@ -1,7 +1,7 @@
 ---
-id_ _background__transistor_theory
-title_ " Background_ Transistor Theory"
-slug_ /retired/experiments/transistor_theory
+id: _background__transistor_theory
+title: " Background_ Transistor Theory"
+slug: /retired/experiments/transistor_theory
 ---
 
 #  Background_ Transistor Theory

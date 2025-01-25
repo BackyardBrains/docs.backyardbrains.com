@@ -1,7 +1,7 @@
 ---
-id_ experiment__the_consciousness_detector_-_eeg,_oddball_task,_and_p300
-title_ "Experiment_ The Consciousness Detector - EEG, Oddball Task, and P300"
-slug_ /retired/experiments/the_consciousness_detector_-_eeg,_oddball_task,_and_p300
+id: experiment__the_consciousness_detector_-_eeg,_oddball_task,_and_p300
+title: "Experiment_ The Consciousness Detector - EEG, Oddball Task, and P300"
+slug: /retired/experiments/the_consciousness_detector_-_eeg,_oddball_task,_and_p300
 ---
 
 # Experiment_ The Consciousness Detector - EEG, Oddball Task, and P300

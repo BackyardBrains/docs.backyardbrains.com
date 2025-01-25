@@ -1,7 +1,7 @@
 ---
-id_ experiment__cellular_microscopy-blood_cells
-title_ "Experiment_ Cellular Microscopy-Blood Cells"
-slug_ /retired/experiments/cellular_microscopy-blood_cells
+id: experiment__cellular_microscopy-blood_cells
+title: "Experiment_ Cellular Microscopy-Blood Cells"
+slug: /retired/experiments/cellular_microscopy-blood_cells
 ---
 
 # Experiment_ Cellular Microscopy-Blood Cells

@@ -1,7 +1,7 @@
 ---
-id_ experiment__the_auditory_brainstem_response
-title_ "Experiment_ The Auditory Brainstem Response"
-slug_ /retired/experiments/the_auditory_brainstem_response
+id: experiment__the_auditory_brainstem_response
+title: "Experiment_ The Auditory Brainstem Response"
+slug: /retired/experiments/the_auditory_brainstem_response
 ---
 
 # Experiment_ The Auditory Brainstem Response

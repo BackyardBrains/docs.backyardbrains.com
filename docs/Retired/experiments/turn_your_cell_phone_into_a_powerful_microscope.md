@@ -1,7 +1,7 @@
 ---
-id_ experiment__turn_your_cell_phone_into_a_powerful_microscope
-title_ "Experiment_ Turn your Cell Phone into a Powerful Microscope"
-slug_ /retired/experiments/turn_your_cell_phone_into_a_powerful_microscope
+id: experiment__turn_your_cell_phone_into_a_powerful_microscope
+title: "Experiment_ Turn your Cell Phone into a Powerful Microscope"
+slug: /retired/experiments/turn_your_cell_phone_into_a_powerful_microscope
 ---
 
 # Experiment_ Turn your Cell Phone into a Powerful Microscope

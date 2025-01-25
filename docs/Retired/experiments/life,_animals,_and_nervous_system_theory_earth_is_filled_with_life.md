@@ -1,7 +1,7 @@
 ---
-id_ _background__life,_animals,_and_nervous_system_theory
-title_ " Background_ Life, Animals, and Nervous System Theory"
-slug_ /retired/experiments/life,_animals,_and_nervous_system_theory_earth_is_filled_with_life
+id: _background__life,_animals,_and_nervous_system_theory
+title: " Background_ Life, Animals, and Nervous System Theory"
+slug: /retired/experiments/life,_animals,_and_nervous_system_theory_earth_is_filled_with_life
 ---
 
 #  Background_ Life, Animals, and Nervous System Theory

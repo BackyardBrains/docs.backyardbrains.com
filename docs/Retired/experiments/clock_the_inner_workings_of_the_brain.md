@@ -1,7 +1,7 @@
 ---
-id_ experiment___clock_the_inner_workings_of_the_brain
-title_ "Experiment_  Clock the Inner Workings of the Brain"
-slug_ /retired/experiments/clock_the_inner_workings_of_the_brain
+id: experiment___clock_the_inner_workings_of_the_brain
+title: "Experiment_  Clock the Inner Workings of the Brain"
+slug: /retired/experiments/clock_the_inner_workings_of_the_brain
 ---
 
 # Experiment_  Clock the Inner Workings of the Brain

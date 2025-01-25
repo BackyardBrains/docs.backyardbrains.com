@@ -1,7 +1,7 @@
 ---
-id_ _history__in_search_of_the_spike
-title_ " History_ In Search of the Spike"
-slug_ /retired/experiments/history-_in_search_of_the_spike
+id: _history__in_search_of_the_spike
+title: " History_ In Search of the Spike"
+slug: /retired/experiments/history-_in_search_of_the_spike
 ---
 
 #  History_ In Search of the Spike

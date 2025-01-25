@@ -1,7 +1,7 @@
 ---
-id_ experiment__sensory_and_neural_adaptation
-title_ "Experiment_ Sensory and Neural Adaptation"
-slug_ /retired/experiments/sensory_and_neural_adaptation
+id: experiment__sensory_and_neural_adaptation
+title: "Experiment_ Sensory and Neural Adaptation"
+slug: /retired/experiments/sensory_and_neural_adaptation
 ---
 
 # Experiment_ Sensory and Neural Adaptation

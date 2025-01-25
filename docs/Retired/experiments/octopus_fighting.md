@@ -1,7 +1,7 @@
 ---
-id_ experiment__octopus_fighting
-title_ "Experiment_ Octopus Fighting"
-slug_ /retired/experiments/octopus_fighting
+id: experiment__octopus_fighting
+title: "Experiment_ Octopus Fighting"
+slug: /retired/experiments/octopus_fighting
 ---
 
 # Experiment_ Octopus Fighting

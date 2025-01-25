@@ -1,7 +1,7 @@
 ---
-id_ experiment__comparing_speeds_of_two_nerve_fiber_sizes
-title_ "Experiment_ Comparing Speeds of Two Nerve Fiber Sizes"
-slug_ /retired/experiments/comparing_speeds_of_two_nerve_fiber_sizes
+id: experiment__comparing_speeds_of_two_nerve_fiber_sizes
+title: "Experiment_ Comparing Speeds of Two Nerve Fiber Sizes"
+slug: /retired/experiments/comparing_speeds_of_two_nerve_fiber_sizes
 ---
 
 # Experiment_ Comparing Speeds of Two Nerve Fiber Sizes

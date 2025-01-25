@@ -1,7 +1,7 @@
 ---
-id_ experiment__control_games_with_your_brain
-title_ "Experiment_ Control Games with your Brain"
-slug_ /retired/experiments/control_games_with_your_brain
+id: experiment__control_games_with_your_brain
+title: "Experiment_ Control Games with your Brain"
+slug: /retired/experiments/control_games_with_your_brain
 ---
 
 # Experiment_ Control Games with your Brain

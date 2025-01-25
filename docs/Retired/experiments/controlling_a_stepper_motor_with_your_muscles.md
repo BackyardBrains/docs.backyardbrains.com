@@ -1,7 +1,7 @@
 ---
-id_ experiment__controlling_a_stepper_motor_with_your_muscles
-title_ "Experiment_ Controlling a Stepper Motor with Your Muscles"
-slug_ /retired/experiments/controlling_a_stepper_motor_with_your_muscles
+id: experiment__controlling_a_stepper_motor_with_your_muscles
+title: "Experiment_ Controlling a Stepper Motor with Your Muscles"
+slug: /retired/experiments/controlling_a_stepper_motor_with_your_muscles
 ---
 
 # Experiment_ Controlling a Stepper Motor with Your Muscles

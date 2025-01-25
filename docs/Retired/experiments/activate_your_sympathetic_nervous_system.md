@@ -1,7 +1,7 @@
 ---
-id_ experiment__activate_your_sympathetic_nervous_system
-title_ "Experiment_ Activate your Sympathetic Nervous System"
-slug_ /retired/experiments/activate_your_sympathetic_nervous_system
+id: experiment__activate_your_sympathetic_nervous_system
+title: "Experiment_ Activate your Sympathetic Nervous System"
+slug: /retired/experiments/activate_your_sympathetic_nervous_system
 ---
 
 # Experiment_ Activate your Sympathetic Nervous System

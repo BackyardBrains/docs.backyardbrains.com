@@ -1,7 +1,7 @@
 ---
-id_ experiment__the_patellar_reflex_and_reaction
-title_ "Experiment_ The Patellar Reflex and Reaction"
-slug_ /retired/experiments/the_patellar_reflex_and_reaction
+id: experiment__the_patellar_reflex_and_reaction
+title: "Experiment_ The Patellar Reflex and Reaction"
+slug: /retired/experiments/the_patellar_reflex_and_reaction
 ---
 
 # Experiment_ The Patellar Reflex and Reaction

@@ -1,7 +1,7 @@
 ---
-id_ experiment__muscle_recruitment_in_your_jaw!
-title_ "Experiment_ Muscle Recruitment in your Jaw!"
-slug_ /retired/experiments/muscle_recruitment_in_your_jaw!
+id: experiment__muscle_recruitment_in_your_jaw!
+title: "Experiment_ Muscle Recruitment in your Jaw!"
+slug: /retired/experiments/muscle_recruitment_in_your_jaw!
 ---
 
 # Experiment_ Muscle Recruitment in your Jaw!

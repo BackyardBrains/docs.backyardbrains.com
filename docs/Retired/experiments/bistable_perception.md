@@ -1,7 +1,7 @@
 ---
-id_ experiment__bistable_perception
-title_ "Experiment_ Bistable Perception"
-slug_ /retired/experiments/bistable_perception
+id: experiment__bistable_perception
+title: "Experiment_ Bistable Perception"
+slug: /retired/experiments/bistable_perception
 ---
 
 # Experiment_ Bistable Perception

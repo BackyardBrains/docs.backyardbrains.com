@@ -1,7 +1,7 @@
 ---
-id_ experiment___diy_faraday_cage
-title_ "Experiment_  DIY Faraday Cage"
-slug_ /retired/experiments/diy_faraday_cage
+id: experiment___diy_faraday_cage
+title: "Experiment_  DIY Faraday Cage"
+slug: /retired/experiments/diy_faraday_cage
 ---
 
 # Experiment_  DIY Faraday Cage

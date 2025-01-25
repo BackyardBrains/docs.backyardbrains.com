@@ -1,7 +1,7 @@
 ---
-id_ experiment__effect_of_temperature_on_neurons
-title_ "Experiment_ Effect of Temperature on Neurons"
-slug_ /retired/experiments/effect_of_temperature_on_neurons
+id: experiment__effect_of_temperature_on_neurons
+title: "Experiment_ Effect of Temperature on Neurons"
+slug: /retired/experiments/effect_of_temperature_on_neurons
 ---
 
 # Experiment_ Effect of Temperature on Neurons

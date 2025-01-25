@@ -1,7 +1,7 @@
 ---
-id_ experiment__eye_potentials_(the_eog)
-title_ "Experiment_ Eye Potentials (The EOG)"
-slug_ /retired/experiments/eye_potentials_(the_eog)
+id: experiment__eye_potentials_(the_eog)
+title: "Experiment_ Eye Potentials (The EOG)"
+slug: /retired/experiments/eye_potentials_(the_eog)
 ---
 
 # Experiment_ Eye Potentials (The EOG)

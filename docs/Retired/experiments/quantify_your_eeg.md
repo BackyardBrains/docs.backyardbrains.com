@@ -1,7 +1,7 @@
 ---
-id_ experiment__quantify_your_eeg
-title_ "Experiment_ Quantify Your EEG"
-slug_ /retired/experiments/quantify_your_eeg
+id: experiment__quantify_your_eeg
+title: "Experiment_ Quantify Your EEG"
+slug: /retired/experiments/quantify_your_eeg
 ---
 
 # Experiment_ Quantify Your EEG

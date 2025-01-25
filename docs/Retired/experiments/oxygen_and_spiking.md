@@ -1,7 +1,7 @@
 ---
-id_ experiment__oxygen_and_spiking
-title_ "Experiment_ Oxygen and Spiking"
-slug_ /retired/experiments/oxygen_and_spiking
+id: experiment__oxygen_and_spiking
+title: "Experiment_ Oxygen and Spiking"
+slug: /retired/experiments/oxygen_and_spiking
 ---
 
 # Experiment_ Oxygen and Spiking

@@ -1,7 +1,7 @@
 ---
-id_ experiment__how_your_eye_detects_color_and_motion
-title_ "Experiment_ How Your Eye Detects Color and Motion"
-slug_ /retired/experiments/how_your_eye_detects_color_and_motion
+id: experiment__how_your_eye_detects_color_and_motion
+title: "Experiment_ How Your Eye Detects Color and Motion"
+slug: /retired/experiments/how_your_eye_detects_color_and_motion
 ---
 
 # Experiment_ How Your Eye Detects Color and Motion

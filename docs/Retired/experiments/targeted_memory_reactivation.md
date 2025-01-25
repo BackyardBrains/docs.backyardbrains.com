@@ -1,7 +1,7 @@
 ---
-id_ experiment__targeted_memory_reactivation
-title_ "Experiment_ Targeted Memory Reactivation"
-slug_ /retired/experiments/targeted_memory_reactivation
+id: experiment__targeted_memory_reactivation
+title: "Experiment_ Targeted Memory Reactivation"
+slug: /retired/experiments/targeted_memory_reactivation
 ---
 
 # Experiment_ Targeted Memory Reactivation

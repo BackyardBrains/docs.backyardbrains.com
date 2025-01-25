@@ -1,7 +1,7 @@
 ---
-id_ experiment__mosquito_love_songs
-title_ "Experiment_ Mosquito Love Songs"
-slug_ /retired/experiments/mosquito_love_songs
+id: experiment__mosquito_love_songs
+title: "Experiment_ Mosquito Love Songs"
+slug: /retired/experiments/mosquito_love_songs
 ---
 
 # Experiment_ Mosquito Love Songs

@@ -1,7 +1,7 @@
 ---
-id_ experiment__control_machines_with_your_brain
-title_ "Experiment_ Control Machines with your Brain"
-slug_ /retired/experiments/control_machines_with_your_brain
+id: experiment__control_machines_with_your_brain
+title: "Experiment_ Control Machines with your Brain"
+slug: /retired/experiments/control_machines_with_your_brain
 ---
 
 # Experiment_ Control Machines with your Brain

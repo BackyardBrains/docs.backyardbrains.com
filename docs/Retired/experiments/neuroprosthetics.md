@@ -1,7 +1,7 @@
 ---
-id_ experiment__neuroprosthetics
-title_ "Experiment_ NeuroProsthetics"
-slug_ /retired/experiments/neuroprosthetics
+id: experiment__neuroprosthetics
+title: "Experiment_ NeuroProsthetics"
+slug: /retired/experiments/neuroprosthetics
 ---
 
 # Experiment_ NeuroProsthetics

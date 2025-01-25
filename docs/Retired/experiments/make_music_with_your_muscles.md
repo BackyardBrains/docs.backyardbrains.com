@@ -1,7 +1,7 @@
 ---
-id_ experiment__make_music_with_your_muscles
-title_ "Experiment_ Make Music with your Muscles"
-slug_ /retired/experiments/make_music_with_your_muscles
+id: experiment__make_music_with_your_muscles
+title: "Experiment_ Make Music with your Muscles"
+slug: /retired/experiments/make_music_with_your_muscles
 ---
 
 # Experiment_ Make Music with your Muscles

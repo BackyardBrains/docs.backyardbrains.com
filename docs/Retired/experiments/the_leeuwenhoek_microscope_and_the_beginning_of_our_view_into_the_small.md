@@ -1,7 +1,7 @@
 ---
-id_ experiment__the_leeuwenhoek_microscope_and_the_beginning_of_our_view_into_the_small
-title_ "Experiment_ The Leeuwenhoek Microscope and the Beginning of Our View into the Small"
-slug_ /retired/experiments/the_leeuwenhoek_microscope_and_the_beginning_of_our_view_into_the_small
+id: experiment__the_leeuwenhoek_microscope_and_the_beginning_of_our_view_into_the_small
+title: "Experiment_ The Leeuwenhoek Microscope and the Beginning of Our View into the Small"
+slug: /retired/experiments/the_leeuwenhoek_microscope_and_the_beginning_of_our_view_into_the_small
 ---
 
 # Experiment_ The Leeuwenhoek Microscope and the Beginning of Our View into the Small

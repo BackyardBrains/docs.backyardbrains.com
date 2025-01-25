@@ -1,7 +1,7 @@
 ---
-id_ experiment__make_your_own_homunculus
-title_ "Experiment_ Make your own Homunculus"
-slug_ /retired/experiments/make_your_own_homunculus
+id: experiment__make_your_own_homunculus
+title: "Experiment_ Make your own Homunculus"
+slug: /retired/experiments/make_your_own_homunculus
 ---
 
 # Experiment_ Make your own Homunculus

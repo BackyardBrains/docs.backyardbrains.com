@@ -1,7 +1,7 @@
 ---
-id_ experiment___advanced_plant_electrophysiology__control_the_behavior_of_one_plant_with_another's
-title_ "Experiment_  Advanced Plant Electrophysiology_ Control the Behavior of One Plant with Another's"
-slug_ /retired/experiments/advanced_plant_electrophysiology__control_the_behavior_of_one_plant_with_another's
+id: experiment___advanced_plant_electrophysiology__control_the_behavior_of_one_plant_with_another's
+title: "Experiment_  Advanced Plant Electrophysiology_ Control the Behavior of One Plant with Another's"
+slug: /retired/experiments/advanced_plant_electrophysiology__control_the_behavior_of_one_plant_with_another's
 ---
 
 # Experiment_  Advanced Plant Electrophysiology_ Control the Behavior of One Plant with Another's

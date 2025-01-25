@@ -1,7 +1,7 @@
 ---
-id_ experiment__muscle_action_potentials
-title_ "Experiment_ Muscle Action Potentials"
-slug_ /retired/experiments/muscle_action_potentials
+id: experiment__muscle_action_potentials
+title: "Experiment_ Muscle Action Potentials"
+slug: /retired/experiments/muscle_action_potentials
 ---
 
 # Experiment_ Muscle Action Potentials

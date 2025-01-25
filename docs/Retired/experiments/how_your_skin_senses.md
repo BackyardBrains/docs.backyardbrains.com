@@ -1,7 +1,7 @@
 ---
-id_ experiment__how_your_skin_senses
-title_ "Experiment_ How Your Skin Senses"
-slug_ /retired/experiments/how_your_skin_senses
+id: experiment__how_your_skin_senses
+title: "Experiment_ How Your Skin Senses"
+slug: /retired/experiments/how_your_skin_senses
 ---
 
 # Experiment_ How Your Skin Senses

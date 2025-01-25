@@ -1,7 +1,7 @@
 ---
-id_ _spikershield_pro_experiment__muscle_keyboard
-title_ " SpikerShield Pro Experiment_ Muscle Keyboard"
-slug_ /retired/experiments/spikershield_pro_experiment__muscle_keyboard
+id: _spikershield_pro_experiment__muscle_keyboard
+title: " SpikerShield Pro Experiment_ Muscle Keyboard"
+slug: /retired/experiments/spikershield_pro_experiment__muscle_keyboard
 ---
 
 #  SpikerShield Pro Experiment_ Muscle Keyboard

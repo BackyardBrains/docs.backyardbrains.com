@@ -1,7 +1,7 @@
 ---
-id_ experiment__hunt_for_a_single_motor_unit
-title_ "Experiment_ Hunt for a Single Motor Unit"
-slug_ /retired/experiments/hunt_for_a_single_motor_unit
+id: experiment__hunt_for_a_single_motor_unit
+title: "Experiment_ Hunt for a Single Motor Unit"
+slug: /retired/experiments/hunt_for_a_single_motor_unit
 ---
 
 # Experiment_ Hunt for a Single Motor Unit

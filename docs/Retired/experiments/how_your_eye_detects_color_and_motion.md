@@ -151,23 +151,3 @@ each role. Below is that chart that you will use for recording_
 
   1. Why should the stick motion be detected long before the color is detected? 
   2. Why do we generally believe that we see color throughout visual field and not just in a small focused area, if in fact we only see color in our central visual field?
-
-#### Twitter
-
-#### Recent Posts
-
-  * [ It's The Backyard Brains 10-Year Anniversary!](https://blog.backyardbrains.com/?p=4906)
-  * [ Cincinnati Neuroscience Outreach by BYB Alumna](https://blog.backyardbrains.com/?p=4870)
-  * [ First Place at Science Fair for Student using BYB Gear](https://blog.backyardbrains.com/?p=4861)
-
-#### BYB Information
-
-  * [Spike Counter](/About/SpikeCounter)
-  * [Contact](/About/Contact)
-  * [FAQ](/About/FAQ)
-  * [Our Finances](/About/Finance)
-  * [Privacy Policy](/About/Privacy)
-
-* * *
-
-Copyright © 2009-2017 [ Backyard Brains](https://backyardbrains.com) | Protected under the Creative Common License [ ](https://creativecommons.org/licenses/)[](https://creativecommons.org/licenses/by-sa/3.0/)

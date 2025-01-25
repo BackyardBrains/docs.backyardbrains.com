@@ -368,23 +368,3 @@ does not mean evidence of absence."
   2. Do you ever think a study is done? What does the 95% confidence (alpha value =0.05) mean for extracting the "truth"? 
   3. Do you notice anything strange about the distribution graphs from our collected data? 
   4. We only compared right-handed people's reaction time with respect to their right and left hand. What would you expect to see with left-handed people regarding their left and right hands? You can do that analysis yourself! 
-
-#### Twitter
-
-#### Recent Posts
-
-  * [ It's The Backyard Brains 10-Year Anniversary!](https://blog.backyardbrains.com/?p=4906)
-  * [ Cincinnati Neuroscience Outreach by BYB Alumna](https://blog.backyardbrains.com/?p=4870)
-  * [ First Place at Science Fair for Student using BYB Gear](https://blog.backyardbrains.com/?p=4861)
-
-#### BYB Information
-
-  * [Spike Counter](/About/SpikeCounter)
-  * [Contact](/About/Contact)
-  * [FAQ](/About/FAQ)
-  * [Our Finances](/About/Finance)
-  * [Privacy Policy](/About/Privacy)
-
-* * *
-
-Copyright © 2009-2017 [ Backyard Brains](https://backyardbrains.com) | Protected under the Creative Common License [ ](https://creativecommons.org/licenses/)[](https://creativecommons.org/licenses/by-sa/3.0/)

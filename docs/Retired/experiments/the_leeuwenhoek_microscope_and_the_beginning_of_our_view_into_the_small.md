@@ -303,23 +303,3 @@ Happy exploring the previously invisible worlds!
 * Lesley Robertson. 2015. [van Leeuwenhoek microscopes—where are they now? ](/experiments/files/2015-Robertson_Where_are_microscopes_Leeuwenhoek.pdf)FEMS Microbiology Letters, 362, 2015, fnv056. 
 * Maria Rooseboom. 1939. [Concerning the optical qualities of some microscopes made by leeuwenhoek.](/experiments/files/1939_Maria_Rooseboom_Concerning_the_optical_qualities_ leeuwenhoek.pdf) Journal of Microscopy. Vol 59,3, Pgs 177–183. 
 * J. Van Zuylen. 1981. [The microscopes of Antoni van Leeuwenhoek](/experiments/files/1981_Zuylen_The_microscopes_Leeuwenhoek.pdf) Journal of Microscopy. Vol. 121, Pt 3, pp. 309-328 
-
-#### Twitter
-
-#### Recent Posts
-
-  * [ It's The Backyard Brains 10-Year Anniversary!](https://blog.backyardbrains.com/?p=4906)
-  * [ Cincinnati Neuroscience Outreach by BYB Alumna](https://blog.backyardbrains.com/?p=4870)
-  * [ First Place at Science Fair for Student using BYB Gear](https://blog.backyardbrains.com/?p=4861)
-
-#### BYB Information
-
-  * [Spike Counter](/About/SpikeCounter)
-  * [Contact](/About/Contact)
-  * [FAQ](/About/FAQ)
-  * [Our Finances](/About/Finance)
-  * [Privacy Policy](/About/Privacy)
-
-* * *
-
-Copyright © 2009-2017 [ Backyard Brains](https://backyardbrains.com) | Protected under the Creative Common License [ ](https://creativecommons.org/licenses/)[](https://creativecommons.org/licenses/by-sa/3.0/)

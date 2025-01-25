@@ -197,37 +197,12 @@ for providing a easily-understandable and hackable control Arduino Sketch
 >
 > Download our Arduino(.ino) sketches and Control Software
 >
-> [Human Control Arduino
-> Sketch](https://backyardbrains.com/products/files/HackerHand_Arduino_v2.7.ino.zip)
+> [Human Control Arduino Sketch](https://backyardbrains.com/products/files/HackerHand_Arduino_v2.7.ino.zip)
 >
-> [BYB HackerHand Control (beta)
-> (MacOS)](https://backyardbrains.com/products/files/BYB_HackerHand_Control_v2.7.zip)
+> [BYB HackerHand Control (beta) (MacOS)](https://backyardbrains.com/products/files/BYB_HackerHand_Control_v2.7.zip)
 >
-> [BYB HackerHand Control (alpha) (Windows
-> 8)](https://backyardbrains.com/products/files/BYB_HackerHand_Control_Win8_Installer.EXE.zip)
+> [BYB HackerHand Control (alpha) (Windows 8)](https://backyardbrains.com/products/files/BYB_HackerHand_Control_Win8_Installer.EXE.zip)
 >
-> [GitHub Source Code Repository (whole
-> project)](https://github.com/TimByB/HackerHand-Control)
+> [GitHub Source Code Repository (whole project)](https://github.com/TimByB/HackerHand-Control)
 >
-> [GitHub Source Code Repository (Mac
-> Version)](https://github.com/TimByB/HackerHand-Control/releases/tag/1.2)
-
-#### Twitter
-
-#### Recent Posts
-
-  * [ It's The Backyard Brains 10-Year Anniversary!](https://blog.backyardbrains.com/?p=4906)
-  * [ Cincinnati Neuroscience Outreach by BYB Alumna](https://blog.backyardbrains.com/?p=4870)
-  * [ First Place at Science Fair for Student using BYB Gear](https://blog.backyardbrains.com/?p=4861)
-
-#### BYB Information
-
-  * [Spike Counter](/About/SpikeCounter)
-  * [Contact](/About/Contact)
-  * [FAQ](/About/FAQ)
-  * [Our Finances](/About/Finance)
-  * [Privacy Policy](/About/Privacy)
-
-* * *
-
-Copyright © 2009-2017 [ Backyard Brains](https://backyardbrains.com) | Protected under the Creative Common License [ ](https://creativecommons.org/licenses/)[](https://creativecommons.org/licenses/by-sa/3.0/)
+> [GitHub Source Code Repository (Mac Version)](https://github.com/TimByB/HackerHand-Control/releases/tag/1.2)

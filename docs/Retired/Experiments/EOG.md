@@ -51,7 +51,7 @@ we can detect blinks too! However, we believe this is due to the
 electromyographic signal of the eyeblink muscles, and not the movement of the
 eye. But, with this you can make interesting interfaces like blink detectors.
 
-[ ![](./img/Tesla_position_Eyes2_web.jpg)](./img/Tesla_position_Eyes_web.jpg)
+[ ![](./img/Tesla_position_Eyes2_web.jpg)](./img/Tesla_position_Eyes2_web.jpg)
 
 Now let's observe and measure the signal!
 

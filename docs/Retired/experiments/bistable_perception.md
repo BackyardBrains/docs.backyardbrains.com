@@ -10,9 +10,9 @@ Build the "Phenomenogram"_ a device capable of continuously measuring a
 person's perception in [bistability](https://en.wikipedia.org/wiki/Bistability)
 experiments.
 
-Time  3 hours
+**Time:**  3 hours
 
-Difficulty  Advanced
+**Difficulty:**   Advanced
 
 #### What will you learn?
 
@@ -100,10 +100,10 @@ measure graded responses.
 > Download our Arduino(.ino) and Processing(.pde) sketches
 >
 > [Arduino Sketch for Sending Data from Phenomenogram to
-> Computer](https://backyardbrains.com/experiments/files/BYB_Arduino_FenomenogramaV2.ino.zip)
+> Computer](https://backyardbrains.com./files/BYB_Arduino_FenomenogramaV2.ino.zip)
 >
 > [Processing Sketch for Displaying and Saving Data of Phenomenogram on
-> Computer](https://backyardbrains.com/experiments/files/BYB_Processing_Fenomenogram.pde.zip)
+> Computer](https://backyardbrains.com./files/BYB_Processing_Fenomenogram.pde.zip)
 
 ## Video
 
@@ -185,7 +185,7 @@ communicating with other devices wirelessly with light.
 [ ![](./img/Connections_Fenomenogram.jpg)](img/Connections_Fenomenogram.jpg)
 
   5. You can put all this inside a plastic box to protect the hardware and make the Phenomenogram look fancy. 
-  6. Connect the photoresistor cable, the USB cable, add some sticker labels, and Voilà!, The hardware is complete. Once you've done this, just load the Arduino sketch using your computer USB interface and run the Processing sketch to begin exploring the changes of your perception! Use [this audio file](/experiments/files/Jamon_Monja_de_Ivo_Leiva.mp3) to test the switching of your perception. To record the data, press the "r" on your keyboard when the Processing Sketch is running. The .csv file has three columns_ time, reading of knob, and whether light was present or not (trial occurring or not), with a "1" or a "0". 
+  6. Connect the photoresistor cable, the USB cable, add some sticker labels, and Voilà!, The hardware is complete. Once you've done this, just load the Arduino sketch using your computer USB interface and run the Processing sketch to begin exploring the changes of your perception! Use [this audio file](./files/Jamon_Monja_de_Ivo_Leiva.mp3) to test the switching of your perception. To record the data, press the "r" on your keyboard when the Processing Sketch is running. The .csv file has three columns_ time, reading of knob, and whether light was present or not (trial occurring or not), with a "1" or a "0". 
 
 [ ![](./img/Output_csv_web.jpg)](img/Output_csv_web.jpg)
 

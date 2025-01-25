@@ -24,7 +24,6 @@ In this experiment, featured on the [TED Main Stage](https://www.ted.com/talks g
 * Sensitive Mimosa Plant
 * Venus Flytrap Plant
 
-
 ## Background
 
 ### Interspecies Plant-Plant-Communicator

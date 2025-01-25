@@ -145,16 +145,13 @@ into computer science.
 If you are on a Windows machine, we highly recommend Git Bash as a pseudo-bash
 console: [Git](https://git-scm.com/downloads)
 
-You will need, first and foremost, PIP, the Jupyter notebook itself, and
-OpenCV:
+You will need, first and foremost, PIP, the Jupyter notebook itself, and OpenCV:
 
-PIP: <https://packaging.python.org/tutorials/installing-packages></https>
+[PIP](https://packaging.python.org/tutorials/installing-packages)
 
-Jupyter: <http://jupyter.readthedocs.io/en/latest/install.html> (We recommendbAnaconda)
+[Jupyter](http://jupyter.readthedocs.io/en/latest/install.html) (We recommendbAnaconda)
 
-OpenCV_ If all goes well all you need to do is "pip install opencv-contrib-
-python" Remember to install opencv-contrib specifically as it contains
-packages that we need.
+OpenCV: If all goes well all you need to do is "pip install opencv-contrib-python" Remember to install opencv-contrib specifically as it contains packages that we need.
 
 ## Octopus Filming
 

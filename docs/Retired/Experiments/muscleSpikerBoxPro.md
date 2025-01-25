@@ -6,7 +6,7 @@ slug: /retired/experiments/muscleSpikerBoxPro
 
 # Getting Started with the Muscle SpikerBox Pro: Agonist/Antagonist Muscle Pairs
 
-Now that you've completed the ["Getting Started with the Muscle Spikerbox"](https://backyardbrains.com/experiments/emgspikerbox) experiment,
+Now that you've completed the ["Getting Started with the Muscle Spikerbox"](./muscleSpikerBox.md) experiment,
 you've learned about muscle physiology through viewing electromyograms (EMGs)
 of your own muscles. More specifically, you've observed the electrical
 impulses that muscles fibers create to cause a contraction of a muscle. In
@@ -98,7 +98,7 @@ away from you, your triceps is an agonist, contracting to extend your arm.
 Your biceps is an antagonist, relaxing to allow elongation while possibly
 contracting ever-so-lightly to control the speed of that moving forearm.
 
-[ ![](./img/antagExt.png)](./img/antagExt.png)
+[Antagonist Extension](./img/antagExt.png)
 
 When your hand is moving back in during your waving motion your biceps is an
 agonist, flexing your arm towards you. In this case, your triceps is an
@@ -107,7 +107,7 @@ that unlike the intrinsic designations of the flexors and extensors, the two
 roles of antagonistic pairs are dependent on the motion. If the motion is
 reversed, the agonist and the antagonist switch roles.
 
-[ ![](./img/antagflex.png)](./img/antagFlex.png)
+[Antagonist Flexion](./img/antagflex.png)
 
 It's not always this simple though! In some movements, such as a push-up, the
 agonist doesn't change with the direction of motion. During push-ups, the

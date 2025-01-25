@@ -37,7 +37,7 @@ human nervous system. But why would they have so many, in such a small body?
 And why would they need to be so sensitive to sounds? The answer, dear reader,
 is love!
 
-[ ![](./img/mosquitoLoveSongs-Singing.png)](img/mosquitoLoveSongs-Singing.png)
+![Singing](./img/mosquitoLoveSongs-Singing.png)
 
 Mosquitoes produce very specific buzzing sounds, or frequencies, based on the
 rate at which they beat their wings. It is a language unique to each species
@@ -53,14 +53,13 @@ have a bulb-shaped organ at the base of their antennae, called the Johnston's
 organ, which is made up of thousands of sensory neurons responsible for
 detecting air particles displaced by sound vibrations.
 
-[ ![](./img/mosquitoLoveSongs-Sexing.png)](img/mosquitoLoveSongs-Sexing.png)
+![Sexing](./img/mosquitoLoveSongs-Sexing.png)
 
 The males, however, can hear lower tones very clearly because their antennae
 are equipped with hundreds of hair-like structures that house thousands more
 sensory neurons. This distinction is also important in sexing mosquitoes.
 
-[ ![](./img/mosquitoLoveSongs-MaleListening.png)](img/mosquitoLoveSongs-
-MaleListening.png)
+![Male listening](./img/mosquitoLoveSongs-MaleListening.png)
 
 What does this difference in tones have to do with mosquito mating, you ask?
 Mosquitoes can adjust their flight tones to come together to produce a common
@@ -70,15 +69,13 @@ beat speed in order to change the frequency of the sound! Prospective mates
 are then able to pick up these changes in their flight tones and signal back
 their interest in courting. Much more fundamental than a dating app.
 
-[ ![](./img/mosquitoLoveSongs-MaleSwipe.png)](img/mosquitoLoveSongs-
-MaleSwipe.png)
+![Male swipe](./img/mosquitoLoveSongs-MaleSwipe.png)
 
 When male and females come together, they attempt to match up their wing beat
 frequencies by making minor adjustment to their wing beat patterns to produce
 a harmonic that rings in at about 1200 beats per second.
 
-[ ![](./img/mosquitoLoveSongs-DuetSinging.png)](img/mosquitoLoveSongs-
-DuetSinging.png)
+![Duet singing](./img/mosquitoLoveSongs-DuetSinging.png)
 
 In this experiment, you will record and observe these flight tone modulations
 in order to better understand mosquito mating behavior.

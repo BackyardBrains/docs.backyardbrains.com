@@ -26,16 +26,12 @@ magnification using two biology preps!
 
 [RoachScope](/products/RoachScope)
 
-[Glass Slides](https://www.amazon.com/Blank-Microscope-Slides-Square-
-Cover/dp/B002OS6D9I)
+[Glass Slides](https://www.amazon.com/Blank-Microscope-Slides-Square-Cover/dp/B002OS6D9I)
 
-[Slide Covers](https://www.amazon.com/Blank-Microscope-Slides-Square-
-Cover/dp/B002OS6D9I)
+[Slide Covers](https://www.amazon.com/Blank-Microscope-Slides-Square-Cover/dp/B002OS6D9I)
 
-[Toothpick](https://www.amazon.com/Farberware-5080422-Classic-
-Toothpicks-300-Count/dp/B005D6G7U8/ref=sr_1_6?ie=UTF8&qid=1397592626&sr=8-6&keywords=toothpick)
+[Toothpick](https://www.amazon.com/Farberware-5080422-Classic-Toothpicks-300-Count/dp/B005D6G7U8/ref=sr_1_6?ie=UTF8&qid=1397592626&sr=8-6&keywords=toothpick)
 
-* * *
 
 ## Background
 
@@ -73,8 +69,7 @@ Many of our other experiments focus on neurons, which are the cells that make
 up our nervous system. Epithelium shares some similarities, but also
 differences with neurons! Let's check it out below_
 
-[
-![](./img/neuronepithelial.png)](https://backyardbrains.com/experiments/img/neuronepithelial.png)
+![Neurons and Epithelial cells](./img/neuronepithelial.png)
 
 Neurons and Epithelial cells do share some things in common. They both have a
 cell membrane, cytoplasm, and nuclei - which contain the cell's DNA and
@@ -100,7 +95,7 @@ High Powered Scope!
 
 ## Procedures
 
-### Prep 1_ Human Cheek
+### Prep 1: Human Cheek
 
   1. Prepare your glass slide and slide cover by cleaning them with glass cleaning solution and a special glass cleaning cloth. If you have a camera or wear glasses, you can use the glass cleaning cloth that came with those. Otherwise, you can order special, disposable cleaning paper online - [here is an inexpensive option](https://www.amazon.com/OMAX-Sheets-Microscope-Camera-Cleaning/dp/B00A84NJ1U/ref=sr_1_3?ie=UTF8&qid=1399309334&sr=8-3&keywords=microscope+cleaning+kit)! 
   2. Place a drop of water on the slide. 
@@ -109,24 +104,21 @@ High Powered Scope!
   5. Place the slide under the High-Power magnifying lense on the RoachScope and turn on the backlight. 
   6. Set your cellphone's camera lens on top of the RoachScope's magnifying lens, centering the view of the microscope in the center of your screen. It should look something like this_ 
 
-[
-![](./img/RoachScope1.jpg)](https://backyardbrains.com/experiments//img/RoachScope1.jpg)
 
-[
-![](./img/RoachScope2.jpg)](https://backyardbrains.com/experiments//img/RoachScope2.jpg)
+![RoachScope1](./img/RoachScope1.jpg)
+
+![RoachScope2](./img/RoachScope2.jpg)
 
   7. Zoom in on your phone! 
   8. If you can't see them already, search for some cells! To help find cells, carefully adjust the glass slide to hunt down your epithelial cells. To help focus you can tap on your screen (most smartphones have this feature) and make slight adjustments to the height of the RoachScope's magnifying platform. (we like to loosen the set screw, then make fine adjustments with the platform's height adjusting knob to find the focus, tightening the set screw once you like your image) 
 
-[ ![](./img/epithelial
-cells.jpg)](https://backyardbrains.com/experiments/img/epithelial cells.jpg)
+![Epithelial cells](./img/epithelialcells.jpg)
 
 Also, be sure not to mistake air bubbles for your cells!
 
-[ ![](./img/epithelial
-annot.jpg)](https://backyardbrains.com/experiments/img/epithelial annot.jpg)
+![Epithelial annot](./img/epithelialannot.jpg)
 
-### Prep 2_ Onion
+### Prep 2: Onion
 
 Now that you've learned to prepare a slide, your future microscopic
 observations will be a breeze! Let's practice preparing a slide again to look
@@ -144,8 +136,7 @@ at some more epithelial cells - but this time we're going to examine an onion!
   10. Move the light source to one side so that the onion cells are near the edge of the shadow. This may allow the cell nucleus to be seen (slightly darker than the rest of the cell, about 0.01 mm diameter, quite round). The nucleus houses all of the DNA needed for the entire onion plant. 
   11. With patience, good edge illumination, and a high-power view, some very active cells may have tiny dark vesicles (packages of stuff) moving or vibrating within the cell, usually near the nucleus, but sometimes quite a distance away. These vesicles can be found in areas of the onion that are actively growing. 
 
-[ ![](./img/onion cells.jpg)](https://backyardbrains.com/experiments/img/onion
-cells.jpg)
+![Onion cells](./img/onioncells.jpg)
 
 Think about what you've seen and talk about it with your peers! Compare your
 Human and Onion cell pictures. Try to draw from one of the pictures you took
@@ -155,27 +146,7 @@ observation, think about other kinds of cells you could examine! What other
 cells can you retrieve from your own body safely? Also, all living things are
 made of cells, so you don't have to limit your research to human and onion
 cells! What will you find in the microscopic world? Email us your findings at
-[info@backyardbrains.com](mailto_info@backyardbrains.com)!
+[info@backyardbrains.com](mailto:info@backyardbrains.com)!
 
 Also, a big thank you to Dr. Charlie Taylor of our Education team for his work
 in helping develop these preps and write ups!
-
-#### Twitter
-
-#### Recent Posts
-
-  * [ It's The Backyard Brains 10-Year Anniversary!](https://blog.backyardbrains.com/?p=4906)
-  * [ Cincinnati Neuroscience Outreach by BYB Alumna](https://blog.backyardbrains.com/?p=4870)
-  * [ First Place at Science Fair for Student using BYB Gear](https://blog.backyardbrains.com/?p=4861)
-
-#### BYB Information
-
-  * [Spike Counter](/About/SpikeCounter)
-  * [Contact](/About/Contact)
-  * [FAQ](/About/FAQ)
-  * [Our Finances](/About/Finance)
-  * [Privacy Policy](/About/Privacy)
-
-* * *
-
-Copyright © 2009-2017 [ Backyard Brains](https://backyardbrains.com) | Protected under the Creative Common License [ ](https://creativecommons.org/licenses/)[](https://creativecommons.org/licenses/by-sa/3.0/)

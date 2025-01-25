@@ -616,7 +616,7 @@ is much easier and simpler than navigational systems in other animals.
     8. Sato H., Peeri Y., Baghoomian E., Berry C. W., Maharbiz M. M. (2009a). “Radio-controlled cyborg beetles: a radio-frequency system for insect neural flight control,” in Proceedings of IEEE International Conference on Micro Electro Mechanical System (MEMS 2009), Sorrento, 216–219.10.1109/MEMSYS.2009.4805357
     9. A. Bozkurt, E. Whitmire, T. Latif, (2013) “Kinect-based System for Automated Control of Terrestrial Insect Biobots”. 35th Annual International Conference of the IEEE Engineering in Medicine and Biology Society.
     10. Wigglesworth, V.B. 1980. Do insects feel pain. Antenna 4, 8-9.
-    11. World Health Organization (2006) Neurological disorders: public health challenges. World Health Press. <http://www.who.int/mental_health/neurology/neurodiso/en/>
-    12. National Institute of Health, Office of Laboratory Animal Welfare. <http://grants.nih.gov/grants/olaw/olaw.htm>
+    11. World Health Organization (2006) Neurological disorders: public health challenges. World Health Press. (http://www.who.int/mental_health/neurology/neurodiso/en/)
+    12. National Institute of Health, Office of Laboratory Animal Welfare. (http://grants.nih.gov/grants/olaw/olaw.htm)
 
 

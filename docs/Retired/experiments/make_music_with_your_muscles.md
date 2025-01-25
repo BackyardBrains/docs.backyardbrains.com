@@ -19,22 +19,19 @@ and notes by reading your muscle's action potentials.
 
 ##### Prerequisite Labs
 
-  * [Muscle SpikerShield](muscleSpikershield) \- You should be familiar with the Muscle SpikerShield for Arduino.
+  * [Muscle SpikerShield](muscleSpikershield) - You should be familiar with the Muscle SpikerShield for Arduino.
 
 ##### Equipment
 
-[Muscle SpikerShield
-Bundle](https://backyardbrains.com/products/muscleSpikershieldBundle)
+[Muscle SpikerShield Bundle](https://backyardbrains.com/products/muscleSpikershieldBundle)
 
-[Music-Interface
-Cable](https://backyardbrains.com/products/musicinterfacecable)
+[Music-Interface Cable](https://backyardbrains.com/products/musicinterfacecable)
 
 * * *
 
 ## Background
 
-From [mammoth ivory
-flutes](https://www.nature.com/news/2004/041213/full/041213-14.html) to
+From [mammoth ivory flutes](https://www.nature.com/news/2004/041213/full/041213-14.html) to
 guitars to [cat pianos](https://en.wikipedia.org/wiki/Cat_organ), instruments
 have been a central part of human existence for tens of thousands of years.
 Most instruments, however, tend to be quite similar in the way they are
@@ -164,7 +161,7 @@ You can download the sketch here. Check out the comments for some insight into h
   5. Below is the code with comments to make it easier to understand. 
 
     
-    ```cpp
+```cpp
     #include 
     
     #define NOTE_C4  262    //These definitions specify the frequency of each note.
@@ -346,7 +343,7 @@ You can download the sketch here. Check out the comments for some insight into h
         thisNote ++;
         }
     }
-    ```
+```
 
 ### Experiment
 
@@ -357,7 +354,7 @@ Got it working? Great! Now it's time to personalize your instrument.
   3. Find the notes needed to play your song. For the "Imperial March" we'll be teaching the Arduino this sequence of notes_ E, E, E, C, F, E, C, F, E, A, A, A, B, F, E, C, F, E 
   4. The Arduino doesn't read "notes." Look at the top of the code where we define what "notes" are_ 
     
-    ```cpp
+```cpp
     #define NOTE_C4  262    //These definitions specify the frequency of each note.
     #define NOTE_D4  294
     #define NOTE_E4  330
@@ -366,7 +363,7 @@ Got it working? Great! Now it's time to personalize your instrument.
     #define NOTE_A4  440
     #define NOTE_B4  494
     #define NOTE_C5  523
-    ```
+ ```
 
 Here we are defining the notes by the frequency of the sound the Arduino is
 going to generate when that "note" is activated. So, "NOTE_C4" for example, is
@@ -375,25 +372,26 @@ recognize as the note C!
 
   5. Find in the codewhere the notes for "Mary Had a Little Lamb" are set out. 
     
-        ```cpp
+```cpp
     int melody[] = {        //Includes the notes in the melody for "Mary had a Little Lamb".
       NOTE_A4, NOTE_G4, NOTE_F4, NOTE_G4, NOTE_A4, NOTE_A4, NOTE_A4, 
       NOTE_G4, NOTE_G4, NOTE_G4, NOTE_A4, NOTE_C5, NOTE_C5, 
       NOTE_A4, NOTE_G4, NOTE_F4, NOTE_G4, NOTE_A4, NOTE_A4, NOTE_A4,
       NOTE_G4, NOTE_G4, NOTE_A4, NOTE_G4, NOTE_F4
     };
-    ```
+```
 
 This is section of code which "teaches" the Arduino how to play "Mary Had a
 Little Lamb." Let's replace it with our new song.
 
   6. Write out your music using the defined variables (Note_ You may need to add more notes if your song has multiple octaves! Do some investigating and find out what frequency your new notes reasonate at.) For the "Imperial March" we'll write it out like this_ 
-        ```cpp
+
+```cpp
     NOTE_E4, NOTE_E4, NOTE_E4, NOTE_C4, NOTE_F4,
     NOTE_E4, NOTE_C4, NOTE_F4, NOTE_E4,
     NOTE_A4, NOTE_A4, NOTE_A4, NOTE_B4, NOTE_F4,
     NOTE_E4, NOTE_C4, NOTE_F4, NOTE_E4
-    ```
+```
 
   7. Replace the melody in our default code with your new melody, upload it, and try it out! Press the button like you saw in the video to change the kit to setting 5, where the melody will play and flexing will speed it up or slow it down - or bump it up once more to setting 6, where flexing will change the frequency of the notes themselves! 
 
@@ -403,18 +401,18 @@ Lamb," making for quite the strange mashup...
 
   8. Fix the note durations! Find this line in your code_ 
       
-    ```cpp
+```cpp
         int noteDurations[] = { //Determines the duration of each note in the melody.
       4, 4, 4, 4, 4, 4, 2, 4, 4, 2, 4, 4, 2, 4, 4, 4, 4, 4, 4, 2, 4, 4, 4, 4, 2
     };
-    ```
+```
 
 You might notice something seemingly counter-intuitive here. If you hum to
 "Mary Had a Little Lamb" while following along with those listed note
 durations, the larger numbers are the shorter notes! In this code, the number
 4 will create a quarter note, 2 a half note, and 1 a full note - this is why_
 
-      ```cpp
+```cpp      
         if (channel == 5){      
         //To calculate the note duration, take one second divided by the note type.
         **int noteDuration = (1400 - finalReading*1.2) / noteDurations[thisNote];**
@@ -427,7 +425,7 @@ durations, the larger numbers are the shorter notes! In this code, the number
           }
         thisNote ++;
         }
-      ```
+```
 
 The value of "noteDuration" is a divisor, listed in the code that "Determines the duration of each note in the melody." So, to create a
 quarter note, we divide by 4, to create a half note, we divide by two, so on
@@ -438,11 +436,11 @@ Divide by 1,000,000,000,000!
 
   9. So for the "Imperial March," we'll fix the note duration by like this_ 
     
-    ```cpp
+```cpp
         int noteDurations[] = { //Determines the duration of each note in the melody.
       4, 4, 4, 8, 8, 4, 8, 8, 2, 4, 4, 4, 8, 8, 4, 8, 8, 2
     };
-    ```
+```
 
   10. Replace the original note durations with the new, upload your code, and try it out! 
 
@@ -450,11 +448,11 @@ Divide by 1,000,000,000,000!
 
   11. Right now on setting 5, flexing changes up the duration of the notes. What if we set all the notes to the same duration, then you used your muscles to speed up the melody during the shorter notes? Change all the notes to quarter notes_ 
     
-    ```cpp
+```cpp
     int noteDurations[] = { //Determines the duration of each note in the melody.
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
     };
-    ```
+```
 
   12. Upload your code, now the melody will play at a boring, constant beat, with all the notes being played for the same duration (whole notes). Flex to speed it up, and relax to slow it down. Can you use your muscles to play the song well enough to make Darth Vader proud? 
 

@@ -157,7 +157,7 @@ flow!
   10. The code can certainly be optimized, and you can see the commented version below. Feel to modify! [Let us know](mailto_tim@backyardbrains.com) if you discover or compose something. Happy creating! 
 
     
-    ```cpp
+```cpp
     #include 
     #include 
     #define MAX 150     //maximum posible reading. TWEAK THIS VALUE!!
@@ -326,7 +326,7 @@ flow!
       }}
     }
     
-    ```
+```
 
 ### Discussion
 

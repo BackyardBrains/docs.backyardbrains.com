@@ -96,9 +96,6 @@ North Carolina State University(9) are also experimenting with
 microstimulation of cockroach sensory nerves to develop a “Kinetic-base System
 for Autonomous Control of Terrestrial Insect Biobots” [[watch video](http://www.youtube.com/watch?v=jhuyDuV-ERQ)].
 
-  
-  
-
 #### Wow! ...but why cockroaches?
 
 Backyard Brains’ favorite invertebrate for the RoboRoach is of the kingdom
@@ -219,7 +216,7 @@ our [ethics guideline and discussion](https://backyardbrains.com/about/ethics)
   * A printed ["RoboRoach Surgery Worksheet"](https://backyardbrains.com/experiments/files/RoboRoach Surgery Worksheet.pdf)
   * Your brain, some patience, and a deft hand
   * Approximately 1 hour of your time
-  * 1 [“RoboRoach Surgery Kit”](https://backyardbrains.com/products/roboRoachSurgeryKit)
+  * [“RoboRoach Surgery Kit”](https://backyardbrains.com/products/roboRoachSurgeryKit)
     1. 150 grit sandpaper 
     2. Loctite Super Glue Gel Control (note: we’ve found this stuff works the best, other super glues may not substitute) 
     3. Cotton swabs
@@ -598,8 +595,6 @@ is much easier and simpler than navigational systems in other animals.
     * Electrode: 0.003" bare, 0.0055" insulated, Silver wire
     * Battery: 16mm 1632 Coin Cell Battery 
     * Use Time: 12 hours per battery
-  
-  
 
 ## Science Fair Project Ideas
 

@@ -9,9 +9,9 @@ slug: /retired/experiments/cellular_microscopy-blood_cells
 With the High Power RoachScope we can get a closer look at the cells that
 compose us.
 
-Time  45 Minutes
+**Time:**  45 Minutes
 
-Difficulty  Beginner
+**Difficulty:**   Beginner
 
 #### What will you learn?
 

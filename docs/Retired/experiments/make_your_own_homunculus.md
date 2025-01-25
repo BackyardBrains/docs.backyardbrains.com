@@ -10,9 +10,9 @@ While you know what you look like, do you know what your nervous system thinks
 you look like? Read further and learn how your skin's sensitivity changes how
 you will see your body.
 
-Time  1 hour
+**Time:**  1 hour
 
-Difficulty  Intermediate
+**Difficulty:**   Intermediate
 
 #### What will you learn?
 

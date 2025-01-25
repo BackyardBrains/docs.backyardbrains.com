@@ -34,27 +34,21 @@ which we will measure with our Heart and Brain SpikerShield.
 ## Background
 
 Most of our human physiology experiments have dealt with the voluntary nervous
-system ([Neuromuscular
-Neuroscience](https://backyardbrains.com/experiments/muscleSpikerBox)) or
-perception ([Sensory
-Neuroscience](https://backyardbrains.com/experiments/p300)); but here we will
+system ([Neuromuscular Neuroscience](https://backyardbrains.com/experiments/muscleSpikerBox)) or
+perception ([Sensory Neuroscience](https://backyardbrains.com/experiments/p300)); but here we will
 talk about the "involuntary" part of the nervous system, the **autonomic**
 nervous system. The autonomic nervous system controls things we are both aware
 and unaware of but generally do not have much control over - digestion,
 homeostasis, sweating, blood pressure, heart rate, and many others. It is
 traditionally divided into two systems, the sympathetic division (which
-activates the coined "[fight or flight](https://en.wikipedia.org/wiki/Fight-
-or-flight_response)" response) and the parasympathetic division (which
-activates the also-coined "[rest and
-digest](https://en.wikipedia.org/wiki/Parasympathetic_nervous_system)"
+activates the coined "[fight or flight](https://en.wikipedia.org/wiki/Fight-or-flight_response)" response) and the parasympathetic division (which
+activates the also-coined "[rest and digest](https://en.wikipedia.org/wiki/Parasympathetic_nervous_system)"
 response).
 
-[
-![](./img/AutonomicNervousSystem_web.jpg)](img/AutonomicNervousSystem_web.jpg)
+[ ![](./img/AutonomicNervousSystem_web.jpg)](img/AutonomicNervousSystem_web.jpg)
 
 We can study the effects of the sympathetic nervous activation by measuring
-heart rate. In our previous [heart
-experiment](https://backyardbrains.com/experiments/heartrate) we observed the
+heart rate. In our previous [heart rate experiment](https://backyardbrains.com/experiments/heartrate) we observed the 
 electrical impulses of the heart and the increase in heart rate during
 exercise. Let's go a little deeper into heart rate physiology and try to
 specifically activate your sympathetic nervous system's "fight or flight"
@@ -84,11 +78,9 @@ kidneys, releases norepinephrine and has a similar effect on the heart.
 [ ![](./img/Walter_Cannon_web.jpg)](img/Walter_Cannon_web.jpg)
 
 To activate your sympathetic nervous system, we will use the famous "ice
-water" stimulus. This [is often
-used](https://en.wikipedia.org/wiki/Cold_pressor_test) in pain studies as
+water" stimulus. This [is often used](https://en.wikipedia.org/wiki/Cold_pressor_test) in pain studies as
 humans can tolerate it, everyone has experienced cold hands before, it is not
-scary and does not result in psychological damage, and is a [a good model
-stimulus](https://science.sciencemag.org/content/354/6312/564) easy to
+scary and does not result in psychological damage, and is a [a good model stimulus](https://science.sciencemag.org/content/354/6312/564) easy to
 replicate in labs around the world. The longer you keep your hand in ice
 water, the more painful it becomes, activating your sympathetic nervous
 system, which will lead to an increase in heart rate.
@@ -99,17 +91,14 @@ Now let's see it for ourselves!
 
 #### Downloads
 
-> Before you begin, make sure you have the [Backyard Brains Spike
-> Recorder](https://backyardbrains.com/products/spikerecorder) installed on
+> Before you begin, make sure you have the [Backyard Brains Spike Recorder](https://backyardbrains.com/products/spikerecorder) installed on
 > your computer. The Backyard Brains Spike Recorder program allows you to
 > visualize and save the data on your computer when doing experiments. We have
 > also built a simple lab handout to help you tabulate your data.
 >
-> [Spike Recorder Computer
-> Software](https://backyardbrains.com/products/spikerecorder)
+> [Spike Recorder Computer Software](https://backyardbrains.com/products/spikerecorder)
 >
-> [Class
-> Handout](https://backyardbrains.com./files/Heart_Rate_HandOut.pdf)
+> [Class Handout](https://backyardbrains.com./files/Heart_Rate_HandOut.pdf)
 
 ## Video
 
@@ -183,8 +172,7 @@ classroom_
 Since these experiments are relatively easy to do quickly, you can rapidly
 generate a large data set in your family or school. Are there differences
 between athletes and people with normal or low levels of fitness? Are there
-differences in age, differences between male and female students, etc. [Happy
-Statistics!](https://backyardbrains.com/experiments/p-value)
+differences in age, differences between male and female students, etc. [Happy Statistics!](https://backyardbrains.com/experiments/p-value)
 
 We previously studied the effect of exercise of heart rate. Why would or would
 not this stress response caused by ice increase the heart rate through

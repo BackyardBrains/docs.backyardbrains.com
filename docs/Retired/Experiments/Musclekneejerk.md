@@ -24,8 +24,8 @@ move without their control! (again)
 
 ##### Equipment
 
-* [Muscle SpikerBox Pro](/https://backyardbrains.com/products/musclespikerboxpro)
-* [Reflex Hammer](/https://backyardbrains.com/products/reflexhamer)
+* [Muscle SpikerBox Pro](https://backyardbrains.com/products/musclespikerboxpro)
+* [Reflex Hammer](https://backyardbrains.com/products/reflexhamer)
 
 ## Background
 

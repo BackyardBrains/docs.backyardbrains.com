@@ -28,9 +28,9 @@ from scratch using two transistors and some various resistors/capacitors.
 
 ##### Equipment
 
-* [Stimulation Cable](/https://backyardbrains.com/products/stimulationcable)
-* [Cockroaches](/https://backyardbrains.com/products/cockroaches)
-* [Electrode](/https://backyardbrains.com/products/recordingelectrode)
+* [Stimulation Cable](https://backyardbrains.com/products/stimulationcable)
+* [Cockroaches](https://backyardbrains.com/products/cockroaches)
+* [Electrode](https://backyardbrains.com/products/recordingelectrode)
 
 
 ## Procedure
@@ -136,11 +136,11 @@ Rc/Re.
 We have already set Rc = 4.7 kΩ, and Re is already built into transistor. Its
 Re is called the transresistance, which is calculated as_
 
-[ ![](./img/transresistance_1.jpg)](img/transresistance_1.jpg.jpg)
+[ ![](./img/transresistance_1.jpg)](./img/transresistance_1.jpg)
 
 Ie is approximately the same as Ic, so the transresistance is thus 26 Ω.
 
-[ ![](./img/transresistance_2.jpg)](img/transresistance_2.jpg)
+[ ![](./img/transresistance_2.jpg)](./img/transresistance_2.jpg)
 
 We can calculate the gain as thus_
 
@@ -245,9 +245,9 @@ create a "second stage" of amplification, much like we do with our normal
 SpikerBox, where you have output of the circuit go into the input of another
 copy of the circuit, as below_
 
-[ ![](./img/2StageAmp.jpg)](img/2StageAmp.jpg.)
+[ ![](./img/2StageAmp.jpg)](./img/2StageAmp.jpg.)
 
-[ ![](./img/2StageSmall.jpg)](img/2StageSmall.jpg)
+[ ![](./img/2StageSmall.jpg)](./img/2StageSmall.jpg)
 
 However, you will find this "doubling up" makes the circuit slightly unstable,
 so let's drop the gain a bit on the second stage. We've added a 50 Ω resistor

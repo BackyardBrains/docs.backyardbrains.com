@@ -24,7 +24,7 @@ constantly change their response properties.
 
 ##### Equipment
 
-[The Completo](/https://backyardbrains.com/products/Completo)
+[The Completo](https://backyardbrains.com/products/Completo)
 
 * * *
 

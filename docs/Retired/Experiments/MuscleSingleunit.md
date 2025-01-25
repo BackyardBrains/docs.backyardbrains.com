@@ -25,7 +25,7 @@ patient and creative enough to complete the hunt.
 
 ##### Equipment
 
-* [Muscle SpikerBox Bundle](/https://backyardbrains.com/products/muscleSpikerboxBundle)
+* [Muscle SpikerBox Bundle](https://backyardbrains.com/products/muscleSpikerboxBundle)
 
 ## Background
 

@@ -24,15 +24,15 @@ combining neuroscience, engineering, robotics, and physics.
 
 ##### Equipment
 
-* [SpikerBox](/https://backyardbrains.com/products/spikerbox)
+* [SpikerBox](https://backyardbrains.com/products/spikerbox)
 
-* [2 Patch Cables](/https://backyardbrains.com/products/laptopcable)
+* [2 Patch Cables](https://backyardbrains.com/products/laptopcable)
 
-* [Stimulation Cable](/https://backyardbrains.com/products/stimulationcable)
+* [Stimulation Cable](https://backyardbrains.com/products/stimulationcable)
 
-* [Extra Electrode](/https://backyardbrains.com/products/recordingelectrode)
+* [Extra Electrode](https://backyardbrains.com/products/recordingelectrode)
 
-* [Cockroach](/https://backyardbrains.com/products/cockroaches)
+* [Cockroach](https://backyardbrains.com/products/cockroaches)
 
 ## Background
 

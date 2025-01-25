@@ -26,7 +26,7 @@ frequency spectrograms and how record the wing beats of the mosquito.
 
 ##### Equipment
 
-* [BYB Micromanipulators](/https://backyardbrains.com/products/micromanipulator)
+* [BYB Micromanipulators](https://backyardbrains.com/products/micromanipulator)
 
 
 ## Background

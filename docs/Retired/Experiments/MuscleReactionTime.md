@@ -29,8 +29,8 @@ combination!
 
 ##### Equipment
 
-* [Muscle SpikerBox Pro](/https://backyardbrains.com/products/muscleSpikerBoxPro)
-* [Reaction Timer](/https://backyardbrains.com/products/reactiontimer)
+* [Muscle SpikerBox Pro](https://backyardbrains.com/products/muscleSpikerBoxPro)
+* [Reaction Timer](https://backyardbrains.com/products/reactiontimer)
 * Mac / PC
 * Android Smartphone / Tablet
 

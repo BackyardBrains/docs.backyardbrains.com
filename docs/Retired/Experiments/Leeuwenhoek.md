@@ -29,7 +29,7 @@ magnifying lens, but a ball of diamond does not.
 
 ##### Equipment
 
-* [Leeuwenhoek Replica Kit](/https://backyardbrains.com/products/LeeuwenScope)
+* [Leeuwenhoek Replica Kit](https://backyardbrains.com/products/LeeuwenScope)
 * [Onion](https://en.wikipedia.org/wiki/Onion)
 
 ## Background

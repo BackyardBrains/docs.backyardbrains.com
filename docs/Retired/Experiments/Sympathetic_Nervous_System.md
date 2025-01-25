@@ -28,7 +28,7 @@ which we will measure with our Heart and Brain SpikerShield.
 
 ##### Equipment
 
-* [Heart and Brain SpikerShield Bundle](/https://backyardbrains.com/products/heartAndBrainSpikerShieldBundle)
+* [Heart and Brain SpikerShield Bundle](https://backyardbrains.com/products/heartAndBrainSpikerShieldBundle)
 * [Ice Water](https://en.wikipedia.org/wiki/Cold_pressor_test)
 
 ## Background

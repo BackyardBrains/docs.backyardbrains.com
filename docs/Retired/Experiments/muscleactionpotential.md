@@ -29,9 +29,9 @@ hand. Can you find other small muscles to record from?
 
 ##### Equipment
 
-* [Muscle SpikerBox](/https://backyardbrains.com/products/emgspikerbox)
-* [Cable_ Laptop](/https://backyardbrains.com/products/laptopcable) 
-* [Phone](/https://backyardbrains.com/products/smartphonecable)
+* [Muscle SpikerBox](https://backyardbrains.com/products/emgspikerbox)
+* [Cable_ Laptop](https://backyardbrains.com/products/laptopcable) 
+* [Phone](https://backyardbrains.com/products/smartphonecable)
 
 ## Background
 

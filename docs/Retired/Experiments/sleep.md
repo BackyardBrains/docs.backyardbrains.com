@@ -30,7 +30,7 @@ take a nap!
 
 ##### Equipment
 
-* [Heart & Brain SpikerBox](/https://backyardbrains.com/products/heartAndBrainSpikerBox)
+* [Heart & Brain SpikerBox](https://backyardbrains.com/products/heartAndBrainSpikerBox)
 
 ## Background
 

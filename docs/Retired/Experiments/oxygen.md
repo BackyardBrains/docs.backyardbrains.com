@@ -24,8 +24,8 @@ You should become familiar with how to use your SpikerBox.
 
 ##### Equipment
 
-* [SpikerBox](/https://backyardbrains.com/products/spikerbox)
-* [Extra Electrode](/https://backyardbrains.com/products/recordingelectrode)
+* [SpikerBox](https://backyardbrains.com/products/spikerbox)
+* [Extra Electrode](https://backyardbrains.com/products/recordingelectrode)
 
 ## Background
 

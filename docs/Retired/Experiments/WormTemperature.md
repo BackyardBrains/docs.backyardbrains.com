@@ -21,14 +21,14 @@ different temperature conditions
 
 ##### Prerequisite Labs
 
-  * [Introduction to Conduction Velocity](speed) \- We recommend completing this experiment first, as it will teach you how to set up earthworm experiments and use your 2-Channel SpikerBox with Audacity.
+  * [Introduction to Conduction Velocity](./speed) \- We recommend completing this experiment first, as it will teach you how to set up earthworm experiments and use your 2-Channel SpikerBox with Audacity.
   * [Comparing Speed of Two Nerves](comparingNerveSpeed) \- This experiment will help to explain how to record from both the Lateral and Medial Giant Nerves of the earthworm.
 
 ##### Equipment
 
-* [2-Channel SpikerBox](/https://backyardbrains.com/products/twochannelspikerbox)
-* [Faraday Cage](/https://backyardbrains.com/products/faradaycage)
-* [Laptop Cable](/https://backyardbrains.com/products/laptopcable)
+* [2-Channel SpikerBox](https://backyardbrains.com/products/twochannelspikerbox)
+* [Faraday Cage](https://backyardbrains.com/products/faradaycage)
+* [Laptop Cable](https://backyardbrains.com/products/laptopcable)
 * [USB 2-Channel Adaptor](https://www.amazon.com/Griffin-Technology-iMic-Audio-Device/dp/B000BVV2IC)
 
 ## Background

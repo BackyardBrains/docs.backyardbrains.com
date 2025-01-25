@@ -30,10 +30,10 @@ your very own faraday cage and enlist in the battle against noisy data!
 
 ##### Equipment
 
-* [SpikerBox](/https://backyardbrains.com/products/spikerbox)
-* [Faraday Cage](/https://backyardbrains.com/products/faradaycage)
-* [Cable_ Laptop](/https://backyardbrains.com/products/laptopcable)
-* [Phone](/https://backyardbrains.com/products/smartphonecable)
+* [SpikerBox](https://backyardbrains.com/products/spikerbox)
+* [Faraday Cage](https://backyardbrains.com/products/faradaycage)
+* [Cable_ Laptop](https://backyardbrains.com/products/laptopcable)
+* [Phone](https://backyardbrains.com/products/smartphonecable)
 
 
 ## Background

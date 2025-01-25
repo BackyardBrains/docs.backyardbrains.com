@@ -10,9 +10,9 @@ We will learn about your involuntary nervous system and manipulate it! Welcome
 to the autonomic nervous system, its division into the sympathetic and
 parasympathetic systems, and how it controls heart rate.
 
-Time  30 minutes
+**Time:**  30 minutes
 
-Difficulty  Beginner
+**Difficulty:**   Beginner
 
 #### What will you learn?
 
@@ -109,7 +109,7 @@ Now let's see it for ourselves!
 > Software](https://backyardbrains.com/products/spikerecorder)
 >
 > [Class
-> Handout](https://backyardbrains.com/experiments/files/Heart_Rate_HandOut.pdf)
+> Handout](https://backyardbrains.com./files/Heart_Rate_HandOut.pdf)
 
 ## Video
 

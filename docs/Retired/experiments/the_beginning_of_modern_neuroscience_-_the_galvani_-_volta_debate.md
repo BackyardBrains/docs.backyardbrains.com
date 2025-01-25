@@ -13,9 +13,9 @@ and muscles of a cockroach leg could be electrically excited by the output of
 an mp3 player. But let's go further back. Way back. To 1780. To Northern
 Italy.
 
-Time  30 minutes
+**Time:**  30 minutes
 
-Difficulty  Beginner
+**Difficulty:**   Beginner
 
 #### What will you learn?
 

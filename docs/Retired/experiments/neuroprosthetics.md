@@ -9,9 +9,9 @@ slug: /retired/experiments/neuroprosthetics
 Ever wondered if you could connect the neural output of one cockroach leg into
 another leg? Neural Engineering 101 now in session.
 
-Time  45 Minutes
+**Time:**  45 Minutes
 
-Difficulty  Intermediate
+**Difficulty:**   Intermediate
 
 #### What will you learn?
 

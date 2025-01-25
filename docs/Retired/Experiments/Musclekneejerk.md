@@ -67,8 +67,7 @@ slower than the 15-30 seconds of reflex.
 Now let's try to measure this reflex! And perhaps let's measure a reaction
 too!
 
-> Before you begin, make sure you have the [Backyard Brains Spike
-> Recorder](https://backyardbrains.com/products/spikerecorder) installed on
+> Before you begin, make sure you have the [Backyard Brains Spike Recorder](https://backyardbrains.com/products/spikerecorder) installed on
 > your computer/smartphone/tablet. The Backyard Brains Spike Recorder program
 > allows you to visualize and save the data on your computer when doing
 > experiments. We have also built a simple lab handout to help you tabulate
@@ -76,18 +75,14 @@ too!
 >
 > ### Updated Firmware
 >
-> If you purchased your [Muscle SpikerBox Pro](products/MuscleSpikerBoxPro)
-> before Feb 2019, you will need to follow the [Firmware Update
-> Instructions](https://backyardbrains.com/products/files/UpdateMuscleSpikerBoxProFirmware.pdf)
+> If you purchased your [Muscle SpikerBox Pro](https://backyardbrains.com/MuscleSpikerBoxPro)
+> before Feb 2019, you will need to follow the [Firmware Update Instructions](https://backyardbrains.com/products/files/UpdateMuscleSpikerBoxProFirmware.pdf)
 >
-> [Spike Recorder Computer
-> Software](https://backyardbrains.com/products/spikerecorder)
+> [Spike Recorder Computer Software](https://backyardbrains.com/products/spikerecorder)
 >
-> [Class
-> Handout](./files/Knee_Jerk_Handout.pdf)
+> [Class Handout](./files/Knee_Jerk_Handout.pdf)
 >
-> [Firmware Update
-> Instructions](https://backyardbrains.com/products/files/UpdateMuscleSpikerBoxProFirmware.pdf)
+> [Firmware Update Instructions](https://backyardbrains.com/products/files/UpdateMuscleSpikerBoxProFirmware.pdf)
 
 ## Video
 

@@ -6,9 +6,9 @@ slug: /retired/experiments/advanced_plant_electrophysiology__control_the_behavio
 
 # Experiment: Advanced Plant Electrophysiology: Control the Behavior of One Plant with Another's
 
-Time  1 hour
+**Time:**  1 hour
 
-Difficulty  Intermediate
+**Difficulty:**   Intermediate
 
 #### What will you learn?
 

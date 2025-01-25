@@ -15,9 +15,9 @@ anyone to play games with muscle contractions and eye blinks! For some, this
 is a powerful accessiblity option, for others, it is a novel and exciting way
 to play your favorite games.
 
-Time  0.5 hours
+**Time:**  0.5 hours
 
-Difficulty  Beginner
+**Difficulty:**   Beginner
 
 #### What will you learn?
 

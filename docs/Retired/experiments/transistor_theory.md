@@ -10,9 +10,9 @@ Ahh yes, the transistor. We all owe you so much. The transistor is the reason
 why your cell phone fits inside your pocket and why your SpikerBox can measure
 spikes from neurons.
 
-Time  45 Minutes
+**Time:**  45 Minutes
 
-Difficulty  Advanced
+**Difficulty:**   Advanced
 
 #### What will you learn?
 

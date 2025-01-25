@@ -89,7 +89,7 @@ If you like who is controlling you, the feeling can be quite nice.
 >
 > [Arduino Software](http://arduino.cc/en/main/software#.Uxd6XYWhZMk)
 >
-> Download our Arduino(.ino) Human-Human-Interface Sketch. Check out the comments for some insight into how it works! (You can also use this code for [the Claw Experiment!)](./muscleSpikerShield_GripperHand.md)
+> Download our Arduino(.ino) Human-Human-Interface Sketch. Check out the comments for some insight into how it works! (You can also use this code for [the Claw Experiment!)](./MuscleSpikerShield_GripperHand.md) 
 >
 > [Human-Human-Interface and Claw](./files/HHIClawCombined.zip)
 

@@ -25,9 +25,8 @@ record the electromyograms of its lateral muscles.
 
 ##### Equipment
 
-[Muscle SpikerBox](https://backyardbrains.com/products/muscleSpikerboxBundle)
+*[Muscle SpikerBox](https://backyardbrains.com/products/muscleSpikerboxBundle)
 
-* * *
 
 ## Background
 

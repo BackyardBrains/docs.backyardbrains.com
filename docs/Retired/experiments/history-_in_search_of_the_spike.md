@@ -25,9 +25,7 @@ none
 
 ##### Equipment
 
-[A mind willing to learn](https://en.wikipedia.org/wiki/Humanity)
-
-* * *
+* [A mind willing to learn](https://en.wikipedia.org/wiki/Humanity)
 
 ## Background
 

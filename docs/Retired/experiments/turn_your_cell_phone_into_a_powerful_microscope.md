@@ -24,14 +24,10 @@ magnification using two biology preps!
 
 ##### Equipment
 
-[RoachScope](/products/RoachScope)
-
-[Glass Slides](https://www.amazon.com/Blank-Microscope-Slides-Square-Cover/dp/B002OS6D9I)
-
-[Slide Covers](https://www.amazon.com/Blank-Microscope-Slides-Square-Cover/dp/B002OS6D9I)
-
-[Toothpick](https://www.amazon.com/Farberware-5080422-Classic-Toothpicks-300-Count/dp/B005D6G7U8/ref=sr_1_6?ie=UTF8&qid=1397592626&sr=8-6&keywords=toothpick)
-
+* [RoachScope](/https://backyardbrains.com/products/RoachScope)
+* [Glass Slides](https://www.amazon.com/Blank-Microscope-Slides-Square-Cover/dp/B002OS6D9I)
+* [Slide Covers](https://www.amazon.com/Blank-Microscope-Slides-Square-Cover/dp/B002OS6D9I)
+* [Toothpick](https://www.amazon.com/Farberware-5080422-Classic-Toothpicks-300-Count/dp/B005D6G7U8/ref=sr_1_6?ie=UTF8&qid=1397592626&sr=8-6&keywords=toothpick)
 
 ## Background
 

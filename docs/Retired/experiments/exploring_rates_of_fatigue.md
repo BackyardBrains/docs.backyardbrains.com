@@ -26,9 +26,7 @@ make a mathematical model of fatigue.
 
 ##### Equipment
 
-Muscle SpikerBox
-
-* * *
+* [Muscle SpikerBox](/https://backyardbrains.com/products/muscleSpikerboxBundle)
 
 ## Background
 

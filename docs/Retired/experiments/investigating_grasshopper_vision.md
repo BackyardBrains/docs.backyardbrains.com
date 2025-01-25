@@ -28,13 +28,10 @@ stimuli.
 
 ##### Equipment
 
-[Neuron SpikerBox Bundle](https://backyardbrains.com/products/SpikerBoxBundle)
+* [Neuron SpikerBox Bundle](https://backyardbrains.com/products/SpikerBoxBundle)
+* [Manipulator](https://backyardbrains.com/products/micromanipulator)
+* [RoachScope](https://backyardbrains.com/products/RoachScope)
 
-[Manipulator](https://backyardbrains.com/products/micromanipulator)
-
-[RoachScope](https://backyardbrains.com/products/RoachScope)
-
-* * *
 
 ## Background
 

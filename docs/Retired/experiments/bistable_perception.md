@@ -27,13 +27,9 @@ none
 
 ##### Equipment
 
-[Arduino Proto Kit](https://www.sparkfun.com/products/7914)
-
-[Arduino Uno](https://www.sparkfun.com/products/11224)
-
-[An enclosure, knobs, and some audio cables](https://www.radioshack.com)
-
-* * *
+* [Arduino Proto Kit](https://www.sparkfun.com/products/7914)
+* [Arduino Uno](https://www.sparkfun.com/products/11224)
+* [An enclosure, knobs, and some audio cables](https://www.radioshack.com)
 
 ## Background
 

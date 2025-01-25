@@ -25,9 +25,7 @@ sensitivity varies over certain areas of your body.
 
 ##### Equipment
 
-[Results of Skin Experiment](skin)
-
-* * *
+* [Results of Skin Experiment](skin)
 
 ## Background
 
@@ -82,7 +80,7 @@ according to your nervous system.
 
 #### Experiment Steps:
 
-  1. Go to [this website](http://www.maxplanckflorida.org/fitzpatricklab/homunculus/) and choose a model that looks most like you or you like best_ 
+  1. Go to [this website](http://www.maxplanckflorida.org/fitzpatricklab/homunculus/) and choose a model that looks most like you or you like best: 
 
 ![Homunculus Choose Person](./img/HomunculusPeople.jpg)
 

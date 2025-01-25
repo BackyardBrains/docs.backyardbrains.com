@@ -27,10 +27,8 @@ of multiple muscles and use that information to generate multiple outputs
 
 ##### Equipment
 
-[ Muscle SpikerShieldPro](https://backyardbrains.com/products/MuscleSpikerShieldPro) 
-[Music-Interface Cable](https://backyardbrains.com/products/musicinterfacecable)
-
-* * *
+* [ Muscle SpikerShieldPro](https://backyardbrains.com/products/MuscleSpikerShieldPro) 
+* [Music-Interface Cable](https://backyardbrains.com/products/musicinterfacecable)
 
 ## Background
 

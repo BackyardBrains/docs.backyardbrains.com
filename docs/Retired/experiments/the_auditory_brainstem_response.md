@@ -25,13 +25,9 @@ electrical responses from your own ear, brainstem, and cerebral cortex.
 
 ##### Equipment
 
-[Muscle SpikerBox Pro](https://backyardbrains.com/products/musclespikerboxpro)
-
-[EEG headband](https://backyardbrains.com/products/EEGheadband)
-
-[electrode gel](https://backyardbrains.com/products/emgelectrodegel)
-
-* * *
+* [Muscle SpikerBox Pro](https://backyardbrains.com/products/musclespikerboxpro)
+* [EEG headband](https://backyardbrains.com/products/EEGheadband)
+* [electrode gel](https://backyardbrains.com/products/emgelectrodegel)
 
 ## Background
 

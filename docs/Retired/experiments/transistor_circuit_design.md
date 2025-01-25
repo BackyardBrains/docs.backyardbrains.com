@@ -17,8 +17,7 @@ Difficulty  Advanced
 
 #### What will you learn?
 
-In the [previous Transistor lesson
-plan](https://www.backyardbrains.com/experiments/transistorTheory), you learned
+In the [previous Transistor lesson](https://www.backyardbrains.com/experiments/transistorTheory), you learned
 the theory. Now you will apply it and build your own simple amplifier circuit
 from scratch using two transistors and some various resistors/capacitors.
 
@@ -29,13 +28,10 @@ from scratch using two transistors and some various resistors/capacitors.
 
 ##### Equipment
 
-[Stimulation Cable](/products/stimulationcable)
+* [Stimulation Cable](/https://backyardbrains.com/products/stimulationcable)
+* [Cockroaches](/https://backyardbrains.com/products/cockroaches)
+* [Electrode](/https://backyardbrains.com/products/recordingelectrode)
 
-[Cockroaches](/products/cockroaches)
-
-[Electrode](/products/recordingelectrode)
-
-* * *
 
 ## Procedure
 

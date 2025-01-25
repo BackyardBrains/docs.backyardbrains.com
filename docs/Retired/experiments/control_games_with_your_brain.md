@@ -32,11 +32,8 @@ signals from your nervous system.
 
 ##### Equipment
 
-[Muscle SpikerBox Pro](https://backyardbrains.com/products/MuscleSpikerBoxPro)
-
-[Game Controller](https://backyardbrains.com/products/GameController)
-
-* * *
+* [Muscle SpikerBox Pro](https://backyardbrains.com/products/MuscleSpikerBoxPro)
+* [Game Controller](https://backyardbrains.com/products/GameController)
 
 ## Background
 

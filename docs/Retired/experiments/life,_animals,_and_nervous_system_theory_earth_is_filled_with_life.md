@@ -25,9 +25,7 @@ types of nervous systems therein.
 
 ##### Equipment
 
-[Your Brain](https://en.wikipedia.org/wiki/Brain)
-
-* * *
+* [Your Brain](https://en.wikipedia.org/wiki/Brain)
 
 ## Background
 

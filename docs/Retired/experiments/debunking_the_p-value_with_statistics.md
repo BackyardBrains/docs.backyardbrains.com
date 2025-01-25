@@ -35,7 +35,7 @@ our data set for left and right hand reaction times.
 
 ##### Equipment
 
-* * *
+* None
 
 ## Background
 

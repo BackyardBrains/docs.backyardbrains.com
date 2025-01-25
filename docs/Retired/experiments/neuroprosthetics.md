@@ -24,17 +24,15 @@ combining neuroscience, engineering, robotics, and physics.
 
 ##### Equipment
 
-[SpikerBox](/products/spikerbox)
+* [SpikerBox](/https://backyardbrains.com/products/spikerbox)
 
-[2 Patch Cables](/products/laptopcable)
+* [2 Patch Cables](/https://backyardbrains.com/products/laptopcable)
 
-[Stimulation Cable](/products/stimulationcable)
+* [Stimulation Cable](/https://backyardbrains.com/products/stimulationcable)
 
-[Extra Electrode](/products/recordingelectrode)
+* [Extra Electrode](/https://backyardbrains.com/products/recordingelectrode)
 
-[Cockroach](/products/cockroaches)
-
-* * *
+* [Cockroach](/https://backyardbrains.com/products/cockroaches)
 
 ## Background
 
@@ -100,14 +98,11 @@ Now_
   6. Turn on one of the amplifier/speakers to hear the spikes, and then turn on the second amplifier (the "stimulating" amplifier). The stimulating leg will move briefly due to capacitative discharge when the amplifier is turned on. Slowly turn up the volume on the stimulating amplifier until the leg starts twitching. Then, turn the volume down below this point. You are bringing the leg just "below threshold" when you do this. 
   7. Now, begin brushing the leg that is hooked up to the SpikerBox. What do you see? Do you notice any different effects on the stimulated leg based on different spike rates? 
 
-We thank the high school students of [Clarkston Math, Science, and Technology
-Academy](https://www.clarkston.k12.mi.us/education/components/scrapbook/default.php?sectionid=1119)
+We thank the high school students of [Clarkston Math, Science, and Technology Academy](https://www.clarkston.k12.mi.us/education/components/scrapbook/default.php?sectionid=1119)
 for suggesting we design an experiment demonstrating neuroprosthetics. We'd
 also love to say we were the first to pull off this preparation, but quite
-serendipitously and unknown to us, our friends [Mohsen
-Omrani](https://www.queensu.ca/sgs/forstudents/stories/students-
-perspective/momrani.html) and [Ethan
-Heming](https://limb.biomed.queensu.ca/lab_members/lab_members.htm) at Queens
+serendipitously and unknown to us, our friends [Mohsen Omrani](https://www.queensu.ca/sgs/forstudents/stories/students-perspective/momrani.html) and [Ethan Heming](https://limb.biomed.queensu.ca/lab_members/lab_members.htm) at Queens
+perspective/momrani.html) and [Ethan Heming](https://limb.biomed.queensu.ca/lab_members/lab_members.htm) at Queens
 University in Kinston, Ontario first successfully demo'd the preparation a
 full three hours before we tried it out, on the same day [May 25th, 2011]!
 
@@ -117,8 +112,7 @@ full three hours before we tried it out, on the same day [May 25th, 2011]!
 
 Instead of using the cockroach leg as the input signal to drive another
 cockroach leg, you can try a human electromyogram (EMG) as the input signal,
-using our [EMG
-SpikerBox](https://backyardbrains.com/products/emgspikerboxkit). In this
+using our [EMG SpikerBox](https://backyardbrains.com/products/emgspikerboxkit). In this
 setup, the EMG SpikerBox has enough voltage to directly connect to the
 cockroach leg -- you do not need to secondary RadioShack amp (as above).
 Simply plug the stimulation cable into the EMG SpikerBox, and you are ready to

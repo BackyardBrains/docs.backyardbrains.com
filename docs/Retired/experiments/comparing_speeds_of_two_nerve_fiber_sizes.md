@@ -29,11 +29,8 @@ axons.
 
 ##### Equipment
 
-[Neuron SpikerBox Pro](/products/neuronspikerboxpro)
-
-[Faraday Cage (Included with Pro)](/products/faradaycage)
-
-* * *
+* [Neuron SpikerBox Pro](/https://backyardbrains.com/products/neuronspikerboxpro)
+* [Faraday Cage (Included with Pro)](/https://backyardbrains.com/products/faradaycage)
 
 ## Background
 

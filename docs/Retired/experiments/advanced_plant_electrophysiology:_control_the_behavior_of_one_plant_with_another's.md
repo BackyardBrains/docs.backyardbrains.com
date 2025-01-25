@@ -20,13 +20,10 @@ In this experiment, featured on the [TED Main Stage](https://www.ted.com/talks g
 
 ##### Equipment
 
-[Plant SpikerBox](/products/plantspikerbox)
+* [Plant SpikerBox](/https://backyardbrains.com/products/plantspikerbox)
+* Sensitive Mimosa Plant
+* Venus Flytrap Plant
 
-Sensitive Mimosa Plant
-
-Venus Flytrap Plant
-
-* * *
 
 ## Background
 

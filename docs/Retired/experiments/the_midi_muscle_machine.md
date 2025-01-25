@@ -24,13 +24,12 @@ synthesizer through a MIDI interface. Music will never look back.
 ##### Prerequisite Labs
 
   * [ Music with Muscles ](music) \- This previous experiment introduces you to basic music theory and control with our simpler one-channel device. 
-  *   *   * [ Muscle SpikerShield Pro ](SpikerShieldPro) \- This experiment introduces you to our more advanced multichannel device and how to generate musical sequences. 
+  * [ Muscle SpikerShield Pro ](SpikerShieldPro) \- This experiment introduces you to our more advanced multichannel device and how to generate musical sequences. 
 
 ##### Equipment
 
-[ Muscle SpikerShield Pro](https://backyardbrains.com/products/MuscleSpikerShieldPro)
+* [ Muscle SpikerShield Pro](https://backyardbrains.com/products/MuscleSpikerShieldPro)
 
-* * *
 
 ## Background
 

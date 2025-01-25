@@ -28,12 +28,10 @@ rapidly through cells, plant morphology, and the ion channels used by plants.
 
 ##### Equipment
 
-[Plant SpikerBox](/products/plantspikerbox)
+* [Plant SpikerBox](/https://backyardbrains.com/products/plantspikerbox)
 
-[Mimosa Seeds](https://www.amazon.com/Package-Sensitive-Compact-Seed-
-Needs/dp/B00323LXCG/ref=sr_1_1?ie=UTF8&qid=1449965936&sr=8-1&keywords=Mimosa+seeds)
+*[Mimosa Seeds](https://www.amazon.com/Package-Sensitive-Compact-Seed-Needs/dp/B00323LXCG/ref=sr_1_1?ie=UTF8&qid=1449965936&sr=8-1&keywords=Mimosa+seeds)
 
-* * *
 
 ## Background
 

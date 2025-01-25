@@ -23,11 +23,8 @@ and notes by reading your muscle's action potentials.
 
 ##### Equipment
 
-[Muscle SpikerShield Bundle](https://backyardbrains.com/products/muscleSpikershieldBundle)
-
-[Music-Interface Cable](https://backyardbrains.com/products/musicinterfacecable)
-
-* * *
+* [Muscle SpikerShield Bundle](https://backyardbrains.com/products/muscleSpikershieldBundle)
+* [Music-Interface Cable](https://backyardbrains.com/products/musicinterfacecable)
 
 ## Background
 

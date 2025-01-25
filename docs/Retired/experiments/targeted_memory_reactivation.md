@@ -30,14 +30,10 @@ None
 
 ##### Equipment
 
-[Heart and Brain
-SpikerBox](https://backyardbrains.com/products/heartAndBrainSpikerBox)
+* [Heart and Brain SpikerBox](https://backyardbrains.com/products/heartAndBrainSpikerBox)
+* Laptop
+* [SpikeRecorder](https://backyardbrains.com/products/spikerecorder)
 
-Laptop
-
-[SpikeRecorder](https://backyardbrains.com/products/spikerecorder)
-
-* * *
 
 ## Background
 

@@ -26,13 +26,9 @@ your body has and maybe a few you did not know you had.
 
 ##### Equipment
 
-Calipers
-
-Paper
-
-Pen or Pencil
-
-* * *
+* [Calipers](https://backyardbrains.com/products/calipers)
+* [Paper](https://backyardbrains.com/products/paper)
+* [Pen or Pencil](https://backyardbrains.com/products/pen)
 
 ## Background
 

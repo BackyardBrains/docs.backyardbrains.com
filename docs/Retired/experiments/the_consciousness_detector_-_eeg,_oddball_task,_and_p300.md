@@ -29,9 +29,7 @@ cognitively-based signal than the visual cortex alpha rhythm.
 
 ##### Equipment
 
-[Heart & Brain SpikerShield Bundle](/products/heartAndBrainSpikerShieldBundle)
-
-* * *
+* [Heart & Brain SpikerShield Bundle](/https://backyardbrains.com/products/heartAndBrainSpikerShieldBundle)
 
 ## Background
 

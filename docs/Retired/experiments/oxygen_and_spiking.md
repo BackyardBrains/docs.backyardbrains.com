@@ -27,11 +27,9 @@ deprivation on a cockroach leg's neurons.
 
 ##### Equipment
 
-[SpikerBox](/products/spikerbox)
+* [SpikerBox](/https://backyardbrains.com/products/spikerbox)
 
-[Extra Electrode](/products/recordingelectrode)
-
-* * *
+* [Extra Electrode](/https://backyardbrains.com/products/recordingelectrode)
 
 ## Background
 

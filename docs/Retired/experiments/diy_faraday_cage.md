@@ -30,13 +30,11 @@ your very own faraday cage and enlist in the battle against noisy data!
 
 ##### Equipment
 
-[SpikerBox](/products/spikerbox)
+* [SpikerBox](/https://backyardbrains.com/products/spikerbox)
+* [Faraday Cage](/https://backyardbrains.com/products/faradaycage)
+* [Cable_ Laptop](/https://backyardbrains.com/products/laptopcable)
+* [Phone](/https://backyardbrains.com/products/smartphonecable)
 
-[Faraday Cage](/products/faradaycage)
-
-[Cable_ Laptop](/products/laptopcable) [Phone](/products/smartphonecable)
-
-* * *
 
 ## Background
 
@@ -55,8 +53,7 @@ our neural recordings, interfering with or even drowning out our recordings so
 that all we hear, in the worst cases, is a radio station! A Faraday cage then
 can be used to block many of these noise sources.
 
-[
-![](./img/Exp11Fig1_faradaycageenvironment.jpeg)](img/Exp11Fig1_faradaycageenvironment.jpeg)
+[ ![](./img/Exp11Fig1_faradaycageenvironment.jpeg)](img/Exp11Fig1_faradaycageenvironment.jpeg)
 
 The Faraday cage is named after 1800s scientist Michael Faraday, but to learn
 how the cage works we start with another famous scientist, [Charles-Augustin
@@ -118,8 +115,7 @@ use a Faraday Cage.
 
 ##### Building the Faraday Cage
 
-Note that we also sell [pre-made Faraday
-Cages](https://www.backyardbrains.com/products/faradaycage) if you do not want
+Note that we also sell [pre-made Faraday Cages](https://www.backyardbrains.com/products/faradaycage) if you do not want
 to visit the hardware store.
 
   1. Measure out an 8 x 16 inch rectangle of screen metal mesh 

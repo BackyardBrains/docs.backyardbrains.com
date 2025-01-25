@@ -29,21 +29,16 @@ combination!
 
 ##### Equipment
 
-[Muscle SpikerBox Pro](/products/muscleSpikerBoxPro)
+* [Muscle SpikerBox Pro](/https://backyardbrains.com/products/muscleSpikerBoxPro)
+* [Reaction Timer](/https://backyardbrains.com/products/reactiontimer)
+* Mac / PC
+* Android Smartphone / Tablet
 
-[Reaction Timer](/products/reactiontimer)
 
-Mac / PC
+### Updated Experiment:
 
-Android Smartphone / Tablet
-
-* * *
-
-### Updated Experiment_
-
-Note_ if your Reaction Timer looks different than what you see below, you may
-have a previous version. Check out the [legacy instructions
-here!](https://backyardbrains.com/experiments/files/Legacy_Reaction_Timer.pdf)  
+Note: if your Reaction Timer looks different than what you see below, you may
+have a previous version. Check out the [legacy instructions here!](https://backyardbrains.com/experiments/files/Legacy_Reaction_Timer.pdf)  
 
 ## Background
 

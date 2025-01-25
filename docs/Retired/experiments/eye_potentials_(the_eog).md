@@ -24,9 +24,7 @@ how to measure it.
 
 ##### Equipment
 
-[Heart & Brain SpikerBox](/products/heartAndBrainSpikerBox)
-
-* * *
+* [Heart & Brain SpikerBox](/https://backyardbrains.com/products/heartAndBrainSpikerBox)
 
 ## Background
 

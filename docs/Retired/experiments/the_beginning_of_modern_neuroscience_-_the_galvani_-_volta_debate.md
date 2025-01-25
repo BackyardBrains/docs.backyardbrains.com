@@ -32,11 +32,8 @@ manifesting.
 
 ##### Equipment
 
-[Galvani/Volta Replica Kit](/products/galvanivoltakit)
-
-[Cockroaches](/products/cockroaches)
-
-* * *
+* [Galvani/Volta Replica Kit](/https://backyardbrains.com/products/galvanivoltakit)
+* [Cockroaches](/https://backyardbrains.com/products/cockroaches)
 
 ## Background
 

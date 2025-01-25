@@ -25,13 +25,10 @@ firing patterns of neurons changes with temperature.
 
 ##### Equipment
 
-[SpikerBox](/products/spikerbox)
-
-[Cable_ Laptop](/products/laptopcable) [Phone](/products/smartphonecable)
-
-[Cockroaches](/products/cockroaches)
-
-* * *
+* [SpikerBox](/https://backyardbrains.com/products/spikerbox)
+* [Cable_ Laptop](/https://backyardbrains.com/products/laptopcable) 
+* [Phone](/https://backyardbrains.com/products/smartphonecable)
+* [Cockroaches](/https://backyardbrains.com/products/cockroaches)
 
 ## Background
 

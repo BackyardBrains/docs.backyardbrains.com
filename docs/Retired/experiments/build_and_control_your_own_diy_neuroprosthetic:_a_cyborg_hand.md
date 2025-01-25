@@ -25,18 +25,9 @@ Neuroprosthetic - a "Cyborg Hand!"
 
 ##### Equipment
 
-[The Muscle SpikerShield](/products/muscleSpikershieldBundle)
-
-and
-
-[DIY Neuroprosthetic Kit](/products/DIYHand)
-
-or
-
-[Brain Machine Interface Classroom
-Bundle](/products/brainmachineinterfaceclassroombundle)
-
-* * *
+* [The Muscle SpikerShield](/https://backyardbrains.com/products/muscleSpikershieldBundle)
+* [DIY Neuroprosthetic Kit](/https://backyardbrains.com/products/DIYHand)
+* [Brain Machine Interface Classroom Bundle](/https://backyardbrains.com/products/brainmachineinterfaceclassroombundle)
 
 ## Background
 

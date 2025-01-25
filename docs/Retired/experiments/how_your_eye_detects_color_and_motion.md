@@ -30,8 +30,6 @@ interprets motion/color.
 
 You build everything yourself from household materials.
 
-* * *
-
 ## Background
 
 Light is the key to vision. The photons emitted from a light source bounce off

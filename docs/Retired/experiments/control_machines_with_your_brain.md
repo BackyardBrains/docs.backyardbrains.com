@@ -28,10 +28,8 @@ Arduino interface!.
 
 ##### Equipment
 
-[Muscle SpikerShield
-Bundle](https://backyardbrains.com/products/muscleSpikershieldBundle)
+*[Muscle SpikerShield Bundle](https://backyardbrains.com/products/muscleSpikershieldBundle)
 
-* * *
 
 ## Background
 

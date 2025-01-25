@@ -29,12 +29,10 @@ neurons and muscle fibers to produce different amounts of force.
 
 ##### Equipment
 
-[Muscle SpikerBox Bundle](/products/muscleSpikerboxBundle)
+[Muscle SpikerBox Bundle](/https://backyardbrains.com/products/muscleSpikerboxBundle)
 
-[Foods of similar size but differing
-consistency](https://en.wikipedia.org/wiki/Food)
+*[Foods of similar size but differing consistency](https://en.wikipedia.org/wiki/Food)
 
-* * *
 
 ## Background
 

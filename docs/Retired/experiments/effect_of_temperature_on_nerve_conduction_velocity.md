@@ -26,16 +26,10 @@ different temperature conditions
 
 ##### Equipment
 
-[2-Channel SpikerBox](/products/twochannelspikerbox)
-
-[Faraday Cage](/products/faradaycage)
-
-[Laptop Cable](/products/laptopcable)
-
-[USB 2-Channel Adaptor](https://www.amazon.com/Griffin-Technology-iMic-Audio-
-Device/dp/B000BVV2IC)
-
-* * *
+* [2-Channel SpikerBox](/https://backyardbrains.com/products/twochannelspikerbox)
+* [Faraday Cage](/https://backyardbrains.com/products/faradaycage)
+* [Laptop Cable](/https://backyardbrains.com/products/laptopcable)
+* [USB 2-Channel Adaptor](https://www.amazon.com/Griffin-Technology-iMic-Audio-Device/dp/B000BVV2IC)
 
 ## Background
 

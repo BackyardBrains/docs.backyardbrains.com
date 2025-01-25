@@ -21,7 +21,7 @@ sensitivity varies over certain areas of your body.
 
 ##### Prerequisite Labs
 
-  * [Experiment: How Your Skin Senses](skin) \- You should become familiar with how to your skin senses, and how to collect the data required for this lesson.
+  * [Experiment: How Your Skin Senses](skin) - You should become familiar with how to your skin senses, and how to collect the data required for this lesson.
 
 ##### Equipment
 

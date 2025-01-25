@@ -22,7 +22,7 @@ time an impulse takes to travel along an axon.
 
 ##### Prerequisite Labs
 
-  * [Introduction to Conduction Velocity](speed) \- You will find this experiment helpful to get a general idea of conduction velocity and how it is measured. 
+  * [Introduction to Conduction Velocity](speed) - You will find this experiment helpful to get a general idea of conduction velocity and how it is measured. 
 
 ##### Equipment
 

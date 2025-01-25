@@ -22,7 +22,7 @@ make a mathematical model of fatigue.
 
 ##### Prerequisite Labs
 
-  * [EMGs during Muscle Fatigue](fatigue) \- You should read our first fatigue experiment to learn about how to use the Muscle SpikerBox and muscle physiology.
+  * [EMGs during Muscle Fatigue](fatigue) - You should read our first fatigue experiment to learn about how to use the Muscle SpikerBox and muscle physiology.
 
 ##### Equipment
 

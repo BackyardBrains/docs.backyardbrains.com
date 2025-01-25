@@ -50,7 +50,7 @@ Living Things."
 * All life systems consist of **separation** , be it cells or viruses, of an inside environment and an outside environment, typically using hydrocarbon "[micelles](https://en.wikipedia.org/wiki/Micelle)" than can spontaneously form in solutions [3]. 
 * A living system also consists of **cycles** between chemical components_ metabolic activity among proteins, amino acids, fats, sugars, etc.
 * Life begets more life, given its ability for **reproduction**.
-* Life has **behavior** \- it seeks conditions ideal for its own existence. If Life is hungry, Life eats. If Life is cold, Life seeks warmth. If Life is damaged, Life self-repairs. 
+* Life has **behavior** - it seeks conditions ideal for its own existence. If Life is hungry, Life eats. If Life is cold, Life seeks warmth. If Life is damaged, Life self-repairs. 
 
 The life we observe on Earth is typically divided into three domains_ the
 Bacteria, the Archaea, and the Eukaryota. Archaea and Bacteria are both

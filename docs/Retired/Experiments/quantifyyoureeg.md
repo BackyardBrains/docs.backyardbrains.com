@@ -22,7 +22,7 @@ EEG.
 
 ##### Prerequisite Labs
 
-  * [EEG-Record from the Human Brain](eeg) \- You should have know how to successfully record the alpha waves of the visual cortex before moving on to this data analysis project
+  * [EEG-Record from the Human Brain](eeg) - You should have know how to successfully record the alpha waves of the visual cortex before moving on to this data analysis project
 
 ##### Equipment
 

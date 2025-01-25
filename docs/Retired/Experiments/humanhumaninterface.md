@@ -16,14 +16,14 @@ you ever had the desire to take someone's free will? Now you can with our new
 
 #### What will you learn?
 
-In a continuation of our [1) Neuroprosthetics Experiment](neuroprosthetics) and
-[2) Muscle SpikerShield Experiment](emgspikershield), you will learn how to use your muscle signal to control other devices, in this
+In a continuation of our [1) Neuroprosthetics Experiment](./neuroprosthetics.md) and
+[2) Muscle SpikerShield Experiment](./muscleSpikerShield.md), you will learn how to use your muscle signal to control other devices, in this
 case, a TENS (transcutaneous electrical nerve stimulator) to excite and
 contract the muscle of another human.
 
 ##### Prerequisite Labs
 
-  * [Muscle SpikerShield](emgspikershield) \- You should become familiar with how to use your Muscle SpikerShield and an Arduino
+  * [Muscle SpikerShield](./muscleSpikerShield.md) - You should become familiar with how to use your Muscle SpikerShield and an Arduino
 
 ##### Equipment
 

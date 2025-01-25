@@ -24,8 +24,8 @@ axons.
 
 ##### Prerequisite Labs
 
-  * [Introduction to Conduction Velocity](speed) \- We recommend completing this experiment first, as it will teach you how to set up earthworm experiments and use your Neuron SpikerBox Pro.
-  * [Faraday Cage](faraday) \- Noise can sometimes be a problem when recording, and a Faraday Cage helps you eliminate it. You may need to use one for this experiment.
+  * [Introduction to Conduction Velocity](speed) - We recommend completing this experiment first, as it will teach you how to set up earthworm experiments and use your Neuron SpikerBox Pro.
+  * [Faraday Cage](faraday) - Noise can sometimes be a problem when recording, and a Faraday Cage helps you eliminate it. You may need to use one for this experiment.
 
 ##### Equipment
 

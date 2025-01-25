@@ -27,8 +27,8 @@ signals from your nervous system.
 
 ##### Prerequisite Labs
 
-  * [Experiment:Control Machines with Your Brain](https://backyardbrains.com/experiments/muscleSpikerShield) \- This will introduce you to the concept of digitizing body signals for control applications.
-  * [Experiment:Eye Potentials (EOG)](https://backyardbrains.com/experiments/EOG) \- This will introduce to the voltage changes you can measure when the eye blinks and moves.
+  * [Experiment:Control Machines with Your Brain](https://backyardbrains.com/experiments/muscleSpikerShield) - This will introduce you to the concept of digitizing body signals for control applications.
+  * [Experiment:Eye Potentials (EOG)](https://backyardbrains.com/experiments/EOG) - This will introduce to the voltage changes you can measure when the eye blinks and moves.
 
 ##### Equipment
 

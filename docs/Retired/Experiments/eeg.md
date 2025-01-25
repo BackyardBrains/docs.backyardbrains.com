@@ -24,7 +24,7 @@ glimpse the electrical activity of your brain.
 
 ##### Prerequisite Labs
 
-  * [Heart Action Potentials](heartrate) \- You should have a basic understanding of the arduino platform and how to use the Heart & Brain SpikerBox to record your heartbeat before moving on to this more challenging experiment of recording your own EEG brain rhythms.
+  * [Heart Action Potentials](heartrate) - You should have a basic understanding of the arduino platform and how to use the Heart & Brain SpikerBox to record your heartbeat before moving on to this more challenging experiment of recording your own EEG brain rhythms.
 
 ##### Equipment
 

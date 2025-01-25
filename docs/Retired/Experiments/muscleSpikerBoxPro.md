@@ -30,7 +30,7 @@ between flexor and extensor muscles.
 
 ##### Prerequisite Labs
 
-  * [Getting Started with the Muscle SpikerBox](musclespikerbox) \- You should read this experiment first to learn about electromyography (EMG) and motor units. 
+  * [Getting Started with the Muscle SpikerBox](musclespikerbox) - You should read this experiment first to learn about electromyography (EMG) and motor units. 
 
 ##### Equipment
 

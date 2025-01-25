@@ -25,7 +25,7 @@ breadboard.
 
 ##### Prerequisite Labs
 
-  * [SpikerBox](spikerbox) \- A familiarity with spikes will make this theory writeup more meaningful
+  * [SpikerBox](spikerbox) - A familiarity with spikes will make this theory writeup more meaningful
 
 ##### Equipment
 

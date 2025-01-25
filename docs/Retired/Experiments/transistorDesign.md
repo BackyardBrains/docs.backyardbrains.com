@@ -23,8 +23,8 @@ from scratch using two transistors and some various resistors/capacitors.
 
 ##### Prerequisite Labs
 
-  * [Transistor Theory](./transistorTheory) \- Read how a transistor works before proceeding
-  * [SpikerBox](spikerbox) \- A familiarity with spikes will make this activity more meaningful
+  * [Transistor Theory](./transistorTheory) - Read how a transistor works before proceeding
+  * [SpikerBox](spikerbox) - A familiarity with spikes will make this activity more meaningful
 
 ##### Equipment
 

@@ -20,8 +20,8 @@ electrical responses from your own ear, brainstem, and cerebral cortex.
 
 ##### Prerequisite Labs
 
-  * [Experiment:EEG - Recording from the human brain](https://backyardbrains.com/experiments/eeg) \- This will introduce you to the concept of recording from large neural populations (you only need to read)
-  * [Experiment:The P300 Surprise Signal](https://backyardbrains.com/experiments/p300) \- This will introduce you to concept of averaging potentials (also only need to read)
+  * [Experiment:EEG - Recording from the human brain](https://backyardbrains.com/experiments/eeg) - This will introduce you to the concept of recording from large neural populations (you only need to read)
+  * [Experiment:The P300 Surprise Signal](https://backyardbrains.com/experiments/p300) - This will introduce you to concept of averaging potentials (also only need to read)
 
 ##### Equipment
 

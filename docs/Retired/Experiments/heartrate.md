@@ -34,7 +34,7 @@ Pump, Pump, Pump. Your hearts works continuously, day in and day out, to
 supply blood and [oxygen](./oxygen)
 through your body. Did you know that, like
 [neurons](./spikerbox) and
-[muscles](./emgspikerbox), your heart
+[muscles](./musclespikerbox), your heart
 uses spikes (electrical impulses) to function as well? Our hearts are made up
 of four chambers, of which the upper two chambers are called the atria and the
 lower two are called ventricles. Regular, rhythmic electrical signals

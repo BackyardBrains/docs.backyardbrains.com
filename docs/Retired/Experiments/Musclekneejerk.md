@@ -19,8 +19,8 @@ move without their control! (again)
 
 ##### Prerequisite Labs
 
-  * [Record Electricity from your Muscles](musclespikerbox) \- You should read this experiment first to learn about electromyography and motor units.
-  * [Reaction Time](reactiontime) \- This experiment also explains the difference between reactions and reflexes.
+  * [Record Electricity from your Muscles](musclespikerbox) - You should read this experiment first to learn about electromyography and motor units.
+  * [Reaction Time](reactiontime) - This experiment also explains the difference between reactions and reflexes.
 
 ##### Equipment
 
@@ -137,7 +137,7 @@ diseases).
 
 **Measure Reflex time**
 
-  1. Yes! We can measure the reflex time with the Backyard Brains [Reflex Hammer](https://backyardbrains.com/products/reflexhammer) \- an expansion kit for the [Muscle SpikerBox Pro](https://backyardbrains.com/products/musclespikerboxpro). 
+  1. Yes! We can measure the reflex time with the Backyard Brains [Reflex Hammer](https://backyardbrains.com/products/reflexhammer) - an expansion kit for the [Muscle SpikerBox Pro](https://backyardbrains.com/products/musclespikerboxpro). 
 
 [ ![](./img/Hammer_Large.jpg)](./img/Hammer_Large.jpg)
 

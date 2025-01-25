@@ -24,7 +24,7 @@ stimuli.
 
 ##### Prerequisite Labs
 
-  * [SpikerBox](spikerbox) \- You should become familiar with recording neurons.
+  * [SpikerBox](spikerbox) - You should become familiar with recording neurons.
 
 ##### Equipment
 

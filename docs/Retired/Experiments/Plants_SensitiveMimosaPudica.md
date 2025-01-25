@@ -24,7 +24,7 @@ rapidly through cells, plant morphology, and the ion channels used by plants.
 
 ##### Prerequisite Labs
 
-  * [ Venus Flytrap Electrophysiology](plants) \- Our Venus Flytrap experiment is easier and serves as a good start to plant electrophysiology before moving to the more challenging Mimosa preparation.
+  * [ Venus Flytrap Electrophysiology](plants) - Our Venus Flytrap experiment is easier and serves as a good start to plant electrophysiology before moving to the more challenging Mimosa preparation.
 
 ##### Equipment
 

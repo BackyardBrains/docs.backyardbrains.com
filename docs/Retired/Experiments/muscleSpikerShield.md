@@ -24,7 +24,7 @@ Arduino interface!.
 
 ##### Prerequisite Labs
 
-  * [Muscle SpikerBox](musclespikerbox) \- You should become familiar with what an EMG signal is.
+  * [Muscle SpikerBox](musclespikerbox) - You should become familiar with what an EMG signal is.
 
 ##### Equipment
 
@@ -85,12 +85,8 @@ we're about to see... LEDs!
 
 > This experiment assumes you have a basic understanding of how to use the
 > Arduino Platform and you know how to upload code to your board. If you are
-> new to arduino, or need a refresher, check out [Getting Started with Arduino
-> on Windows](https://arduino.cc/en/guide/windows#.UyIUTYW3t4x) or [Getting
-> Started with Arduino on Mac OS X
-> ](https://arduino.cc/en/guide/macOSX#.UyIU2IW3t4w). Note_ If you bought our
-> [Muscle SpikerShield
-> Bundle](https://backyardbrains.com/products/emgspikershieldbundle), the
+> new to arduino, or need a refresher, check out [Getting Started with Arduino on Windows](https://arduino.cc/en/guide/windows#.UyIUTYW3t4x) or [Getting Started with Arduino on Mac OS X ](https://arduino.cc/en/guide/macOSX#.UyIU2IW3t4w). Note_ If you bought our
+> [Muscle SpikerShield Bundle](https://backyardbrains.com/products/emgspikershieldbundle), the
 > Human-Human-Interface and Claw Combined code is already uploaded.
 >
 > [Arduino Software](https://arduino.cc/en/main/software#.Uxd6XYWhZMk)

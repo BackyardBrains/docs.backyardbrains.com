@@ -24,7 +24,7 @@ which we will measure with our Heart and Brain SpikerShield.
 
 ##### Prerequisite Labs
 
-  * [Heart Action Potentials](heartrate) \- You should have a basic understanding of how to use the Heart & Brain SpikerShield to record your heartbeat.
+  * [Heart Action Potentials](heartrate) - You should have a basic understanding of how to use the Heart & Brain SpikerShield to record your heartbeat.
 
 ##### Equipment
 

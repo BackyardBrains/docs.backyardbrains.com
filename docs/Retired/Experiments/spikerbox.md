@@ -25,7 +25,7 @@ the principle of rate coding, and how to record spikes using a SpikerBox!
 
 ##### Prerequisite Labs
 
-  * [Caring for Cockroaches](https://backyardbrains.com/products/cockroaches) \- If you are new to insect husbandry, the bottom of our cockroach product page has tips for maintaining a healthy colony.
+  * [Caring for Cockroaches](https://backyardbrains.com/products/cockroaches) - If you are new to insect husbandry, the bottom of our cockroach product page has tips for maintaining a healthy colony.
 
 ##### Equipment
 

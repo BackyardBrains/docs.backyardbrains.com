@@ -45,7 +45,7 @@ months at a time), so, to see an effect of temperature on the worm's
 conduction velocity, you need to place the worm on a block of solid ice. To
 make this easy, we introduce our finest invention yet_
 
-[ ![](./img/WormBed.jpg)](.img/WormBed.jpg)
+[ ![](./img/WormBed.jpg)](./img/WormBed.jpg)
 
 The WormTray! You can [download the .stl
 file](./files/WormTray.stl) to 3D print this yourself or,
@@ -67,17 +67,17 @@ couple extra items_
   2. Once you are ready, prepare your worm for an experiment as [you previously have by anesthetizing it](speed#sleep) in either 10% ethanol solution or carbonated water. 
   3. Place the worm on the three wooden islands, with the red (channel 1) on the left island and the white (channel 2) and ground electrode on the right island, as indicated below_ 
 
-[ ![](./img/Worm-RoomTemp.jpg)](.img/Worm-RoomTemp.jpg)
+[ ![](./img/Worm-RoomTemp.jpg)](./img/Worm-RoomTemp.jpg)
 
   4. Record the worm's Medial Giant Nerve (MGN) conduction velocity in response to a light head tap, [as you have done before.](comparingNerveSpeed)
   5. Now, place the worm over the frozen worm tray so that its middle length is resting directly on top of the ice. Try your best to not disturb the electrode position, as you want the distance between the electrodes to be the same as your room temperature measurement. Small cut wooden Kabob sticks can help keep the worm firmly on the ice. 
 
-[ ![](./img/Worm-IceTemp.jpg)](.img/Worm-IceTemp.jpg)
+[ ![](./img/Worm-IceTemp.jpg)](./img/Worm-IceTemp.jpg)
 
   6. Wait two minutes for the worm to cool down, and take another reading of the MGN conduction velocity in response to a head tap. 
   7. Remove the worm from the ice, and place it back on the middle wooden island, and wait four minutes. To speed up the warming up of the worm (it will be very cold due to the ice), you can give a "worm hug" by placing your fingers alongside the worm. 
 
-[ ![](./img/Worm-WarmUp.jpg)](.img/Worm-WarmUp.jpg)
+[ ![](./img/Worm-WarmUp.jpg)](./img/Worm-WarmUp.jpg)
 
   8. Take another conduction velocity reading at room temperature. 
 

@@ -38,7 +38,7 @@ special proteins called ion channels. These ion channels transport sodium
 to generate the spike. Using a sophisticated microscope not invented yet, the
 neural membrane would look like this_
 
-[ ![](./img/Exp3_fig1.jpeg)](.img/Exp3_fig1.jpeg)
+[ ![](./img/Exp3_fig1.jpeg)](./img/Exp3_fig1.jpeg)
 
 The delicate dance of the sodium & potassium ion channels is what causes the
 change in electrical activity known as the "spike." Building and maintaining
@@ -46,12 +46,12 @@ these pumps requires energy (produced from the food creatures eat) and the
 right temperature. If the temperature is too low, the channels will not open,
 and electrical pulses cannot travel down the nerve.
 
-[ ![](./img/Exp_3_figure2_sodiumpump.jpeg)](.img/Exp_3_figure2_sodiumpump.jpeg)
+[ ![](./img/Exp_3_figure2_sodiumpump.jpeg)](./img/Exp_3_figure2_sodiumpump.jpeg)
 
 If the temperature is too high, the ion channels and nerve membranes come
 apart.
 
-[ ![](./img/Exp3_fig3.jpeg)](.img/Exp3_fig3.jpeg)
+[ ![](./img/Exp3_fig3.jpeg)](./img/Exp3_fig3.jpeg)
 
 ## Video
 
@@ -67,7 +67,7 @@ the cable from your laptop/smartphone/tablet stays connected to the SpikerBox
 you placed inside. Also place a digital thermometer inside the freezer, and
 wait and listen for 1-3 minutes ...
 
-[ ![](./img/Exp_3_figure4_fridge.jpeg)](.img/Exp_3_figure4_fridge.jpeg)
+[ ![](./img/Exp_3_figure4_fridge.jpeg)](./img/Exp_3_figure4_fridge.jpeg)
 
 At a certain temperature the Spikes should go away. Open the freezer and
 record the temperature from the thermometer. Once you take the SpikerBox out
@@ -91,7 +91,7 @@ Now let's try in the opposite temperature. You need
   1. a candle 
   2. a box approximately 5-6 inches taller than the candle 
 
-[ ![](./img/Exp3_temperature.jpeg)](.img/Exp3_temperature.jpeg)
+[ ![](./img/Exp3_temperature.jpeg)](./img/Exp3_temperature.jpeg)
 
 Place the SpikerBox on top of the box, and have the electrode with the
 cockroach leg attached hanging out "in space" 5 to 6 inches over the top of
@@ -104,7 +104,7 @@ neurons discharge. Record the temperature at which this happens, and exhaust
 the candle. When the leg gets back to room temperature, test to see if the
 spikes come back. Try this hot/cold experiment with a few legs.
 
-[ ![](./img/Exp.3_fig6.jpeg)](.img/Exp.3_fig6.jpeg)
+[ ![](./img/Exp.3_fig6.jpeg)](./img/Exp.3_fig6.jpeg)
 
 As you know, different insects have different tolerances to heat and cold.
 Because of environmental influences, each animal has properties unique to its

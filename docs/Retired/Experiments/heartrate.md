@@ -42,7 +42,7 @@ originate from the right atrium, your heart's pacemaker, and then throughout
 the rest of the heart, causing the heart muscles to contract and pump blood
 throughout your circulatory system.
 
-[ ![](./img/Pacemakers_of_heart.jpg)](.img/Pacemakers_of_heart.jpg)
+[ ![](./img/Pacemakers_of_heart.jpg)](./img/Pacemakers_of_heart.jpg)
 
 These electrical signals are regulated by your brain's cardiovascular center
 located in the medulla oblongata. The medulla is the last stop in your brain
@@ -55,7 +55,7 @@ associated with emotions like fear, excitement, and nervousness) your
 cardiovascular centre sends signals to your heart, changing both the rate of
 your heart's beating and the strength of contraction.
 
-[ ![](./img/Vidal_Medulla.jpg)](.img/Vidal_Medulla.jpg)
+[ ![](./img/Vidal_Medulla.jpg)](./img/Vidal_Medulla.jpg)
 
 The signal we will be recording is called an **electrocardiogram** , also
 known as an ECG or EKG, which is a measurement of the coordinated "electrical
@@ -71,7 +71,7 @@ cardiac muscle cells uses Sodium and Potassium as well, but the potassium
 channels take longer to open, causing a longer action potential.
 
 [
-![](./img/Different_Action_Potentials.jpg)](.img/Different_Action_Potentials.jpg)
+![](./img/Different_Action_Potentials.jpg)](./img/Different_Action_Potentials.jpg)
 
 The heart contains special myocardial cells called pacemaker cells (see first
 illustration above) that spontaneously generate rhythmic action potentials to
@@ -87,7 +87,7 @@ precisely coordinated for the wave to occur, and similar principles apply to
 heart contraction. Select groups of cardiac muscle cells must contract at the
 right time for effective pumping.
 
-[ ![](./img/Wave_Contraction.jpg)](.img/Wave_Contraction.jpg)
+[ ![](./img/Wave_Contraction.jpg)](./img/Wave_Contraction.jpg)
 
 We can observe the coordinated contraction of the heart muscle cells with our
 Heart and Brain SpikerBox! Normal heart contraction has a very distinctive
@@ -95,7 +95,7 @@ electrical profile, now culturally iconic due to its use in medical dramas:
 the classic P wave, QRS complex, and T wave. Seeing these depends critically
 on where you place your electrodes across your body, but let's give it a shot!
 
-[ ![](./img/QRS_schematic.jpg)](.img/QRS_schematic.jpg)
+[ ![](./img/QRS_schematic.jpg)](./img/QRS_schematic.jpg)
 
 #### Downloads
 
@@ -122,7 +122,7 @@ in it caused by our brain's cardiovascular center.
   5. Plug your orange interface cable in the orange port on your Heart and Brain SpikerBox. 
   6. Plug one end of the USB cable to the Heart and Brain SpikerBox and the other end into the computer, or conenct via the Green Smartphone cable to your mobile device. 
 
-[ ![](./img/Vitruvian_Einhoven2.jpg)](.img/Vitruvian_Einhoven2.jpg)
+[ ![](./img/Vitruvian_Einhoven2.jpg)](./img/Vitruvian_Einhoven2.jpg)
 
   7. Open the SpikeRecorder software, and connect to the USB port in the settings menu. 
   8. Wait 1-2 seconds, and you should begin to see heart muscle contraction pulses on your screen. 

@@ -43,7 +43,7 @@ and "interbeat interval" count like we do with heart activity. Analyzing EEGs
 is mathematically complex, as it is a signal with multiple frequencies
 changing over time, often with a lot of embedded noise.
 
-[ ![](./img/EEG-Confusion.jpg)](.img/EEG-Confusion.jpg)
+[ ![](./img/EEG-Confusion.jpg)](./img/EEG-Confusion.jpg)
 
 The two most common analysis techniques are 1) averaging the signal over many
 trials to see an "evoked potential," and 2) building a spectrogram to see
@@ -52,7 +52,7 @@ over many repeated stimulus presentations and get an average "evoked
 response." This is what we do in our
 [P300](https://backyardbrains.com/experiments/p300) experiment.
 
-[ ![](./img/Potentials_Math_red.jpg)](.img/Potentials_Math_red.jpg)
+[ ![](./img/Potentials_Math_red.jpg)](./img/Potentials_Math_red.jpg)
 
 In contrast, building a spectrogram decomposes a complex signal into its many
 frequency components often using a "[Fourier
@@ -61,27 +61,27 @@ that any complex signal can be broken down into distinct sine and cosine
 waves. Joseph Fourier is a hero of ours, and he derived his famous formula
 studying heat flow in metals.
 
-[ ![](./img/JosephFourier.jpg)](.img/JosephFourier.jpg)
+[ ![](./img/JosephFourier.jpg)](./img/JosephFourier.jpg)
 
-[ ![](./img/FFT_Equation.jpg)](.img/FFT_Equation.jpg)
+[ ![](./img/FFT_Equation.jpg)](./img/FFT_Equation.jpg)
 
 This Fourier Transform is what data analysis programs use to generate
 spectrograms, which show the frequency content of a signal changing over time.
 For example, below is an example of a spectrogram when one of us whistled, and
 we decreased the pitch (made it lower-sounding) as we whistled.
 
-[ ![](./img/Spectrogram_whistle.jpg)](.img/Spectrogram_whistle.jpg)
+[ ![](./img/Spectrogram_whistle.jpg)](./img/Spectrogram_whistle.jpg)
 
 Notice that the whistle frequency started at 1500 Hz and dropped to 500 Hz. We
 can similarly do this analysis in an EEG recording on our Spike Recorder
 Software. When you are doing an EEG recording, you can push the "FFT" button
 (fast Fourier transform).
 
-[ ![](./img/FFT-Button-SpikeRecorder.jpg)](.img/FFT-Button-SpikeRecorder.jpg)
+[ ![](./img/FFT-Button-SpikeRecorder.jpg)](./img/FFT-Button-SpikeRecorder.jpg)
 
 In Spike Recorder, a spectrogram will then appear below the moving EEG trace.
 
-[ ![](./img/FFT-SpikeRecorder.jpg)](.img/FFT-SpikeRecorder.jpg)
+[ ![](./img/FFT-SpikeRecorder.jpg)](./img/FFT-SpikeRecorder.jpg)
 
 This was a recording over the visual cortex, and when we closed our eyes, the
 prominent 8 Hz alpha waves appeared, which you can see in the raw trace as
@@ -91,7 +91,7 @@ over time by analyzing the spectrogram.
 For example, in a simple example, if you imagine a signal alternating between
 2 and 4 Hz, you can eventually generate the figure below.
 
-[ ![](./img/FrequencyAndTime.jpg)](.img/FrequencyAndTime.jpg)
+[ ![](./img/FrequencyAndTime.jpg)](./img/FrequencyAndTime.jpg)
 
 At the moment our Spike Recorder software does not provide any quantitative
 analysis of the EEG after you record it, thus we will generate a figure using
@@ -119,7 +119,7 @@ Now let's get our hands dirty with some code!
   2. Download the Anaconda Program and install it on your computer. 
   3. Once installed, you will open the Spyder Application, and you will see a window that looks like this. 
 
-[ ![](./img/Spyder_Window_Explain.jpg)](.img/Spyder_Window_Explain.jpg)
+[ ![](./img/Spyder_Window_Explain.jpg)](./img/Spyder_Window_Explain.jpg)
 
   4. To start you must install some packages_ 1) numpy to use the math tools, 2) matplotlib.pyplot to be able to plot, 3) scipy.io.wavfile to read and transform the .wav audio file, 4) cvs to save your data, and 5) pandas for the dataframes. For this, you must write_ 
 
@@ -134,11 +134,11 @@ Now let's get our hands dirty with some code!
 
   5. It will color code in your editor to look like 
 
-[ ![](./img/Screenshot-Initial-Python-Code.jpg)](.img/Screenshot-Initial-Python-Code.jpg)
+[ ![](./img/Screenshot-Initial-Python-Code.jpg)](./img/Screenshot-Initial-Python-Code.jpg)
 
   6. Note we are putting all these commands in the editor. We are creating a script, and we must name and save the script in the same location as our data. The sample file we will be using is named "TimBrain_VisualCortex_BYB_Recording.wav," which you can download above. Make sure it is saved in the same location as where you save this python script file (typically a folder called Spyder.Py in your user directory). 
 
-[ ![](./img/Screenshot-Adding-File-Recording.jpg)](.img/Screenshot-Adding-File-Recording.jpg)
+[ ![](./img/Screenshot-Adding-File-Recording.jpg)](./img/Screenshot-Adding-File-Recording.jpg)
 
     
   ```python     
@@ -174,7 +174,7 @@ Now let's get our hands dirty with some code!
   
   11. In the upper right of the Spyder window, you should see the spectrogram plot. 
 
-[ ![](./img/EEG_Spectrogram_Plot.jpg)](.img/EEG_Spectrogram_Plot.jpg)
+[ ![](./img/EEG_Spectrogram_Plot.jpg)](./img/EEG_Spectrogram_Plot.jpg)
 
   12. Notice the increased power at 10 Hz during various periods (more yellow). This is the increased alpha power in the visual cortex when the eyes were closed. Cool huh? 
   
@@ -192,7 +192,7 @@ Now let's get our hands dirty with some code!
   14. A file named "Frequencies" will be saved in the same location as your python script. You can open it in excel or any text editor. Note that in excel you will have to select "import text file." 
   15. As you can see in the following image, the frequency matrix has 129 data points. In python, the positions start from the number 0, so, we are going to choose the ones close to the Alpha waves which will be the positions 4 (7,81 Hz), 5 (9,77 Hz) and 6 (11,7 Hz). (Note that in the figure the positions start from 1, this is because we are seeing it in an excel table). We can do it "by hand" but if it were a lot of data it would be a lot of work, so we will do it in python. 
 
-[ ![](./img/Frequency_Matrix.jpg)](.img/Frequency_Matrix.jpg)
+[ ![](./img/Frequency_Matrix.jpg)](./img/Frequency_Matrix.jpg)
 
   16. To select the data, we will create a vector with the positions that interest us (we will choose the data corresponding to frequencies from 7 Hz to 12 Hz). 
     
@@ -244,7 +244,7 @@ Now let's get our hands dirty with some code!
 
   20. Thus, you can get the following image_ 
 
-[ ![](./img/Alpha_Power_With_Time.jpg)](.img/Alpha_Power_With_Time.jpg)
+[ ![](./img/Alpha_Power_With_Time.jpg)](./img/Alpha_Power_With_Time.jpg)
 
   21. Notice we are now just seeing the alpha power change over time, a two dimensional graph instead of the three dimensional graph like in the spectrogram. But we still want more, we want to run some statistics on this graph to quantify how much greater the alpha is when the eyes are closed (though it is obvious in this graph). But first let's talk about saving the data 
   22. You can save this data in excel should you desire. To save it neatly, we again use a .csv file. To do this, first we create the data matrix that we are going to use (alpha power and time), and then we create the file ('Excel-tab' helps us so that the data columns are separated by that type of space). 
@@ -267,19 +267,19 @@ Now let's get our hands dirty with some code!
 
   23. If you want to see the data in excel, youu open the .csv file in excel. Everything will be seen together in a column, so we will separate it in two to analyze them well. To do this, you must select the entire column (you can click A), then go to data and choose text to columns-delimited- tab and space -general and finish. 
 
-[ ![](./img/Unified_Column.jpg)](.img/Unified_Column.jpg)
+[ ![](./img/Unified_Column.jpg)](./img/Unified_Column.jpg)
 
-[ ![](./img/Text-to-Columns.jpg)](.img/Text-to-Columns.jpg)
+[ ![](./img/Text-to-Columns.jpg)](./img/Text-to-Columns.jpg)
 
-[ ![](./img/Text-to-ColumnsII.jpg)](.img/Text-to-ColumnsII.jpg)
+[ ![](./img/Text-to-ColumnsII.jpg)](./img/Text-to-ColumnsII.jpg)
 
   24. Now let's set out to do what we originally wanted to - have a statistical test showing that alpha power in the visual cortex is higher when the eyes are closed versus when the eyes are open. We want to generate some box plots on the data. With such a [box plot](https://en.wikipedia.org/wiki/File_Box_plot_description.jpg) we can identify various characteristics of the data, such as 1) Median, 2) Quantiles, 3) Maximum and minimum, 4) Atypical values (outlier), 5) Interquartile range (IQR). 
 
-[ ![](./img/BoxPlot.jpg)](.img/BoxPlot.jpg)
+[ ![](./img/BoxPlot.jpg)](./img/BoxPlot.jpg)
 
   25. So, for this, we will use the data that you can find in the same folder as the .wav file you downloaded. In the file called TimBrain_VisualCortex_BYB_Recording-events.txt you have the data of the exact times where the eyes are opened or closed. Now, we will find the alpha power data for the corresponding times and we will average them forming two vectors ("eyes open" and "eyes closed"). Don't panic! I'll show you. 
 
-[ ![](./img/Event_Times_Eyes.jpg)](.img/Event_Times_Eyes.jpg)
+[ ![](./img/Event_Times_Eyes.jpg)](./img/Event_Times_Eyes.jpg)
 
   26. First we form a vector with all the indicated times_ 
     
@@ -315,7 +315,7 @@ Now let's get our hands dirty with some code!
 
   28. You should get an image like this. 
 
-[ ![](./img/BoxPlotEyesOpenEyesClosed.jpg)](.img/BoxPlotEyesOpenEyesClosed.jpg)
+[ ![](./img/BoxPlotEyesOpenEyesClosed.jpg)](./img/BoxPlotEyesOpenEyesClosed.jpg)
 
   29. So how do you think we could interpret it? Think about it... 
   30. We can do the t-test to the samples of "closed eyes" and "open eyes" (you can learn more about the t-test [here](https://backyardbrains.com/experiments/p-value)). 
@@ -465,10 +465,10 @@ Now let's get our hands dirty with some code!
   1. In the motor cortex there is a 20 Hz Beta wave "event related desynchronization" when you initiate movement. Perhaps you can see this in your motor cortex EEG with this described spectrogram method. 
   2. Finally, EEG is wonderful to measure, but novices may find the low signal strength surprising. EEG is one of the weaker electrophysiological signals, and it is important to remain still (don't move any muscle of the head) and reduce noise as much as possible. See figure below that illustrates the EEG signal strength compared to other signals we can measure with the heart and brain SpikerBox. 
 
-[ ![](./img/Signal_Comparison.jpg)](.img/Signal_Comparison.jpg)
+[ ![](./img/Signal_Comparison.jpg)](./img/Signal_Comparison.jpg)
 
 ## Notes
 
   * In 2017 we had the opportunity to visit Paris, and of course we stopped by the famous Père Lachaise cementary. We said hello to Professor Fourier and thanked him for his important work. 
 
-[ ![](./img/JosephFourier-Rests.jpg)](.img/JosephFourier-Rests.jpg)
+[ ![](./img/JosephFourier-Rests.jpg)](./img/JosephFourier-Rests.jpg)

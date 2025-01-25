@@ -52,7 +52,7 @@ filaments across each other, with a full support cast of other players
 including proteins (troponin and tropomyosin), ions (Na+, K+, Ca2+), energy
 carriers (ATP), and blood circulation to deliver O2 and remove CO2.
 
-[ ![](./img/skeletalmuscles.jpg)](.img/skeletalmuscles.jpg)
+[ ![](./img/skeletalmuscles.jpg)](./img/skeletalmuscles.jpg)
 
 Each of your muscles is subdivided into functional groups of muscle fibers
 called motor units (Again, see our [Introduction to EMG's](./emgspikerbox) experiment). A
@@ -65,12 +65,12 @@ contracting first during a movement, followed by the motor units with the
 largest number of fibers afterward, to allow for a smooth, strong muscle
 contraction.
 
-[ ![](./img/lag1.jpg)](.img/lag1.jpg)
+[ ![](./img/lag1.jpg)](./img/lag1.jpg)
 
 In addition, a motor unit can be recruited to replace an already active motor
 unit that is experiencing fatigue.
 
-[ ![](./img/lag2.jpg)](.img/lag2.jpg)
+[ ![](./img/lag2.jpg)](./img/lag2.jpg)
 
 So...how does this all relate to your muscles getting tired?
 
@@ -84,7 +84,7 @@ that allows the myosin to pull on the actin. The movement of myosin pulling on
 actin in the sarcomeres is called a "[sliding filament model](http://en.wikipedia.org/wiki/Sliding_filament_model)" and consists of 4
 steps.
 
-[ ![](./img/SlidingFilament.jpg)](.img/SlidingFilament.jpg)
+[ ![](./img/SlidingFilament.jpg)](./img/SlidingFilament.jpg)
 
 As long as calcium and ATP are available, the actin and myosin will continue
 pulling on each other and the twitching will continue. Note that the calcium
@@ -113,7 +113,7 @@ ups, etc.) is different than long term fatigue such as as a marathon run, a
 100 mile bicycle ride, or a full-day hike through the Rocky Mountains of
 Colorado.
 
-[ ![](./img/shorteramlongterm2_web.jpg)](.img/shorteramlongterm2_web.jpg)
+[ ![](./img/shorteramlongterm2_web.jpg)](./img/shorteramlongterm2_web.jpg)
 
 We do understand though some of the basic reasons that muscles become fatigued
 during high intensity exercise, most notably that the demand for oxygen can be
@@ -122,7 +122,7 @@ of 1) muscles intensely contracting can reduce blood flow and thus oxygen
 availability, or 2) the muscle is simply working so intensely that there
 literally is not enough oxygen to meet demand (a sprint at top speed).
 
-[ ![](./img/ScreamingMitochondria.jpg)](.img/ScreamingMitochondria.jpg)
+[ ![](./img/ScreamingMitochondria.jpg)](./img/ScreamingMitochondria.jpg)
 
 If such O2 isn't available as an electron acceptor , the Krebs cycle and
 electron transport chain cannot operate, and the muscle must gain ATP from
@@ -173,7 +173,7 @@ fashion.]
   3. Record your EMG during this task using SpikeRecorder on tablet/smartphone or your computer. 
   4. Observe the amplitude (height) and firing rate (number of impulses) in the EMG. What do you see over time? The gross signal may look similar to this: 
 
-[ ![](./img/FatigueData_Sample.jpg)](.img/FatigueData_Sample.jpg)
+[ ![](./img/FatigueData_Sample.jpg)](./img/FatigueData_Sample.jpg)
 
 **Hand Gripper Isometric Test**
 

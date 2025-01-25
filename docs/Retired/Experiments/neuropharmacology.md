@@ -40,7 +40,7 @@ where we explained that neurons communicate with a combination of electricity
 and chemicals, and that each neuron is distinct (the "Neuron Doctrine" of
 Santiago Ramón y Cajal).
 
-[ ![](./img/cajalgolgi_web.jpg)](.img/cajalgolgi_web.jpg)
+[ ![](./img/cajalgolgi_web.jpg)](./img/cajalgolgi_web.jpg)
 
 Consider two neurons:
 
@@ -52,19 +52,19 @@ firing spikes, but let's keep it simple for now). These receptors are very
 sensitive to electrical activity and certain chemicals. In fact, the very
 sensitivity of these receptors is how neurons, and ultimately you, learn!
 
-[ ![](./img/Exp1_fig3.jpeg)](.img/Exp1_fig3.jpeg)
+[ ![](./img/Exp1_fig3.jpeg)](./img/Exp1_fig3.jpeg)
 
 And a more realistic view of the synapse.
 
-[ ![](./img/NeuronAnatomy_web.jpg)](.img/NeuronAnatomy_web.jpg)
+[ ![](./img/NeuronAnatomy_web.jpg)](./img/NeuronAnatomy_web.jpg)
 
 What occurs in the synapse..
 
-[ ![](./img/Synapse_web.jpg)](.img/Synapse_web.jpg)
+[ ![](./img/Synapse_web.jpg)](./img/Synapse_web.jpg)
 
 And how it affects the next neuron.
 
-[ ![](./img/Integration.jpg)](.img/Integration.jpg)
+[ ![](./img/Integration.jpg)](./img/Integration.jpg)
 
 In this experiment we will test the effect of neuroactive compounds on central
 nervous system neurons. Obtaining drugs that affect neurons can be quite
@@ -81,7 +81,7 @@ insects from eating its leaves. Nicotine is a powerful acetylcholine receptor
 agonist; it amplifies the effect of acetylcholine binding to its receptors in
 synapses, causing a neuron to fire more (due to increased sodium ion influx).
 
-[ ![](./img/nicotine_web.jpg)](.img/nicotine_web.jpg)
+[ ![](./img/nicotine_web.jpg)](./img/nicotine_web.jpg)
 
 Whereas nicotine is a drug that acts on receptors that neurotransmitters bind
 to, Monosodium glutamate itself is a neurotransmitter. Once dissolved in
@@ -90,7 +90,7 @@ glutamate ions. Glutamate is normally part of the metabolic pathway of
 glycolysis (breakdown of sugar) and is readily available from the foods you
 eat.
 
-[ ![](./img/Exp_8_GlutamateV2.jpeg)](.img/Exp_8_GlutamateV2.jpeg)
+[ ![](./img/Exp_8_GlutamateV2.jpeg)](./img/Exp_8_GlutamateV2.jpeg)
 
 In fact, over 80% of the synapses in your brain use glutamate as its
 excitatory neurotransmitter. In insects, is it excitatory as well? Let's find
@@ -120,7 +120,7 @@ cockroach leg preparation does not lend itself well to neuropharmacology
 experiments. Maybe you can prove us wrong, but for now, we are going to switch
 to a new species, the cricket cercal system!
 
-[ ![](./img/Exp_8_Cricket_new.png)](.img/Exp_8_Cricket_new.png)
+[ ![](./img/Exp_8_Cricket_new.png)](./img/Exp_8_Cricket_new.png)
 
 Crickets are readily available for [local pet
 stores](http://www.petco.com/product/12680/Live-Crickets.aspx) as feeder
@@ -130,7 +130,7 @@ electrode and place them along the central axis of the insect, like the figure
 below:
 
 [
-![](./img/Exp_8_Cricket_electrodesV2.jpeg)](.img/Exp_8_Cricket_electrodesV2.jpeg)
+![](./img/Exp_8_Cricket_electrodesV2.jpeg)](./img/Exp_8_Cricket_electrodesV2.jpeg)
 
 Wait about 2-4 minutes for the neurons to "warm up" and then blow gently on
 the rear of the insect. You should see the cerci move from the pressure of

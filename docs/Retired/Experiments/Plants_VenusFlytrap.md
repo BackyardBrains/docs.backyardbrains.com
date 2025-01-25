@@ -41,7 +41,7 @@ sunlight by the window over a week, open their flowers in the day, and close
 their flowers during the night. Some plants can move in much more dramatic
 fashion, such as the [Venus Flytrap](http://en.wikipedia.org/wiki/Venus_fly_trap) and the [Sensitive Mimosa](http://en.wikipedia.org/wiki/Sensitive_mimosa).
 
-[ ![](./img/Venus_Color_web.jpg)](.img/Venus_Color_web.jpg)
+[ ![](./img/Venus_Color_web.jpg)](./img/Venus_Color_web.jpg)
 
 The Venus Flytrap comes from the swamps of North Carolina, USA, and lives in
 very nutrient-poor, water-logged soil. It photosynthesizes like other plants,
@@ -53,7 +53,7 @@ molecules).
 If you look closely at the Venus Flytrap, you will notice it has very tiny
 "Trigger Hairs" inside its trap leaves.
 
-[ ![](./img/triggerhairs_web.jpg)](.img/triggerhairs_web.jpg)
+[ ![](./img/triggerhairs_web.jpg)](./img/triggerhairs_web.jpg)
 
 If a wayward, unsuspecting insect touches a trigger hair, an Action Potential
 occurs in the leaves. This is a different Action Potential than what we are
@@ -63,7 +63,7 @@ Action Potentials of neurons and muscles), and it is muuuuuuuuucccchhhhhh
 longer than anything we've seen before.
 
 [
-![](./img/Different_Action_Potentials_web.jpg)](.img/Different_Action_Potentials_web.jpg)
+![](./img/Different_Action_Potentials_web.jpg)](./img/Different_Action_Potentials_web.jpg)
 
 If the trigger hair is touched twice within 20 seconds (firing two Action
 Potentials within 20 seconds), the trap closes. The trap is not closing due to
@@ -73,7 +73,7 @@ firing of Action Potentials is not always reliable, depending on time of year,
 temperature, health of plant, and/or other factors. Quite different from we
 humans, Action Potential failure is not devastating to a Venus Flytrap.
 
-[ ![](./img/Venus_Heart_Comic_web.jpg)](.img/Venus_Heart_Comic_web.jpg)
+[ ![](./img/Venus_Heart_Comic_web.jpg)](./img/Venus_Heart_Comic_web.jpg)
 
 We can observe this plant Action Potential using our [Plant SpikerBox](https://backyardbrains.com/products/PlantSpikerBox). Welcome to the
 Brave New World of Plant Electrophysiology.
@@ -102,34 +102,34 @@ plant cells.
   2. Find a Venus Flytrap. You can generally find them in museum science stores, but our favorite online supplier is Peter D'Amato's "["California Carnivores"](http://www.californiacarnivores.com/) store. If you live in Ann Arbor, MI, you can conveniently purchase them at [Downtown Home & Garden](http://www.downtownhomeandgarden.com/)
   3. Select an open trap you want to record from. If it is low growing plant, press the shorter of the two orange electrode stakes into the dirt until the silver electrode wire is pressing up against the side of the trap. If it is a tall Flytrap, use the larger orange electrode stake and do the same.
 
-[ ![](./img/VenusElectrode1.jpg)](.img/VenusElectrode1.jpg)
+[ ![](./img/VenusElectrode1.jpg)](./img/VenusElectrode1.jpg)
 
   4. Then, apply electrode gel where the silver electrode wire touches the Flytrap. Note: In the image below, you can see the "Trigger Hairs," the three pointy spikes inside the flytrap, which you will be poking soon!
 
-[ ![](./img/VenusElectrode2.jpg)](.img/VenusElectrode2.jpg)
+[ ![](./img/VenusElectrode2.jpg)](./img/VenusElectrode2.jpg)
 
   5. Ground the ground in the ground! ... Stick the grounding pin with short black wire in the pot's soil.
 
-[ ![](./img/VenusGround2.jpg)](.img/VenusGround2.jpg)
+[ ![](./img/VenusGround2.jpg)](./img/VenusGround2.jpg)
 
   6. Plug the yellow RCA jack with black and red electrode clips into the Plant SpikerBox. Attach the Red clip to the red recording wire and the black clip to the black grounding wire. 
 
-[ ![](./img/VenusClips2.jpg)](.img/VenusClips2.jpg)
+[ ![](./img/VenusClips2.jpg)](./img/VenusClips2.jpg)
 
   7. If you are recording on your smartphone or tablet device, plug the green Smartphone Cable into the Plant SpikerBox and into your phone (take note of the labels on either end of the cable). If you are recording on a computer, use the blue USB cable to connect your Plant SpikerBox to your computer. 
   8. Turn on your Plant SpikerBox. You are all set up!
 
-[ ![](./img/VenusAllSet3.jpg)](.img/VenusAllSet3.jpg)
+[ ![](./img/VenusAllSet3.jpg)](./img/VenusAllSet3.jpg)
 
   9. Open SpikeRecorder and wait a moment for the signal to normalize. If using your phone, you are immediately connected. If using your computer, pair your Plant SpikerBox with the SpikeRecorder software by clicking the "Plant" button that appears in the upper left corner of the screen. You can adjust your signal in SpikeRecorder by zooming in or out of the y-axis or by clicking on the + o - signs on the center left side of the screen. You can zoom in or out on the time scale (x-axis) with the scroll wheel on your mouse or two finger motion on your trackpad.
   10. Press the "Record" button (red button on top right of screen) to begin your recording. 
   11. With a plastic probe, carefully touch **one** of the trigger hairs **once**. If you double tap it, or touch two triggers, the trap will close! Don't close the trap yet! 
 
-[ ![](./img/VenusPoke.jpg)](.img/VenusPoke.jpg)
+[ ![](./img/VenusPoke.jpg)](./img/VenusPoke.jpg)
 
   12. In the SpikeRecorder software, you should notice a large, slow Spike! This is the signal, the Action Potential, which the Venus Flytrap uses to detect prey and to close its trap!
 
-[ ![](./img/VenusSpike.jpg)](.img/VenusSpike.jpg)
+[ ![](./img/VenusSpike.jpg)](./img/VenusSpike.jpg)
 
   13. If your Action Potential is too big, resulting in "flat tops," either pinch to reduce the scale on your smartphone display, or on a computer click the minus button on the SpikeRecorder display. 
   14. Start a timer and wait 20s or more. After an Action Potential is triggered in the Flytrap it begins "Counting" (Somehow... someway... we don't quite know how). If it is stimulated again closely after the first stimulation, it will send one last Spike and then close its trap, at which point you will have to wait 1-2 days for the trap to open again...

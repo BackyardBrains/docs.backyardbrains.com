@@ -38,7 +38,7 @@ but does have a voltage difference we can measure. Specifically, the front of
 the eye, where the cornea is located, is more positive than the back of the
 eye (where the retina is).
 
-[ ![](./img/Tesla_Eye_Polarity_web.jpg)](.img/Tesla_Eye_Polarity_web.jpg)
+[ ![](./img/Tesla_Eye_Polarity_web.jpg)](./img/Tesla_Eye_Polarity_web.jpg)
 
 With this potential difference, the eye is an electric dipole. And when
 dipoles move, they cause electric field changes that can be observed. By
@@ -52,7 +52,7 @@ we can detect blinks too! However, we believe this is due to the
 electromyographic signal of the eyeblink muscles, and not the movement of the
 eye. But, with this you can make interesting interfaces like blink detectors.
 
-[ ![](./img/Tesla_position_Eyes2_web.jpg)](.img/Tesla_position_Eyes_web.jpg)
+[ ![](./img/Tesla_position_Eyes2_web.jpg)](./img/Tesla_position_Eyes_web.jpg)
 
 Now let's observe and measure the signal!
 

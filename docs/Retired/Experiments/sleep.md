@@ -40,7 +40,7 @@ and this ensures our body gets the nutrients it needs. And, when we are tired,
 we sleep, and this ensures.... well exactly what? Why do we sleep in the first
 place?
 
-[ ![](./img/ElectrodesOnBrain_web.jpg)](.img/ElectrodesOnBrain_web.jpg)
+[ ![](./img/ElectrodesOnBrain_web.jpg)](./img/ElectrodesOnBrain_web.jpg)
 
 Various theories exist, formulated by examining sleep cycle patterns and the
 effects of sleep deprivation on humans and animals. Let's take a look at four
@@ -61,7 +61,7 @@ where demand on energy is low. During sleep, energy metabolism, body
 temperature, and caloric demand all decrease. Animals like bears and squirrels
 go into a more profound sleep during winter - hibernation.
 
-[ ![](./img/Why_we_sleep.jpg)](.img/Why_we_sleep.jpg)
+[ ![](./img/Why_we_sleep.jpg)](./img/Why_we_sleep.jpg)
 
 **Body Repair Theory** _ Sleep is a time for rejuvenation and repair. Without
 sleep, our body loses immune functions and dies in a few weeks. When we sleep,
@@ -80,7 +80,7 @@ And when you sleep, you brain oscillates between 4 sleep cycles_ Stage 1,
 Stage 2, Stage 3, and REM. Let's talk a little bit about these sleep stages
 and their electrical brain signatures before diving into the experiment.
 
-[ ![](./img/sleep_cycle_web.jpg)](.img/sleep_cycle_web.jpg)
+[ ![](./img/sleep_cycle_web.jpg)](./img/sleep_cycle_web.jpg)
 
 When you begin to fall asleep, there is a stage called "pre-sleep" where there
 is a reduction in physiological activity. Your consciousness of the
@@ -132,7 +132,7 @@ their eyelids) while they were sleeping, and that this eye twitching would
 abruptly stop and restart some point later. Being an observant and curious
 scientist, he wrote down and published his notes in a [short letter in Nature](./files/Lawson-first-REM-1950.pdf) (productive train ride).
 
-[ ![](./img/sleep_Lawson01_bubble_web.gif)](.img/sleep_Lawson01_bubble_web.gif)
+[ ![](./img/sleep_Lawson01_bubble_web.gif)](./img/sleep_Lawson01_bubble_web.gif)
 
 The aforementioned University of Chicago sleep researcher Nathaniel Kleitman
 read this Nature letter and assigned its verification to his graduate student
@@ -143,7 +143,7 @@ and REM is where dreams occur, such a connection was not known until 1953. An
 REM EEG often looks like an "awake" EEG, composed of various high frequency,
 low amplitude components.
 
-[ ![](./img/sleep_Aserinsky_web.gif)](.img/sleep_Aserinsky_web.gif)
+[ ![](./img/sleep_Aserinsky_web.gif)](./img/sleep_Aserinsky_web.gif)
 
 This whole cycle from stage 1 to REM typically lasts 90 minutes and repeats.
 As the cycle renews along the night, the time spent in delta tends to decrease
@@ -185,7 +185,7 @@ ideal to try to record all four stages (1, 2, 3, and REM). You can also record
 your own brain overnight but we find that the cables snap off due to body
 movement after a couple hours. You can still collect some good data though.
 
-[ ![](./img/Sleep_electrodes2.jpg)](.img/Sleep_electrodes2.jpg)
+[ ![](./img/Sleep_electrodes2.jpg)](./img/Sleep_electrodes2.jpg)
 
   1. Place the headband on your forehead with a ground patch electrode behind your ear. The smooth side of the metal electrodes in the headband should be in contact with your scalp on your forehead (see video above). 
   2. Place some electrode gel between the headband electrodes and your skin. 
@@ -207,17 +207,17 @@ REM occurs as the night draws on and less time occurs in deep sleep. In our 90
 minute nap though, we will probably spend more time in deep sleep though. See
 for yourself!
 
-[ ![](./img/Hypnogram.jpg)](.img/Hypnogram.jpg)
+[ ![](./img/Hypnogram.jpg)](./img/Hypnogram.jpg)
 
   12. The easiest way to visually score the EEG you have recorded is to zoom out the max distance possible in SpikeRecorder, where the whole screen displays 40 seconds. The easiest signal to observe are the delta waves, would should appear in the middle to the end of your recording. They should be immediately obvious as a stage III signal. 
 
-[ ![](./img/Sleep_Delta_Waves.jpg)](.img/Sleep_Delta_Waves.jpg)
+[ ![](./img/Sleep_Delta_Waves.jpg)](./img/Sleep_Delta_Waves.jpg)
 
   13. The second signal you can (sort of) easily spot at the K-Complexes, which are amplitude "swings." Some examples are below. 
 
-[ ![](./img/K-complexes_I.jpg)](.img/K-complexes_I.jpg)
+[ ![](./img/K-complexes_I.jpg)](./img/K-complexes_I.jpg)
 
-[ ![](./img/K-complexes_II.jpg)](.img/K-complexes_II.jpg)
+[ ![](./img/K-complexes_II.jpg)](./img/K-complexes_II.jpg)
 
   14. Sleep spindles and K-Complexes might/usually are present during slow wave sleep. Major Body Movements are the opposite_ they should not/rarely are present in deep sleep. Their presence is a good indication that the subject has still not reached stage N3 of NREM sleep. Stay tuned as we continually improve our signal analysis tools! 
 
@@ -229,7 +229,7 @@ for yourself!
   4. We have found that our EEG headband works best for naps, but doesn’t stay situated correctly overnight. Most overnight sleep involves body movement that shifts the headband and and releases the electrode connection. Perhaps you could design a better way to keep the headband in place during the night with hair clips and a modification of the electrodes. 
   5. Finally, EEG is wonderful to measure, but novices may find the low signal strength surprising (and perhaps disappointing). EEG is one of the weaker electrophysiological signals, and it is important to remain still (don't move any muscle of the head) and reduce noise as much as possible. See figure below that illustrates the EEG signal strength compared to other signals we can measure with the Heart and Brain SpikerBox. 
 
-[ ![](./img/Signal_Comparison.jpg)](.img/Signal_Comparison.jpg)
+[ ![](./img/Signal_Comparison.jpg)](./img/Signal_Comparison.jpg)
 
 ## Science Fair Project Ideas
 

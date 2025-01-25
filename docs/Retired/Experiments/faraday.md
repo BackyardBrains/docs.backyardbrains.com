@@ -53,7 +53,7 @@ our neural recordings, interfering with or even drowning out our recordings so
 that all we hear, in the worst cases, is a radio station! A Faraday cage then
 can be used to block many of these noise sources.
 
-[ ![](./img/Exp11Fig1_faradaycageenvironment.jpeg)](.img/Exp11Fig1_faradaycageenvironment.jpeg)
+[ ![](./img/Exp11Fig1_faradaycageenvironment.jpeg)](./img/Exp11Fig1_faradaycageenvironment.jpeg)
 
 The Faraday cage is named after 1800s scientist Michael Faraday, but to learn
 how the cage works we start with another famous scientist, [Charles-Augustin
@@ -63,7 +63,7 @@ that they generate. Coulomb determined that the electric field, "E", at a
 radius "r" away from a stationary point charge, "Q", could be calculated by
 this equation_
 
-[ ![](./img/Eq1_ColumbLaw.jpeg)](.img/Eq1_ColumbLaw.jpeg)
+[ ![](./img/Eq1_ColumbLaw.jpeg)](./img/Eq1_ColumbLaw.jpeg)
 
 Where ε0 is the permittivity of free space and er is the radial unit vector.
 If you don't understand the math (you will one day), it means the electric
@@ -91,7 +91,7 @@ border, thus maintaining an interior free from external electrical
 interference.
 
 [
-![](./img/Fig2_Sketch_FaradayCage_Fields.jpeg)](.img/Fig2_Sketch_FaradayCage_Fields.jpeg)
+![](./img/Fig2_Sketch_FaradayCage_Fields.jpeg)](./img/Fig2_Sketch_FaradayCage_Fields.jpeg)
 
 Faraday first demonstrated this in a [famous ice bucket and metal sphere
 experiment](https://en.wikipedia.org/wiki/Faraday's_ice_pail_experiment).
@@ -102,7 +102,7 @@ the charges on the surface of the bucket became redistributed through
 electrostatic induction. This concept became known as the Faraday cage
 principle you are studying today.
 
-[ ![](./img/Exp11_bucket.jpeg)](.img/Exp11_bucket.jpeg)
+[ ![](./img/Exp11_bucket.jpeg)](./img/Exp11_bucket.jpeg)
 
 Below we will examine the effects of the Faraday cage on various conditions
 when doing neural recordings with the SpikerBox, along with an easy experiment
@@ -168,4 +168,4 @@ Faraday cage, you can make your probe cable consist of three wires. Two usual
 electrodes (reference + recording electrode) + one extra reference with
 alligator clip that you connect to the metal cookie box.
 
-[ ![User_Faraday.jpeg](./img/User_Faraday.jpeg)](.img/User_Faraday.jpeg)
+[ ![User_Faraday.jpeg](./img/User_Faraday.jpeg)](./img/User_Faraday.jpeg)

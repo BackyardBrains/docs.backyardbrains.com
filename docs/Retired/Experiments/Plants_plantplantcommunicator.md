@@ -57,7 +57,7 @@ categorize "brained" creatures with this demonstration. We then ask more
 advanced learners how they would argue for a strict distinction between plants
 and creatures with neurons...
 
-[ ![](./img/planttoplant_comic.jpg)](.img/planttoplant_comic.jpg)
+[ ![](./img/planttoplant_comic.jpg)](./img/planttoplant_comic.jpg)
 
 This experiment was designed for our Plant Electrophysiology TED talk which we
 gave in early 2017. Check out the TED talk below, then perform the experiment
@@ -81,7 +81,7 @@ react to the stimulus and drop its branch.
   4. Apply conductive gel where the electrode meets the plant wall to complete the connection. 
   5. Take the short, black grounding pin with wire and ground the ground in the ground (stick the pin in the dirt...) 
 
-[ ![](./img/VenusGround2.jpg)](.img/VenusGround2.jpg)
+[ ![](./img/VenusGround2.jpg)](./img/VenusGround2.jpg)
 
   6. Place your Venus Flytrap near your Plant SpikerBox and plug in the yellow RCA jack electrode. 
   7. Then, take the clips from the RCA jack and attach the red clip to the red wire (the recording electrode on the stake) and the black clip to the black wire (the grounding pin).   
@@ -92,7 +92,7 @@ react to the stimulus and drop its branch.
   9. Take the black wire grounding pin and stick it in the dirt near the Mimosa's stem. 
   10. Take the red wire with the silver tip and carefully, and tightly, wrap the silver tip once around a large Mimosa branch. Try to wrap it close to the stem. This will probably cause the branch to "fall" as you fumble to wrap the electrode. That's okay, you just have to wait 10-20m for it to reset before performing the experiment. 
 
-[ ![](./img/MimosaElectrode2.png)](.img/MimosaElectrode2.png)
+[ ![](./img/MimosaElectrode2.png)](./img/MimosaElectrode2.png)
 
   11. Apply a dab of conductive gel where the wrapped electrode meets the plant. 
   12. Plug the red stimulation cable into the Plant SpikerBox and, pay attention here_ Attach the BLACK clip to the RED cable and the RED clip to the BLACK cable. 
@@ -106,19 +106,19 @@ sending the stimulation signal from the dirt...
   13. Once you've followed these directions, and doubled checked steps 12 and 13, turn on your Plant SpikerBox! 
   14. If you want to record the trigger, plug your Plant SpikerBox into either a smartphone or PC which has the [Backyard Brains SpikeRecorder](https://backyardbrains.com/products/spikerecorder) software installed. 
 
-[ ![](./img/PPIAllSet_bright.jpg)](.img/PPIAllSet_bright.jpg)
+[ ![](./img/PPIAllSet_bright.jpg)](./img/PPIAllSet_bright.jpg)
 
   15. Look for the red "Enable!" button near the front facing side of the Plant SpikerBox. Press the button and look for the red LED beside it. The LED should begin blinking. The blinking indicates that the experiment is armed and ready to go! 
 
-[ ![](./img/ppcenablebutton.jpg)](.img/ppcEnableButton.jpg)
+[ ![](./img/ppcenablebutton.jpg)](./img/ppcEnableButton.jpg)
 
   16. Finally, carefully stimulate just one of the trigger hairs in the Venus Flytrap and behold! The stimulation cable should carry the Action Potential across from the Venus Flytrap and the Sensitive Mimosa will dramatically react, drooping and appearing to wither up! This is the beauty of the Interspecies Plant-Plant-Communicator! 
 
-[ ![](./img/PPIVenus_bright.jpg)](.img/PPIVenus_bright.jpg)
+[ ![](./img/PPIVenus_bright.jpg)](./img/PPIVenus_bright.jpg)
 
-[ ![](./img/PPIMimosa_bright.jpg)](.img/PPIMimosa_bright.jpg)
+[ ![](./img/PPIMimosa_bright.jpg)](./img/PPIMimosa_bright.jpg)
 
-[ ![](./img/Plantcommunication.gif)](.img/Plantcommunication.gif)
+[ ![](./img/Plantcommunication.gif)](./img/Plantcommunication.gif)
 
   17. If an action potential fires, but it doesn't drop the branch, try swapping out for a fresh battery, moving the ground pin closer to the stem of the Mimosa, or adjusting the silver wire electrode's positioning or the amount of conductive gel on the branch. 
 

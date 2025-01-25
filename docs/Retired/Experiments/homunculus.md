@@ -57,7 +57,7 @@ areas in the somatosensory cortex, and patients would report slight sensations
 in different parts of their body. The picture below is of a homunculus, mapped
 only for the left cerebral hemisphere.
 
-[ ![](./img/BYB_Exp2_Pic8.png)](.img/BYB_Exp2_Pic8.png)
+[ ![](./img/BYB_Exp2_Pic8.png)](./img/BYB_Exp2_Pic8.png)
 
 ## Materials
 
@@ -71,7 +71,7 @@ only for the left cerebral hemisphere.
 
 Now that you have taken the measurements from the [Skin Senstivity Experiment](skin)
 
-[ ![](./img/BYB_Exp2_Pic7.png)](.img/BYB_Exp2_Pic7.png)
+[ ![](./img/BYB_Exp2_Pic7.png)](./img/BYB_Exp2_Pic7.png)
 
 It's time to see what your Homunculus would look like as a person! The Max
 Planck Institute has designed a great website to do just that! Follow the

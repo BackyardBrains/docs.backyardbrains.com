@@ -102,7 +102,7 @@ additional Materials_
   11. Silly putty 
   12. Tweezers
 
-[ ![](./img/mosquitoLoveSongs-PrepOverview.png)](.img/mosquitoLoveSongs-
+[ ![](./img/mosquitoLoveSongs-PrepOverview.png)](./img/mosquitoLoveSongs-
 PrepOverview.png)
 
 ### Pinning Procedure
@@ -117,7 +117,7 @@ already separated mosquitoes, or sex them yourself using these tips_
   * To identify these traits, we recommend using a compound microscope.
   * If you are out in the wild catching mosquitoes and you happen to get bit, you successfully stumbled upon a female! Female mosquitoes are the ones that do the biting.
 
-[ ![](./img/mosquitoLoveSongs-MaleSexing.png)](.img/mosquitoLoveSongs-
+[ ![](./img/mosquitoLoveSongs-MaleSexing.png)](./img/mosquitoLoveSongs-
 MaleSexing.png)
 
 Once you have your mosquitoes separated by sex and ready to go, the next step
@@ -132,13 +132,13 @@ all of your females. For our procedure, we labeled the insect pins intended
 for females with a piece of red tape, and for males, a piece of blue tape.
 Then, assign a number to each pin, making sure that you have no repeats.
 
-[ ![](./img/mosquitoLoveSongs-Pins.png)](.img/mosquitoLoveSongs-Pins.png)
+[ ![](./img/mosquitoLoveSongs-Pins.png)](./img/mosquitoLoveSongs-Pins.png)
 
 When removing mosquitoes, use tweezers and very gently transfer them to a bed
 of ice. Mosquitoes recover from the cold very quickly, and you don't want them
 to escape when you are pinning them, and that makes for a very noisy lab.
 
-[ ![](./img/mosquitoLoveSongs-PinningMethod.png)](.img/mosquitoLoveSongs-
+[ ![](./img/mosquitoLoveSongs-PinningMethod.png)](./img/mosquitoLoveSongs-
 PinningMethod.png)
 
 Move your mosquitoes to a paper towel when you are ready to begin pinning.
@@ -152,7 +152,7 @@ Transfer the newly-pinned mosquito to recording stands that have a small
 amount of silly putty on their ends to hold the pin in place throughout the
 duration of the recording.
 
-[ ![](./img/mosquitoLoveSongs-Glued.png)](.img/mosquitoLoveSongs-
+[ ![](./img/mosquitoLoveSongs-Glued.png)](./img/mosquitoLoveSongs-
 PinningMethod.png)
 
 Next, get your recording devices in the proper positions for your experiments.
@@ -268,7 +268,7 @@ other lines equally spaced 450Hz apart. These are called the harmonics. Repeat
 these for the Male Mosquitos and the Paired Recordings. Do you see any
 interactions?
 
-[ ![](./img/mosquitoLoveSongs-Spectrograms.png)](.img/mosquitoLoveSongs-
+[ ![](./img/mosquitoLoveSongs-Spectrograms.png)](./img/mosquitoLoveSongs-
 Spectrograms.png)
 
 ## Science Fair Project Ideas

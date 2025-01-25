@@ -36,7 +36,7 @@ energy is provided by adenosine triphostate, or ATP. ATP is made from the
 foods you eat, but what else besides food do you need to stay alive? What is
 invisible, tasteless, void of form, yet critical to your life?
 
-[ ![](./img/Exp10_oxygen.jpeg)](.img/Exp10_oxygen.jpeg)
+[ ![](./img/Exp10_oxygen.jpeg)](./img/Exp10_oxygen.jpeg)
 
 Oxygen! Oxygen is an "oxidizer," meaning it is greedy for electrons. Pure
 gaseous elemental oxygen is so electron greedy that it was a poison for most
@@ -51,7 +51,7 @@ to food to generate enough ATP to stay alive. But how? And why? Time for some
 biochemistry. For example, here is how your body breaks down the sugar
 glucose_
 
-[ ![](./img/Exp10_metabolism.jpeg)](.img/Exp10_metabolism.jpeg)
+[ ![](./img/Exp10_metabolism.jpeg)](./img/Exp10_metabolism.jpeg)
 
 This chemical reaction is quite complicated and has dozens of tightly
 controlled steps that are classed into three pathways, beginning with 1)
@@ -73,7 +73,7 @@ ions travel back into the mitochondria by going through the ATP synthase, this
 causes the synthase to "rotate," generating the work that, through protein
 chemistry, converts ADP to ATP.
 
-[ ![](./img/Exp10_ATPsynthase_NEW.jpeg)](.img/Exp10_ATPsynthase_NEW.jpeg)
+[ ![](./img/Exp10_ATPsynthase_NEW.jpeg)](./img/Exp10_ATPsynthase_NEW.jpeg)
 
 Now let's think back to our friend the humble cockroach and his donated leg.
 While the disconnected leg has enough food stored inside to survive for up to
@@ -88,7 +88,7 @@ cockroach will be white), you will notice a series of holes along its back
 (dorsal) side running along both sides of it's abdomen. These hole are called
 "spiracles" and allow the passage of air through its tracheal system.
 
-[ ![](./img/spiraclesmolted_small.jpg)](.img/spiraclesmolted_small.jpg)
+[ ![](./img/spiraclesmolted_small.jpg)](./img/spiraclesmolted_small.jpg)
 
 Let's see if we can investigate the dependence of oxygen on spikes in your
 cockroach leg preparation. There are two ways you can do this_
@@ -101,7 +101,7 @@ regulators, some tubing, and hook up the tanks such that you can slowly
 decrease the percentage of oxygen in your container to see the effect of
 spiking activity in the cockroach leg.
 
-[ ![](./img/Exp10_HardWay.jpeg)](.img/Exp10_HardWay.jpeg)
+[ ![](./img/Exp10_HardWay.jpeg)](./img/Exp10_HardWay.jpeg)
 
 ##### B. The Easy Way
 
@@ -109,7 +109,7 @@ Since the leg of the cockroach gets all its oxygen through the open wound (see
 our discovery of this when [we visited our friendly local electron microscopist](https://blog.backyardbrains.com/2010/11/byb-visits-a-scanning-electron-microscope/)), we can "starve" the leg of oxygen by simply liberally
 coating the leg with petroleum jelly (vaseline).
 
-[ ![](./img/Exp10_Easyway1.jpeg)](.img/Exp10_Easyway1.jpeg)
+[ ![](./img/Exp10_Easyway1.jpeg)](./img/Exp10_Easyway1.jpeg)
 
 ## Video
 
@@ -134,7 +134,7 @@ coating the leg with petroleum jelly (vaseline).
   6. Repeat steps 2-5 as long as you have time for AND as long as the control leg is still generating spikes. Note_ why is monitoring the control important? 
   7. Repeat this experiment over a couple legs to see if you can find an "average time for the spikes to go away" and an "average time for the spikes to come back." Are they different or the same? What would be the reasons? Use the table below as a guide. 
 
-[ ![](./img/Exp10_spiketable.jpeg)](.img/Exp10_spiketable.jpeg)
+[ ![](./img/Exp10_spiketable.jpeg)](./img/Exp10_spiketable.jpeg)
 
 ## Discussion Questions
 

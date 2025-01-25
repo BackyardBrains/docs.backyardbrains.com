@@ -61,7 +61,7 @@ An olympic distance runner, however, does not meet that same "mental" block
 and will continue to run through the discomfort.
 
 [
-![](./img/Central_Fatigue_web.jpg)](.img/Central_Fatigue_web.jpg)
+![](./img/Central_Fatigue_web.jpg)](./img/Central_Fatigue_web.jpg)
 
 #### Peripheral Fatigue
 

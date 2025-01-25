@@ -44,7 +44,7 @@ earthworm's nerve fiber system. You remember that the worm has three large
 neurons that run the length of its body, the medial giant nerve (MGN) and the
 two fused lateral giant nerve (LGN).
 
-[ ![](./img/Byb_mgnlgn_pic1.png)](.img/Byb_mgnlgn_pic1.png)
+[ ![](./img/Byb_mgnlgn_pic1.png)](./img/Byb_mgnlgn_pic1.png)
 
 Let's take a closer look at the ventral, or "bottom," nerve cord containing
 these medial and lateral giant nerves. One of the differences between
@@ -52,7 +52,7 @@ invertebrates (insects, worms, and so on) and vertebrates (dogs, lizards, us)
 is that invertebrates have a ventral nerve cord (running along their "belly")
 whereas we have a dorsal nerve cord (our spinal cord runs along our backside).
 
-[ ![](./img/Byb_mgnlgn_pic2.png)](.img/Byb_mgnlgn_pic2.png)
+[ ![](./img/Byb_mgnlgn_pic2.png)](./img/Byb_mgnlgn_pic2.png)
 
 Both the MGN and LGN play an important role in ensuring the worm's senses
 communicate with its muscles (Drewes et al. 1978). The MGN transmits sensory
@@ -70,14 +70,14 @@ the worm (MGN). We want to find out if there is any difference in conduction
 velocity between the two nerves. Do you think there will be any difference?
 Let's consider some.....
 
-[ ![](./img/Byb_mgnlgn_pic3.png)](.img/Byb_mgnlgn_pic3.png)
+[ ![](./img/Byb_mgnlgn_pic3.png)](./img/Byb_mgnlgn_pic3.png)
 
 When thinking about how an action potential travels down a neuron's axon, it
 is useful to think about an analogy of a television's volume. Think about
 turning on your TV and then slowly walking away from it. As you walk further
 and further away what happens?
 
-[ ![](./img/Byb_mgnlgn_pic4_v2.png)](.img/Byb_mgnlgn_pic4_v2.png)
+[ ![](./img/Byb_mgnlgn_pic4_v2.png)](./img/Byb_mgnlgn_pic4_v2.png)
 
 The sound coming from the speaker gets quieter and quieter the further you are
 away from the source. This example is analogous to a voltage change (basis of
@@ -86,14 +86,14 @@ with the active ion channels removed, let's change the voltage in the cell
 body and take three measurements along the axon. What do you think the
 measurements will look like?
 
-[ ![](./img/Byb_mgnlgn_pic5.png)](.img/Byb_mgnlgn_pic5.png)
+[ ![](./img/Byb_mgnlgn_pic5.png)](./img/Byb_mgnlgn_pic5.png)
 
 Notice that the signal decays. The strength of this decay is determined by two
 things, the time constant and length constant. Time for some math and
 electronics, our favorite subjects (besides neurons of course).
 
-[ ![](./img/Byb_mgnlgn_pic6a_v2.png)](.img/Byb_mgnlgn_pic6a_v2.png) [
-![](./img/Byb_mgnlgn_pic6b_v2.png)](.img/Byb_mgnlgn_pic6b_v2.png)
+[ ![](./img/Byb_mgnlgn_pic6a_v2.png)](./img/Byb_mgnlgn_pic6a_v2.png) [
+![](./img/Byb_mgnlgn_pic6b_v2.png)](./img/Byb_mgnlgn_pic6b_v2.png)
 
 What do the r's and c's mean? r is "Resistance" to current flow, and c is
 "Capacitance," a measure of the storage of charge across an insulating
@@ -138,7 +138,7 @@ action potential fires down your axon, sodium and potassium channels
 continually open and close to recharge the action potential and "propagate it"
 down the axon.
 
-[ ![](./img/Byb_mgnlgn_pic7.png)](.img/Byb_mgnlgn_pic7.png)
+[ ![](./img/Byb_mgnlgn_pic7.png)](./img/Byb_mgnlgn_pic7.png)
 
 As you know from the previous earthworm experiment, this action potential
 propagation down a neuron has a finite speed. Each time an ion channel needs
@@ -150,14 +150,14 @@ this by increasing rm. Is there a way we can do this?
 
 Yes! We can increase rm by wrapping the neuron in....
 
-[ ![](./img/Byb_mgnlgn_pic8.png)](.img/Byb_mgnlgn_pic8.png)
+[ ![](./img/Byb_mgnlgn_pic8.png)](./img/Byb_mgnlgn_pic8.png)
 
 Myelin is a fatty covering produced by special cells called Schwann Cells and
 Oligodendrocytes. This covering is what makes the axons look similar to hot
 dog rolls, and why the brain is sometimes called a "lump of fat." This fatty
 covering makes the neural membrane less leaky and increases rm substantially.
 
-[ ![](./img/Byb_mgnlgn_pic6a_v2.png)](.img/Byb_mgnlgn_pic6a_v2.png)
+[ ![](./img/Byb_mgnlgn_pic6a_v2.png)](./img/Byb_mgnlgn_pic6a_v2.png)
 
 But what do you think would happen if you covered the whole axon in myelin?
 Unfortunately, the length constant is not increased enough for you to get away
@@ -172,7 +172,7 @@ Ranvier is called "saltatory conduction."
 
 * Related Fact_ Saltar is Spanish for "to jump." A grasshopper that lives in the Andes Mountains, for instance, is called "Saltamontes" or "mountain jumper." 
 
-[ ![](./img/Byb_mgnlgn_pic9.png)](.img/Byb_mgnlgn_pic9.png)
+[ ![](./img/Byb_mgnlgn_pic9.png)](./img/Byb_mgnlgn_pic9.png)
 
 But wait! Covering the neurons with myelin makes the inside and outside of the
 neural membrane farther apart from each other. As capacitance is affected by
@@ -181,7 +181,7 @@ Resnick), myelin will decrease cm. Does this cause a decrease in time constant
 as well then? Well, perhaps not, since, as we said earlier, the myelin also
 substantially increases rm.
 
-[ ![](./img/Byb_mgnlgn_pic6b_v2.png)](.img/Byb_mgnlgn_pic6b_v2.png)
+[ ![](./img/Byb_mgnlgn_pic6b_v2.png)](./img/Byb_mgnlgn_pic6b_v2.png)
 
 The result of this simultaneous reduction in cm and increase in rm is
 hypothesized to cause no net change in the time constant, although direct
@@ -198,12 +198,12 @@ There is another way to increase the conduction velocity without bothering
 with all these special cells that coat the neurons with fat. This method is
 also what many invertebrates use...
 
-[ ![](./img/Byb_mgnlgn_pic11.png)](.img/Byb_mgnlgn_pic11.png)
+[ ![](./img/Byb_mgnlgn_pic11.png)](./img/Byb_mgnlgn_pic11.png)
 
 The larger the radius of the axon, the smaller both ri and rm will be.
 Remember our length constant equation states that _
 
-[ ![](./img/Byb_mgnlgn_pic6a_v2.png)](.img/Byb_mgnlgn_pic6a_v2.png)
+[ ![](./img/Byb_mgnlgn_pic6a_v2.png)](./img/Byb_mgnlgn_pic6a_v2.png)
 
 If both the top and bottom vary with the radius... it seems like the size of
 the axon wouldn't make a difference at all! But let's take a careful look at
@@ -211,24 +211,24 @@ how these two values vary with the size of the axon. The membrane resistance
 (rm) changes with the circumference of the axon (where the membrane is) like
 so_
 
-[ ![](./img/Byb_mgnlgn_pic13.png)](.img/Byb_mgnlgn_pic13.png)
+[ ![](./img/Byb_mgnlgn_pic13.png)](./img/Byb_mgnlgn_pic13.png)
 
 while the internal resistance changes with area of the axon.
 
-[ ![](./img/Byb_mgnlgn_pic14.png)](.img/Byb_mgnlgn_pic14.png)
+[ ![](./img/Byb_mgnlgn_pic14.png)](./img/Byb_mgnlgn_pic14.png)
 
 Both Ri and Rm are constants that can be measured from the neuron regardless
 of it's size, (whereas ri and rm DO take size into account), π is 3.14, and
 radius is the radius of the axon. So now let's look at that equation again_
 
-[ ![](./img/Byb_mgnlgn_pic15.png)](.img/Byb_mgnlgn_pic15.png)
+[ ![](./img/Byb_mgnlgn_pic15.png)](./img/Byb_mgnlgn_pic15.png)
 
 We are interested in seeing what changes when we change the size of the axon
 (radius), so we want to remove things that are constants and see what is left
 that changes. Both Rm and Ri are constants, so are 2 and π, and one radius
 cancels out. We are left with simply that_
 
-[ ![](./img/Byb_mgnlgn_pic16.png)](.img/Byb_mgnlgn_pic16.png)
+[ ![](./img/Byb_mgnlgn_pic16.png)](./img/Byb_mgnlgn_pic16.png)
 
 Thus, the length constant, and conduction velocity, scales with the square
 root of the radius.
@@ -253,7 +253,7 @@ education. Welcome to "Cable Theory", which was originally developed in the
 long distance telegraph lines. Neuroscientists then applied this theory to
 neurons in the early 20th century.
 
-[ ![](./img/Byb_mgnlgn_pic17.png)](.img/Byb_mgnlgn_pic17.png)
+[ ![](./img/Byb_mgnlgn_pic17.png)](./img/Byb_mgnlgn_pic17.png)
 
 But what does all this cable theory mean with regard to the two nerve types in
 the earthworm? Since the MGN is 1.4 times greater in size than the LGN, we
@@ -288,33 +288,33 @@ Speed)](https://backyardbrains.com/experiments/speed#Materials)
 
   1. Anesthetize and take a recording of the posterior end of the worm as you did in the previous experiment. 
 
-[ ![](./img/Byb_mgnlgn_pic18.png)](.img/Byb_mgnlgn_pic18.png)
+[ ![](./img/Byb_mgnlgn_pic18.png)](./img/Byb_mgnlgn_pic18.png)
 
   2. Once you get several spikes, rotate the worm 180 degrees and reposition the electrodes. You will be measuring from the anterior end of the worm this time. 
 
-[ ![](./img/Byb_mgnlgn_pic19.png)](.img/Byb_mgnlgn_pic19.png)
+[ ![](./img/Byb_mgnlgn_pic19.png)](./img/Byb_mgnlgn_pic19.png)
 
   3. Now record several spikes from the anterior end by touching the head of the worm with a wooden probe. Once you have several spikes, you can stop recording and return the worm to its soil. The earthworm is quite resilient and recovers well from this experiment. 
   4. Now you are ready to look at your data. You should see a flat line or excessive noise when you flipped the electrodes around. This serves as your time marker of when you flipped the worm, and now you know which spikes belong to the posterior end and which spikes belongs to the anterior end. The figure below shows a recording of electrode 1 on the bottom and electrode 2 on the top. 
 
-[ ![](./img/Byb_mgnlgn_pic20.png)](.img/Byb_mgnlgn_pic20.png)
+[ ![](./img/Byb_mgnlgn_pic20.png)](./img/Byb_mgnlgn_pic20.png)
 
   5. You can now zoom in on your spikes and measure the conduction velocity. Take readings of 5-6 spikes. 
 
-[ ![](./img/Byb_mgnlgn_pic21.png)](.img/Byb_mgnlgn_pic21.png)
+[ ![](./img/Byb_mgnlgn_pic21.png)](./img/Byb_mgnlgn_pic21.png)
 
   6. Repeat the experiment several times with some worms. This will give you a good data set to work with. Don't forget to clean your electrodes with some alcohol or water and a paper towel after each worm. 
 
-[ ![](./img/Byb_mgnlgn_pic22.png)](.img/Byb_mgnlgn_pic22.png)
+[ ![](./img/Byb_mgnlgn_pic22.png)](./img/Byb_mgnlgn_pic22.png)
 
   7. You now need to run a statistical test, namely the T-test, to examine whether the conduction velocities are different for the two nerves. If you do not yet know how to do this you can take your data set and follow along in our statistics lesson plan. If you have done this lesson plan or have some experience in statistics then you can go ahead and perform the calculations below. 
   8. Take the average and standard deviation of your MGN and LGN recordings. 
 
-[ ![](./img/Byb_mgnlgn_pic23.png)](.img/Byb_mgnlgn_pic23.png)
+[ ![](./img/Byb_mgnlgn_pic23.png)](./img/Byb_mgnlgn_pic23.png)
 
   9. Finally, let's calculate our t-statistic and p-value. 
 
-[ ![](./img/Byb_mgnlgn_pic24.png)](.img/Byb_mgnlgn_pic24.png)
+[ ![](./img/Byb_mgnlgn_pic24.png)](./img/Byb_mgnlgn_pic24.png)
 
 What did you find? Are the two conduction velocities different from each
 other?

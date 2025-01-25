@@ -127,7 +127,7 @@ You can assemble our laser cut octopus chamber using preferably non-toxic
 glues. Use hot glue and silicon to seal. Make sure the bottom is as watertight
 as possible, but still keep some paper towels under it.
 
-[ ![](./img/octopusFighting-LasercutContainer.png)](.img/octopusFighting-LasercutContainer.png)
+[ ![](./img/octopusFighting-LasercutContainer.png)](./img/octopusFighting-LasercutContainer.png)
 
 You can also use your own container, but just be sure the camera is steady
 above the small "arena".
@@ -158,16 +158,16 @@ OpenCV: If all goes well all you need to do is "pip install opencv-contrib-pytho
   1. Fill jug about a quarter of the way with sea water and shake it to aerate.
   2. Fill the octopus chamber until there's at least an inch of water.
 
-[ ![](./img/octopusFighting-fightStep2.png)](.img/octopusFighting-fightStep2.png)
+[ ![](./img/octopusFighting-fightStep2.png)](./img/octopusFighting-fightStep2.png)
 
   3. Set up Go Pro on top of the chamber.
 
-[ ![](./img/octopusFighting-fightStep3.png)](.img/octopusFighting-fightStep3.png)
+[ ![](./img/octopusFighting-fightStep3.png)](./img/octopusFighting-fightStep3.png)
 
   4. Set up lamp so that the chamber is lit as evenly as possibly, meaning the walls don't cast major shadows, but also such that the lamp is not facing directly downwards causing reflection in the water. (Take Go Pro footage and check multiple times to see that the lighting looks good)
   5. Scoop up one octopus with the plastic cup, be careful not to hurt their arms.
 
-[ ![](./img/octopusFighting-fightStep5.png)](.img/octopusFighting-fightStep5.png)
+[ ![](./img/octopusFighting-fightStep5.png)](./img/octopusFighting-fightStep5.png)
 
   6. Gently let the octopus leave the cup into the chamber.
   7. Scoop up second octopus.
@@ -179,15 +179,15 @@ OpenCV: If all goes well all you need to do is "pip install opencv-contrib-pytho
   13. Press Shift and Tab at the same time to run a cell of the Optical Flow notebook. Start by running the cell with all the import statements.
   14. Change the filepath to match that of the videoclip you want to analyse 
 
-[ ![](./img/octopusFighting-fightStep14.png)](.img/octopusFighting-fightStep14.png)
+[ ![](./img/octopusFighting-fightStep14.png)](./img/octopusFighting-fightStep14.png)
 
   15. Leave one of the two options uncommented_ top is full-colour, bottom is black and white with the mask applied, exactly what the computer sees_ 
 
-[ ![](./img/octopusFighting-fightStep15.png)](.img/octopusFighting-fightStep15.png)
+[ ![](./img/octopusFighting-fightStep15.png)](./img/octopusFighting-fightStep15.png)
 
   16. Run the optical flow codeblock. A GUI will pop up if the video is loaded correctly. Since the corners will be selected manually the only important settings are in the top half of the GUI_ 
 
-[ ![](./img/octopusFighting-fightStep16.png)](.img/octopusFighting-fightStep16.png)
+[ ![](./img/octopusFighting-fightStep16.png)](./img/octopusFighting-fightStep16.png)
 
 The top switch is to start the corner selection, flip this when finished with
 the four settings below it.
@@ -201,33 +201,33 @@ Best way to really figure out what these do is via trial and error.
 
   17. After the switch is flipped, select two points for tracking on one octopus (the eyes are recommended) by clicking on them. 
 
-[ ![](./img/octopusFighting-fightStep17.png)](.img/octopusFighting-fightStep17.png)
+[ ![](./img/octopusFighting-fightStep17.png)](./img/octopusFighting-fightStep17.png)
 
 Press escape to run the algorithm.
 
   18. The code will now run and trace paths of the octopus, if one of the points loses contact with the octopus, terminate the code by pressing escape and try again. Try changing settings or clicking different points on the octopus. 
 
-[ ![](./img/octopusFighting-fightStep18.png)](.img/octopusFighting-fightStep18.png)
+[ ![](./img/octopusFighting-fightStep18.png)](./img/octopusFighting-fightStep18.png)
 
   19. Upon completion, the codeblock will print out an image like this, this is the traced path_ 
 
-[ ![](./img/octopusFighting-fightStep19.png)](.img/octopusFighting-fightStep19.png)
+[ ![](./img/octopusFighting-fightStep19.png)](./img/octopusFighting-fightStep19.png)
 
   20. Run first pointcopy block_ 
 
-[ ![](./img/octopusFighting-fightStep20.png)](.img/octopusFighting-fightStep20.png)
+[ ![](./img/octopusFighting-fightStep20.png)](./img/octopusFighting-fightStep20.png)
 
   21. Run steps 17-19 for second octopus. Save by running only pointcopy2 block. Don't run the first pointcopy block again, this will overwrite the data. 
 
-[ ![](./img/octopusFighting-fightStep21.png)](.img/octopusFighting-fightStep21.png)
+[ ![](./img/octopusFighting-fightStep21.png)](./img/octopusFighting-fightStep21.png)
 
   22. Change number to be a name you'll remember (probably the current videoclip name) 
 
-[ ![](./img/octopusFighting-fightStep22.png)](.img/octopusFighting-fightStep22.png)
+[ ![](./img/octopusFighting-fightStep22.png)](./img/octopusFighting-fightStep22.png)
 
   23. Save the data. This will create two files, a for the first octopus and b for the second. 
 
-[ ![](./img/octopusFighting-fightStep23.png)](.img/octopusFighting-fightStep23.png)
+[ ![](./img/octopusFighting-fightStep23.png)](./img/octopusFighting-fightStep23.png)
 
   24. Repeat steps 14-23 for as many videoclips as needed.
 
@@ -235,44 +235,44 @@ Press escape to run the algorithm.
 
   1. First in Octopus_Optical_Flow load the a and b point data saved from the videoclips analyzed in the methods. To do this define number as the name of the saved points (the .npy file without the a or b at the end)_ 
 
-[ ![](./img/octopusFighting-AngleStep1.png)](.img/octopusFighting-AngleStep1.png)
+[ ![](./img/octopusFighting-AngleStep1.png)](./img/octopusFighting-AngleStep1.png)
 
   2. Run the two np.load codeblocks to load and display the a and b paths. 
 
-[ ![](./img/octopusFighting-AngleStep2.png)](.img/octopusFighting-AngleStep2.png)
+[ ![](./img/octopusFighting-AngleStep2.png)](./img/octopusFighting-AngleStep2.png)
 
   3. Run the next codeblock to make sure both arrows go from the octopus' mantle to its head. If it is incorrect such as this_ 
 
-[ ![](./img/octopusFighting-AngleStep3a.png)](.img/octopusFighting-AngleStep3a.png)
+[ ![](./img/octopusFighting-AngleStep3a.png)](./img/octopusFighting-AngleStep3a.png)
 
 Use the codeblocks below to flip the points_
 
-[ ![](./img/octopusFighting-AngleStep3b.png)](.img/octopusFighting-AngleStep3b.png)
+[ ![](./img/octopusFighting-AngleStep3b.png)](./img/octopusFighting-AngleStep3b.png)
 
 Until both arrow look like this_
 
-[ ![](./img/octopusFighting-AngleStep3c.png)](.img/octopusFighting-AngleStep3c.png)
+[ ![](./img/octopusFighting-AngleStep3c.png)](./img/octopusFighting-AngleStep3c.png)
 
   4. Run the last 2 codeblocks to calculate and save the distance and angle data_ 
 
-[ ![](./img/octopusFighting-AngleStep4.png)](.img/octopusFighting-AngleStep4.png)
+[ ![](./img/octopusFighting-AngleStep4.png)](./img/octopusFighting-AngleStep4.png)
 
   5. For all the videoclips analyzed for distance/angle data it is now necessary to find contour gradient data so that all the points of contact can be aligned. Open up Octopus_Contact and change the filename for the desired videoclip_ 
 
-[ ![](./img/octopusFighting-AngleStep5.png)](.img/octopusFighting-AngleStep5.png)
+[ ![](./img/octopusFighting-AngleStep5.png)](./img/octopusFighting-AngleStep5.png)
 
   6. Run the codeblock and adjust the sliders (mostly v-high) until the green lines draw a nice contour of the octopus_ 
 
-[ ![](./img/octopusFighting-AngleStep6.png)](.img/octopusFighting-AngleStep6.png)
+[ ![](./img/octopusFighting-AngleStep6.png)](./img/octopusFighting-AngleStep6.png)
 
   7. Flip the Off-On switch and let the video run.
   8. Upon completion of videoclip, run the codeblock below it_ 
 
-[ ![](./img/octopusFighting-AngleStep8.png)](.img/octopusFighting-AngleStep8.png)
+[ ![](./img/octopusFighting-AngleStep8.png)](./img/octopusFighting-AngleStep8.png)
 
   9. Save the data and repeat the procedure for the rest of the videoclips_ 
 
-[ ![](./img/octopusFighting-AngleStep9.png)](.img/octopusFighting-AngleStep9.png)
+[ ![](./img/octopusFighting-AngleStep9.png)](./img/octopusFighting-AngleStep9.png)
 
   10. Now it's time to write some code. Create a new Jupyter notebook and write a sequence of codeblocks that will_ 
     1. Load all the distance, angle, and gradient files.
@@ -282,7 +282,7 @@ Until both arrow look like this_
     5. Add some extra features like labels, lines of best fit, coloration!
 The end result shoud look like this_
 
-[ ![](./img/octopusFighting-AngleStep10.png)](.img/octopusFighting-AngleStep10.png)
+[ ![](./img/octopusFighting-AngleStep10.png)](./img/octopusFighting-AngleStep10.png)
 
 ## Science Fair Project Ideas
 

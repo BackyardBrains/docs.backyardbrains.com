@@ -43,7 +43,7 @@ For example, you have ever combed your hair on a dry day and noticed your hair
 begin to "float" towards your comb? This is because you have caused an
 electrical difference between your comb and your hair.
 
-[ ![](./img/Hair.jpeg)](.img/Hair.jpeg)
+[ ![](./img/Hair.jpeg)](./img/Hair.jpeg)
 
 When you comb your hair, the plastic comb "strips" electrons from your hair,
 making a difference in charge, or "voltage," between your hair and the comb.
@@ -65,7 +65,7 @@ interest (spikes) and is hopefully near nerves, and a "ground" electrode that
 ideally is in a part of the organism that has little electrical signal
 present.
 
-[ ![](./img/Exp1_fig11.jpeg)](.img/Exp1_fig11.jpeg)
+[ ![](./img/Exp1_fig11.jpeg)](./img/Exp1_fig11.jpeg)
 
 Why? Because you need a difference between the two electrodes to see your
 spikes. Spikes (action potentials) are exceedingly small, on the order of
@@ -75,7 +75,7 @@ travels down a nerve, and we have our recording and ground electrodes on
 opposite ends of the nerve. In the figure below, the spike is represented as a
 '+' on a surface of all '-' within the nerve.
 
-[ ![](./img/Assignment3point_d2.jpeg)](.img/Assignment3point_d2.jpeg)
+[ ![](./img/Assignment3point_d2.jpeg)](./img/Assignment3point_d2.jpeg)
 
 As the recording electrode encounters the spike, the result is an upward slash
 on our voltage-measuring scope. Then, when the spike is in between both the
@@ -106,7 +106,7 @@ your recording and ground electrodes, you need to think carefully about where
 you place your electrodes when recording neural signals. For example, consider
 the following three conditions:
 
-[ ![](./img/Spikelocation3.jpeg)](.img/Spikelocation3.jpeg)
+[ ![](./img/Spikelocation3.jpeg)](./img/Spikelocation3.jpeg)
 
 In the top condition (electrodes far away, but both in neural tissue), you are
 recording a "very crowded" mix of spikes from six neurons (as you would see
@@ -146,18 +146,18 @@ That's it!
   1. Set up your computer/mobile device for recording and prepare a cockroach leg as [previously learned](http://www.backyardbrains.com/experiments/spikerbox). 
   2. Put your recording electrode in the femur, and your ground (reference) electrode in the coxa as shown below. 
 
-[ ![](./img/Pinsinleg1.jpeg)](.img/Pinsinleg1.jpeg)
+[ ![](./img/Pinsinleg1.jpeg)](./img/Pinsinleg1.jpeg)
 
   3. Blow on the leg of your cockroach. Make note of whether the response is a broad "whoosh" of neural activity, or whether it is an individual spike train. 
   4. Carefully touch the barbs on the leg with a toothpick. Make note of whether the response is a "whoosh" or an individual spike train 
   5. Now move your ground electrode into the femur along with the recording electrode, as shown below. 
 
-[ ![](./img/Pinsinleg2.jpeg)](.img/Pinsinleg2.jpeg)
+[ ![](./img/Pinsinleg2.jpeg)](./img/Pinsinleg2.jpeg)
 
   6. Repeat steps 3-4 as above. 
   7. Finally, move both your ground and recording electrode into the coxa, as shown below. 
 
-[ ![](./img/Pinsleg3.jpeg)](.img/Pinsinleg3.jpeg)
+[ ![](./img/Pinsleg3.jpeg)](./img/Pinsinleg3.jpeg)
 
 What do you notice? Can you provide an explanation for the difference? Here is
 a [classic cockroach leg neuroanatomy

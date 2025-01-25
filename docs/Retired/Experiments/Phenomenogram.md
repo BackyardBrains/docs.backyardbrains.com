@@ -58,7 +58,7 @@ the optical illusions of the [Necker
 cube](https://en.wikipedia.org/wiki/Necker_cube) and the [Ruben
 vase.](https://en.wikipedia.org/wiki/Rubin_vase)
 
-[ ![](./img/Cubo_Vaso_juntos_web.jpg)](.img/Cubo_Vaso_juntos_web.jpg)
+[ ![](./img/Cubo_Vaso_juntos_web.jpg)](./img/Cubo_Vaso_juntos_web.jpg)
 
 Some types of [anagrams](https://en.wikipedia.org/wiki/Anagram), like the
 Spanish words for ham (jamón) and nun (monja), when pronounced repeatedly,
@@ -73,7 +73,7 @@ Therefore, it is for this that we created the Phenomenogram, a device capable
 of registering in real-time the perception of subjects during bistability
 experiments in a continuous manner.
 
-[ ![](./img/Fenomenogram.jpg)](.img/Fenomenogram.jpg)
+[ ![](./img/Fenomenogram.jpg)](./img/Fenomenogram.jpg)
 
 Our device can be analyzed together with brain activity data, such as that of
 [EEG](https://backyardbrains.com/experiments/eeg) or
@@ -131,21 +131,21 @@ In this design, we use the popular microcontroller Arduino with a custom
 shield for the human interface combined with a photoresistor cable for
 communicating with other devices wirelessly with light.
 
-[ ![](./img/WhatYouBuild.jpg)](.img/WhatYouBuild.jpg)
+[ ![](./img/WhatYouBuild.jpg)](./img/WhatYouBuild.jpg)
 
 **The Custom Shield**
 
   1. First of all, we need to assemble the body of our Phenomenogram Custom Shield. For this, solder all the headers of the Arduino ProtoShield on its Analog and Digital input holes. 
 
-[ ![](./img/Headers_Install2.jpg)](.img/Headers_Install2.jpg)
+[ ![](./img/Headers_Install2.jpg)](./img/Headers_Install2.jpg)
 
   2. Now, attach in the center proto-area a row of three female headers and another row of two headers somewhere else where you desire. On the three-header, connect, with jumper wires, the left position to 5V, the center position to Analog input A2, and the right header to GND. For the two-header, connect the right position to 5V and the left side to both A0 and a 10kΩ resistor going to GND. 
 
-[ ![](./img/Fenomenogram_Circuit2.jpg)](.img/Fenomenogram_Circuit2.jpg)
+[ ![](./img/Fenomenogram_Circuit2.jpg)](./img/Fenomenogram_Circuit2.jpg)
 
   3. This circuit diagram will be helpful as you build your circuit. 
 
-[ ![](./img/Fenomenograma_Diagram.jpg)](.img/Fenomenograma_Diagram.jpg)
+[ ![](./img/Fenomenograma_Diagram.jpg)](./img/Fenomenograma_Diagram.jpg)
 
   4. That's enough for now. We will attach it on the Arduino Uno later. 
 
@@ -154,7 +154,7 @@ communicating with other devices wirelessly with light.
   1. Now the accessories. Since we are going to register the perceptual pass from one stimulus to another, a knob that the human user moves to signal one percept vs. another will be useful. Take a 10kΩ linear potentiometer, and you will see it has three terminals on it. Solder a wire to each of the three terminals. Use different color wire for each connection; this will be a guide for later. 
   2. Now take three pin headers and solder them to the other side of each wire. Cover the joint with some heat shrinking tube to isolate and protect the solder joints. 
 
-[ ![](./img/Potentiometer.jpg)](.img/Potentiometer.jpg)
+[ ![](./img/Potentiometer.jpg)](./img/Potentiometer.jpg)
 
   3. This is going to be our human interface, where the human will turn the knob in positions to tell us his/her perception of monja vs jamón by moving the knob. The information will be sent to the computer through the Arduino micro-controller connected to the computer via a USB cable. 
 
@@ -162,36 +162,36 @@ communicating with other devices wirelessly with light.
 
   1. Our next task is to find a way that allows us to tell when an experiment began vs. when it ended. This is called an "event marker." These experiments on perception (it can be visual or audio) are run in a dark room with the human focuses on a black-background computer screen, and when a small white appears box in the corner of the screen, this signifies the beginning of a trial. Thus, we used a photoresistor that sends a different value to the Arduino depending on whether a white square (high luminance) or no-square (low luminance) is present. The photoresistor cable is affixed directly in front of the part of the screen where the white square appears.
 
-[ ![](./img/PantallaConLuz_Web.jpg)](.img/PantallaConLuz_Web.jpg)
+[ ![](./img/PantallaConLuz_Web.jpg)](./img/PantallaConLuz_Web.jpg)
 
   2. To build this photoresistor cable, take the audio cable and the photoresistor, cut the audio cable in half and expose the signal (typical red) and ground wire (typically bare wire). Solder each end of the photoresistor to the signal and ground wire of the audio cable (the polarity doesn't matter). Cover the solder joints with some electrical tape and heat shrink tubing to protect the joint. 
 
-[ ![](./img/PhotoResistor2.jpg)](.img/PhotoResistor2.jpg)
+[ ![](./img/PhotoResistor2.jpg)](./img/PhotoResistor2.jpg)
 
   3. Now take the phone cable jack and attach two wires to it - one on the signal terminal and the other on the ground terminal. Attach two pin male headers to the other end of the wires and, again, use heat shrink tubing to protect the joints. 
 
-[ ![](./img/AudioJack.jpg)](.img/AudioJack.jpg)
+[ ![](./img/AudioJack.jpg)](./img/AudioJack.jpg)
 
 **The "Cajita" - The whole thing**
 
   1. The only thing left to do is to put all the parts together. 
   2. Attach the ProtoShield to the Arduino 
 
-[ ![](./img/AttachTheShield.jpg)](.img/AttachTheShield.jpg)
+[ ![](./img/AttachTheShield.jpg)](./img/AttachTheShield.jpg)
 
   3. Connect the potentiometer cable to the three-header jack on the Proto-Shield (the orientation is important, use the photo below as a guide). 
   4. Attach the photoresistor cable jack to the two-header jack on the Proto-Shield (the orientation is NOT important here, unlike the potentiometer connection). 
 
-[ ![](./img/Connections_Fenomenogram.jpg)](.img/Connections_Fenomenogram.jpg)
+[ ![](./img/Connections_Fenomenogram.jpg)](./img/Connections_Fenomenogram.jpg)
 
   5. You can put all this inside a plastic box to protect the hardware and make the Phenomenogram look fancy. 
   6. Connect the photoresistor cable, the USB cable, add some sticker labels, and Voilà!, The hardware is complete. Once you've done this, just load the Arduino sketch using your computer USB interface and run the Processing sketch to begin exploring the changes of your perception! Use [this audio file](./files/Jamon_Monja_de_Ivo_Leiva.mp3) to test the switching of your perception. To record the data, press the "r" on your keyboard when the Processing Sketch is running. The .csv file has three columns_ time, reading of knob, and whether light was present or not (trial occurring or not), with a "1" or a "0". 
 
-[ ![](./img/Output_csv_web.jpg)](.img/Output_csv_web.jpg)
+[ ![](./img/Output_csv_web.jpg)](./img/Output_csv_web.jpg)
 
   7. Now go and study your own bistabiliy or that of someone else! and [let us know](mailto:tim@backyardbrains.com) if you find something interesting lurking in the corners of your perception of reality. 
 
-[ ![](./img/Fenomenograma_sin_labels.jpg)](.img/Fenomenograma_sin_labels.jpg)
+[ ![](./img/Fenomenograma_sin_labels.jpg)](./img/Fenomenograma_sin_labels.jpg)
 
 ## Discussion / Further Work
 

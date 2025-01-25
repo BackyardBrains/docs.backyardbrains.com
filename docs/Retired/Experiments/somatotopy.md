@@ -34,12 +34,12 @@ The spatial arrangement of your body has strikingly similar organization in
 your brain. For example, you have touch receptors in your fingers and palm
 that synapse with neurons that go to specific parts of the spinal cord...
 
-[ ![Exp4 fig1 labelled.jpg](./img/Exp4_fig1_labelled.jpg)](.img/Exp4_fig1_labelled.jpg)
+[ ![Exp4 fig1 labelled.jpg](./img/Exp4_fig1_labelled.jpg)](./img/Exp4_fig1_labelled.jpg)
 
 ...that then synapse with specific parts of the brain on up to the neocortex
 (wrinkly part of the brain).
 
-[ ![](./img/Exp4_brainfingerpalm.jpg) ](.img/Exp4_brainfingerpalm.jpg)
+[ ![](./img/Exp4_brainfingerpalm.jpg) ](./img/Exp4_brainfingerpalm.jpg)
 
 These are exquisite maps of your body, and you have many of these, such as
 maps for visual fields, hearing space, the position of your limbs, and more.
@@ -55,7 +55,7 @@ You brain learns, and it learns quickly. That's what it does. This can happen
 over the long term (learning to speak a different language) and over the short
 term (learning to ignore background noise).
 
-[ ![](./img/impetuousneuron_small.jpg) ](.img/impetuousneuron_small.jpg)
+[ ![](./img/impetuousneuron_small.jpg) ](./img/impetuousneuron_small.jpg)
 
 Though the mechanisms of learning are still a subject of healthy and active
 research (for example, we still do not know how [declarative memory is stored
@@ -67,7 +67,7 @@ The cockroach has a peripheral system, where neural input from its limbs is
 transmitted to its central nervous system of ganglia along its ventral nerve
 cord.
 
-[ ![](./img/gangliawithtext_small.jpg) ](.img/gangliawithtext_small.jpg)
+[ ![](./img/gangliawithtext_small.jpg) ](./img/gangliawithtext_small.jpg)
 
 You may think sensory adaptation occurs at the ganglia level, but it can
 actually happen in the first sensory neuron! We will measure this adaptation
@@ -79,7 +79,7 @@ the sensory barbs of the cockroach under magnification, so we will need to use
 our [Manipulator](https://backyardbrains.com/products/micromanipulator) and
 [RoachScope](https://backyardbrains.com/products/roachscope).
 
-[ ![](./img/Labsetup_small.jpg) ](.img/Labsetup_small.jpg)
+[ ![](./img/Labsetup_small.jpg) ](./img/Labsetup_small.jpg)
 
 ## Video
 

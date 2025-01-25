@@ -34,7 +34,7 @@ reaction times can produce big rewards, for example, like saving a blistering
 soccer ball from entering the goal. Slow reaction times may come with
 consequences.
 
-[ ![](./img/BYB_Exp3_Pic1.png)](.img/BYB_Exp3_Pic1.png)
+[ ![](./img/BYB_Exp3_Pic1.png)](./img/BYB_Exp3_Pic1.png)
 
 Reaction time is a measure of the quickness an organism responds to some sort
 of stimulus. You also have "reflexes" too. Reflexes and reactions, while
@@ -44,7 +44,7 @@ negative feedback loop and act to help return the body to its normal
 functioning stability, or homeostasis. The classic example of a reflex is one
 you have seen at your doctor's office: the patellar reflex.
 
-[ ![](./img/BYB_Exp3_Pic2.jpg)](.img/BYB_Exp3_Pic2.jpg)
+[ ![](./img/BYB_Exp3_Pic2.jpg)](./img/BYB_Exp3_Pic2.jpg)
 
 This reflex is called a stretch reflex and is initiated by tapping the tendon
 below the patella, or kneecap. It was first independently described in 1875 by
@@ -61,7 +61,7 @@ that is comprised of three main components:
 * Integrating center or interneuron. These neurons act as sensory processing centers that determine the magnitude of the response to the incoming stimulus. They are located in the central nervous system (your spinal cord). 
 * The efferent portion or motor neuron takes the information from the interneuron and sends it to the effectors which activate a response. The effectors are usually muscle fibers as in the patellar reflex or a gland such as the salivary gland. 
 
-[ ![](./img/BYB_Exp3_Pic3.png)](.img/BYB_Exp3_Pic3.png)
+[ ![](./img/BYB_Exp3_Pic3.png)](./img/BYB_Exp3_Pic3.png)
 
 ## Quick! We're timing you...
 
@@ -87,7 +87,7 @@ actually a symphony of hundreds of thousands of neurons working together to
 produce a conscious decision. Does the player catch, dodge, or bat away the
 ball? This choice is what makes a reaction.
 
-[ ![](./img/BYB_Exp3_Pic4.jpg)](.img/BYB_Exp3_Pic4.jpg)
+[ ![](./img/BYB_Exp3_Pic4.jpg)](./img/BYB_Exp3_Pic4.jpg)
 
 When a soccer player realizes the ball is blistering towards him, there is
 visual information that has to be processed and decisions regarding a correct
@@ -114,13 +114,13 @@ not know. Donders discovered a 1/15 second delay between patients who knew
 which foot was to be shocked versus patients that did not know. Notably, this
 was the first account of the human mind being measured!
 
-[ ![](./img/BYB_Exp3_Pic12.png)](.img/BYB_Exp3_Pic12.png)
+[ ![](./img/BYB_Exp3_Pic12.png)](./img/BYB_Exp3_Pic12.png)
 
 These efforts continue today, with the improvement of "non-invasive" imaging
 technologies like fMRI, PET, EEG, etc... You may have had one of these scans
 in the hospital.
 
-[ ![](./img/BYB_Exp3_Pic11.png)](.img/BYB_Exp3_Pic11.png)
+[ ![](./img/BYB_Exp3_Pic11.png)](./img/BYB_Exp3_Pic11.png)
 
 How quickly neurons move information is called the "speed of neural
 transmission"; we studied it in experiment 11 when we measured the conduction
@@ -141,7 +141,7 @@ ruler, while the second test will use two.
 Experiment 1: In this phase you and your partner will test visual, auditory,
 and tactile reaction times using one ruler.
 
-[ ![](./img/BYB_Exp3_Pic5.jpeg)](.img/BYB_Exp3_Pic5.jpeg)
+[ ![](./img/BYB_Exp3_Pic5.jpeg)](./img/BYB_Exp3_Pic5.jpeg)
 
   1. Have your friend sit at a table with their dominant hand over the edge. 
   2. First we will test visual response. Hold the ruler at the 30 cm mark so that the 0 cm end is just at your friend's index finger. 
@@ -154,7 +154,7 @@ and tactile reaction times using one ruler.
 
 ##### Here is the table for the first experiment:
 
-[ ![](./img/BYB_Exp3_Pic6.png)](.img/BYB_Exp3_Pic6.png)
+[ ![](./img/BYB_Exp3_Pic6.png)](./img/BYB_Exp3_Pic6.png)
 
 Experiment 2: In this phase you and your partner will test visual and auditory
 reaction times using two rulers.
@@ -171,7 +171,7 @@ reaction times using two rulers.
 
 ##### Here is the table for the second experiment:
 
-[ ![](./img/BYB_Exp3_Pic7.png)](.img/BYB_Exp3_Pic7.png)
+[ ![](./img/BYB_Exp3_Pic7.png)](./img/BYB_Exp3_Pic7.png)
 
 ## Math
 
@@ -184,11 +184,11 @@ certain distance. The formula below is comprised of three variables.
 * g0 = the acceleration due to gravity constant (980 cm/sec2 ) 
 * t = time in seconds 
 
-[ ![](./img/BYB_Exp3_Pic8.png)](.img/BYB_Exp3_Pic8.png)
+[ ![](./img/BYB_Exp3_Pic8.png)](./img/BYB_Exp3_Pic8.png)
 
 Here is an example of the equation being used:
 
-[ ![](./img/BYB_Exp3_Pic9.png)](.img/BYB_Exp3_Pic9.png)
+[ ![](./img/BYB_Exp3_Pic9.png)](./img/BYB_Exp3_Pic9.png)
 
 It may seem tedious to convert by hand each number you recorded so instead you
 will be provided with a quick chart to convert your centimeter measurement to
@@ -197,7 +197,7 @@ to fill them out to complete the table. Use the equation above to fill out the
 remainder of the chart. If you are savvy you can also design a computer
 program to do this.
 
-[ ![](./img/BYB_Exp3_Pic10.png)](.img/BYB_Exp3_Pic10.png)
+[ ![](./img/BYB_Exp3_Pic10.png)](./img/BYB_Exp3_Pic10.png)
 
 After using the chart and converting your centimeter measurements into seconds
 you will have your ruler reaction time in seconds. Looking at your data you

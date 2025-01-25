@@ -45,7 +45,7 @@ activates the coined "[fight or flight](https://en.wikipedia.org/wiki/Fight-or-f
 activates the also-coined "[rest and digest](https://en.wikipedia.org/wiki/Parasympathetic_nervous_system)"
 response).
 
-[ ![](./img/AutonomicNervousSystem_web.jpg)](.img/AutonomicNervousSystem_web.jpg)
+[ ![](./img/AutonomicNervousSystem_web.jpg)](./img/AutonomicNervousSystem_web.jpg)
 
 We can study the effects of the sympathetic nervous activation by measuring
 heart rate. In our previous [heart rate experiment](https://backyardbrains.com/experiments/heartrate) we observed the 
@@ -66,7 +66,7 @@ enter the bloodstream instead of the synaptic cleft to find their targets, and
 instead of response times of 1 ms in the brain, hormones have response times
 in the scale of seconds to minutes on multiple structures in the body.
 
-[ ![](./img/synapse2_web.jpg)](.img/synapse2_web.jpg)
+[ ![](./img/synapse2_web.jpg)](./img/synapse2_web.jpg)
 
 For example, when the sympathetic nervous system is activated, the pituitary
 gland, which anatomically branches off of the hypothalamus in the brain,
@@ -75,7 +75,7 @@ cortisol levels, causing various physiological changes including heart rate
 increase. Simultaneously, the adrenal gland, a neural ganglion located on the
 kidneys, releases norepinephrine and has a similar effect on the heart.
 
-[ ![](./img/Walter_Cannon_web.jpg)](.img/Walter_Cannon_web.jpg)
+[ ![](./img/Walter_Cannon_web.jpg)](./img/Walter_Cannon_web.jpg)
 
 To activate your sympathetic nervous system, we will use the famous "ice
 water" stimulus. This [is often used](https://en.wikipedia.org/wiki/Cold_pressor_test) in pain studies as
@@ -85,7 +85,7 @@ replicate in labs around the world. The longer you keep your hand in ice
 water, the more painful it becomes, activating your sympathetic nervous
 system, which will lead to an increase in heart rate.
 
-[ ![](./img/Vidal_Hand_IceWater_web.jpg)](.img/Vidal_Hand_IceWater_web.jpg)
+[ ![](./img/Vidal_Hand_IceWater_web.jpg)](./img/Vidal_Hand_IceWater_web.jpg)
 
 Now let's see it for ourselves!
 
@@ -120,7 +120,7 @@ Now let's see it for ourselves!
 * Set up your SpikeRecorder software to begin recording heart rate. This is done by connecting your Heart and Brain SpikerShield to your computer via USB port, turning on the power line noise notch filter of 60 Hz (USA) or 50 Hz (Europe, South America) depending on the country you live in, and the general band-pass filters from 1-100 Hz. Go into threshold mode, click the heart icon, and move the threshold until your can isolate and calculate the heart rate. 
 * Note if the electrocardiogram appears weird (upside down), interchange the two red alligator clips to opposite forearms. 
 
-[ ![](./img/Upside-Down-Heart2.jpg)](.img/Upside-Down-Heart2.jpg)
+[ ![](./img/Upside-Down-Heart2.jpg)](./img/Upside-Down-Heart2.jpg)
 
 * Press the record button, write down the heart rate of the friend you are recording from, then... 
 * Have your friend place their hand in the ice water, but leaving the upper forearms exposed so that the electrodes are not submerged. 
@@ -139,14 +139,14 @@ arteries in peripheral tissues and limbs contract. This limits blood flow to
 organs not related to the dive, reduces oxygen consumption of the heart, and
 maintains blood flow to the brain.
 
-[ ![](./img/Vista_Valdivia_web.jpg)](.img/Vista_Valdivia_web.jpg)
+[ ![](./img/Vista_Valdivia_web.jpg)](./img/Vista_Valdivia_web.jpg)
 
 But did you know that this response exists in all mammals, including you? When
 cold water contacts your face and you hold your breath, we can see the "Diving
 Reflex" as a decrease in heart rate. We can do variations to separate out the
 effects of water contact on the face versus simply holding your breath.
 
-[ ![](./img/AllAnimalsSwimming_web.jpg)](.img/AllAnimalsSwimming_web.jpg)
+[ ![](./img/AllAnimalsSwimming_web.jpg)](./img/AllAnimalsSwimming_web.jpg)
 
 **Heart Rate Diving Response Experiment**
 

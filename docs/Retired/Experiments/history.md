@@ -59,7 +59,7 @@ potentials](https://backyardbrains.com/experiments/microstimulation) at all,
 or whether the muscle contraction was just a direct result of electrical
 stimulation.
 
-[ ![](./img/MuscleAmp_eng.jpg)](.img/MuscleAmp_eng.jpg)
+[ ![](./img/MuscleAmp_eng.jpg)](./img/MuscleAmp_eng.jpg)
 
 By the mid-19th century, galvanometers had been invented, and it was possible
 to see that nerves were indeed generating their own action potentials. These
@@ -71,7 +71,7 @@ suspended by the plate would deflect. These devices worked, but the needle
 movement was not fast enough to separate the 1 ms individual action
 potentials, and the machines occupied a lot of time to construct.
 
-[ ![](./img/Galvanometro_eng.jpg)](.img/Galvanometro_eng.jpg)
+[ ![](./img/Galvanometro_eng.jpg)](./img/Galvanometro_eng.jpg)
 
 In the late 19th century, French scientist Gabriel Lippmann invented the
 capillary electrometer, which consisted of a test tube filled with mercury and
@@ -84,7 +84,7 @@ Electrometers were sensitive but, like the early galvanometers, also suffered
 from mechanical sloth (the meniscus did not change fast enough to isolate
 individual action potentials).
 
-[ ![](./img/CapillaryElectrometer_eng.jpg)](.img/CapillaryElectrometer_eng.jpg)
+[ ![](./img/CapillaryElectrometer_eng.jpg)](./img/CapillaryElectrometer_eng.jpg)
 
 In 1902, on the cusp of the radio age and electronic revolution, Wilhelm
 Einhoven invented the most sensitive amplifier yet, the string galvanometer.
@@ -97,7 +97,7 @@ used his string galvanometer to record the
 [Electrocardiogram](https://backyardbrains.com/experiments/heartrate), for
 which he is famous.
 
-[ ![](./img/String_Galvanometro_eng.jpg)](.img/String_Galvanometro_eng.jpg)
+[ ![](./img/String_Galvanometro_eng.jpg)](./img/String_Galvanometro_eng.jpg)
 
 And thus the electro-mechanical era came to an end and gave way to the radio /
 electronic era. The radio pioneer Lee De Forest invented his [ Audion
@@ -112,7 +112,7 @@ Adrian](https://en.wikipedia.org/wiki/Edgar_Adrian,_1st_Baron_Adrian), [Hodgkin
 finally isolate and understand the action potential. Sweden gave out many
 medals.
 
-[ ![](./img/Audio_Triode_eng.jpg)](.img/Audio_Triode_eng.jpg)
+[ ![](./img/Audio_Triode_eng.jpg)](./img/Audio_Triode_eng.jpg)
 
 Vacuum tubes were used extensively in the first half of the 20th century, but
 they were notoriously fragile and power hungry. To improve the reliability of
@@ -124,7 +124,7 @@ Thus, in the 50's and 60's scientists began using transistor-based amplifiers
 to measure neural signals. The transistor also had an [important cultural
 impact](https://www.youtube.com/watch?v=kqXSBe-qMGo) on the youth of the era.
 
-[ ![](./img/Transistor_eng.jpg)](.img/Transistor_eng.jpg)
+[ ![](./img/Transistor_eng.jpg)](./img/Transistor_eng.jpg)
 
 But, a problem remained to be solved in circuit design; you still had to
 solder wires, transistors, capacitors, and resistors together to build a
@@ -136,7 +136,7 @@ epoch would have required a couple hundred of components, rather than the 24
 discrete parts it currently has today. Would it be possible to make a complex
 circuit on a monolithic piece of silicon? In 1958 the possibility became.
 
-[ ![](./img/IntegratedCircuit_eng.jpg)](.img/IntegratedCircuit_eng.jpg)
+[ ![](./img/IntegratedCircuit_eng.jpg)](./img/IntegratedCircuit_eng.jpg)
 
 With the development of integrated circuits, we entered the modern era, and
 this is why your SpikerBox has three integrated circuits (three chips!) in its
@@ -145,7 +145,7 @@ less power hungry, and it becomes easier and easier to build electronic boards
 at low cost.... and there is still [plenty of room at the
 bottom](https://en.wikipedia.org/wiki/There%27s_Plenty_of_Room_at_the_Bottom).
 
-[ ![](./img/ModernElectronics_eng.jpg)](.img/ModernElectronics_eng.jpg)
+[ ![](./img/ModernElectronics_eng.jpg)](./img/ModernElectronics_eng.jpg)
 
 ## 2\. Recording/Visualization
 
@@ -157,7 +157,7 @@ the kymograph, also known as the "smoked drum." This was sufficient for slower
 physiological events like respiration and muscle movement, but not fast enough
 to record neural signals.
 
-[ ![](./img/Kymograph.jpg)](.img/Kymograph.jpg)
+[ ![](./img/Kymograph.jpg)](./img/Kymograph.jpg)
 
 The technology for inventing a recording device rapid enough the visualize the
 action potential was not available in the 19th century, but [Julius
@@ -174,9 +174,9 @@ Julius, venne, e vide e vinse. Test your German and read the 38 page paper.
 [On the last page](files/Source-bernstein1868.pdf), Figure C, our first
 glimpse is revealed.
 
-[ ![](./img/Rheotome.jpg)](.img/Rheotome.jpg)
+[ ![](./img/Rheotome.jpg)](./img/Rheotome.jpg)
 
-[ ![](./img/negativen_Schwankung_web.jpg)](.img/negativen_Schwankung_web.jpg)
+[ ![](./img/negativen_Schwankung_web.jpg)](./img/negativen_Schwankung_web.jpg)
 
 But, beyond the Bernstein Rheotome, the technology of recording and
 visualization was limited to photography, videography, and paper machines_ All
@@ -186,7 +186,7 @@ three techniques though did allow for steady progress in
 [Electrocardiography](https://backyardbrains.com/experiments/heartrate)
 (EKG's), and general physiology of respiration and movement.
 
-[ ![](./img/Film_and_Paper.jpg)](.img/Film_and_Paper.jpg)
+[ ![](./img/Film_and_Paper.jpg)](./img/Film_and_Paper.jpg)
 
 But, to see the individual, un-averaged action potential, live and direct, it
 took the invention of vacuum tubes, and their subsequent transformation into
@@ -199,7 +199,7 @@ Western Electric oscilloscope, no self-respecting electrophysiology lab today
 is without a [descendent](https://en.wikipedia.org/wiki/Oscilloscope) of this
 device.
 
-[ ![](./img/Oscilloscopes.jpg)](.img/Oscilloscopes.jpg)
+[ ![](./img/Oscilloscopes.jpg)](./img/Oscilloscopes.jpg)
 
 Now, with the oscilloscope, we could see the action potential, but how can we
 record it for later data analysis? Indeed, Gasser and Erlanger above simply
@@ -209,14 +209,14 @@ invented, scientists could have high-fidelity storage of their neural data. If
 you talk to an electrophysiologist who has some miles (>60 years), they may
 indeed have some of their graduate thesis data stored on magnetic tape.
 
-[ ![](./img/MagneticTape.jpg)](.img/MagneticTape.jpg)
+[ ![](./img/MagneticTape.jpg)](./img/MagneticTape.jpg)
 
 And now, today, we find ourselves in the computer and mobile era, [where we
 can see and record neural
 data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0030837)
 anywhere we go, anywhere in the world.
 
-[ ![](./img/ModernComputerEra.jpg)](.img/ModernComputerEra.jpg)
+[ ![](./img/ModernComputerEra.jpg)](./img/ModernComputerEra.jpg)
 
 ## 3\. Data Analysis
 
@@ -227,7 +227,7 @@ significance of the Computer Revolution, it is [extremely well
 documented](https://www.youtube.com/watch?v=sX5g0kidk3Y), and we do not occupy
 ourselves in its very wonderful story here.
 
-[ ![](./img/Analysis.jpg)](.img/Analysis.jpg)
+[ ![](./img/Analysis.jpg)](./img/Analysis.jpg)
 
 ## The Future Speculative
 
@@ -247,7 +247,7 @@ nerds- shaving the skull to a very thin thickness doesn't count). In addition,
 these experiments often require lasers, 2-Photon Microscopes, and equipment
 that takes up a whole room. The optics revolution remains to manifest.
 
-[ ![](./img/SensitiveDyes_Now.jpg)](.img/SensitiveDyes_Now.jpg)
+[ ![](./img/SensitiveDyes_Now.jpg)](./img/SensitiveDyes_Now.jpg)
 
 To record individual neurons in a human brain, as we [have stated
 before](https://backyardbrains.com/experiments/eeg), you need to open the
@@ -256,7 +256,7 @@ used beyond medical necessity. But, perhaps, as electronics become smaller and
 more energy-efficient, "Nano-Amplifier-Bots" could be ingested that cross the
 blood brain barrier, attach to neurons, and wirelessly transmit neurosignals.
 
-[ ![](./img/NanoRobots_NearFuture.jpg)](.img/NanoRobots_NearFuture.jpg)
+[ ![](./img/NanoRobots_NearFuture.jpg)](./img/NanoRobots_NearFuture.jpg)
 
 Such technology would indeed be revolutionary, but only partially, as it still
 requires we "put something" in the body, a crude technique. Will there be a
@@ -270,7 +270,7 @@ remains a stubborn force to tackle. Perhaps new understandings will lead to
 new interfaces and the ability to detect and amplify the voltage of anything
 from afar.
 
-[ ![](./img/Valdivia_SuperFuture.gif)](.img/Valdivia_SuperFuture.gif)
+[ ![](./img/Valdivia_SuperFuture.gif)](./img/Valdivia_SuperFuture.gif)
 
 Now invent the future!
 

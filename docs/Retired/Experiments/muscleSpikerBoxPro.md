@@ -66,7 +66,7 @@ a needle.
 Let's talk more about these "antagonistic pairs". A great example pair is your
 biceps brachii and triceps brachii.
 
-[ ![](./img/BicepTricepBone.gif)](.img/BicepTricepBone.gif)
+[ ![](./img/BicepTricepBone.gif)](./img/BicepTricepBone.gif)
 
 Before we go any further, we need to first review a few anatomical terms of
 motion. "Flexion" is a bending movement where the angle between two parts
@@ -82,7 +82,7 @@ designations are intrinsic, meaning they are an unchangeable property of the
 muscle. This means that contracting a flexor muscle will always exhibits
 flexion and never extension (and vice versa for contracting extensor muscles).
 
-[ ![](./img/flexextend.jpg)](.img/flexextend.jpg)
+[ ![](./img/flexextend.jpg)](./img/flexextend.jpg)
 
 Okay, so now that we have our terms of motion established we can discuss these
 antagonistic pairs properly! The two muscles in an antagonistic pair are in
@@ -98,7 +98,7 @@ away from you, your triceps is an agonist, contracting to extend your arm.
 Your biceps is an antagonist, relaxing to allow elongation while possibly
 contracting ever-so-lightly to control the speed of that moving forearm.
 
-[ ![](./img/antagExt.png)](.img/antagExt.png)
+[ ![](./img/antagExt.png)](./img/antagExt.png)
 
 When your hand is moving back in during your waving motion your biceps is an
 agonist, flexing your arm towards you. In this case, your triceps is an
@@ -107,7 +107,7 @@ that unlike the intrinsic designations of the flexors and extensors, the two
 roles of antagonistic pairs are dependent on the motion. If the motion is
 reversed, the agonist and the antagonist switch roles.
 
-[ ![](./img/antagflex.png)](.img/antagFlex.png)
+[ ![](./img/antagflex.png)](./img/antagFlex.png)
 
 It's not always this simple though! In some movements, such as a push-up, the
 agonist doesn't change with the direction of motion. During push-ups, the
@@ -135,15 +135,15 @@ simply just to stay balanced and upright.
 Now let's put that Muscle SpikerBox Pro to use by investigating our favorite
 antagonistic pair.
 
-[ ![](./img/MuscleProExp13.jpg)](.img/MuscleProExp13.jpg)
+[ ![](./img/MuscleProExp13.jpg)](./img/MuscleProExp13.jpg)
 
   1. Place two of your sticker electrode patches on your biceps and connect the 2 red alligator clips from channel 1 (the left input jack) to the metal nub of the electrodes. Then place two electrode stickers on your triceps and connect the channel 2 red cables to them. Finally, place one sticker electrode on the back of your hand and connect both black alligator clips (from ch1 & ch2) to this electrode. 
 
-[ ![](./img/bicep_tricep_Red.jpg)](.img/bicep_tricep_Red.jpg)
+[ ![](./img/bicep_tricep_Red.jpg)](./img/bicep_tricep_Red.jpg)
 
   2. Begin by opening the [SpikeRecorder](https://backyardbrains.com/products/spikerecorder) software. Next, connect your MusclePro to your computer using the red USB cable. When you do, you should see a new button pop up on your screen. This is the button to pair your MusclePro to the App. 
 
-[ ![](./img/MuscleProExp3.jpg)](.img/MuscleProExp3.jpg)
+[ ![](./img/MuscleProExp3.jpg)](./img/MuscleProExp3.jpg)
 
   3. To listen to your EMG signals, adjust the gain by rotating the thumbwheel until you hear activity during contraction of your biceps and your triceps. Now, look at the app and make sure you can see your signals! If the signals are clipping (hitting the tops and bottoms of the window), you can adjust the in-app gain with the + and - buttons on the left side of each signal individually. 
   4. Now, look at your raw signals. In the above example, the red signal is experiencing some noisy interference! IF you encounter electrical interference like this, try unplugging your laptop from the wall socket or moving to someplace less "noisy." 
@@ -161,7 +161,7 @@ in this data? First, neither muscle is totally relaxed during either movement,
 but there definitely is a difference in magnitude! When the biceps signal is
 strong, the triceps signal is weaker, and vice versa!
 
-[ ![](./img/MuscleProExp4.jpg)](.img/MuscleProExp4.jpg)
+[ ![](./img/MuscleProExp4.jpg)](./img/MuscleProExp4.jpg)
 
 Pump up your gestural greeting with extra muscular effort (wave with muscle!)
 so you can visualize/hear the EMG better. Don't go for speed, go for strength!
@@ -169,7 +169,7 @@ This should make the differences in your signals much more dramatic like you
 can see below. Can you use your two EMGs to verify which muscle is the agonist
 when you flex your arm? How about when you extend your arm?
 
-[ ![](./img/MuscleProExp5.jpg)](.img/MuscleProExp5.jpg)
+[ ![](./img/MuscleProExp5.jpg)](./img/MuscleProExp5.jpg)
 
 B) The antagonist muscle might show spiking as well, why do you think? Try to
 explore your arm motions until you can completely relax the antagonist (no
@@ -179,7 +179,7 @@ spikes).
 
 Here are our results (again, biceps red, triceps green):
 
-[ ![](./img/MuscleProExp6.jpg)](.img/MuscleProExp6.jpg)
+[ ![](./img/MuscleProExp6.jpg)](./img/MuscleProExp6.jpg)
 
 This screenshot above shows the two EMGs during the two phases of a push-up.
 Beginning with arms extended and then lowering down, the biceps look like the
@@ -190,7 +190,7 @@ role of the agonist.
 
 ### Further experimentation suggestions:
 
-[ ![](./img/MuscleProExp14.jpg)](.img/MuscleProExp14.jpg)
+[ ![](./img/MuscleProExp14.jpg)](./img/MuscleProExp14.jpg)
 
 Can you think of other antagonistic pairs in your body? Test out your
 hypothesis by recording EMGs from those two muscles to see if you are right.
@@ -201,7 +201,7 @@ when you are standing or sitting still. The Muscle SpikerBox Pro can also let
 you compare your muscles to your friends'. Observe your EMGs while arm
 wrestling!
 
-[ ![](./img/ArmWrestlersPRO.jpg)](.img/ArmWrestlersPRO.jpg)
+[ ![](./img/ArmWrestlersPRO.jpg)](./img/ArmWrestlersPRO.jpg)
 
 Or try a hands-free arm wrestling match. Winner goes to whoever can keep their
 spikes up longer!

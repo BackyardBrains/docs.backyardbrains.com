@@ -48,7 +48,7 @@ in devices controlled by digital systems, like robotics, automation, and, of
 course, our favorite, 3D printers!
 
 [
-![](./img/StepperMotorConfiguration_web.jpg)](.img/StepperMotorConfiguration_web.jpg)
+![](./img/StepperMotorConfiguration_web.jpg)](./img/StepperMotorConfiguration_web.jpg)
 
 **What are advantages of Stepper motors?**() The axis of a stepper motor
 rotates at regular intervals instead of doing it continuously like DC (direct
@@ -70,7 +70,7 @@ positioning, in addition to other cables such as power and ground.
 
 **Circuit of Stepper Motor**
 
-[ ![](./img/Stepper_Schematic_web.jpg)](.img/Stepper_Schematic_web.jpg)
+[ ![](./img/Stepper_Schematic_web.jpg)](./img/Stepper_Schematic_web.jpg)
 
 **How is a Stepper Motor different from a DC Motor?**
 
@@ -81,7 +81,7 @@ common motors you find in radiocontrol cars and other toys.
 A DC motor has two terminals, (+) and (-). Electric current is generated
 through this terminals making the motor spin in a determinate direction.
 
-[ ![](./img/DCMotor_web.jpg)](.img/DCMotor_web.jpg)
+[ ![](./img/DCMotor_web.jpg)](./img/DCMotor_web.jpg)
 
 **How is a Stepper Motor different from a Servo Motor?**
 
@@ -92,7 +92,7 @@ geared transmission (transmission gears not shown below.) The chips are
 monitoring the position of the axis and maintaining its position via feedback
 control.
 
-[ ![](./img/Servo-Stepper_web.jpg)](.img/Servo-Stepper_web.jpg)
+[ ![](./img/Servo-Stepper_web.jpg)](./img/Servo-Stepper_web.jpg)
 
 #### Downloads
 

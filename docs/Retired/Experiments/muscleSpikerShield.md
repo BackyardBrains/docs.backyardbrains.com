@@ -58,7 +58,7 @@ in the bowl (the input). Then the microcontroller reads that information and,
 if the weight of the food in the bowl is under a certain threshold, commands
 the food hopper to pour more food in the bowl.
 
-[ ![](./img/cat_microcontroller2_web.jpg)](.img/cat_microcontroller2_web.jpg)
+[ ![](./img/cat_microcontroller2_web.jpg)](./img/cat_microcontroller2_web.jpg)
 
 Now that we've fed the cat, let's get back to business with the [Muscle
 SpikerShield](https://backyardbrains.com/products/muscleSpikershieldBundle).
@@ -70,7 +70,7 @@ use that signal in our Arduino code, we convert the analog signal into a
 digital signal, breaking it up into a series of discrete numbers, making it
 easier to understand the signal and plug it into our code.
 
-[ ![](./img/Final_AD_conversion_web.jpg)](.img/Final_AD_conversion_web.jpg)
+[ ![](./img/Final_AD_conversion_web.jpg)](./img/Final_AD_conversion_web.jpg)
 
 So, to recap, the SpikerShield allows you to record your muscle's electrical
 activity and send it into the arduino, which can then analyze this information
@@ -79,7 +79,7 @@ now control neuroprosthetics (like a robot arm), video games, or even, as
 we're about to see... LEDs!
 
 [
-![](./img/light2_microcontroller_web.jpg)](.img/light2_microcontroller_web.jpg)
+![](./img/light2_microcontroller_web.jpg)](./img/light2_microcontroller_web.jpg)
 
 #### Downloads
 
@@ -113,23 +113,23 @@ we're about to see... LEDs!
 
   1. Let's get started! If you purchased the SpikerShield Bundle, everything is ready to go out of the box! But, for the sake of learning, let's say you're starting from scratch. This experiment will guide you through setting up and programming the arduino. 
 
-[ ![](./img/SpikerShieldImg1.jpg)](.img/SpikerShieldImg1.jpg)
+[ ![](./img/SpikerShieldImg1.jpg)](./img/SpikerShieldImg1.jpg)
 
   2. First, mate the Muscle SpikerShield on top of the Arduino, aligning all the pins on the shield to the female headers on the Arduino. In this experiment we are using the first Analog input (A0), so be sure to jumper the input select to 1. **Note_** your Arduino can run on an external USB power source or the included battery leash once your code has been uploaded, but you need to use your computer to upload your code and to view the serial monitor. Plug it in to your computer now! 
 
-[ ![](./img/SpikerShieldImg2.jpg)](.img/SpikerShieldImg2.jpg)
+[ ![](./img/SpikerShieldImg2.jpg)](./img/SpikerShieldImg2.jpg)
 
   3. Download our [led_strip2014_highergain.ino](./files/led_strip2014_highergain.ino.zip) sketch (also mentioned above) and upload it to your arduino. 
 
-[ ![](./img/SpikerShieldImg3.jpg)](.img/SpikerShieldImg3.jpg)
+[ ![](./img/SpikerShieldImg3.jpg)](./img/SpikerShieldImg3.jpg)
 
   4. Then connect the orange electrode cable wire from the Muscle SpikerShield to some electrodes on your arms. Hook the two red clips onto your arm and place the black one on the back of your wrist. You can also plug in a speaker to hear your muscle activity alongside the visual outputs! 
 
-[ ![](./img/SpikerShieldImg9.jpg)](.img/SpikerShieldImg9.jpg)
+[ ![](./img/SpikerShieldImg9.jpg)](./img/SpikerShieldImg9.jpg)
 
   5. Open the Arduino serial monitor from the IDE to check the values. The values on the left are our digitized inputs. The values on the right are the number of LEDs which will light up at that signal strength! If you get larger values when you flex your muscles, and values near zero when you don't, then everything is working ok! If not, make sure all cables are connected correctly and nothing is loose. You may find connecting a portable speaker to the Muscle SpikerShield to be helpful so you can hear your muscle activity as well. 
 
-[ ![](./img/SpikerShieldImg6.jpg)](.img/SpikerShieldImg6.jpg)
+[ ![](./img/SpikerShieldImg6.jpg)](./img/SpikerShieldImg6.jpg)
 
   6. If you didn't notice already, you're controlling the LEDs on the SpikerShield with your muscles! You should see the LEDs light up according to how hard you flex! If you feel the LEDs don't light up proportionately to your arm strength, you can adjust the sensitivity with the white button on the shield. You can also tweak the MAX constant from 4 to another value until the represented value is proportional to your strength. If the electrodes light up really easily, increase this value - if you are having a hard time making all the electrodes light up, lower it! 
     
@@ -142,7 +142,7 @@ we're about to see... LEDs!
 
   7. Your SpikerShield can also run on an external USB battery or our included 9v Battery Leash. Be sure you're plugging the battery into the barrel jack on the Arduino and not the SpikerShield. The barrel jack on the shield is to supply power to our next experiment... the Claw! 
 
-[ ![](./img/SpikerShieldImg8.jpg)](.img/SpikerShieldImg8.jpg)
+[ ![](./img/SpikerShieldImg8.jpg)](./img/SpikerShieldImg8.jpg)
 
   8. Finally, if your SpikerShield came as part of a kit (Such as the HHI or Claw Bundle), then you will want to upload code onto it which will allow the Claw and the Human-to-Human-Interface to run. [Default Code.](https://raw.githubusercontent.com/BackyardBrains/Muscle-SpikerShield/master/V2_61/Muscle-SpikerShield/Muscle-
 SpikerShield.ino)

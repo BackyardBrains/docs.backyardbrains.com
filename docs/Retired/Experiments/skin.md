@@ -71,7 +71,7 @@ several layers, an epidermis, dermis, and hypodermis. The epidermis is the
 outermost layer and is really just layers of dead skin cells that are
 constantly being shed off and replaced.
 
-[ ![](./img/BYB_Exp2_Pic6.png)](.img/BYB_Exp2_Pic6.png)
+[ ![](./img/BYB_Exp2_Pic6.png)](./img/BYB_Exp2_Pic6.png)
 
 Most of the tactile feel we receive is gathered by 4 types of mechanoreceptors
 which are found in both layers of skin. The two receptors located near the top
@@ -81,9 +81,9 @@ German.
   1. First discovered in 1875 by German anatomist, Friedrich Merkel, these mechanoreceptors constantly fire action potentials, that is, they constantly send signals to the brain as long as the stimulus is touching skin. This receptor is specifically tuned to sense fine detail; for example, the details of Lincoln's face on a penny. This receptor is located in between the dermis and epidermis. 
   2. Anatomist Georg Meissner, another German scientist, first described the "Meissner" receptors in 1852. Meissner corpuscles are specialized for controlling hand grip; These are found in the upper dermis. They also fire only when a stimulus is first applied and then when it is removed. For example, when you grab a glass of water they fire, and once again when you let go of the glass. Notice that this type of coding is very different from the cockroach and cricket "rate coding" responses we have observed in [Getting Started with your SpikerBox](spikerbox), [Rate Coding](ratecoding), [Neural Adaptation](somatotopy) and [Spike Referencing](referencing), but slightly similar to the earthworm touch coding experiments we see in [Introduction to Conduction Velocity (Neural Speed)](speed).
 
-[ ![](./img/BYB_Exp2_Pic3.png)](.img/BYB_Exp2_Pic3.png)
+[ ![](./img/BYB_Exp2_Pic3.png)](./img/BYB_Exp2_Pic3.png)
 
-[ ![](./img/BYB_Exp2_Pic2.png)](.img/BYB_Exp2_Pic2.png)
+[ ![](./img/BYB_Exp2_Pic2.png)](./img/BYB_Exp2_Pic2.png)
 
 The other two mechanoreceptors located deep in the dermis and hypodermis layer
 and are the Ruffini and Pacinian corpuscle. These are Italian.
@@ -91,9 +91,9 @@ and are the Ruffini and Pacinian corpuscle. These are Italian.
   1. Italian embryologist Angelo Ruffini discovered the "Ruffini" corpuscle in the early 1900s. It is sensitive to stretching of the skin and much like Merkel receptors, it fires continuously to stimuli. It is located in both the deep dermis and hypodermis. 
   2. The Pacinian corpuscle was named after a famous Italian anatomist, Filippo Pacini, who discovered it in the 1830s. These receptors respond to very fine detail by moving fingers, such as reading Braille. They are also selective to vibrations. They are similar to Meissner receptors in the way they fire and send signals. They act like an on/off switch that responds when a stimulus is applied and again when it is removed. It is located deep in the dermis region.
 
-[ ![](./img/BYB_Exp2_Pic5.png)](.img/BYB_Exp2_Pic5.png)
+[ ![](./img/BYB_Exp2_Pic5.png)](./img/BYB_Exp2_Pic5.png)
 
-[ ![](./img/BYB_Exp2_Pic4.png)](.img/BYB_Exp2_Pic4.png)
+[ ![](./img/BYB_Exp2_Pic4.png)](./img/BYB_Exp2_Pic4.png)
 
 All these receptors send signals to the spinal cord and eventually a part of
 the brain called the somatosensory cortex in the parietal lobe. This part of
@@ -101,7 +101,7 @@ your brain integrates sensory information. This specific flow of information
 follows the principle of "somatotopy", which we also discussed in the
 experiment in [Neural Adaptation](somatotopy).
 
-[ ![](./img/spinalCordSkin.jpeg)](.img/spinalCordSkin.jpeg)
+[ ![](./img/spinalCordSkin.jpeg)](./img/spinalCordSkin.jpeg)
 
 ## Materials
 
@@ -112,7 +112,7 @@ experiment in [Neural Adaptation](somatotopy).
   3. Writing Utensil 
   4. Eye Shades 
 
-[ ![](./img/BYB_Exp2_Pic1.png)](.img/BYB_Exp2_Pic1.png)
+[ ![](./img/BYB_Exp2_Pic1.png)](./img/BYB_Exp2_Pic1.png)
 
 ## Procedure
 
@@ -134,7 +134,7 @@ their eyes closed (use the eye shades to be sure)!
   2. Have your partner place the eye shades on and sit in a chair with a table in front of them. Then your partner places their arm on the table with their palm facing up. Now you takes the calipers, make sure they read 0 mm, and start with your partner's finger tip. 
   3. Touch the calipers to their finger tip and ask them if they feel one point or two points. They should say one point, as the measurement is 0mm. Remove the calipers and increase the space by 2 mm. Reapply the calipers, be sure to touch both tips at the same time, and ask again. If they still only feel one point, increase by another 2 mm and reapply. 
 
-[ ![](./img/BYB_Exp2_Pic9a.png)](.img/BYB_Exp2_Pic9a.png)
+[ ![](./img/BYB_Exp2_Pic9a.png)](./img/BYB_Exp2_Pic9a.png)
 
   4. Continue this cycle until your partner feels two points. Record the millimeter measurement in the chart below. 
   5. Do this test again for the top of one forearm, one facial cheek, and the back of one calf. For the calf have the subject sit and rest their foot on a chair. 
@@ -144,7 +144,7 @@ their eyes closed (use the eye shades to be sure)!
 
 ##### Here is a table for you to record your numbers and averages_
 
-[ ![](./img/BYB_Exp2_Pic7.png)](.img/BYB_Exp2_Pic7.png)
+[ ![](./img/BYB_Exp2_Pic7.png)](./img/BYB_Exp2_Pic7.png)
 
 ## Questions to Answer and Consider
 

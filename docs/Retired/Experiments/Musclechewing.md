@@ -133,7 +133,7 @@ largest to smallest expected EMG signal.
 
   10. Stop the recording, and play the recordings back to measure the root mean square (RMS) of the middle part of each EMG "burst." Zoom in so that you can measure only the EMG signal without any noise. The RMS is a measure of the size of the signal. Use it to compare the force needed to chew different foods. Be consistent in your selection of the data for measurement. Check out the example below!
 
-[ ![](./img/chewing_recorder_example.png)](./img/Chewing_recorder_example.png)
+[EMG Chewing Example](./img/chewing_recorder_example.png)
 
 This burst lasted 386.1 milliseconds and had an RMS of 0.024 millivolts. This
 was from chewing a gummy bear. How do your foods compare?

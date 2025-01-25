@@ -13,9 +13,9 @@ a hypothesis and what to do with the data after you have collected it. You can
 follow along and collect new data during this experiment, use data you have
 already collected, or follow along with the data we use. The choice is yours.
 
-Time  2-3 Hours
+**Time:**  2-3 Hours
 
-Difficulty  Intermediate
+**Difficulty:**   Intermediate
 
 #### What will you learn?
 

@@ -8,9 +8,9 @@ slug: /retired/experiments/make_music_with_your_muscles
 
 Flex your muscles to create different frequencies and play music.
 
-Time  30 minutes
+**Time:**  30 minutes
 
-Difficulty  Beginner
+**Difficulty:**   Beginner
 
 #### What will you learn?
 
@@ -138,7 +138,7 @@ This experiment assumes you have a basic understanding of how to use the Arduino
 
 You can download the sketch here. Check out the comments for some insight into how it works!
 
-[Music Sketch](https://backyardbrains.com/experiments/files/musicalBox2.ino.zip)
+[Music Sketch](https://backyardbrains.com./files/musicalBox2.ino.zip)
 
 ### Procedure
 

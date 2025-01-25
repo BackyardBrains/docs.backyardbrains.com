@@ -4,7 +4,7 @@ title: "Experiment: Sleep"
 slug: /retired/experiments/sleep
 ---
 
-# Experiment:Sleep
+# Experiment: Sleep
 
 "To sleep, perchance to dream." W. Shakespeare. Poets and Scientists have long
 wondered and written about this strange phenomenon that plays such a profound
@@ -14,9 +14,9 @@ that occur in the frontal cortex of your brain while you are in slumber. This
 experiment was prepared by Joud Mar'i, an undergrad from Mount Holyoke
 College, during our Summer Fellowship Program.
 
-Time  1 hours
+**Time:**  1 hours
 
-Difficulty  Advanced
+**Difficulty:**   Advanced
 
 #### What will you learn?
 
@@ -130,9 +130,7 @@ discovered until the mid 20th century. In 1950 British physicist Robert Lawson
 noticed while on a long train ride that people's eyes were twitching (under
 their eyelids) while they were sleeping, and that this eye twitching would
 abruptly stop and restart some point later. Being an observant and curious
-scientist, he wrote down and published his notes in a [short letter in
-Nature](https://www.backyardbrains.com/experiments/files/Lawson-first-
-REM-1950.pdf) (productive train ride).
+scientist, he wrote down and published his notes in a [short letter in Nature](./files/Lawson-first-REM-1950.pdf) (productive train ride).
 
 [ ![](./img/sleep_Lawson01_bubble_web.gif)](img/sleep_Lawson01_bubble_web.gif)
 
@@ -140,9 +138,7 @@ The aforementioned University of Chicago sleep researcher Nathaniel Kleitman
 read this Nature letter and assigned its verification to his graduate student
 [Eugene Aserinsky](https://en.wikipedia.org/wiki/Eugene_Aserinsky). Eugene
 then recorded the EEG of REM on his 8 year old son Armond Aserinsky, and
-[published it in Science in
-1953](https://www.backyardbrains.com/experiments/files/Aserinsky-first-REM-
-EEG-1953.pdf). Yes, though humans have been dreaming since they have existed,
+[published it in Science in 1953](./files/Aserinsky-first-REM-EEG-1953.pdf). Yes, though humans have been dreaming since they have existed,
 and REM is where dreams occur, such a connection was not known until 1953. An
 REM EEG often looks like an "awake" EEG, composed of various high frequency,
 low amplitude components.
@@ -270,4 +266,4 @@ for you to explain this!
 Computer](https://backyardbrains.com/products/spikerecorder)
 
 [Arduino Sketch for Sending Data to
-Computer](https://backyardbrains.com/experiments/files/SpikeRecorderArduino.zip)
+Computer](https://backyardbrains.com./files/SpikeRecorderArduino.zip)

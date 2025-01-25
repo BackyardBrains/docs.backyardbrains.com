@@ -10,9 +10,9 @@ Have you ever wondered how your neurons respond to hot and cold temperatures?
 Exposing a cockroach leg's neurons to these environments will act as a perfect
 model.
 
-Time  30 Minutes
+**Time:**  30 Minutes
 
-Difficulty  Intermediate
+**Difficulty:**   Intermediate
 
 #### What will you learn?
 

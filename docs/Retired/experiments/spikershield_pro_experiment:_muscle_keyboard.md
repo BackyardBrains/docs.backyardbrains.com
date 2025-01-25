@@ -4,15 +4,15 @@ title: "SpikerShield Pro Experiment: Muscle Keyboard"
 slug: /retired/experiments/spikershield_pro_experiment__muscle_keyboard
 ---
 
-#  SpikerShield Pro Experiment:Muscle Keyboard
+#  SpikerShield Pro Experiment: Muscle Keyboard
 
 Use the Muscle SpikerShield Pro to control up to six independent outputs. In
 this case, it will be musical tones. Time to generate music by moving your
 body. Your dancing makes the melody and the beat.
 
-Time  1 hour
+**Time:**  1 hour
 
-Difficulty  Advanced
+**Difficulty:**   Advanced
 
 #### What will you learn?
 
@@ -430,5 +430,5 @@ scales.
   3. While we programmed our preferred scales into the Arduino, you are free and encouraged to modify the program. 
   4. While we stated above that we only have six tones, if you use the white pitch doubling button on the SpikerShield Pro, you actually have a total of 12 tones. Take that bag pipes! 
   5. A wireless version, where someone could freely dance and generate music, would certainly be compelling. What do you think are the technical challenges for achieving this? 
-  6. You can create a version of the [Simon Game](https://en.wikipedia.org/wiki/Simon_\(game\)), where every time a particular LED lights up, you have to flex a specific muscle. This is interesting because you could measure reaction times that also involve the ability to memorize a sequence. We leave you with a very basic "[untested in anyway code](https://www.backyardbrains.com/experiments/files/BYB_Simon.zip)" that Cristian and I did on the last day of our internship. It compiles without errors, but the LED code needs to be updated to work with the SpikerShield Pro. 
+  6. You can create a version of the [Simon Game](https://en.wikipedia.org/wiki/Simon_\(game\)), where every time a particular LED lights up, you have to flex a specific muscle. This is interesting because you could measure reaction times that also involve the ability to memorize a sequence. We leave you with a very basic "[untested in anyway code](./files/BYB_Simon.zip)" that Cristian and I did on the last day of our internship. It compiles without errors, but the LED code needs to be updated to work with the SpikerShield Pro. 
   7. Have you developed a Muscle Spikerbox Pro application? Let [let us know!](mailto:tim@backyardbrains.com)

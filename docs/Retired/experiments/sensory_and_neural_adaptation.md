@@ -8,9 +8,9 @@ slug: /retired/experiments/sensory_and_neural_adaptation
 
 Neurons learn, and you will gain a first look at this by examining a sensory neuron's adaptation to a constant stimulus.
 
-Time  45 Minutes
+**Time:**  45 Minutes
 
-Difficulty  Intermediate
+**Difficulty:**   Intermediate
 
 #### What will you learn?
 

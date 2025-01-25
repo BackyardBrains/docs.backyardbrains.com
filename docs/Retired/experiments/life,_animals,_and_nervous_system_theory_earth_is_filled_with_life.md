@@ -10,9 +10,9 @@ Earth is filled with Life, Yes. But what exactly is "Life?" And what forms of
 Life have nervous systems? Here we give a brief primer on this active
 scientific arena.
 
-Time  30 Minutes
+**Time:**  30 Minutes
 
-Difficulty  Basic
+**Difficulty:**   Basic
 
 #### What will you learn?
 

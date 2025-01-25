@@ -4,16 +4,16 @@ title: "Experiment: Transistor Circuit Design"
 slug: /retired/experiments/transistor_circuit_design
 ---
 
-# Experiment:Transistor Circuit Design
+# Experiment: Transistor Circuit Design
 
 You can now explain with confidence what p-doping, n-doping, and depletion
 layers mean. Now you will put that knowledge to use. You have the transistor
 in your hand. You stare at it, knowing the power it contains and what it has
 done for the world. Here you will use your transistor to amplify some spikes.
 
-Time  1-3 Hours
+**Time:**  1-3 Hours
 
-Difficulty  Advanced
+**Difficulty:**   Advanced
 
 #### What will you learn?
 

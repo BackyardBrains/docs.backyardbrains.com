@@ -4,15 +4,15 @@ title: "Experiment: Signal Classification"
 slug: /retired/experiments/signal_classification
 ---
 
-# Experiment:Signal Classification
+# Experiment: Signal Classification
 
 Here we will teach how to isolate activity of individual finger muscles of
 your forearm and use them to control a robotic hand. You will be introduced to
 the wonderful challenge of "signal classification."
 
-Time  90 minutes
+**Time:**  90 minutes
 
-Difficulty  Advanced
+**Difficulty:**   Advanced
 
 #### What will you learn?
 
@@ -28,9 +28,8 @@ attempt to control individual fingers on a robotic hand.
 
 ##### Equipment
 
-HackerHand 5-Channel EMG + SpikerShield System (retired for time being)
+* HackerHand 5-Channel EMG + SpikerShield System (retired for time being)
 
-* * *
 
 ## Background
 

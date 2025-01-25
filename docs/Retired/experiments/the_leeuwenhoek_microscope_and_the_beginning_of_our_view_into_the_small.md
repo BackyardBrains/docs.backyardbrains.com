@@ -11,9 +11,9 @@ smartphone. Now you can too can manipulate this material to make a microscope
 completely from scratch. Forge a ball lens, see worlds previously unknown, and
 join the ranks of scientists who have assembled their own instruments.
 
-Time  30 minutes
+**Time:**  30 minutes
 
-Difficulty  Beginner
+**Difficulty:**   Beginner
 
 #### What will you learn?
 
@@ -297,9 +297,9 @@ Happy exploring the previously invisible worlds!
 ##  References
 
 * John N. Davis. 2007. [Measuring the magnification of homemade simple microscope lenses](https://www.microscopy-uk.org.uk/mag/indexmag.html?https://www.microscopy-uk.org.uk/mag/artoct07/jd-lens.html). Micscape magazine. 
-* Howard Gest. 2004. [The discovery of microorganisms by Robert Hooke and Antoni Van Leeuwenhoek, fellows of the royal society.](/experiments/files/2004_Gest_The discovery_of_microorganisms.pdf) Notes Rec. R. Soc. Lond. 58 (2), 187–201 
+* Howard Gest. 2004. [The discovery of microorganisms by Robert Hooke and Antoni Van Leeuwenhoek, fellows of the royal society.](./files/2004_Gest_The discovery_of_microorganisms.pdf) Notes Rec. R. Soc. Lond. 58 (2), 187–201 
 * Edmund Optics. [ Understanding Ball Lenses](https://www.edmundoptics.com/resources/application-notes/optics/understanding-ball-lenses/). 
 * Roshdi Rashed. 1990. [A pioneer in anaclastics_ Ibn Sahl on burning mirrors and lenses.](files/Rashed_1990_Ibn_Sahl.pdf) Isis, Vol. 81, No. 3. pp. 464-491. 
-* Lesley Robertson. 2015. [van Leeuwenhoek microscopes—where are they now? ](/experiments/files/2015-Robertson_Where_are_microscopes_Leeuwenhoek.pdf)FEMS Microbiology Letters, 362, 2015, fnv056. 
-* Maria Rooseboom. 1939. [Concerning the optical qualities of some microscopes made by leeuwenhoek.](/experiments/files/1939_Maria_Rooseboom_Concerning_the_optical_qualities_ leeuwenhoek.pdf) Journal of Microscopy. Vol 59,3, Pgs 177–183. 
-* J. Van Zuylen. 1981. [The microscopes of Antoni van Leeuwenhoek](/experiments/files/1981_Zuylen_The_microscopes_Leeuwenhoek.pdf) Journal of Microscopy. Vol. 121, Pt 3, pp. 309-328 
+* Lesley Robertson. 2015. [van Leeuwenhoek microscopes—where are they now? ](./files/2015-Robertson_Where_are_microscopes_Leeuwenhoek.pdf)FEMS Microbiology Letters, 362, 2015, fnv056. 
+* Maria Rooseboom. 1939. [Concerning the optical qualities of some microscopes made by leeuwenhoek.](./files/1939_Maria_Rooseboom_Concerning_the_optical_qualities_ leeuwenhoek.pdf) Journal of Microscopy. Vol 59,3, Pgs 177–183. 
+* J. Van Zuylen. 1981. [The microscopes of Antoni van Leeuwenhoek](./files/1981_Zuylen_The_microscopes_Leeuwenhoek.pdf) Journal of Microscopy. Vol. 121, Pt 3, pp. 309-328 

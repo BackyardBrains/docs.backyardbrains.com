@@ -6,9 +6,9 @@ slug: /retired/experiments/the_patellar_reflex_and_reaction
 
 # Experiment:The Patellar Reflex and Reaction
 
-Time  30 Minutes
+**Time:**  30 Minutes
 
-Difficulty  Intermediate
+**Difficulty:**   Intermediate
 
 #### What will you learn?
 
@@ -84,7 +84,7 @@ too!
 > Software](https://backyardbrains.com/products/spikerecorder)
 >
 > [Class
-> Handout](https://backyardbrains.com/experiments/files/Knee_Jerk_Handout.pdf)
+> Handout](https://backyardbrains.com./files/Knee_Jerk_Handout.pdf)
 >
 > [Firmware Update
 > Instructions](https://backyardbrains.com/products/files/UpdateMuscleSpikerBoxProFirmware.pdf)

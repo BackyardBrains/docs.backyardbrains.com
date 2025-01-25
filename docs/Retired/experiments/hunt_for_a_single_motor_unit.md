@@ -6,9 +6,9 @@ slug: /retired/experiments/hunt_for_a_single_motor_unit
 
 # Experiment:Hunt for a Single Motor Unit
 
-Time  30 Minutes
+**Time:**  30 Minutes
 
-Difficulty  Intermediate
+**Difficulty:**   Intermediate
 
 #### What will you learn?
 
@@ -107,7 +107,7 @@ of a single motor nerve cell from your own central nervous system.
 > Software](https://backyardbrains.com/products/spikerecorder)
 >
 > [Class
-> Handout](https://backyardbrains.com/experiments/files/Hunt_for_Motor_Unit_handout.pdf)
+> Handout](https://backyardbrains.com./files/Hunt_for_Motor_Unit_handout.pdf)
 
 ## Video
 

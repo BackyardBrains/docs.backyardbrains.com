@@ -9,9 +9,9 @@ slug: /retired/experiments/effect_of_temperature_on_nerve_conduction_velocity
 Can you slow down the speed of action potential propagation? Here you will use
 temperature to do just that.
 
-Time  1 Hour
+**Time:**  1 Hour
 
-Difficulty  Advanced
+**Difficulty:**   Advanced
 
 #### What will you learn?
 
@@ -48,7 +48,7 @@ make this easy, we introduce our finest invention yet_
 [ ![](./img/WormBed.jpg)](img/WormBed.jpg)
 
 The WormTray! You can [download the .stl
-file](/experiments/files/WormTray.stl) to 3D print this yourself or,
+file](./files/WormTray.stl) to 3D print this yourself or,
 alternatively, design your own easy way to place the worm over ice.
 
 ## Materials

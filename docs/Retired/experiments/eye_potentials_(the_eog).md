@@ -9,9 +9,9 @@ slug: /retired/experiments/eye_potentials_(the_eog)
 We've shown the electrical signals from your heart and brain, now it is time
 for another symbolically powerful organ_ the eye.
 
-Time  1 hours
+**Time:**  1 hours
 
-Difficulty  Advanced
+**Difficulty:**   Advanced
 
 #### What will you learn?
 

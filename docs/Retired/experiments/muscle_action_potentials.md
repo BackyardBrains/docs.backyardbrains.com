@@ -13,9 +13,9 @@ fiber, you get a large distributed EMG signal that we can pick up using
 surface electrodes. But what about the signal to each fiber? How are these
 contractions controlled?
 
-Time  30 Minutes
+**Time:**  30 Minutes
 
-Difficulty  Beginner
+**Difficulty:**   Beginner
 
 #### What will you learn?
 
@@ -87,7 +87,7 @@ up and down vs left or right? Let's see!
 
   4. Hook up the Muscle SpikerBox to the electrode cable (see video above as a guide). 
   5. Turn on the Muscle SpikerBox. 
-  6. Plug in your [SmartPhone Cable](https://backyardbrains.com/products/smartphonecable) (with our free [Android](https://play.google.com/store/apps/details?id=com.backyardbrains) or [iPhone](https://itunes.apple.com/gb/app/backyard-brains/id367151200?mt=8) apps installed) or computer (using our [Backyard Brains PC app](https://www.backyardbrains.com/experiments/files/Backyard_Brains_Neuron_Recorder_Install.air.zip) and a USB cable if you have the [Muscle SpikerBox Pro](https://backyardbrains.com/products/musclespikerboxpro)). 
+  6. Plug in your [SmartPhone Cable](https://backyardbrains.com/products/smartphonecable) (with our free [Android](https://play.google.com/store/apps/details?id=com.backyardbrains) or [iPhone](https://itunes.apple.com/gb/app/backyard-brains/id367151200?mt=8) apps installed) or computer (using our [Backyard Brains PC app](./files/Backyard_Brains_Neuron_Recorder_Install.air.zip) and a USB cable if you have the [Muscle SpikerBox Pro](https://backyardbrains.com/products/musclespikerboxpro)). 
   7. Move your middle or ring finger either side to side or up and down. Do you notice a difference? 
 
 [ ![](./img/handmovements2.jpg)](img/handmovements2.jpg)

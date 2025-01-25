@@ -11,9 +11,9 @@ you'll find yourself empty-handed. They hop-hop-hop away! In this experiment,
 we will investigate the neuron's responsible for the grasshopper's quick
 reactions.
 
-Time  30 minutes
+**Time:**  30 minutes
 
-Difficulty  Advanced
+**Difficulty:**   Advanced
 
 #### What will you learn?
 

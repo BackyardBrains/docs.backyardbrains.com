@@ -9,9 +9,9 @@ slug: /retired/experiments/the_auditory_brainstem_response
 By listening to many and many clicks, and recording the electrical response of
 your brain, we can observe the auditory system in action!
 
-Time  2 hours
+**Time:**  2 hours
 
-Difficulty  Advanced
+**Difficulty:**   Advanced
 
 #### What will you learn?
 
@@ -130,13 +130,13 @@ experiment!
 > [Audacity](https://www.audacityteam.org/)
 >
 > [Click Sound File - 9 minutes of 4 Hz
-> clicks](https://backyardbrains.com/experiments/files/9_minutes_of_clicks.mp3)
+> clicks](https://backyardbrains.com./files/9_minutes_of_clicks.mp3)
 >
 > [Matlab Trial
 > Download](https://www.mathworks.com/campaigns/products/trials.highResolutionDisplay.html)
 >
 > [Matlab Script for Doing ABR
-> Analysis](https://backyardbrains.com/experiments/files/ABR_analysisV2.zip)
+> Analysis](https://backyardbrains.com./files/ABR_analysisV2.zip)
 
 ## Video
 

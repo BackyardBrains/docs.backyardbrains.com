@@ -12,9 +12,9 @@ Are you conscious? Let's find out! **Note_** For now, this advanced experiment
 requires that you have Matlab downloaded on your computer-it will be used for
 data analysis.
 
-Time  2 hours
+**Time:**  2 hours
 
-Difficulty  Advanced
+**Difficulty:**   Advanced
 
 #### What will you learn?
 
@@ -122,13 +122,13 @@ versus when we hypothesize it should not.
 > Software](https://backyardbrains.com/products/spikerecorder)
 >
 > [EEG Arduino
-> code](https://backyardbrains.com/experiments/files/SpikeRecorderArduino.zip)
+> code](https://backyardbrains.com./files/SpikeRecorderArduino.zip)
 >
 > [Buzzer Arduino
-> code](https://backyardbrains.com/experiments/files/Buzzer_with_delay.zip)
+> code](https://backyardbrains.com./files/Buzzer_with_delay.zip)
 >
 > [Matlab
-> Scripts](https://backyardbrains.com/experiments/files/MatlabFiles.zip)
+> Scripts](https://backyardbrains.com./files/MatlabFiles.zip)
 
 ## Tutorial Video of Experiment
 
@@ -145,7 +145,7 @@ stimulus among a series of standard stimuli.
 
 **Device Setup**
 
-  1. Two Arduinos will be used for this experiment. The Arduino equipped with the Heart & Brain SpikerShield will be referred to as "Brainduino", and the additional Arduino , which controls the buzzers generating sound, will be called the "Buzzduino". Download the standard [ Heart & Brain code](https://backyardbrains.com/experiments/files/SpikeRecorderArduino.zip) onto the Brainduino and the [Buzzer Arduino code](https://backyardbrains.com/experiments/files/Buzzer_with_delay.zip) to the Buzzduino. Note_ Our Heart & Brain SpikerShield comes with the SpikeRecorder Drivers already loaded, so unless you are hacking your own code you do not have to worry about the code on the Heart & Brain SpikerShield. 
+  1. Two Arduinos will be used for this experiment. The Arduino equipped with the Heart & Brain SpikerShield will be referred to as "Brainduino", and the additional Arduino , which controls the buzzers generating sound, will be called the "Buzzduino". Download the standard [ Heart & Brain code](https://backyardbrains.com./files/SpikeRecorderArduino.zip) onto the Brainduino and the [Buzzer Arduino code](https://backyardbrains.com./files/Buzzer_with_delay.zip) to the Buzzduino. Note_ Our Heart & Brain SpikerShield comes with the SpikeRecorder Drivers already loaded, so unless you are hacking your own code you do not have to worry about the code on the Heart & Brain SpikerShield. 
   2. Wire up two small speakers to your Brainduino and Buzzduino as shown below. The tones come out of Digital Out 8 and 9 on the BuzzDuino and go to the Speakers as well as Analog input 1 and 2 on the Brainduino. Grounds are shared. Replicate the setup per the circuit diagram photo and schematic. 
 
 [ ![](./img/P300-photoschematic_web.jpg)](img/P300-photoschematic_web.jpg)
@@ -184,7 +184,7 @@ Here is a circuit diagram showing the connections to be made_
 
 **Analysis**
 
-  1. Open Matlab and upload the data file recorded from the Spike Recorder app. Run the [Matlab script](https://backyardbrains.com/experiments/files/MatlabFiles.zip) by typing "runP300" in the command window and pressing "Enter" if on PC or "Return" if on Mac. 
+  1. Open Matlab and upload the data file recorded from the Spike Recorder app. Run the [Matlab script](https://backyardbrains.com./files/MatlabFiles.zip) by typing "runP300" in the command window and pressing "Enter" if on PC or "Return" if on Mac. 
   2. The prompt will ask for the name of the file. Write it in single quotes. As in_ 'nameoffile.wav' 
     1. Three figures will then be generated. 
     2. Each gray line in this figure shows one second of the EEG recording surrounding each standard tone onset in the experiment. The average of each of these tone responses is taken and plotted in red.

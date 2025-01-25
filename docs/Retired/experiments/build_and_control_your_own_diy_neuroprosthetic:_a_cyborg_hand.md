@@ -10,9 +10,9 @@ Participate in the cutting-edge of biomedical engineering! Build your own DIY
 prosthetic hand with articulating fingers, then use the Muscle SpikerShield to
 take control of your new cybernetic creation!
 
-Time  30 Minutes
+**Time:**  30 Minutes
 
-Difficulty  Beginner
+**Difficulty:**   Beginner
 
 #### What will you learn?
 

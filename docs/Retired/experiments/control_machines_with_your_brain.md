@@ -9,9 +9,9 @@ slug: /retired/experiments/control_machines_with_your_brain
 Now that you have your EMG Signal, can you use it to drive another system?
 Neural Engineering continues, using the popular Arduino microcontroller.
 
-Time  30 minutes
+**Time:**  30 minutes
 
-Difficulty  Intermediate
+**Difficulty:**   Intermediate
 
 #### What will you learn?
 
@@ -101,7 +101,7 @@ we're about to see... LEDs!
 > Arduino(.ino) Sketch for this Experiment
 >
 >
-> [led_strip2014_highergain.ino](https://backyardbrains.com/experiments/files/led_strip2014_highergain.zip)
+> [led_strip2014_highergain.ino](https://backyardbrains.com./files/led_strip2014_highergain.zip)
 
 #### Print Materials
 
@@ -119,7 +119,7 @@ we're about to see... LEDs!
 
 [ ![](./img/SpikerShieldImg2.jpg)](img/SpikerShieldImg2.jpg)
 
-  3. Download our [led_strip2014_highergain.ino](https://www.backyardbrains.com/experiments/files/led_strip2014_highergain.ino.zip) sketch (also mentioned above) and upload it to your arduino. 
+  3. Download our [led_strip2014_highergain.ino](./files/led_strip2014_highergain.ino.zip) sketch (also mentioned above) and upload it to your arduino. 
 
 [ ![](./img/SpikerShieldImg3.jpg)](img/SpikerShieldImg3.jpg)
 

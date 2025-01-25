@@ -11,9 +11,9 @@ not with your elbow? Follow along below and we will show you how to perform a
 two point threshold test. This test illustrates what is going on inside your
 head that allows for different degrees of skin sensation.
 
-Time  1 hour
+**Time:**  1 hour
 
-Difficulty  Intermediate
+**Difficulty:**   Intermediate
 
 #### What will you learn?
 

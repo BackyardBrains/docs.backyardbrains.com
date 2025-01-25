@@ -10,9 +10,9 @@ Everybody chews. You will use the Muscle SpikerBox to record EMG's of the
 masseter and temporalis muscles, the two jaw closing muscles, while chewing
 different foods.
 
-Time  20 Minutes
+**Time:**  20 Minutes
 
-Difficulty  Beginner
+**Difficulty:**   Beginner
 
 #### What will you learn?
 
@@ -99,7 +99,7 @@ chewing muscles of your face as a reflection of the command from the brain.
 > Software](https://backyardbrains.com/products/spikerecorder)
 >
 > [Class
-> Handout](https://backyardbrains.com/experiments/files/MuscleChewing_Hand-
+> Handout](https://backyardbrains.com./files/MuscleChewing_Hand-
 > Out.pdf)
 
 ## Video

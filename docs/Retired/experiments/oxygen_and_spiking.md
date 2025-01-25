@@ -8,9 +8,9 @@ slug: /retired/experiments/oxygen_and_spiking
 
 Have you ever wondered what exactly happens to the oxygen you breath after it has entered your lungs and goes into your bloodstream? In this experiment, we will show you how neurons make use of oxygen, our most needed resource. We will also examine what happens to neurons when they are deprived of oxygen.
 
-Time  1 hour
+**Time:**  1 hour
 
-Difficulty  Advanced
+**Difficulty:**   Advanced
 
 #### What will you learn?
 

@@ -10,9 +10,9 @@ What biology beyond flagella has never achieved_ Rotary Motion with Axles.
 Here you will learn to make an interface with a Stepper Motor and enjoy making
 precise circular movements.
 
-Time  1 hour
+**Time:**  1 hour
 
-Difficulty  Intermediate
+**Difficulty:**   Intermediate
 
 #### What will you learn?
 
@@ -100,7 +100,7 @@ control.
 > SpikerShield Board
 >
 > [StepperMotor SpikerShield
-> Sketch.ino](https://backyardbrains.com/experiments/files/ControlStepperMotor_Arduino_SpikerShield.ino.zip)
+> Sketch.ino](https://backyardbrains.com./files/ControlStepperMotor_Arduino_SpikerShield.ino.zip)
 
 ## Video
 
@@ -191,7 +191,7 @@ A Servo Motor is a DC motor with internal feedback circuitry and gears. The serv
 #### Downloads
 
 > Take our (.ino) Stepper Motor Sketch and load it on your Arduino / Muscle SpikerShield Board  
-> [StepperMotor SpikerShield Sketch.ino](https://backyardbrains.com/experiments/files/ControlStepperMotor_Arduino_SpikerShield.ino.zip)
+> [StepperMotor SpikerShield Sketch.ino](https://backyardbrains.com./files/ControlStepperMotor_Arduino_SpikerShield.ino.zip)
 
 ## Video
 

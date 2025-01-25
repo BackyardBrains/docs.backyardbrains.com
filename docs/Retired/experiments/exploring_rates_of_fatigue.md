@@ -10,9 +10,9 @@ Now that you've learned a bit about [how your muscles
 fatigue](fatigue), let's quantify it to
 further your learning in a competitive way!
 
-Time  30 Minutes
+**Time:**  30 Minutes
 
-Difficulty  Intermediate
+**Difficulty:**   Intermediate
 
 #### What will you learn?
 
@@ -172,7 +172,7 @@ few years of the same age.
 > Software](https://backyardbrains.com/products/spikerecorder)
 >
 > [Class
-> Handout](https://backyardbrains.com/experiments/files/Fatigue_HandOut.pdf)
+> Handout](https://backyardbrains.com./files/Fatigue_HandOut.pdf)
 
 ## Video
 

@@ -13,9 +13,9 @@ coming from that's drowning out your spikes? You can thank Nikola Tesla for
 your electrical noise, but, have no fear, Michael Faraday has come to your
 rescue!
 
-Time  30 Minutes
+**Time:**  30 Minutes
 
-Difficulty  Beginner
+**Difficulty:**   Beginner
 
 #### What will you learn?
 

@@ -14,9 +14,9 @@ interesting way to hack our memory... while we sleep. This experiment was
 prepared by Joud Mar'i, an undergrad from Mount Holyoke College, during our
 Summer Fellowship Program.
 
-Time  2 Hours
+**Time:**  2 Hours
 
-Difficulty  Advanced
+**Difficulty:**   Advanced
 
 #### What will you learn?
 
@@ -175,17 +175,10 @@ software package of choice.
 
 ## References
 
-_Antony, J. W., E. W. Gobel, JK O'Hare, P. J. Reber, and K. A. Paller. 2012.
-Cued memory reactivation during sleep influences skill learning. Vol. 15._
+Antony, J. W., E. W. Gobel, JK O'Hare, P. J. Reber, and K. A. Paller. 2012. _Cued memory reactivation during sleep influences skill learning._ Vol. 15.
 
-_Oudiette, D., J. W. Antony, J. D. Creery, and K. A. Paller. 2013. The role of
-memory reactivation during wakefulness and sleep in determining which memories
-endure. Vol. 33._
+Oudiette, D., J. W. Antony, J. D. Creery, and K. A. Paller. 2013. _The role of memory reactivation during wakefulness and sleep in determining which memories endure. Vol. 33._
 
-_Oudiette, Delphine, James W. Antony, and Ken A. Paller. 2014. Spotlight_ Fear
-not_ Manipulating sleep might help you forget. Trends in Cognitive Sciences 18
-_ 3-4._
+Oudiette, Delphine, James W. Antony, and Ken A. Paller. 2014. _Spotlight Fearnot Manipulating sleep might help you forget_. Trends in Cognitive Sciences 18  3-4 
 
-_Rudoy, John D., Joel L. Voss, Carmen E. Westerberg, and Ken A. Paller. 2009.
-Strengthening individual memories by reactivating them during sleep.
-Science(5956)_ 1079._
+Rudoy, John D., Joel L. Voss, Carmen E. Westerberg, and Ken A. Paller. 2009. _Strengthening individual memories by reactivating them during sleep._ Science(5956) 1079.

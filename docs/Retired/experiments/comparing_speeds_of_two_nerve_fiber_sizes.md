@@ -11,9 +11,9 @@ to neurons in your own body? Find out in this lesson plan and learn about
 electrical cable theory while measuring the different speeds of the
 earthworm's nerve fiber system.
 
-Time  1-2 Hours
+**Time:**  1-2 Hours
 
-Difficulty  Advanced
+**Difficulty:**   Advanced
 
 #### What will you learn?
 
@@ -267,7 +267,7 @@ our results match the theory!
 > [Spike Recorder Software](https://backyardbrains.com/products/spikerecorder)
 >
 > [Experiment in Editable Word .docx
-> Format](https://backyardbrains.com/experiments/files/Experiment-Comparing-
+> Format](https://backyardbrains.com./files/Experiment-Comparing-
 > Nerve-Speed.docx)
 
 ## Video

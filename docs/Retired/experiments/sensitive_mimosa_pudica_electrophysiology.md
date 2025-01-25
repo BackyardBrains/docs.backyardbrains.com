@@ -13,9 +13,9 @@ Mimosa, featured in our [TED Main
 Stage](https://www.ted.com/talks/greg_gage_electrical_experiments_with_plants_that_count_and_communicate?utm_campaign=tedspread
 --a&utm_medium=referral&utm_source=tedcomshare) talk.
 
-Time  1 hour
+**Time:**  1 hour
 
-Difficulty  Intermediate
+**Difficulty:**   Intermediate
 
 #### What will you learn?
 

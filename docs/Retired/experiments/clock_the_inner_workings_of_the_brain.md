@@ -11,9 +11,9 @@ This experiments reveals the speed of your nervous system and the muscular
 system, which the nervous system innervates, and uses the Muscle SpikerBox Pro
 and Reaction Timer to help you calculate your own reaction speeds!
 
-Time  1 - 1.5 Hours
+**Time:**  1 - 1.5 Hours
 
-Difficulty  Intermediate
+**Difficulty:**   Intermediate
 
 #### What will you learn?
 
@@ -38,7 +38,7 @@ combination!
 ### Updated Experiment:
 
 Note: if your Reaction Timer looks different than what you see below, you may
-have a previous version. Check out the [legacy instructions here!](https://backyardbrains.com/experiments/files/Legacy_Reaction_Timer.pdf)  
+have a previous version. Check out the [legacy instructions here!](https://backyardbrains.com./files/Legacy_Reaction_Timer.pdf)  
 
 ## Background
 
@@ -99,7 +99,7 @@ information!
 [ ![](./img/ReactionTimer_SetUp.jpg)](img/ReactionTimer_SetUp.jpg)
 
   1. Plug the Muscle SpikerBox Pro into your recording device via USB. This experiment only works on devices you can connect to via USB, so it excludes iPads, iPhones, and Chromebooks until those platforms offer 3rd party USB communication (we're patiently waiting, it is very frustrating.) 
-  2. Connect the Reaction Timer to the Muscle SpikerBox Pro with the Orange Expansion Cable. Note_ if your Reaction Timer looks different, you may have a previous version. Check out the [legacy instructions here!](https://backyardbrains.com/experiments/files/Legacy_Reaction_Timer.pdf)
+  2. Connect the Reaction Timer to the Muscle SpikerBox Pro with the Orange Expansion Cable. Note_ if your Reaction Timer looks different, you may have a previous version. Check out the [legacy instructions here!](https://backyardbrains.com./files/Legacy_Reaction_Timer.pdf)
   3. Hook an arm up to the Muscle SpikerBox! The two red clips attach to the stickers on the user's forearm, and the one black clip attaches to the sticker on the back of the user's hand. 
   4. Turn on and test your devices! PC users open up the [SpikeRecorder app](https://backyardbrains.com/products/spikerecorder) and check to see that you are receiving input from your Muscle SpikerBox Pro when you flex your muscles. 
   5. Next, test the Reaction Timer. Make sure the Light and Tone switches are in the on position, and the random switch is in the off position, and then press the first button on your board! You should hear a sound, see an LED light up, and in SpikeRecorder you should see that a tick mark has been placed in your recording at the exact moment you pressed the button. 

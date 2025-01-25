@@ -12,9 +12,9 @@ perceiving everything around you?. How does your visual system render color
 and how is motion captured? Follow along in this lesson plan and find out the
 answer to some of these questions and many more.
 
-Time  1 hour
+**Time:**  1 hour
 
-Difficulty  Intermediate
+**Difficulty:**   Intermediate
 
 #### What will you learn?
 

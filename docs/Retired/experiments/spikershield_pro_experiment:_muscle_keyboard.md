@@ -1,10 +1,10 @@
 ---
-id: _spikershield_pro_experiment__muscle_keyboard
-title: " SpikerShield Pro Experiment: Muscle Keyboard"
-slug: /retired/experiments/spikershield_pro_experiment:_muscle_keyboard
+id_ _spikershield_pro_experiment__muscle_keyboard
+title_ " SpikerShield Pro Experiment_ Muscle Keyboard"
+slug_ /retired/experiments/spikershield_pro_experiment__muscle_keyboard
 ---
 
-#  SpikerShield Pro Experiment: Muscle Keyboard
+#  SpikerShield Pro Experiment_ Muscle Keyboard
 
 Use the Muscle SpikerShield Pro to control up to six independent outputs. In
 this case, it will be musical tones. Time to generate music by moving your
@@ -28,22 +28,22 @@ of multiple muscles and use that information to generate multiple outputs
 ##### Equipment
 
 [ Muscle SpikerShield
-Pro](https://backyardbrains.com/products/MuscleSpikerShieldPro) [Music-
-Interface Cable](https://backyardbrains.com/products/musicinterfacecable)
+Pro](https_//backyardbrains.com/products/MuscleSpikerShieldPro) [Music-
+Interface Cable](https_//backyardbrains.com/products/musicinterfacecable)
 
 * * *
 
 ## Background
 
 Have you ever seen an orchestra director, like [Leonard
-Bernstein](https://www.youtube.com/watch?v=422-yb8TXj8), twisting, jumping and
+Bernstein](https_//www.youtube.com/watch?v=422-yb8TXj8), twisting, jumping and
 moving their arms almost as if they conjure music through the movement of
 their body? If you want to recreate this magic without the need of an
 orchestra and any musical training, you can use the Muscle SpikerShield Pro.
 With up to six channels hooked up to six muscles you can individually control
 a total of six musical notes - perhaps not an orchestra, but it is certainly a
 start! A bag pipe gets along just fine with [only nine
-notes](https://en.wikipedia.org/wiki/Great_Highland_bagpipe).
+notes](https_//en.wikipedia.org/wiki/Great_Highland_bagpipe).
 
 ![](./img/Muscles_versus_Bagpipes.jpg)
 
@@ -53,15 +53,15 @@ will cause the Arduino to play the note corresponding to that channel when the
 forearm is flexed. This is a process similar to playing a key on a piano (but
 with our 6 note muscle instrument versus a piano's 88 keys).
 
-Like any [good synthesizer](https://en.wikipedia.org/wiki/Minimoog), our
+Like any [good synthesizer](https_//en.wikipedia.org/wiki/Minimoog), our
 synthesizer is programmable, that is, you can change which notes and
 frequencies are associated with various channels. We have programmed [Mary Had
-a Little Lamb](https://en.wikipedia.org/wiki/Mary_Had_a_Little_Lamb), [Frère
-Jacques](https://en.wikipedia.org/wiki/Fr%C3%A8re_Jacques), the major
+a Little Lamb](https_//en.wikipedia.org/wiki/Mary_Had_a_Little_Lamb), [Frère
+Jacques](https_//en.wikipedia.org/wiki/Fr%C3%A8re_Jacques), the major
 pentatonic scale, the minor [blues
-scale](https://en.wikipedia.org/wiki/Blues_scale), the famous opening bass
+scale](https_//en.wikipedia.org/wiki/Blues_scale), the famous opening bass
 from Ray Charles’ What’d I Say, and the first four bars of [Imperial
-March](https://www.youtube.com/watch?v=hNv5sPu0C1E?) from Star Wars. The
+March](https_//www.youtube.com/watch?v=hNv5sPu0C1E?) from Star Wars. The
 preset change system allows for more musical versatility, since you can switch
 from high pitch sweet nursery rhymes to low frequency dance and march music.
 
@@ -91,7 +91,7 @@ Now let's play the music! An interesting aspect of this instrument is that you
 have to practice your muscle coordination to get the tone sequences right. The
 music is not driving your body. Your body is driving the music! In addition,
 the white button is a "pitch change,"" a sort of "[whammy
-bar](https://en.wikipedia.org/wiki/Vibrato_systems_for_guitar) that doubles
+bar](https_//en.wikipedia.org/wiki/Vibrato_systems_for_guitar) that doubles
 the frequency of the tone." The red button shifts through the preset tone
 scales.
 
@@ -102,11 +102,11 @@ scales.
 > This experiment assumes you have a basic understanding of how to use the
 > Arduino Platform and you know how to upload code to your board. If you are
 > new to arduino, or need a refresher, check out [Getting Started with Arduino
-> on Windows](http://arduino.cc/en/guide/windows#.UyIUTYW3t4x) or [Getting
+> on Windows](http_//arduino.cc/en/guide/windows#.UyIUTYW3t4x) or [Getting
 > Started with Arduino on Mac OS X
-> ](http://arduino.cc/en/guide/macOSX#.UyIU2IW3t4w).
+> ](http_//arduino.cc/en/guide/macOSX#.UyIU2IW3t4w).
 >
-> [Arduino Software](http://arduino.cc/en/main/software#.Uxd6XYWhZMk)
+> [Arduino Software](http_//arduino.cc/en/main/software#.Uxd6XYWhZMk)
 >
 > You can download the muscle keyboard sketch here. Check out the comments for
 > some insight into how it works!
@@ -117,12 +117,12 @@ scales.
 
 ### Procedure
 
-  1. Your set up is easy: Plug your orange recording cables in (color coded by channel) and then plug in a battery to power up your Muscle SpikerShield Pro. 
+  1. Your set up is easy_ Plug your orange recording cables in (color coded by channel) and then plug in a battery to power up your Muscle SpikerShield Pro. 
 
   
 ![](./img/SSProMusicSetup.jpg)
 
-  2. Take your [Music-Interface Cable](https://backyardbrains.com/products/musicinterfacecable) and attach one pin out to digital pin 8 and another one to ground, then plug your cable into a speaker. 
+  2. Take your [Music-Interface Cable](https_//backyardbrains.com/products/musicinterfacecable) and attach one pin out to digital pin 8 and another one to ground, then plug your cable into a speaker. 
 
   
 ![](./img/SSProMusicPins.jpg)
@@ -240,42 +240,42 @@ scales.
       }
     
       switch (button1 % NUM_SONG) { //checks what set of notes to use
-        case 0:
+        case 0_
           Serial.print("//MHLL// ");
           for (int i = 0; i < NUM_OUT; i++) {
             song[i] = notesMHLL[i];
             distort = 2;
           }
           break;
-        case 1:
+        case 1_
           Serial.print("//FJ// ");
           for (int i = 0; i < NUM_OUT; i++) {
             song[i] = notesFJ[i];
             distort = 2;
           }
           break;
-        case 2:
+        case 2_
           Serial.print("//PENT.// ");
           for (int i = 0; i < NUM_OUT; i++) {
             song[i] = notesMajorPentatonic[i];
             distort = 2;
           }
           break;
-        case 3:
+        case 3_
           Serial.print("//BLUE// ");
           for (int i = 0; i < NUM_OUT; i++) {
             song[i] = notesMinorBlues[i];
             distort = 2;
           }
           break;
-        case 4:
+        case 4_
           Serial.print("//RAY//");
           for(int i = 0; i < NUM_OUT; i++){
             song[i] = notesRayBass[i];
             distort = 1.3348;
           }
           break;
-        case 5:
+        case 5_
           Serial.print("//DUNDUNDUN//");
           for(int i = 0; i < NUM_OUT; i++){
             song[i] = notesImperialMarch[i];
@@ -432,5 +432,5 @@ scales.
   3. While we programmed our preferred scales into the Arduino, you are free and encouraged to modify the program. 
   4. While we stated above that we only have six tones, if you use the white pitch doubling button on the SpikerShield Pro, you actually have a total of 12 tones. Take that bag pipes! 
   5. A wireless version, where someone could freely dance and generate music, would certainly be compelling. What do you think are the technical challenges for achieving this? 
-  6. You can create a version of the [Simon Game](https://en.wikipedia.org/wiki/Simon_\(game\)), where every time a particular LED lights up, you have to flex a specific muscle. This is interesting because you could measure reaction times that also involve the ability to memorize a sequence. We leave you with a very basic "[untested in anyway code](https://www.backyardbrains.com/experiments/files/BYB_Simon.zip)" that Cristian and I did on the last day of our internship. It compiles without errors, but the LED code needs to be updated to work with the SpikerShield Pro. 
-  7. Have you developed a Muscle Spikerbox Pro application? Let [let us know!](mailto:tim@backyardbrains.com)
+  6. You can create a version of the [Simon Game](https_//en.wikipedia.org/wiki/Simon_\(game\)), where every time a particular LED lights up, you have to flex a specific muscle. This is interesting because you could measure reaction times that also involve the ability to memorize a sequence. We leave you with a very basic "[untested in anyway code](https_//www.backyardbrains.com/experiments/files/BYB_Simon.zip)" that Cristian and I did on the last day of our internship. It compiles without errors, but the LED code needs to be updated to work with the SpikerShield Pro. 
+  7. Have you developed a Muscle Spikerbox Pro application? Let [let us know!](mailto_tim@backyardbrains.com)

@@ -1,14 +1,14 @@
 ---
-id: experiment__the_beginning_of_modern_neuroscience_-_the_galvani_-_volta
-title: "Experiment: The Beginning of Modern Neuroscience - The Galvani/Volta"
-slug: /retired/experiments/the_beginning_of_modern_neuroscience_-_the_galvani_-_volta_debate
+id_ experiment__the_beginning_of_modern_neuroscience_-_the_galvani_-_volta
+title_ "Experiment_ The Beginning of Modern Neuroscience - The Galvani/Volta"
+slug_ /retired/experiments/the_beginning_of_modern_neuroscience_-_the_galvani_-_volta_debate
 ---
 
-# Experiment: The Beginning of Modern Neuroscience - The Galvani/Volta
+# Experiment_ The Beginning of Modern Neuroscience - The Galvani/Volta
 Debate
 
 One of our first experiments was the "[dancing cockroach
-leg](https://backyardbrains.com/experiments/microstimulation)" in which nerves
+leg](https_//backyardbrains.com/experiments/microstimulation)" in which nerves
 and muscles of a cockroach leg could be electrically excited by the output of
 an mp3 player. But let's go further back. Way back. To 1780. To Northern
 Italy.
@@ -41,7 +41,7 @@ manifesting.
 ## Background
 
 In our previous [microsimulation
-experiment](https://backyardbrains.com/experiments/microstimulation) we
+experiment](https_//backyardbrains.com/experiments/microstimulation) we
 plugged the audio cable of an mp3 player directly into pins inserted into a
 cockroach leg. The electrical waves of the music then excited the nerves and
 muscles of the leg, causing the leg to appear to "dance" to the low
@@ -58,11 +58,11 @@ debate between the two scientists.
 
 [ ![](./img/GalvaniversusVolta_web.jpg)](img/GalvaniversusVolta_web.jpg)
 
-Our differences are minor: 1) We won't need to sacrifice frogs like Galvani
+Our differences are minor_ 1) We won't need to sacrifice frogs like Galvani
 did. Rather, we will remove a hind leg from a cockroach, which the cockroach
 can easily tolerate, continue walking, eating, being a cockroach, and,
 moreover, will [regrow a new hind
-leg](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146778)
+leg](http_//journals.plos.org/plosone/article?id=10.1371/journal.pone.0146778)
 within 125 days, and 2) Volta's "Pile" used alternating layers of copper and
 **zinc** separated by cardboard soaked with salty water. We will use
 alternating layers of copper and **aluminum** , as aluminum sheeting is easier
@@ -96,23 +96,23 @@ beginning in the 18th century in Europe. Some clues were eternally present.
 The ancient Greeks had observed odd properties of substances living and
 material. For instance, Amber is an excretion of certain trees in response to
 wounds and was made famous by the movie [Jurassic
-park](https://en.wikipedia.org/wiki/Jurassic_Park_\(film\)). When rubbed with
+park](https_//en.wikipedia.org/wiki/Jurassic_Park_\(film\)). When rubbed with
 a piece of cloth or hair, hardened amber will attract small particles of dust,
 and indeed the Greek word for amber is "elektron". Mediterranean peoples had
 also long known of the strange properties of the [torpedo
-fish](https://en.wikipedia.org/wiki/Common_torpedo) that lived in coastal
+fish](https_//en.wikipedia.org/wiki/Common_torpedo) that lived in coastal
 areas and caused stinging sensations when bothered (the fish uses electrical
 shocks for attack and defense behaviors [1]).
 
 But what is happening exactly when the torpedo fish "shocks" someone? And how
 is amber able to attract dust? Are the two phenomena even related? And do they
 have anything to do with the lightning of electrical storms? For that matter,
-what is even going on in [lodestones](https://en.wikipedia.org/wiki/Lodestone)
+what is even going on in [lodestones](https_//en.wikipedia.org/wiki/Lodestone)
 (naturally occurring magnets). Such questions were very of the age in 18th
-century Europe. The [Leyden Jar](https://en.wikipedia.org/wiki/Leyden_jar)
+century Europe. The [Leyden Jar](https_//en.wikipedia.org/wiki/Leyden_jar)
 (the first capacitor) had been invented in the 1740's, and reliable
 [electrostatic friction
-machines](https://en.wikipedia.org/wiki/Electrostatic_generator) (machines
+machines](https_//en.wikipedia.org/wiki/Electrostatic_generator) (machines
 capability of generating electrical sparks) had recently just been invented as
 well.
 
@@ -129,12 +129,12 @@ leading to the recognition that we give him today.
 
 The majority of Luigi's experiments involved connecting the frog legs to
 capacitors and metallic loops during the 1780's, which are described in detail
-in his 1791 magnum opus: "De viribus electricitatis in motu musculari
+in his 1791 magnum opus_ "De viribus electricitatis in motu musculari
 commentarius" - translated from Latin to "Commentary on the Force of
 Electricity on Muscular Motion." Beginning his general experiments on exactly
 November 6th, 1780 (noted from his lab book), he connected a type of capacitor
 - a "Franklin Square" (yes, an invention of [Benjamin
-Franklin](https://en.wikipedia.org/wiki/Benjamin_Franklin)) to the nerve of a
+Franklin](https_//en.wikipedia.org/wiki/Benjamin_Franklin)) to the nerve of a
 frog leg, causing the leg to famously twitch.
 
 [ ![](./img/FranklinwithColor_web2.jpg)](img/FranklinwithColor_web2.jpg)
@@ -184,11 +184,11 @@ the Royal Society in England in 1800, Volta gained enormous international
 recognition. The use of the battery as a continuous controllable source of
 voltage and current allowed many more experiments by many more scientists,
 such as [Humphrey Davy
-](https://en.wikipedia.org/wiki/Humphry_Davy#Discovery_of_new_elements) and
-[Michael Faraday](https://en.wikipedia.org/wiki/Michael_Faraday) who used the
+](https_//en.wikipedia.org/wiki/Humphry_Davy#Discovery_of_new_elements) and
+[Michael Faraday](https_//en.wikipedia.org/wiki/Michael_Faraday) who used the
 battery for electrolysis experiments that led to the discovery of new elements
 (sodium, potassium, chlorine, calcium, etc), and [Georg
-Ohm](https://en.wikipedia.org/wiki/Georg_Ohm) using the battery to derive the
+Ohm](https_//en.wikipedia.org/wiki/Georg_Ohm) using the battery to derive the
 law after his namesake.
 
 [ ![](./img/Volta_Ohm_English_web.jpg)](img/Volta_Ohm_English_web.jpg)
@@ -198,7 +198,7 @@ tissue generates its own electricity or if 2) externally applied electricity
 merely excites the tissue. The debate was not resolved until the mid-19th
 century when electrical impulses in nerves were observed through indirect
 methods with the [first primitive
-amplifiers](https://backyardbrains.com/experiments/history) [5], and finally
+amplifiers](https_//backyardbrains.com/experiments/history) [5], and finally
 unequivocally in the early 20th century with the invention of the vacuum tube
 amplifier. But, being residents of the future, we can now see that both
 Italian scientists were correct. Volta's suggestion that two metals connected
@@ -242,7 +242,7 @@ have been perceived 235 years ago.....
 * Using a red alligator cable as the positive lead, connect one end of the red alligator clip to the copper on one end of your pile and other end to the longer leg of a red LED. 
 * Connect a black alligator clip to the aluminum on the other end of the pile, and, looking at the LED head on (it helps if the room is dark), tap the shorter leg of the LED with the other end of the black alligator clip. If your artisanal battery is well constructed, you should see the LED briefly flash on and off with a low intensity light. 
 * You know your battery works! Now it is time to excite the cockroach leg. Take a juvenile cockroach and submerge it in a jar of ice water, and wait 1-2 minutes as the cockroach enters anesthesia. 
-* Once the cockroach has stopped moving, remove it from the ice water, grasp the femur with your fingers, and in a smart, swift motion, pull the leg off. A quick movement will cause the minimum damage to the cockroach, as the leg will break cleanly at its built-in breakage (autotomy) joint, thus assuring fast healing and [regrowth of a new leg](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146778). 
+* Once the cockroach has stopped moving, remove it from the ice water, grasp the femur with your fingers, and in a smart, swift motion, pull the leg off. A quick movement will cause the minimum damage to the cockroach, as the leg will break cleanly at its built-in breakage (autotomy) joint, thus assuring fast healing and [regrowth of a new leg](http_//journals.plos.org/plosone/article?id=10.1371/journal.pone.0146778). 
 
 [ ![](./img/RoachwithLeg_web.jpg)](img/RoachwithLeg_web.jpg)
 
@@ -260,7 +260,7 @@ in its infancy [7]. What would you think was occurring if you connected a
 primitive battery to a nerve of muscle, saw twitching, and had no background
 knowledge?
 
-We close with the words of what Galvani himself thought: _"Such a
+We close with the words of what Galvani himself thought_ _"Such a
 disequilibrium in the animal either must be there naturally or should result
 from artifice. If it is there naturally, we should admit that in the animal
 there is a particular machine capable of generating such a disequilibrium, and
@@ -276,16 +276,16 @@ Well said, Professor Galvani.
 ## Notes
 
 * 1\. It was later discovered that a torpedo fish can deliver up to 200 V electric shocks due to highly modified parallel arranged muscle tissue contained inside its head. 
-* 2\. Galvani also performed a wireless variant that would be bizarre even if replicated today (stay tuned). When an electrostatic machine was generating electrical sparks, while _at the same time, in the same room_ Luigi Galvani touched a frog nerve with a metallic scalpel (unconnected to the machine), the leg muscles would contract as well! At the time there was no theory to explain this effect, as this was a full 100 years before [Heinrich Hertz's](https://en.wikipedia.org/wiki/Heinrich_Hertz) experiments showing that a high voltage spark generated electromagnetic waves that could induce another spark in an isolated adjacent coil, beginning the wireless telegraphy age. 
+* 2\. Galvani also performed a wireless variant that would be bizarre even if replicated today (stay tuned). When an electrostatic machine was generating electrical sparks, while _at the same time, in the same room_ Luigi Galvani touched a frog nerve with a metallic scalpel (unconnected to the machine), the leg muscles would contract as well! At the time there was no theory to explain this effect, as this was a full 100 years before [Heinrich Hertz's](https_//en.wikipedia.org/wiki/Heinrich_Hertz) experiments showing that a high voltage spark generated electromagnetic waves that could induce another spark in an isolated adjacent coil, beginning the wireless telegraphy age. 
 
 [
 ![](./img/DoesthisWorkbetter_trimmed_web.gif)](img/DoesthisWorkbetter_trimmed_web.gif)
 
 * 3\. This can seem confusing, but it was later found in the 19th century that cut nerve has a damage current called a "demarcation current" that can sometimes be sufficient to excite other nerves and muscle if the preparation is very fresh. 
 * 4\. Oddly enough, inspired by the torpedo fish, due to, again, the specialized shocking muscles cells arranged in parallel columns. 
-* 5\. See our treatment on the [development of amplification](https://backyardbrains.com/experiments/history) for much more details on the history of amplifier invention. 
+* 5\. See our treatment on the [development of amplification](https_//backyardbrains.com/experiments/history) for much more details on the history of amplifier invention. 
 * 6\. In this cell, the copper is the anode and is the positive side. The copper is the "positive" side as it receives electrons from aluminum. This terminology is famously designed to be confusing. The aluminum is the anode as electrodes flow out of it, buuuttttttttt...due to historical reasons current is **opposite** the direction of electron flow, thus current flows "into the anode," though electrons flow "out of it." 
-* 7\. We thank the students and teachers of [Colegio Alberto Blest Gana](https://www.facebook.com/Colegio.AlbertoBlestGana/) for inspiring us to create this lesson as part of an "Introduction to Neural Engineering" high school course. Lo llamamos "el experimento de la papa-pila-pata" 
+* 7\. We thank the students and teachers of [Colegio Alberto Blest Gana](https_//www.facebook.com/Colegio.AlbertoBlestGana/) for inspiring us to create this lesson as part of an "Introduction to Neural Engineering" high school course. Lo llamamos "el experimento de la papa-pila-pata" 
 
 ## Science Fair Project Ideas
 
@@ -293,13 +293,13 @@ Well said, Professor Galvani.
 * You can use this experiment to derive Ohm's law. Georg Ohm used Volta's battery and noticed when he added more cells to the battery, the brightness of the a lamp ("current") became larger. 
 * You can use a salt bridge (like Volta did with salty water cardboard) in place of an acid bridge (like we did with the potato). The electrochemistry is slightly different - see references below. 
 * Try fruits and vegetables of different acidity to see if that affects the power of your battery (sour apples vs normal apples, for example). 
-* If you look at electric potentials in your chemistry textbook, you will see that zinc has an electric potential of -0.8V, but aluminum has an electric potential of -1.6. We observe a voltage of 0.9V (close) in a zinc-copper battery, but only 0.5V in our aluminum-copper battery. The aluminum-copper battery should have a higher voltage! Why do we not observe this. We actually do not know. [Email us](mailto:tim@backyardbrains.com) if you have any insight 
+* If you look at electric potentials in your chemistry textbook, you will see that zinc has an electric potential of -0.8V, but aluminum has an electric potential of -1.6. We observe a voltage of 0.9V (close) in a zinc-copper battery, but only 0.5V in our aluminum-copper battery. The aluminum-copper battery should have a higher voltage! Why do we not observe this. We actually do not know. [Email us](mailto_tim@backyardbrains.com) if you have any insight 
 
 [ ![](./img/ElectricPotential.jpg)](img/ElectricPotential.jpg)
 
 ##  References
 
-* [Shocking Frogs](https://www.amazon.com/Shocking-Frogs-Neuroscience-Piccolino-Bresadola/dp/B011DC7JHA) by Marco Piccolino and Marco Bresadola - A dense work, translated from Italian, in which the authors carefully analyzed Galvani's and Volta's lab books and correspondence. This is deep as you can go without learning Italian and Latin, traveling to Italy, and reading the lab books of Volta and Galvani yourself. Almost of the detailed historical information, Galvani quotes, etc, in this experiment writeup comes from the Shocking Frogs book, and we thank the authors for their scholarship. 
-* [Galvani's Spark](https://www.amazon.com/Galvanis-Spark-Story-Nerve-Impulse/dp/0199751757/ref=sr_1_1?s=books&ie=UTF8&qid=1475891898&sr=1-1&keywords=galvani%27s+spark) by Alan McComas - A very useful read on the history of electrophysiology that we recommend to everyone. 
+* [Shocking Frogs](https_//www.amazon.com/Shocking-Frogs-Neuroscience-Piccolino-Bresadola/dp/B011DC7JHA) by Marco Piccolino and Marco Bresadola - A dense work, translated from Italian, in which the authors carefully analyzed Galvani's and Volta's lab books and correspondence. This is deep as you can go without learning Italian and Latin, traveling to Italy, and reading the lab books of Volta and Galvani yourself. Almost of the detailed historical information, Galvani quotes, etc, in this experiment writeup comes from the Shocking Frogs book, and we thank the authors for their scholarship. 
+* [Galvani's Spark](https_//www.amazon.com/Galvanis-Spark-Story-Nerve-Impulse/dp/0199751757/ref=sr_1_1?s=books&ie=UTF8&qid=1475891898&sr=1-1&keywords=galvani%27s+spark) by Alan McComas - A very useful read on the history of electrophysiology that we recommend to everyone. 
 * [Salty Science](files/TPT_Salty_Science.pdf) by Chasteen, Chasteen, and Doherty, offers further reading on the actual electrochemistry reactions of the copper aluminum batteries in their "salt" or "acid" variants. 
 * [Observations on Lemon Cells](files/Observations_Lemon_Cells.pdf) by Jerry Goodisman offers an electrochemical explanation on the famous lemon variant of the copper-zinc battery.

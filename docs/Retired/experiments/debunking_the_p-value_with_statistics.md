@@ -1,10 +1,10 @@
 ---
-id: experiment__debunking_the_p-value_with_statistics
-title: "Experiment: Debunking the P-value with Statistics"
-slug: /retired/experiments/debunking_the_p-value_with_statistics
+id_ experiment__debunking_the_p-value_with_statistics
+title_ "Experiment_ Debunking the P-value with Statistics"
+slug_ /retired/experiments/debunking_the_p-value_with_statistics
 ---
 
-# Experiment: Debunking the P-value with Statistics
+# Experiment_ Debunking the P-value with Statistics
 
 Many of our experiments here at Backyard Brains will have you collecting data.
 You may be wondering, "well what can I do with all of this data?" Welcome to
@@ -30,8 +30,8 @@ You should have data ready from previous experiments. If not, go back to one
 of the experiments listed below and collect some data, or follow along using
 our data set for left and right hand reaction times.
 
-  * [Reaction Time](http://www.backyardbrains.com/experiments/reactiontime)
-  * [Comparing Nerve Speed](http://www.backyardbrains.com/experiments/comparingNerveSpeed)
+  * [Reaction Time](http_//www.backyardbrains.com/experiments/reactiontime)
+  * [Comparing Nerve Speed](http_//www.backyardbrains.com/experiments/comparingNerveSpeed)
 
 ##### Equipment
 
@@ -80,11 +80,11 @@ for any of the past 3 experiments), you should collect more data.
 
 Before we begin to collect data, we are going to form some hypotheses.
 
-* Our first hypothesis will be: right-handed people have a faster reaction time with their right hand than their left hand. 
+* Our first hypothesis will be_ right-handed people have a faster reaction time with their right hand than their left hand. 
 
 [ ![](./img/BYB_exp4_pic4.png)](img/BYB_exp4_pic4.png)
 
-* Our second hypothesis will be: left-handed people, since they are special, are faster than right-handed people. 
+* Our second hypothesis will be_ left-handed people, since they are special, are faster than right-handed people. 
 
 [ ![](./img/BYB_exp4_pic5.png)](img/BYB_exp4_pic5.png)
 
@@ -101,17 +101,17 @@ Now that we have the raw data written down, we can begin to look over the
 results. There appear to be no "strange" values, so our data set is probably
 good. For example, if one of our values were a .78, we would probably throw
 this value out and not use it. Sound fishy? Sure does, but there is math to
-it, which can read more about [outliers](http://en.wikipedia.org/wiki/Outlier)
+it, which can read more about [outliers](http_//en.wikipedia.org/wiki/Outlier)
 here.
 
-Next, we want to organize the data specifically for both our hypothesis:
+Next, we want to organize the data specifically for both our hypothesis_
 
-#### Hypothesis 1: Right handed people are faster with their right, dominant,
+#### Hypothesis 1_ Right handed people are faster with their right, dominant,
 hand.
 
 [ ![](./img/BYB_exp4_pic7.png)](img/BYB_exp4_pic7.png)
 
-#### Hypothesis 2: Left-handed people are faster than right-handed people are.
+#### Hypothesis 2_ Left-handed people are faster than right-handed people are.
 
 [ ![](./img/BYB_exp4_pic8.png)](img/BYB_exp4_pic8.png)
 
@@ -122,7 +122,7 @@ should calculate some basic values.
 * The minimum is the lowest value. 
 * The maximum is the highest value. 
 * The mode is the value occurring most frequently. 
-* The average, or mean, is the sum of individual scores divided by the total number of individuals. For example, if you have the list (1,2,3) the mean would be (1+2+3)/3 = 2). The mathematical symbol for mean is: μ (lower case Greek symbol for Mu) 
+* The average, or mean, is the sum of individual scores divided by the total number of individuals. For example, if you have the list (1,2,3) the mean would be (1+2+3)/3 = 2). The mathematical symbol for mean is_ μ (lower case Greek symbol for Mu) 
 * The median is the middle value in an ordered data set. If we have an odd number of data values than the median is the middle number. For example, in (1,2,3) the median would be 2. If we have an even amount of data values, there will be two middle values, and the median will the mean of the middle two. For example, in (1, 2, 3, 4) the two middle numbers are 2 and 3. Thus the median would be (2 + 3)/2 = 2.5. 
 
 First we want to find these values for the data in our first hypothesis.
@@ -135,13 +135,13 @@ First we want to find these values for the data in our first hypothesis.
 
 [ ![](./img/BYB_exp4_pic9_median.png)](img/BYB_exp4_pic9_median.png)
 
-* And another one: Standard Deviations! The standard deviation is a measure of the variation in the data. The higher the standard deviation value, the further "spread" the data are from the mean. The mathematical symbol used for the standard deviation is: σ (lower case Greek symbol for Sigma). How do we calculate it? See below... 
+* And another one_ Standard Deviations! The standard deviation is a measure of the variation in the data. The higher the standard deviation value, the further "spread" the data are from the mean. The mathematical symbol used for the standard deviation is_ σ (lower case Greek symbol for Sigma). How do we calculate it? See below... 
 
 [ ![](./img/BYB_exp4_pic9_sigma.png)](img/BYB_exp4_pic9_sigma.png)
 
 These are interesting results.
 
-* If you look at the means, there is not much of a difference. We can infer that a majority of the data in both sets centers on: .247 and .248. 
+* If you look at the means, there is not much of a difference. We can infer that a majority of the data in both sets centers on_ .247 and .248. 
 * The minimum and maximum values for both sets are fairly the same as well. This means that right handers' fastest and slowest reaction time was nearly the same. 
 * The standard deviation is slightly different for both sets. The standard deviation for the right, dominant, hand is a little bit larger (.193 seconds) vs the left hand (0.0155 seconds). This shows that the data spreads slightly further from the mean for the right, dominant hand than for the left hand. Or, the right hand is more "variable." 
 
@@ -173,18 +173,18 @@ do not know how to do this.
 There are many probability distribution curves in this world, but we use the
 "normal" distribution, because it is the most common and probably indicative
 of human reaction time. What does it mean to be normally distributed? It's a
-mathematic model of "normal" spread. Here is the equation:
+mathematic model of "normal" spread. Here is the equation_
 
 [ ![](./img/BYB_exp4_pic13.png)](img/BYB_exp4_pic13.png)
 
 Don't worry if you don't understand it, but scientists have found that human's
 heights, IQ, weight and so on are all normally distributed, so we make the
 assumption that reaction times are normally distributed as well. We can look
-at an example: human height (combining men and women)
+at an example_ human height (combining men and women)
 
 The distribution of heights is what makes the data "normal." Height centers
 about a single mean and has a symmetrical distribution as you move away from
-the mean. In a normal distribution:
+the mean. In a normal distribution_
 
 * Approximately 68% of people fall within one standard deviation from the mean (between 5'2' and 5'11' tall) 
 * Approximately 95% of people fall within two standard deviations from the mean (between 4'11 and 6'2 tall'). 
@@ -225,8 +225,8 @@ and alternative hypothesis. You may be asking why we need two hypotheses for a
 statistical test. In formal statistics, we always compare two hypotheses, the
 null and alternative.
 
-* The null hypotheses: There is no difference in reaction times between left and right hands.
-* The alternative hypothesis: Rights hands have a faster mean reaction time than left hands.
+* The null hypotheses_ There is no difference in reaction times between left and right hands.
+* The alternative hypothesis_ Rights hands have a faster mean reaction time than left hands.
 
 Now, we need to decide if we want to complete a one or two-tailed t-test. For
 this test, we will be using the one-tail. This is because we are only
@@ -253,38 +253,38 @@ will go over this process again below, it's difficult for everyone learning
 it.
 
 Now, let's gather all the data we have on our two samples. If you recall, from
-the "Raw Data, Graphs & Distributions" section above, we found the following:
+the "Raw Data, Graphs & Distributions" section above, we found the following_
 min, max, mode, mean, standard deviation, and Median. For the t-test, we need
 the mean, standard deviation, and a couple more numbers, which we will
 calculate below.
 
-#### Step 1: Find the "pooled variance", or Sp^2.
+#### Step 1_ Find the "pooled variance", or Sp^2.
 
 [ ![](./img/BYB_exp4_pic15_ttest1.png)](img/BYB_exp4_pic15_ttest1.png)
 
-* Note how the subscript "1" represents the data for the right-hand sample and the subscript "2" represents the data for the left-hand sample. This annotation [replicaimitation](https://www.replicaimitation.com/blog/) will stay consistent during our calculations. 
+* Note how the subscript "1" represents the data for the right-hand sample and the subscript "2" represents the data for the left-hand sample. This annotation [replicaimitation](https_//www.replicaimitation.com/blog/) will stay consistent during our calculations. 
 
 Next let's substitute the letters in the equation above with our numerical
 values.
 
 [ ![](./img/BYB_exp4_pic15_ttest2.png)](img/BYB_exp4_pic15_ttest2.png)
 
-#### Step 2: Calculate your t-statistic.
+#### Step 2_ Calculate your t-statistic.
 
 Now that we have pooled variance, Sp^2= .000119, we use it to calculate the
-t-statistic:
+t-statistic_
 
-[https://backyardbrains.com](https://backyardbrains.com/products/css/index.html)
+[https_//backyardbrains.com](https_//backyardbrains.com/products/css/index.html)
 
 [ ![](./img/BYB_exp4_pic15_ttest3.png)](img/BYB_exp4_pic15_ttest3.png)
 
-Again, what do these letters and symbols mean? We know: Sp^2, n1, and n2. But
+Again, what do these letters and symbols mean? We know_ Sp^2, n1, and n2. But
 what about the rest?
 
 [ ![](./img/BYB_exp4_pic15_ttest4.png)](img/BYB_exp4_pic15_ttest4.png)
 
 Note, delta, is equal to zero. Why would the hypothesized difference between
-sample means be zero? HINT: Refer back to the Null hypothesis.
+sample means be zero? HINT_ Refer back to the Null hypothesis.
 
 We are now ready to substitute! Plug in all the numerical values.
 
@@ -292,11 +292,11 @@ We are now ready to substitute! Plug in all the numerical values.
 
 Our t-statistic, t, is .2046
 
-#### Step 3: Compare your t-statistic against the t-value chart
+#### Step 3_ Compare your t-statistic against the t-value chart
 
 We compare our t-statistic against the standard t-value chart, and you can
-look it up in the back of a statistics textbook or here: [t-value
-chart](http://www.stattools.net/tTest_Tab.php). For this we also need our
+look it up in the back of a statistics textbook or here_ [t-value
+chart](http_//www.stattools.net/tTest_Tab.php). For this we also need our
 "degrees of freedom", our df, which is the number of independent pieces of
 information that are FREE to vary.
 
@@ -333,7 +333,7 @@ people.
 
 So, we found no evidence that you are faster with your right hand over your
 left hand if you are right-handed. Now let's take a look at our second
-hypothesis:
+hypothesis_
 
 ##### Are left-handed people faster with their left hand than right-handed
 people are with their right hand?
@@ -342,7 +342,7 @@ By "let's" we really mean "you." Now it's your turn, and you can run a T-test
 and calculate the values yourself, but we will give you the answer. You should
 have calculated a t-statistic of 2.7187, which at a p-value of 0.05 and
 degrees of freedom = 18, is greater than the t-value of 1.734! So, at 95%
-confidence, we can state:
+confidence, we can state_
 
 ##### Left-handed people are faster than right-handed people are.
 
@@ -357,7 +357,7 @@ the left and right hand in right-handed people, is more difficult to discuss.
 Perhaps there is a difference, but we did not have enough sample size to
 detect it (this is called a type II error, or "false negative"). In science,
 it is much harder to prove an "absence of something" than a "presence of
-something". Alternatively, as alien hunters like to say: "absence of evidence
+something". Alternatively, as alien hunters like to say_ "absence of evidence
 does not mean evidence of absence."
 
 [ ![](./img/BYB_exp4_pic16.png)](img/BYB_exp4_pic16.png)
@@ -373,9 +373,9 @@ does not mean evidence of absence."
 
 #### Recent Posts
 
-  * [ It's The Backyard Brains 10-Year Anniversary!](http://blog.backyardbrains.com/?p=4906)
-  * [ Cincinnati Neuroscience Outreach by BYB Alumna](http://blog.backyardbrains.com/?p=4870)
-  * [ First Place at Science Fair for Student using BYB Gear](http://blog.backyardbrains.com/?p=4861)
+  * [ It's The Backyard Brains 10-Year Anniversary!](http_//blog.backyardbrains.com/?p=4906)
+  * [ Cincinnati Neuroscience Outreach by BYB Alumna](http_//blog.backyardbrains.com/?p=4870)
+  * [ First Place at Science Fair for Student using BYB Gear](http_//blog.backyardbrains.com/?p=4861)
 
 #### BYB Information
 
@@ -387,4 +387,4 @@ does not mean evidence of absence."
 
 * * *
 
-Copyright © 2009-2017 [ Backyard Brains](http://backyardbrains.com) | Protected under the Creative Common License [ ](http://creativecommons.org/licenses/)[](http://creativecommons.org/licenses/by-sa/3.0/)
+Copyright © 2009-2017 [ Backyard Brains](http_//backyardbrains.com) | Protected under the Creative Common License [ ](http_//creativecommons.org/licenses/)[](http_//creativecommons.org/licenses/by-sa/3.0/)

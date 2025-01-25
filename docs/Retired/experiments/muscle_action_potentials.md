@@ -1,10 +1,10 @@
 ---
-id: experiment__muscle_action_potentials
-title: "Experiment: Muscle Action Potentials"
-slug: /retired/experiments/muscle_action_potentials
+id_ experiment__muscle_action_potentials
+title_ "Experiment_ Muscle Action Potentials"
+slug_ /retired/experiments/muscle_action_potentials
 ---
 
-# Experiment: Muscle Action Potentials
+# Experiment_ Muscle Action Potentials
 
 In this experiment we will look at EMG activity more closely. The muscle
 activity we saw in our previous experiment was the result of many muscle
@@ -31,13 +31,13 @@ hand. Can you find other small muscles to record from?
 
 [Muscle SpikerBox](/products/emgspikerbox)
 
-[Cable: Laptop](/products/laptopcable) [Phone](/products/smartphonecable)
+[Cable_ Laptop](/products/laptopcable) [Phone](/products/smartphonecable)
 
 * * *
 
 ## Background
 
-There are two things that determine strength of contraction: 1) the rate of
+There are two things that determine strength of contraction_ 1) the rate of
 action potentials that occur in the nerve cell and its accompanying muscle
 fibers, and 2) the "number" of motor units recruited. The rate of action
 potentials is a code very similar to what you have seen in the cockroach leg.
@@ -83,13 +83,13 @@ up and down vs left or right? Let's see!
 
 [ ![](./img/HandPlacement.jpg)](img/HandPlacement.jpg)
 
-  3. Place the electrodes over the back of your hand between the knuckles as shown below. Make sure you put a dab of [conductive gel](https://backyardbrains.com/products/emgelectrodegel) in-between each electrode and your skin. This will increase your signal quality (without gel you will most likely just get noise). 
+  3. Place the electrodes over the back of your hand between the knuckles as shown below. Make sure you put a dab of [conductive gel](https_//backyardbrains.com/products/emgelectrodegel) in-between each electrode and your skin. This will increase your signal quality (without gel you will most likely just get noise). 
 
 [ ![](./img/HandwithElectrodes.jpg)](img/HandwithElectrodes.jpg)
 
   4. Hook up the Muscle SpikerBox to the electrode cable (see video above as a guide). 
   5. Turn on the Muscle SpikerBox. 
-  6. Plug in your [SmartPhone Cable](https://backyardbrains.com/products/smartphonecable) (with our free [Android](https://play.google.com/store/apps/details?id=com.backyardbrains) or [iPhone](https://itunes.apple.com/gb/app/backyard-brains/id367151200?mt=8) apps installed) or computer (using our [Backyard Brains PC app](http://www.backyardbrains.com/experiments/files/Backyard_Brains_Neuron_Recorder_Install.air.zip) and a USB cable if you have the [Muscle SpikerBox Pro](https://backyardbrains.com/products/musclespikerboxpro)). 
+  6. Plug in your [SmartPhone Cable](https_//backyardbrains.com/products/smartphonecable) (with our free [Android](https_//play.google.com/store/apps/details?id=com.backyardbrains) or [iPhone](https_//itunes.apple.com/gb/app/backyard-brains/id367151200?mt=8) apps installed) or computer (using our [Backyard Brains PC app](http_//www.backyardbrains.com/experiments/files/Backyard_Brains_Neuron_Recorder_Install.air.zip) and a USB cable if you have the [Muscle SpikerBox Pro](https_//backyardbrains.com/products/musclespikerboxpro)). 
   7. Move your middle or ring finger either side to side or up and down. Do you notice a difference? 
 
 [ ![](./img/handmovements2.jpg)](img/handmovements2.jpg)

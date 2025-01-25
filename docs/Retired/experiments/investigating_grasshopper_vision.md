@@ -1,10 +1,10 @@
 ---
-id: experiment__investigating_grasshopper_vision
-title: "Experiment: Investigating Grasshopper Vision"
-slug: /retired/experiments/investigating_grasshopper_vision
+id_ experiment__investigating_grasshopper_vision
+title_ "Experiment_ Investigating Grasshopper Vision"
+slug_ /retired/experiments/investigating_grasshopper_vision
 ---
 
-# Experiment: Investigating Grasshopper Vision
+# Experiment_ Investigating Grasshopper Vision
 
 Grasshopper's have a fast reaction time! You reach out and try to catch one,
 you'll find yourself empty-handed. They hop-hop-hop away! In this experiment,
@@ -28,11 +28,11 @@ stimuli.
 
 ##### Equipment
 
-[Neuron SpikerBox Bundle](https://backyardbrains.com/products/SpikerBoxBundle)
+[Neuron SpikerBox Bundle](https_//backyardbrains.com/products/SpikerBoxBundle)
 
-[Manipulator](https://backyardbrains.com/products/micromanipulator)
+[Manipulator](https_//backyardbrains.com/products/micromanipulator)
 
-[RoachScope](https://backyardbrains.com/products/RoachScope)
+[RoachScope](https_//backyardbrains.com/products/RoachScope)
 
 * * *
 
@@ -85,7 +85,7 @@ segments of the animal, from head to tail. This is a computer network of up to
 1 million neurons (compared to the 80 billion in humans).
 
 The optic lobe of the grasshopper lies in the "central brain" near the eyes
-and processes visual signals. This is where a type of detector neurons reside:
+and processes visual signals. This is where a type of detector neurons reside_
 the lobulla giant motion detectors (LGMD). The LGMDs communicate and send the
 neural signals to the nearby descending contralateral motion detectors (DCMD),
 the neurons that run from the eyes to the legs of the grasshopper and whose
@@ -101,7 +101,7 @@ we can take extracellular recordings of the DCMDs.
 
 Also, this experiment has been published! Check out the full publication in
 [JUNE (Journal of Undergraduate Neuroscience Education)
-here!](http://www.funjournal.org/wp-content/uploads/2017/05/june-15-162.pdf)
+here!](http_//www.funjournal.org/wp-content/uploads/2017/05/june-15-162.pdf)
 
 #### Downloads
 
@@ -123,7 +123,7 @@ here!](http://www.funjournal.org/wp-content/uploads/2017/05/june-15-162.pdf)
 
 [ ![](./img/Grasshopper3.jpg)](img/Grasshopper3.jpg)
 
-**Optional:**
+**Optional_**
 
 * Beeswax 
 * Rosin 
@@ -169,7 +169,7 @@ here!](http://www.funjournal.org/wp-content/uploads/2017/05/june-15-162.pdf)
 
 [ ![](./img/Grasshopper13.jpg)](img/Grasshopper13.jpg)
 
-  11. The prep is now finished! It looks something like this: 
+  11. The prep is now finished! It looks something like this_ 
 
 [ ![](./img/Grasshopper14.jpg)](img/Grasshopper14.jpg)
 
@@ -194,7 +194,7 @@ here!](http://www.funjournal.org/wp-content/uploads/2017/05/june-15-162.pdf)
 
 [ ![](./img/Grasshopper19.jpg)](img/Grasshopper19.jpg)
 
-  17. Note: You might know that electrophysiology recording is troubled by lots of noise, including body and other electronic sources. Choose a spot without many electronics being used, and minimize body movement. I stay at least 5 feet away and sit as still as possible while the experiment is going on. 
+  17. Note_ You might know that electrophysiology recording is troubled by lots of noise, including body and other electronic sources. Choose a spot without many electronics being used, and minimize body movement. I stay at least 5 feet away and sit as still as possible while the experiment is going on. 
   18. Perform an experiment! See below for a few experimental procedures... 
   19. Once you've recorded data, you must first isolate your spikes from the electrical noise. 
 

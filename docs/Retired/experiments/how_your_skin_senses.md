@@ -1,10 +1,10 @@
 ---
-id: experiment__how_your_skin_senses
-title: "Experiment: How Your Skin Senses"
-slug: /retired/experiments/how_your_skin_senses
+id_ experiment__how_your_skin_senses
+title_ "Experiment_ How Your Skin Senses"
+slug_ /retired/experiments/how_your_skin_senses
 ---
 
-# Experiment: How Your Skin Senses
+# Experiment_ How Your Skin Senses
 
 Have you ever wondered how you can feel great detail with your fingers, but
 not with your elbow? Follow along below and we will show you how to perform a
@@ -26,11 +26,11 @@ your body has and maybe a few you did not know you had.
 
 ##### Equipment
 
-[Calipers]()
+Calipers
 
-[Paper]()
+Paper
 
-[Pen or Pencil]()
+Pen or Pencil
 
 * * *
 
@@ -44,9 +44,9 @@ your environment. These sensory feedback include body position
 senses we are taught in school is incorrect, for example, most people are not
 consciously aware of body position (proprioception), even though it is an
 important sensing system. There are many other senses your body has that you
-are not immediately aware of... Let's try to make a senses list:
+are not immediately aware of... Let's try to make a senses list_
 
-* Vision (really two senses: our conscious vision (color and intensity) and a subconscious one for regulating sleep) 
+* Vision (really two senses_ our conscious vision (color and intensity) and a subconscious one for regulating sleep) 
 * Vestibular (balance), as your ear also senses for gravity 
 * In the skin there are thermo (hot cold), pain (chemical, thermo, and mechanical), itch, and pressure sensors 
 * Olfactory (chemical smell) 
@@ -61,7 +61,7 @@ The skin (cutaneous system) is a very important part of the somatosensory
 system; it keeps bacteria out, fluids in, and helps maintain your body's
 structural integrity. Furthermore, it provides your nervous system and brain
 with important information gathered from the receptors embedded in your skin.
-Here are a few examples:
+Here are a few examples_
 
   1. As you touch a hot stove, pain receptors in your skin fire signals forcing you to immediately pull your hand away from danger. Note that this movement occurs before you are ever conscious of the pain. 
   2. When you play a violin or guitar, as you become better at playing the instrument, you can play it without looking at the strings (remember the first time you tried and you had to look at the neck of the guitar to play it). Without looking at your arm and fingers, you always know where they are anyway. For example, close your eyes and touch your nose, ear and eye.
@@ -109,9 +109,9 @@ experiment in [Neural Adaptation](somatotopy).
 
 ## Materials
 
-#### For this experiment you need:
+#### For this experiment you need_
 
-  1. Calipers [Measuring tool purchased at auto part or hardware store] [AutoZone Caliper](http://www.autozone.com/autozone/accessories/Tools-Garage-and-Equipment/Vernier-Caliper/OEM/_/N-26elZ1z141ur)
+  1. Calipers [Measuring tool purchased at auto part or hardware store] [AutoZone Caliper](http_//www.autozone.com/autozone/accessories/Tools-Garage-and-Equipment/Vernier-Caliper/OEM/_/N-26elZ1z141ur)
   2. Paper 
   3. Writing Utensil 
   4. Eye Shades 
@@ -127,12 +127,12 @@ together touching the skin. Incrementally they are pulled further apart and
 reapplied to the skin until the subject can clearly tell there are two
 different points.
 
-You will take measurements from four different body part locations: Fingertip,
+You will take measurements from four different body part locations_ Fingertip,
 Cheek, Forearm, and Calf. You will perform this experiment twice (ascending
 and descending with the caliper). Finally, the test subject must always keep
 their eyes closed (use the eye shades to be sure)!
 
-#### Experiment Steps:
+#### Experiment Steps_
 
   1. Before you start this experiment, be sure that you know how to use the caliper and how to open and close it. Practice touching your arm with it at different millimeter (mm) readings. It is important during the experiment that you touch your partner's skin with both tips at the same time; otherwise, they will easily be able to tell there are two points. Once you have the hang of it you are ready to begin! 
   2. Have your partner place the eye shades on and sit in a chair with a table in front of them. Then your partner places their arm on the table with their palm facing up. Now you takes the calipers, make sure they read 0 mm, and start with your partner's finger tip. 
@@ -146,7 +146,7 @@ their eyes closed (use the eye shades to be sure)!
   7. After you have both tested each other run the whole experiment again (Steps 1 to 5); however, this time instead of starting the caliper at 0mm and ascending, you will start at a large distance apart and descend from 2 points until your partner can only feel one point. 
   8. For example, if your partner could tell that one point became two points at 6 mm on their finger tip, start the descending experiment at 10 mm. This ensures that your partner will feel two different points. 
 
-##### Here is a table for you to record your numbers and averages:
+##### Here is a table for you to record your numbers and averages_
 
 [ ![](./img/BYB_Exp2_Pic7.png)](img/BYB_Exp2_Pic7.png)
 

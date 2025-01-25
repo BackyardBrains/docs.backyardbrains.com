@@ -1,10 +1,10 @@
 ---
-id: experiment__sensory_and_neural_adaptation
-title: "Experiment: Sensory and Neural Adaptation"
-slug: /retired/experiments/sensory_and_neural_adaptation
+id_ experiment__sensory_and_neural_adaptation
+title_ "Experiment_ Sensory and Neural Adaptation"
+slug_ /retired/experiments/sensory_and_neural_adaptation
 ---
 
-# Experiment: Sensory and Neural Adaptation
+# Experiment_ Sensory and Neural Adaptation
 
 Neurons learn, and you will gain a first look at this by examining a sensory
 neuron's adaptation to a constant stimulus.
@@ -46,7 +46,7 @@ labelled.jpg](./img/Exp4_fig1_labelled.jpg)](img/Exp4_fig1_labelled.jpg)
 These are exquisite maps of your body, and you have many of these, such as
 maps for visual fields, hearing space, the position of your limbs, and more.
 But, as you know from [our human behavioral
-experiments](http://backyardbrains.com/experiments/skin), over time your body
+experiments](http_//backyardbrains.com/experiments/skin), over time your body
 gets used to stimuli. You are probably aware of the clothes on your body the
 moment you put them on, but rather quickly you unconsciously ignore the
 constant presence of cloth on your skin.
@@ -62,7 +62,7 @@ term (learning to ignore background noise).
 
 Though the mechanisms of learning are still a subject of healthy and active
 research (for example, we still do not know how [declarative memory is stored
-in the brain](http://www-
+in the brain](http_//www-
 personal.umich.edu/~tmarzull/hippocampus/High_Resolution/Original_HowManyNeurons_HighRes.pdf)),
 we can investigate this short term effect of "adaptation" using the cockroach
 leg preparation.
@@ -80,8 +80,8 @@ leg.
 
 For this experiment, we need to precisely place fine wooden probes directly on
 the sensory barbs of the cockroach under magnification, so we will need to use
-our [Manipulator](http://backyardbrains.com/products/micromanipulator) and
-[RoachScope](https://backyardbrains.com/products/roachscope).
+our [Manipulator](http_//backyardbrains.com/products/micromanipulator) and
+[RoachScope](https_//backyardbrains.com/products/roachscope).
 
 [ ![](./img/Labsetup_small.jpg) ](img/Labsetup_small.jpg)
 
@@ -90,7 +90,7 @@ our [Manipulator](http://backyardbrains.com/products/micromanipulator) and
 ## Procedure
 
 1\. In this experiment, you will be putting a cockroach leg underneath our
-[RoachScope](https://backyardbrains.com/products/roachscope). Apply a piece of
+[RoachScope](https_//backyardbrains.com/products/roachscope). Apply a piece of
 cork underneath the lens of the scope, plug the RCA end of your electrode
 cable into the SpikerBox, and your needle electrodes into the cockroach leg as
 shown below.
@@ -98,30 +98,30 @@ shown below.
 [ ![](./img/somatopy_small.jpg) ](img/somatopy_small.jpg)
 
 2\. Turn on the SpikerBox; [as
-before](http://backyardbrains.com/experiments/spikerbox), you should hear a
+before](http_//backyardbrains.com/experiments/spikerbox), you should hear a
 robust spontaneous spiking activity.
 
 3\. Plug in your [Smartphone
-cable](http://backyardbrains.com/products/smartphonecable) into the SpikerBox
-and your SmartPhone. Note: you may want to [split the
-output](http://wiki.backyardbrains.com/Giving_Demo%27s_to_Large_Audiences) of
+cable](http_//backyardbrains.com/products/smartphonecable) into the SpikerBox
+and your SmartPhone. Note_ you may want to [split the
+output](http_//wiki.backyardbrains.com/Giving_Demo%27s_to_Large_Audiences) of
 the SpikerBox so that you can hear the spikes at the same time.
 
 4\. Turn your smartphone's camera app on and put it in **movie** mode.
 
 5\. Now, place a toothpick in your manipulator, and position the toothpick,
-with your [manipulator](http://backyardbrains.com/products/micromanipulator),
-over a spine on the leg of the cockroach (Note: you may want to touch the
+with your [manipulator](http_//backyardbrains.com/products/micromanipulator),
+over a spine on the leg of the cockroach (Note_ you may want to touch the
 barbs with a toothpick by hand first to find the barbs that are most
 sensitive).
 
 6\. With your manipulator, touch the sensitive barbs. You should hear a
 massive discharge of spikes that then goes away within a couple seconds. You
 can have your labmate time this by hand, or you can [extract the audio
-recording](http://wiki.backyardbrains.com/Extracting_Audio_Tracks_from_Movies)
+recording](http_//wiki.backyardbrains.com/Extracting_Audio_Tracks_from_Movies)
 from the movie file for more rigorous analysis. You can then measure the
 adaptation time using our new "[Backyard Brains Spike
-Recorder](https://backyardbrains.com/products/spikerecorder)" PC software as
+Recorder](https_//backyardbrains.com/products/spikerecorder)" PC software as
 we did in the video above.
 
 7\. Repeat with a number of barbs. Do the times for barb "adaptation" differ
@@ -137,7 +137,7 @@ it back on the barb again. Is the adaptation time quicker or slower?
 ## Acknowledgements
 
 Gracias to Carlos Burgos Gutierrez, high school student at [Liceo
-Japon](http://liceojaponhuasco.blogspot.com/) in Huasco, Chile, for helping us
+Japon](http_//liceojaponhuasco.blogspot.com/) in Huasco, Chile, for helping us
 collect our first preliminary data for this experiment.
 
 [ ![](./img/Carlos.jpg) ](img/Carlos.jpg)
@@ -146,9 +146,9 @@ collect our first preliminary data for this experiment.
 
 #### Recent Posts
 
-  * [ It's The Backyard Brains 10-Year Anniversary!](http://blog.backyardbrains.com/?p=4906)
-  * [ Cincinnati Neuroscience Outreach by BYB Alumna](http://blog.backyardbrains.com/?p=4870)
-  * [ First Place at Science Fair for Student using BYB Gear](http://blog.backyardbrains.com/?p=4861)
+  * [ It's The Backyard Brains 10-Year Anniversary!](http_//blog.backyardbrains.com/?p=4906)
+  * [ Cincinnati Neuroscience Outreach by BYB Alumna](http_//blog.backyardbrains.com/?p=4870)
+  * [ First Place at Science Fair for Student using BYB Gear](http_//blog.backyardbrains.com/?p=4861)
 
 #### BYB Information
 
@@ -160,4 +160,4 @@ collect our first preliminary data for this experiment.
 
 * * *
 
-Copyright © 2009-2017 [ Backyard Brains](http://backyardbrains.com) | Protected under the Creative Common License [ ](http://creativecommons.org/licenses/)[](http://creativecommons.org/licenses/by-sa/3.0/)
+Copyright © 2009-2017 [ Backyard Brains](http_//backyardbrains.com) | Protected under the Creative Common License [ ](http_//creativecommons.org/licenses/)[](http_//creativecommons.org/licenses/by-sa/3.0/)

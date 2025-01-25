@@ -1,10 +1,10 @@
 ---
-id: experiment__sleep
-title: "Experiment: Sleep"
-slug: /retired/experiments/sleep
+id_ experiment__sleep
+title_ "Experiment_ Sleep"
+slug_ /retired/experiments/sleep
 ---
 
-# Experiment: Sleep
+# Experiment_ Sleep
 
 "To sleep, perchance to dream." W. Shakespeare. Poets and Scientists have long
 wondered and written about this strange phenomenon that plays such a profound
@@ -48,16 +48,16 @@ Various theories exist, formulated by examining sleep cycle patterns and the
 effects of sleep deprivation on humans and animals. Let's take a look at four
 of them!
 
-**Protection Theory** : Sleep keeps us alive. Many animals are inactive at
+**Protection Theory** _ Sleep keeps us alive. Many animals are inactive at
 night for survival, ensuring they are protected from their predators at times
 of vulnerability in darkness (seeking shelter, being quiet). For example,
 chickens fly into the trees at night to "roost" when it is dark. Of course, a
-counter-argument presents itself: many big cats are most active at night,
+counter-argument presents itself_ many big cats are most active at night,
 sleeping during the day because their prey is inactive at night and easier to
 catch. And someone is certainly in a very vulnerable state when they are
 sleeping...
 
-**Energy Conservation Theory** : Sleep conserves energy. Competition for food
+**Energy Conservation Theory** _ Sleep conserves energy. Competition for food
 and energy resources is part of natural selection, and sleep provides a period
 where demand on energy is low. During sleep, energy metabolism, body
 temperature, and caloric demand all decrease. Animals like bears and squirrels
@@ -65,12 +65,12 @@ go into a more profound sleep during winter - hibernation.
 
 [ ![](./img/Why_we_sleep.jpg)](img/Why_we_sleep.jpg)
 
-**Body Repair Theory** : Sleep is a time for rejuvenation and repair. Without
+**Body Repair Theory** _ Sleep is a time for rejuvenation and repair. Without
 sleep, our body loses immune functions and dies in a few weeks. When we sleep,
 muscle growth, tissue repair, protein synthesis, and growth hormone release
 are some of the processes that occur.
 
-**Strengthen Learning Theory** : Sleep promotes learning and brain development
+**Strengthen Learning Theory** _ Sleep promotes learning and brain development
 by strengthening organization and structure of the brain in children (and
 adults). Infants typically need 13-14 hours of sleep, and deprivation affects
 performance and learning as they grow into adulthood. When we sleep, we
@@ -78,7 +78,7 @@ strengthen the neuronal connections that form our memories, and different
 memory types get shaped at different sleep stages characterized by the certain
 architecture of brainwaves.
 
-And when you sleep, you brain oscillates between 4 sleep cycles: Stage 1,
+And when you sleep, you brain oscillates between 4 sleep cycles_ Stage 1,
 Stage 2, Stage 3, and REM. Let's talk a little bit about these sleep stages
 and their electrical brain signatures before diving into the experiment.
 
@@ -89,30 +89,30 @@ is a reduction in physiological activity. Your consciousness of the
 environment, cortical activity, and internal thoughts are at very low levels
 but still occurring. During this epoch, you are awake but relaxed with your
 eyes closed. Alpha waves of around 8-13 Hz dominate. These are the same [alpha
-rhythms](https://backyardbrains.com/experiments/eeg) we recorded previously.
+rhythms](https_//backyardbrains.com/experiments/eeg) we recorded previously.
 When we eventually fall asleep, sleep is then classified into the four stages
 mentioned above. This sleep scoring was first described in detail in [a 1957
 paper](Dement-Kleitman-1957-first-sleep-scoring.pdf) by graduate student
-[William “Bill” Dement](https://en.wikipedia.org/wiki/William_C._Dement) and
+[William “Bill” Dement](https_//en.wikipedia.org/wiki/William_C._Dement) and
 his advisor, noted sleep researcher [Nathaniel
-Kleitman](https://en.wikipedia.org/wiki/Nathaniel_Kleitman), at the University
+Kleitman](https_//en.wikipedia.org/wiki/Nathaniel_Kleitman), at the University
 of Chicago.
 
-**N1 (Stage 1) sleep:**
+**N1 (Stage 1) sleep_**
 
 This is the lightest stage of sleep, also referred to as sleep onset. It is
 characterized by slow eye movements lasting a few seconds, and the replacement
 of the 8-13 Hz alpha waves with theta waves of 3-7 Hz. People woken from this
 stage may claim they weren't even sleeping.
 
-**N2 (Stage 2) sleep:**
+**N2 (Stage 2) sleep_**
 
 In this stage, there are very few eye movements, and the EEG is dominated by
 sleep spindles and K complexes. Sleep spindles are a series of distinct waves
 in the 12-14 Hz range. K complexes are brief large amplitude "swings" of the
 potential.
 
-**N3 sleep (Stage 3) or slow-wave sleep:**
+**N3 sleep (Stage 3) or slow-wave sleep_**
 
 This is the deepest stage of sleep, also referred to as slow-wave sleep (SWS),
 in which the brain becomes the least responsive to external stimuli and is the
@@ -122,7 +122,7 @@ epilepsy (a disease condition), is the strongest synchronous activity the
 brain produces. Sleep spindles and K-complexes from Stage 2 can still be
 present during Stage 3.
 
-**REM - Rapid Eye Movement - Late Sleep:**
+**REM - Rapid Eye Movement - Late Sleep_**
 
 REM, of course, is when your eyes are in rapid movement under your eyelids,
 and you are vividly dreaming. REM sleep is the part of sleep with the most
@@ -133,17 +133,17 @@ noticed while on a long train ride that people's eyes were twitching (under
 their eyelids) while they were sleeping, and that this eye twitching would
 abruptly stop and restart some point later. Being an observant and curious
 scientist, he wrote down and published his notes in a [short letter in
-Nature](http://www.backyardbrains.com/experiments/files/Lawson-first-
+Nature](http_//www.backyardbrains.com/experiments/files/Lawson-first-
 REM-1950.pdf) (productive train ride).
 
 [ ![](./img/sleep_Lawson01_bubble_web.gif)](img/sleep_Lawson01_bubble_web.gif)
 
 The aforementioned University of Chicago sleep researcher Nathaniel Kleitman
 read this Nature letter and assigned its verification to his graduate student
-[Eugene Aserinsky](https://en.wikipedia.org/wiki/Eugene_Aserinsky). Eugene
+[Eugene Aserinsky](https_//en.wikipedia.org/wiki/Eugene_Aserinsky). Eugene
 then recorded the EEG of REM on his 8 year old son Armond Aserinsky, and
 [published it in Science in
-1953](http://www.backyardbrains.com/experiments/files/Aserinsky-first-REM-
+1953](http_//www.backyardbrains.com/experiments/files/Aserinsky-first-REM-
 EEG-1953.pdf). Yes, though humans have been dreaming since they have existed,
 and REM is where dreams occur, such a connection was not known until 1953. An
 REM EEG often looks like an "awake" EEG, composed of various high frequency,
@@ -167,19 +167,19 @@ nap time or take one yourself! Time for experiments!
 #### Downloads
 
 > Before you begin, make sure you have the [Backyard Brains Spike
-> Recorder](https://backyardbrains.com/products/spikerecorder) program
+> Recorder](https_//backyardbrains.com/products/spikerecorder) program
 > installed on your computer or your smartphone/tablet. The Backyard Brains
 > Spike Recorder program allows you to visualize and save the data on your
 > computer when doing experiments.
 >
 > [Spike Recorder Software for Displaying and Saving Data on
-> Computer](https://backyardbrains.com/products/spikerecorder)
+> Computer](https_//backyardbrains.com/products/spikerecorder)
 >
 > [Primer on Optimizing your EEG
-> Signal](https://backyardbrains.com/products/files/EEG_Troubleshooting_Guide.pdf)
+> Signal](https_//backyardbrains.com/products/files/EEG_Troubleshooting_Guide.pdf)
 >
 > [Primer on Frequency Analysis in EEG
-> Signals](https://backyardbrains.com/products/files/Extracting_Frequency_Bands_EEG.pdf)
+> Signals](https_//backyardbrains.com/products/files/Extracting_Frequency_Bands_EEG.pdf)
 
 ## Tutorial Video of Experiment
 
@@ -205,10 +205,10 @@ movement after a couple hours. You can still collect some good data though.
   10. Start recording the subject's (or your) EEG signal. Tell the subject to relax and try not to move his face while you are attempting to record EEGs - muscle movements can also be picked up, which causes interference with your EEG reading. Be patient, you will get real brain activity, but EEG is a challenge that takes vigilance to separate real brain signal from electrical noise or muscle electrical signal. 
   11. Now it is time for the nap. 90 minutes is ideal, and remember to press the "record" button. 
 
-**Notes for Sleep Staging/Scoring in Real Time:**
+**Notes for Sleep Staging/Scoring in Real Time_**
 
 The time spent in each cycle varies through the sleep cycle. In our idealized
-[hypnogram](https://en.wikipedia.org/wiki/Hypnogram) below, you can see more
+[hypnogram](https_//en.wikipedia.org/wiki/Hypnogram) below, you can see more
 REM occurs as the night draws on and less time occurs in deep sleep. In our 90
 minute nap though, we will probably spend more time in deep sleep though. See
 for yourself!
@@ -225,11 +225,11 @@ for yourself!
 
 [ ![](./img/K-complexes_II.jpg)](img/K-complexes_II.jpg)
 
-  14. Sleep spindles and K-Complexes might/usually are present during slow wave sleep. Major Body Movements are the opposite: they should not/rarely are present in deep sleep. Their presence is a good indication that the subject has still not reached stage N3 of NREM sleep. Stay tuned as we continually improve our signal analysis tools! 
+  14. Sleep spindles and K-Complexes might/usually are present during slow wave sleep. Major Body Movements are the opposite_ they should not/rarely are present in deep sleep. Their presence is a good indication that the subject has still not reached stage N3 of NREM sleep. Stay tuned as we continually improve our signal analysis tools! 
 
 ## Discussion / Further Work
 
-  1. The documented record of most days without sleep was made by high school student [Randy Gardner](https://en.wikipedia.org/wiki/Randy_Gardner_\(record_holder\)) when he went for 11 days without sleep in San Diego in 1964. But this is a dangerous record to try to break, so don't try it (and Guinness no longer keeps track). 
+  1. The documented record of most days without sleep was made by high school student [Randy Gardner](https_//en.wikipedia.org/wiki/Randy_Gardner_\(record_holder\)) when he went for 11 days without sleep in San Diego in 1964. But this is a dangerous record to try to break, so don't try it (and Guinness no longer keeps track). 
   2. You may have noticed the EEG during is much stronger and more obvious in the delta waves of sleep than during awake EEG. Why do you think that is? 
   3. Ever wondered how coffee works? We feel tired after being awake for a while, as the build-up of adenosine produced by neurons in our brain indicates the need for us to sleep. Caffeine blocks the adenosine receptors in your brain. 
   4. We have found that our EEG headband works best for naps, but doesn’t stay situated correctly overnight. Most overnight sleep involves body movement that shifts the headband and and releases the electrode connection. Perhaps you could design a better way to keep the headband in place during the night with hair clips and a modification of the electrodes. 
@@ -241,15 +241,15 @@ for yourself!
 
   * You can notice REM sleep in your dog. When, during sleep, your dog's eyes and mouth are twitching, with an occasional twitch of a leg, your dog is in REM sleep. This of course leaves any curious mind to wonder what it is that dogs even dream about. Maybe you can repeat Robert Lawson's famous train ride experiment and simply observe your dog when it begins sleeping and write down the time and duration when its eyes start twitching versus not twitching. One of our colleagues, Ivonne Beltran, sent us a video of her dog in obvious REM sleep. 
 
-  * Is there a way to calculate how much energy you save while sleeping? There are movement trackers like the [Fitbit](https://www.fitbit.com/cl/home), [Apple Watch](https://www.apple.com/lae/watch/), and Misfit. You may be able to also "back of the envelope" calculate it using some physics. 
+  * Is there a way to calculate how much energy you save while sleeping? There are movement trackers like the [Fitbit](https_//www.fitbit.com/cl/home), [Apple Watch](https_//www.apple.com/lae/watch/), and Misfit. You may be able to also "back of the envelope" calculate it using some physics. 
   * Which hypothesis on why we sleep do you find the most compelling from above (Protection, Energy Conservation, Body Repair, and Strengthen Learning)? Why? Can you design an experiment testing your reasons? 
 
 ## References
 
-  * [Sleepy Head - Narcolepsy , Neuroscience, and the Search for a Good Night](https://www.amazon.com/Sleepyhead-Narcolepsy-Neuroscience-Search-Night-ebook/dp/B074V4TQ9R) by Henry Nicholls. A new book released in 2018 that goes over the state of the art in sleep research. Many of our historial references on the discovery of REM came from this book. 
-  * [National Institutes of Health Guide to Healthy Sleep](https://www.nhlbi.nih.gov/files/docs/public/sleep/healthy_sleep.pdf)
-  * Society for Neuroscience [Brain Facts](http://www.brainfacts.org/thinking-sensing-and-behaving/sleep)
-  * [Smithsonian Magazine article](https://www.smithsonianmag.com/science-nature/the-stubborn-scientist-who-unraveled-a-mystery-of-the-night-91514538/
+  * [Sleepy Head - Narcolepsy , Neuroscience, and the Search for a Good Night](https_//www.amazon.com/Sleepyhead-Narcolepsy-Neuroscience-Search-Night-ebook/dp/B074V4TQ9R) by Henry Nicholls. A new book released in 2018 that goes over the state of the art in sleep research. Many of our historial references on the discovery of REM came from this book. 
+  * [National Institutes of Health Guide to Healthy Sleep](https_//www.nhlbi.nih.gov/files/docs/public/sleep/healthy_sleep.pdf)
+  * Society for Neuroscience [Brain Facts](http_//www.brainfacts.org/thinking-sensing-and-behaving/sleep)
+  * [Smithsonian Magazine article](https_//www.smithsonianmag.com/science-nature/the-stubborn-scientist-who-unraveled-a-mystery-of-the-night-91514538/
 ) on the work done by Nathaniel Kleitman, Eugene Aserinsky, and William Dement
 and the origins of the sleep science field.
 
@@ -259,17 +259,17 @@ If you have the old heart and brain SpikerShield, you can do this experiment
 as well - our legacy downloads are below.
 
 Before you begin, make sure you have the [Backyard Brains Spike
-Recorder](https://backyardbrains.com/products/spikerecorder) and
-[Arduino](http://arduino.cc/en/main/software#.Uxd6XYWhZMk) Programs installed
+Recorder](https_//backyardbrains.com/products/spikerecorder) and
+[Arduino](http_//arduino.cc/en/main/software#.Uxd6XYWhZMk) Programs installed
 on your computer. The Arduino "Sketch" is what you install on your Arduino
 circuit board using the Arduino laptop software (your board comes preinstalled
 if you bought the Arduino from us), and Backyard Brains Spike Recorder program
 allows you to visualize and save the data on your computer when doing
-experiments. We [made a video](https://www.youtube.com/watch?v=L23Aeo6WXjA)
+experiments. We [made a video](https_//www.youtube.com/watch?v=L23Aeo6WXjA)
 for you to explain this!
 
 [Spike Recorder Software for Displaying and Saving Data on
-Computer](https://backyardbrains.com/products/spikerecorder)
+Computer](https_//backyardbrains.com/products/spikerecorder)
 
 [Arduino Sketch for Sending Data to
-Computer](https://backyardbrains.com/experiments/files/SpikeRecorderArduino.zip)
+Computer](https_//backyardbrains.com/experiments/files/SpikeRecorderArduino.zip)

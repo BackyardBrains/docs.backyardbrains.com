@@ -1,10 +1,10 @@
 ---
-id: experiment__muscle_recruitment_in_your_jaw!
-title: "Experiment: Muscle Recruitment in your Jaw!"
-slug: /retired/experiments/muscle_recruitment_in_your_jaw!
+id_ experiment__muscle_recruitment_in_your_jaw!
+title_ "Experiment_ Muscle Recruitment in your Jaw!"
+slug_ /retired/experiments/muscle_recruitment_in_your_jaw!
 ---
 
-# Experiment: Muscle Recruitment in your Jaw!
+# Experiment_ Muscle Recruitment in your Jaw!
 
 Everybody chews. You will use the Muscle SpikerBox to record EMG's of the
 masseter and temporalis muscles, the two jaw closing muscles, while chewing
@@ -32,7 +32,7 @@ neurons and muscle fibers to produce different amounts of force.
 [Muscle SpikerBox Bundle](/products/muscleSpikerboxBundle)
 
 [Foods of similar size but differing
-consistency](https://en.wikipedia.org/wiki/Food)
+consistency](https_//en.wikipedia.org/wiki/Food)
 
 * * *
 
@@ -40,8 +40,8 @@ consistency](https://en.wikipedia.org/wiki/Food)
 
 _Based on experiments and writing by Colorado State University student Breonna
 E. Holland, Associate Professor[Brian L.
-Tracy](http://www.hes.chhs.colostate.edu/faculty-staff/tracy.aspx), and CSU's
-[Muscles Alive!](https://www.facebook.com/MusclesAliveCSU/) outreach program._
+Tracy](http_//www.hes.chhs.colostate.edu/faculty-staff/tracy.aspx), and CSU's
+[Muscles Alive!](https_//www.facebook.com/MusclesAliveCSU/) outreach program._
 
 Muscles are responsible for every single movement a human makes, the smallest
 things and biggest things- from running to blinking. The muscles in your face
@@ -91,17 +91,17 @@ chewing muscles of your face as a reflection of the command from the brain.
 #### Downloads
 
 > Before you begin, make sure you have the [Backyard Brains Spike
-> Recorder](https://backyardbrains.com/products/spikerecorder) installed on
+> Recorder](https_//backyardbrains.com/products/spikerecorder) installed on
 > your computer/smartphone/tablet. The Backyard Brains Spike Recorder program
 > allows you to visualize and save the data on your computer when doing
 > experiments. We have also built a simple lab handout to help you tabulate
 > your data.
 >
 > [Spike Recorder Computer
-> Software](https://backyardbrains.com/products/spikerecorder)
+> Software](https_//backyardbrains.com/products/spikerecorder)
 >
 > [Class
-> Handout](https://backyardbrains.com/experiments/files/MuscleChewing_Hand-
+> Handout](https_//backyardbrains.com/experiments/files/MuscleChewing_Hand-
 > Out.pdf)
 
 ## Video
@@ -120,7 +120,7 @@ largest to smallest expected EMG signal.
 
   3. Clench your teeth together as you feel the area of your face between your cheekbones and front of your ear for the muscle that sticks out while you are clenching. This is your masseter muscle. We are going to measure the electromyogram (EMG) of this muscle while chewing. 
 
-  4. Connect the USB cable from the Muscle SpikerBox Pro to the computer. Open Spike Recorder, and turn on your Muscle SpikerBox Pro. A USB icon should appear on the main SpikeRecorder screen. Click on it to connect to your Muscle SpikerBox Pro. (Note: If you are using a tablet, smartphone, and/or a Regular Muscle SpikerBox, you can connect to your tablet/smartphone/computer with the green smartphone audio cable.) 
+  4. Connect the USB cable from the Muscle SpikerBox Pro to the computer. Open Spike Recorder, and turn on your Muscle SpikerBox Pro. A USB icon should appear on the main SpikeRecorder screen. Click on it to connect to your Muscle SpikerBox Pro. (Note_ If you are using a tablet, smartphone, and/or a Regular Muscle SpikerBox, you can connect to your tablet/smartphone/computer with the green smartphone audio cable.) 
   5. As best as possible, use food materials of roughly the same size. 
 
   6. Place the popsicle-stick electrode over the masseter muscle.

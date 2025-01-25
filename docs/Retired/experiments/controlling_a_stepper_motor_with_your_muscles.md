@@ -1,12 +1,12 @@
 ---
-id: experiment__controlling_a_stepper_motor_with_your_muscles
-title: "Experiment: Controlling a Stepper Motor with Your Muscles"
-slug: /retired/experiments/controlling_a_stepper_motor_with_your_muscles
+id_ experiment__controlling_a_stepper_motor_with_your_muscles
+title_ "Experiment_ Controlling a Stepper Motor with Your Muscles"
+slug_ /retired/experiments/controlling_a_stepper_motor_with_your_muscles
 ---
 
-# Experiment: Controlling a Stepper Motor with Your Muscles
+# Experiment_ Controlling a Stepper Motor with Your Muscles
 
-What biology beyond flagella has never achieved: Rotary Motion with Axles.
+What biology beyond flagella has never achieved_ Rotary Motion with Axles.
 Here you will learn to make an interface with a Stepper Motor and enjoy making
 precise circular movements.
 
@@ -22,26 +22,26 @@ inventions that move things with your muscle signals.
 
 ##### Prerequisite Labs
 
-  * [Getting started with the Muscle SpikerShield](https://backyardbrains.com/experiments/musclespikershield)
+  * [Getting started with the Muscle SpikerShield](https_//backyardbrains.com/experiments/musclespikershield)
 
 ##### Equipment
 
 [Muscle
-SpikerShield](https://backyardbrains.com/products/muscleSpikershieldBundle)
+SpikerShield](https_//backyardbrains.com/products/muscleSpikershieldBundle)
 
 [Stepper
-Motor](https://www.amazon.com/gp/product/B00PNEQKC0/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
+Motor](https_//www.amazon.com/gp/product/B00PNEQKC0/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
 
 [Stepper Motor
-Driver](https://www.amazon.com/gp/product/B07JV835SW/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
+Driver](https_//www.amazon.com/gp/product/B07JV835SW/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
 
-[Breadboard](https://www.amazon.com/Pcs-MCIGICM-Points-Solderless-
+[Breadboard](https_//www.amazon.com/Pcs-MCIGICM-Points-Solderless-
 Breadboard/dp/B07PCJP9DY/ref=sr_1_6?dchild=1&keywords=breadboard&qid=1626130451&s=industrial&sr=1-6)
 
 [Jumper
-Wires](https://www.amazon.com/dp/B01EV47GI4/ref=redir_mobile_desktop?_encoding=UTF8&aaxitk=88cb0c9353a9a208eec99acacc715eb6&hsa_cr_id=4414025220401&pd_rd_plhdr=t&pd_rd_r=f63a3a8f-b5fb-43e0-ba94-21c0a81a1e51&pd_rd_w=8bwoc&pd_rd_wg=1ILZo&ref_=sbx_be_s_sparkle_mcd_asin_2_title)
+Wires](https_//www.amazon.com/dp/B01EV47GI4/ref=redir_mobile_desktop?_encoding=UTF8&aaxitk=88cb0c9353a9a208eec99acacc715eb6&hsa_cr_id=4414025220401&pd_rd_plhdr=t&pd_rd_r=f63a3a8f-b5fb-43e0-ba94-21c0a81a1e51&pd_rd_w=8bwoc&pd_rd_wg=1ILZo&ref_=sbx_be_s_sparkle_mcd_asin_2_title)
 
-[9 Volt Connectors](https://www.amazon.com/Battery-Connector-I-Type-Plastic-
+[9 Volt Connectors](https_//www.amazon.com/Battery-Connector-I-Type-Plastic-
 Housing/dp/B07TRKYZCH/ref=sr_1_3?dchild=1&keywords=9+volt+connector&qid=1626130518&s=electronics&sr=1-3)
 
 * * *
@@ -77,7 +77,7 @@ repeatable, allowing accurate and reliable positioning.
 
 **Why are there so many cables in a Stepper Motor?** Unipolar Stepper motors
 can have 5, 6 or 8 terminals that connect to [magnetic
-coils](http://en.wikipedia.org/wiki/Stepper_motor) that allow precise
+coils](http_//en.wikipedia.org/wiki/Stepper_motor) that allow precise
 positioning, in addition to other cables such as power and ground.
 
 **Circuit of Stepper Motor**
@@ -112,18 +112,18 @@ control.
 > SpikerShield Board
 >
 > [StepperMotor SpikerShield
-> Sketch.ino](https://backyardbrains.com/experiments/files/ControlStepperMotor_Arduino_SpikerShield.ino.zip)
+> Sketch.ino](https_//backyardbrains.com/experiments/files/ControlStepperMotor_Arduino_SpikerShield.ino.zip)
 
 ## Video
 
 ## Procedures
 
-  1. First, upload the Stepper Motor sketch to your Arduino, as you have [previously learned how to do](https://backyardbrains.com/experiments/muscleSpikerShield). 
+  1. First, upload the Stepper Motor sketch to your Arduino, as you have [previously learned how to do](https_//backyardbrains.com/experiments/muscleSpikerShield). 
   2. Now, we will have to add a library from the library manager. Go to Tools --> Manage Libraries and search in the search bar for "AccelStepper" and install it. 
 
 [ ![](./img/Accel_Library.jpeg)](img/Accel_Library.jpeg)
 
-  3. We now need to find the circuit diagram of the stepper motor driver. This can usually be downloaded from [ searching the part number on the internet](https://components101.com/modules/a4988-stepper-motor-driver-module). You can also see it directly on the board sometimes, like below. 
+  3. We now need to find the circuit diagram of the stepper motor driver. This can usually be downloaded from [ searching the part number on the internet](https_//components101.com/modules/a4988-stepper-motor-driver-module). You can also see it directly on the board sometimes, like below. 
 
 [ ![](./img/Motor_Driver_Out.jpeg)](img/Motor_Driver_Out.jpeg)
 
@@ -131,11 +131,11 @@ control.
 
 [ ![](./img/Power_StepperMotor_Web.jpeg)](img/Power_StepperMotor_Web.jpeg)
 
-  5. We will now hook up the four wires of the stepper motor. Which wire is which and what goes where? Again, look at the schematics of the stepper motor you bought. You will see an image such as this: 
+  5. We will now hook up the four wires of the stepper motor. Which wire is which and what goes where? Again, look at the schematics of the stepper motor you bought. You will see an image such as this_ 
 
 [ ![](./img/Stepper_Motor_out.jpeg)](img/Stepper_Motor_out.jpeg)
 
-  6. Notice that there are two pairs for the two coils in the motor: a black / green pair and a red / blue pair. These are the colors of the four wires that come out of our stepper motor. We will plug the black and green wires into the "1" pair on the driver board (polarity does not matter), and the red and blue wires into the "2" pair on the driver board. 
+  6. Notice that there are two pairs for the two coils in the motor_ a black / green pair and a red / blue pair. These are the colors of the four wires that come out of our stepper motor. We will plug the black and green wires into the "1" pair on the driver board (polarity does not matter), and the red and blue wires into the "2" pair on the driver board. 
 
 [
 ![](./img/Stepper_Connection_Add_Web.jpeg)](img/Stepper_Connection_Add_Web.jpeg)
@@ -153,9 +153,9 @@ control.
 [
 ![](./img/Stepper_Arduino_All_Set_Up.jpeg)](img/Stepper_Arduino_All_Set_Up.jpeg)
 
-  10. Now, when you flex, you should see the stepper motor turn. Now it's time to hack it! Can you modify the speed of the motor, the direction, etc.? With this new experience, now you can make your own inventions. Tell us what you are making [info@backyardbrains.com](mailto:info@backyardbrains.com) and maybe we can start a friendship! 
+  10. Now, when you flex, you should see the stepper motor turn. Now it's time to hack it! Can you modify the speed of the motor, the direction, etc.? With this new experience, now you can make your own inventions. Tell us what you are making [info@backyardbrains.com](mailto_info@backyardbrains.com) and maybe we can start a friendship! 
 
-**Code description:** This code will convert the electromyographic signal
+**Code description_** This code will convert the electromyographic signal
 (EMG) that comes from your muscle to a number of pulses that will be sent to
 the motor. For each pulse input the motor will spin a determined angle; if
 there is more muscle activity, the Arduino will send more pulses to the motor.
@@ -168,11 +168,11 @@ download links above.
 
     
         /**
-       Experiment: Controlling A Stepper Motor With Your Muscles
-       Link: https://backyardbrains.com/experiments/MuscleSpikerShield_StepperMotor
+       Experiment_ Controlling A Stepper Motor With Your Muscles
+       Link_ https_//backyardbrains.com/experiments/MuscleSpikerShield_StepperMotor
     
-       Edited by: Miguel Cornejo
-       Date edit: March 4th, 2021
+       Edited by_ Miguel Cornejo
+       Date edit_ March 4th, 2021
     **/
     #include  //Include AccelStepper library, via Arduino or Internet
     
@@ -218,13 +218,13 @@ download links above.
       else {
         for (currentSteps = 0 ; currentSteps <= numSteps ; currentSteps++)
         {
-          Serial.print("Current Steps:");
+          Serial.print("Current Steps_");
           Serial.print(currentSteps);
           Serial.print("   ");
-          Serial.print("Final Reading:");
+          Serial.print("Final Reading_");
           Serial.print(finalReading);
           Serial.print("   ");
-          Serial.print("Steps Advanced:");
+          Serial.print("Steps Advanced_");
           Serial.println(numSteps);
           stepper.stop();
           delay(50);

@@ -1,10 +1,10 @@
 ---
-id: experiment___clock_the_inner_workings_of_the_brain
-title: "Experiment:  Clock the Inner Workings of the Brain"
-slug: /retired/experiments/clock_the_inner_workings_of_the_brain
+id_ experiment___clock_the_inner_workings_of_the_brain
+title_ "Experiment_  Clock the Inner Workings of the Brain"
+slug_ /retired/experiments/clock_the_inner_workings_of_the_brain
 ---
 
-# Experiment:  Clock the Inner Workings of the Brain
+# Experiment_  Clock the Inner Workings of the Brain
 
 How fast do you think you are? Do you know what a reflex and a reaction are?
 This experiments reveals the speed of your nervous system and the muscular
@@ -19,12 +19,12 @@ Difficulty  Intermediate
 
 Now that you've been introduced to reactions and reflexes, it is time to plug
 into our Reaction Timer and test your skills! In this experiment, you will
-compare reaction times using different stimuli: visual, auditory, and
+compare reaction times using different stimuli_ visual, auditory, and
 combination!
 
 ##### Prerequisite Labs
 
-  * [Intro to The Muscle SpikerBox Pro: Agonist and Antagonist Pairs](https://backyardbrains.com/experiments/muscleSpikerBoxPro)
+  * [Intro to The Muscle SpikerBox Pro_ Agonist and Antagonist Pairs](https_//backyardbrains.com/experiments/muscleSpikerBoxPro)
   * [How Fast Your Brain Reacts to Stimuli](reactiontime)
 
 ##### Equipment
@@ -39,11 +39,11 @@ Android Smartphone / Tablet
 
 * * *
 
-### Updated Experiment:
+### Updated Experiment_
 
-Note: if your Reaction Timer looks different than what you see below, you may
+Note_ if your Reaction Timer looks different than what you see below, you may
 have a previous version. Check out the [legacy instructions
-here!](https://backyardbrains.com/experiments/files/Legacy_Reaction_Timer.pdf)  
+here!](https_//backyardbrains.com/experiments/files/Legacy_Reaction_Timer.pdf)  
 
 ## Background
 
@@ -51,7 +51,7 @@ here!](https://backyardbrains.com/experiments/files/Legacy_Reaction_Timer.pdf)
 
 The story begins with René Descartes - as a young boy in France, René visited
 the gardens of the French Royal Palace St. Germain. The French king was a bit
-of a prankster: He had set up lifelike mannequins that would jump out and
+of a prankster_ He had set up lifelike mannequins that would jump out and
 surprise garden flaneurs, along with other mechanical exhibits such as statues
 that would retreat as art lovers attempted to get close enough to see the
 details in the statues. René was surprised, literally, by these mannequins
@@ -70,7 +70,7 @@ garden of St. Germain, the nervous system was controlled by "animal spirits"
 which would flow through the nerves of animals and people giving rise to
 automatic responses, or reflexes. Descartes' theory succeeded in describing
 stimulus response and reflexes as mechanistic, but its proposed mechanisms are
-false: Nerves are not hollow, nor is there a flow of animal spirits through
+false_ Nerves are not hollow, nor is there a flow of animal spirits through
 our nervous system.
 
 [ ![](./img/Descartes3.jpg)](img/Descartes3.jpg)
@@ -95,7 +95,7 @@ information!
 
 > If you're looking for a PDF to print and scribble on, or a google doc to
 > edit, [check out this repository of print resources
-> here!](https://drive.google.com/drive/folders/1bE1B0DvsGNauhyj-z8YjzuBXmFYivfkR?usp=sharing)
+> here!](https_//drive.google.com/drive/folders/1bE1B0DvsGNauhyj-z8YjzuBXmFYivfkR?usp=sharing)
 
 ## Procedure
 
@@ -104,15 +104,15 @@ information!
 [ ![](./img/ReactionTimer_SetUp.jpg)](img/ReactionTimer_SetUp.jpg)
 
   1. Plug the Muscle SpikerBox Pro into your recording device via USB. This experiment only works on devices you can connect to via USB, so it excludes iPads, iPhones, and Chromebooks until those platforms offer 3rd party USB communication (we're patiently waiting, it is very frustrating.) 
-  2. Connect the Reaction Timer to the Muscle SpikerBox Pro with the Orange Expansion Cable. Note: if your Reaction Timer looks different, you may have a previous version. Check out the [legacy instructions here!](https://backyardbrains.com/experiments/files/Legacy_Reaction_Timer.pdf)
+  2. Connect the Reaction Timer to the Muscle SpikerBox Pro with the Orange Expansion Cable. Note_ if your Reaction Timer looks different, you may have a previous version. Check out the [legacy instructions here!](https_//backyardbrains.com/experiments/files/Legacy_Reaction_Timer.pdf)
   3. Hook an arm up to the Muscle SpikerBox! The two red clips attach to the stickers on the user's forearm, and the one black clip attaches to the sticker on the back of the user's hand. 
-  4. Turn on and test your devices! PC users open up the [SpikeRecorder app](https://backyardbrains.com/products/spikerecorder) and check to see that you are receiving input from your Muscle SpikerBox Pro when you flex your muscles. 
+  4. Turn on and test your devices! PC users open up the [SpikeRecorder app](https_//backyardbrains.com/products/spikerecorder) and check to see that you are receiving input from your Muscle SpikerBox Pro when you flex your muscles. 
   5. Next, test the Reaction Timer. Make sure the Light and Tone switches are in the on position, and the random switch is in the off position, and then press the first button on your board! You should hear a sound, see an LED light up, and in SpikeRecorder you should see that a tick mark has been placed in your recording at the exact moment you pressed the button. 
 
 [
 ![](./img/ReactionTimer_SpikeRecorder3.jpg)](img/ReactionTimer_SpikeRecorder3.jpg)
 
-> **Troubleshooting your set up:**
+> **Troubleshooting your set up_**
 > * If you don't hear any sounds through the speaker, make sure your the tone
 > switch is in the on position, the black volume wheel is turned up all the
 > way and that nothing is plugged into the headphone jack located in between
@@ -120,10 +120,10 @@ information!
 > * If you are not seeing any activity on your recording device, your laptop
 > or mobile device, make sure you are using the appropriate cables. Remember,
 > for Mac and Mobile device users, you need to use a Smartphone Cable which
-> has designated ends: one end for your Muscle SpikerBox, one end for your
+> has designated ends_ one end for your Muscle SpikerBox, one end for your
 > recording device
 
-#### Experiment 1: Simple Reaction Time
+#### Experiment 1_ Simple Reaction Time
 
 For this step, you will need a partner! One of you will be the controller, the
 other the subject. You will record a Simple Reaction Time - how fast can you
@@ -151,9 +151,9 @@ react with no distractions or instructions?
 
 [ ![](./img/worksheet reaction timer.jpg)](img/worksheet reaction timer.jpg)
 
-* Average your results! Calculate the [Standard Deviation](https://backyardbrains.com/experiments/p-value). Then perform again and again! Change the variables! Test light, sound, random, ... 
+* Average your results! Calculate the [Standard Deviation](https_//backyardbrains.com/experiments/p-value). Then perform again and again! Change the variables! Test light, sound, random, ... 
 
-#### Experiment 2: Recognition Reaction Time (Go/No Go)
+#### Experiment 2_ Recognition Reaction Time (Go/No Go)
 
 For this experiment, you will add a "distraction." Instruct the subject to
 flex in response to seeing the red LED light up, but now the experiment
@@ -167,7 +167,7 @@ time speed? Let's find out!
   2. Tell your subject to flex only in response to the red light and not the green light. 
   3. Perform several trials, then quantify your data just as you did for the Simple Reaction Time experiment. Now, compare with the results of the Simple Reaction Time Test - what do you see? 
 
-#### Experiment 3: Choice Reaction Time
+#### Experiment 3_ Choice Reaction Time
 
 One last experiment! To further complicate this neural circuit, we can
 continue to add instructions which the subject must follow.
@@ -185,7 +185,7 @@ to create a larger sample size!
 
 Do some web-searching and hunt for professional research that focuses on
 reaction times! We like [this paper's
-analysis](https://www.ncbi.nlm.nih.gov/pubmed/26097821) of the difference
+analysis](https_//www.ncbi.nlm.nih.gov/pubmed/26097821) of the difference
 between auditory and visual response times (spoiler alert in case you haven't
 performed the experiment yourself yet!)
 
@@ -193,10 +193,10 @@ Come up with your own ideas! You can take advantage of the different tones and
 lights in your own experiments. You can also see if different conditions make
 the reaction times faster or slower. A sleepy subject may be slower than a
 well-rested subject. Also, where you place your electrodes may make a
-difference: can you flex your right arm faster than your left? Can you clench
+difference_ can you flex your right arm faster than your left? Can you clench
 your jaw faster than you can flex your thigh? Conduct your own experiments and
 share your results with us at
-[hello@backyardbrains.com](mailto:hello@backyardbrains.com)!
+[hello@backyardbrains.com](mailto_hello@backyardbrains.com)!
 
 #### Project Lead the Way Alignment
 
@@ -207,8 +207,8 @@ total control of the experimental variables. Compare Sight, Sound, Decision
 Making, and even different muscles... does a muscle further away from the
 brain take longer to react? Your students can find out! To see just how simple
 it is to use, check out the [How Fast can your Body
-React?](https://backyardbrains.com/experiments/EMGReactionTimer)Everything
-comes pre-assembled, and it pairs with our free, user-friendly software:
+React?](https_//backyardbrains.com/experiments/EMGReactionTimer)Everything
+comes pre-assembled, and it pairs with our free, user-friendly software_
 [SpikeRecorder](products/SpikeRecorder) (which is available on any smart
 device.)
 

@@ -1,10 +1,10 @@
 ---
-id: experiment__effect_of_temperature_on_nerve_conduction_velocity
-title: "Experiment: Effect of Temperature on Nerve Conduction Velocity"
-slug: /retired/experiments/effect_of_temperature_on_nerve_conduction_velocity
+id_ experiment__effect_of_temperature_on_nerve_conduction_velocity
+title_ "Experiment_ Effect of Temperature on Nerve Conduction Velocity"
+slug_ /retired/experiments/effect_of_temperature_on_nerve_conduction_velocity
 ---
 
-# Experiment: Effect of Temperature on Nerve Conduction Velocity
+# Experiment_ Effect of Temperature on Nerve Conduction Velocity
 
 Can you slow down the speed of action potential propagation? Here you will use
 temperature to do just that.
@@ -32,7 +32,7 @@ different temperature conditions
 
 [Laptop Cable](/products/laptopcable)
 
-[USB 2-Channel Adaptor](http://www.amazon.com/Griffin-Technology-iMic-Audio-
+[USB 2-Channel Adaptor](http_//www.amazon.com/Griffin-Technology-iMic-Audio-
 Device/dp/B000BVV2IC)
 
 * * *
@@ -49,7 +49,7 @@ the axon (a reduction in conduction velocity). Earthworms are actually quite
 cold tolerant (this is why they can be stored alive in the refrigerator for
 months at a time), so, to see an effect of temperature on the worm's
 conduction velocity, you need to place the worm on a block of solid ice. To
-make this easy, we introduce our finest invention yet:
+make this easy, we introduce our finest invention yet_
 
 [ ![](./img/WormBed.jpg)](img/WormBed.jpg)
 
@@ -61,8 +61,8 @@ alternatively, design your own easy way to place the worm over ice.
 
 The materials required for this lab are exactly the same as the experiment
 ["Introduction to Conduction
-Velocity"](http://backyardbrains.com/experiments/speed#Materials), save for a
-couple extra items:
+Velocity"](http_//backyardbrains.com/experiments/speed#Materials), save for a
+couple extra items_
 
   1. The WormTray with solid ice inside, or an alternative icy arrangement 
   2. Three Balsa wood "Islands" 2 inch wide by 3 inch long by 0.6 inch high 
@@ -71,7 +71,7 @@ couple extra items:
 
   1. Take a worm tray, add water, and let it freeze overnight. 
   2. Once you are ready, prepare your worm for an experiment as [you previously have by anesthetizing it](speed#sleep) in either 10% ethanol solution or carbonated water. 
-  3. Place the worm on the three wooden islands, with the red (channel 1) on the left island and the white (channel 2) and ground electrode on the right island, as indicated below: 
+  3. Place the worm on the three wooden islands, with the red (channel 1) on the left island and the white (channel 2) and ground electrode on the right island, as indicated below_ 
 
 [ ![](./img/Worm-RoomTemp.jpg)](img/Worm-RoomTemp.jpg)
 
@@ -106,5 +106,5 @@ Our initial experiments using ice water did not slow down the conduction
 velocity enough for us to detect. Thus, it's important the worm lay directly
 on the ice to sufficiently cool it down.
 
-_Note_ : Gracias to [Italo Ahumada Morasky](Italo Ahumada Morasky), a Chilean
+_Note_ _ Gracias to [Italo Ahumada Morasky](Italo Ahumada Morasky), a Chilean
 artist who drew these pictures for us.

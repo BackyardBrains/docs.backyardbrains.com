@@ -1,15 +1,15 @@
 ---
-id: experiment__mosquito_love_songs
-title: "Experiment: Mosquito Love Songs"
-slug: /retired/experiments/mosquito_love_songs
+id_ experiment__mosquito_love_songs
+title_ "Experiment_ Mosquito Love Songs"
+slug_ /retired/experiments/mosquito_love_songs
 ---
 
-# Experiment: Mosquito Love Songs
+# Experiment_ Mosquito Love Songs
 
 We've all heard the annoying sound of a mosquito buzzing in our ear, and our
 first impulse is to slap it away. Did you know that this buzz is actually how
 they find their mate? In this mosquito behavioral experiment, we will harness
-and study the power of the most ubiquitous sound known to man: the Mosquito
+and study the power of the most ubiquitous sound known to man_ the Mosquito
 Love Song. This experiment was prepared by Haley Smith, a senior from Temple
 University, during our Summer Fellowship Program.
 
@@ -42,7 +42,7 @@ is love!
 Mosquitoes produce very specific buzzing sounds, or frequencies, based on the
 rate at which they beat their wings. It is a language unique to each species
 and their means to communicate. This rate also depends on the sex of the
-mosquito, which posed an interesting question for researchers: do the
+mosquito, which posed an interesting question for researchers_ do the
 different flight tones of the mosquito have anything to do with their mating
 behavior?
 
@@ -90,8 +90,8 @@ in order to better understand mosquito mating behavior.
 ### Preperation for the preperation
 
 Before you begin, make sure you have downloaded
-[Audacity](https://www.audacityteam.org/). You will also needs a few
-additional Materials:
+[Audacity](https_//www.audacityteam.org/). You will also needs a few
+additional Materials_
 
   1. Mosquitoes (wild type or lab purchased)
   2. Bowl of ice
@@ -114,7 +114,7 @@ PrepOverview.png)
 Mosquitoes can be found outside (the DIY and more interesting option), or
 purchased through a bioassay insect lab. It is important to know the sex of
 each mosquito prior to conducting your experiments, so you should either order
-already separated mosquitoes, or sex them yourself using these tips:
+already separated mosquitoes, or sex them yourself using these tips_
 
   * The most obvious and easy to identify trait separating male mosquitoes from females is the presence of very bushy and feathery like antennae on all male mosquitoes. If you spot this on any type of mosquito, you are guaranteed to have a male!
   * Female mosquitoes are also much larger than males, but this is not as easy to identify unless you're lucky enough to catch both sexes and compare them against each other!
@@ -182,8 +182,8 @@ experiments.
   3. Obtain an audio recording for each mosquito that will be used for the paired recording in order to quantify their fundamental frequencies
   4. Do not forget to date all of your recordings!
   5. Assign a number to each recording session, making sure to document the device you used for each recording
-     * Session definitions are yours to establish: for example, we may have chosen one session number for recordings taken during one sitting period, another number for recordings obtained in a different room, or an additional session number for the recordings taken on a different day 
-  6. Use 1's and 0's to characterize each recording (yes = 1, no = 0), for example:
+     * Session definitions are yours to establish_ for example, we may have chosen one session number for recordings taken during one sitting period, another number for recordings obtained in a different room, or an additional session number for the recordings taken on a different day 
+  6. Use 1's and 0's to characterize each recording (yes = 1, no = 0), for example_
      * Was a fan used during the recording?
      * Were you able to get a video recording of the experiment?
   7. Could you observe an interaction between pairs after importing the audio files into audacity?
@@ -193,9 +193,9 @@ hassle when you attempt to differentiate your data when you're ready to
 analyze it! And now for the fun partâ€¦ Your procedure will be broken up into
 three inquiries.
 
-  * Inquiry 1: record from a male mosquito
-  * Inquiry 2: record from a female mosquito
-  * Inquiry 3: record from a male/female pair
+  * Inquiry 1_ record from a male mosquito
+  * Inquiry 2_ record from a female mosquito
+  * Inquiry 3_ record from a male/female pair
 
 ### Individual Recordings
 
@@ -204,8 +204,8 @@ mosquitoes (male and females) so that you can have a record of their
 fundamental frequencies before any interactions. (All audio files will need to
 be imported into Audacity to reveal the specific frequencies.)
 
-  1. **Individual Male Mosquito Recording:** This inquiry serves to establish the fundamental frequency of an individual male mosquito so that he can be identified in the male/female pairing experiments. Repeat this process for a couple of different males, so that you can definitively tell what fundamental frequency he should have. What frequency do you observe?
-  2. **Individual Female Mosquito Recording:** The second inquiry to establish the fundamental frequency of an individual female mosquito so as to later identify her by frequency in male/female pairing experiments. Repeat this process for a couple of different females, so that you can definitively tell what fundamental frequency she should have. What frequency do you observe?
+  1. **Individual Male Mosquito Recording_** This inquiry serves to establish the fundamental frequency of an individual male mosquito so that he can be identified in the male/female pairing experiments. Repeat this process for a couple of different males, so that you can definitively tell what fundamental frequency he should have. What frequency do you observe?
+  2. **Individual Female Mosquito Recording_** The second inquiry to establish the fundamental frequency of an individual female mosquito so as to later identify her by frequency in male/female pairing experiments. Repeat this process for a couple of different females, so that you can definitively tell what fundamental frequency she should have. What frequency do you observe?
 
 Now that you have recordings of the male and female, you should be able to
 hear the difference in their fundamental frequencies. Record the base
@@ -246,7 +246,7 @@ fundamental frequencies of both the male and female. What you're looking for
 is convergence between the two frequencies until they come together and
 overlap for any length of time.
 
-NOTE: All of the above inquiries can be slightly tricky, as the mosquitoes do
+NOTE_ All of the above inquiries can be slightly tricky, as the mosquitoes do
 not always cooperate in terms of beating their wings for the entire duration
 of the recording. You may need to introduce a method that reminds them to beat
 their wings and/or an aid that keeps them in constant motion. What kinds of
@@ -256,7 +256,7 @@ methods?
 ### Analysis
 
 When you're ready, transfer all of your audio files to your computer, and
-import them into Audacity. Change the Audacity settings to the following:
+import them into Audacity. Change the Audacity settings to the following_
 
   1. Click on the file name, which will give you a drop down list of various options
   2. Navigate to 'spectrogram' and click it

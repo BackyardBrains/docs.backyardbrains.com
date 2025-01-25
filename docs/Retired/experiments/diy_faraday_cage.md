@@ -1,10 +1,10 @@
 ---
-id: experiment___diy_faraday_cage
-title: "Experiment:  DIY Faraday Cage"
-slug: /retired/experiments/diy_faraday_cage
+id_ experiment___diy_faraday_cage
+title_ "Experiment_  DIY Faraday Cage"
+slug_ /retired/experiments/diy_faraday_cage
 ---
 
-# Experiment:  DIY Faraday Cage
+# Experiment_  DIY Faraday Cage
 
 Even the best amplifiers in the world (and ours is not) can be susceptible to
 electromagnetic noise. You've got your killer experiment designed, your
@@ -34,7 +34,7 @@ your very own faraday cage and enlist in the battle against noisy data!
 
 [Faraday Cage](/products/faradaycage)
 
-[Cable: Laptop](/products/laptopcable) [Phone](/products/smartphonecable)
+[Cable_ Laptop](/products/laptopcable) [Phone](/products/smartphonecable)
 
 * * *
 
@@ -60,11 +60,11 @@ can be used to block many of these noise sources.
 
 The Faraday cage is named after 1800s scientist Michael Faraday, but to learn
 how the cage works we start with another famous scientist, [Charles-Augustin
-de Coulomb](http://en.wikipedia.org/wiki/Charles-Augustin_de_Coulomb). Coulomb
+de Coulomb](http_//en.wikipedia.org/wiki/Charles-Augustin_de_Coulomb). Coulomb
 did much work on the dynamics of charged particles and the electric fields
 that they generate. Coulomb determined that the electric field, "E", at a
 radius "r" away from a stationary point charge, "Q", could be calculated by
-this equation:
+this equation_
 
 [ ![](./img/Eq1_ColumbLaw.jpeg)](img/Eq1_ColumbLaw.jpeg)
 
@@ -80,7 +80,7 @@ relationship that relates charge and electric fields within a fixed volume of
 space. A Faraday cage encloses such a fixed volume of space, and, if the cage
 is made of conductive material, the cage's defining characteristic is that it
 prevents external charges from inducing electric fields within that volume.
-Here are two of the main rules that govern this barrier effect:
+Here are two of the main rules that govern this barrier effect_
 
   1. Coulomb's Law demands that the charges in a conductor at equilibrium be as far apart as possible, and thus the net electric charge of a conductor resides entirely on its surface. 
   2. Any net electric field inside the conductor would cause charge to move since it is abundant and mobile, but equilibrium demands that the net force within the conductor is equal to zero. Thus, the electric field inside of the conductor is zero.
@@ -97,7 +97,7 @@ interference.
 ![](./img/Fig2_Sketch_FaradayCage_Fields.jpeg)](img/Fig2_Sketch_FaradayCage_Fields.jpeg)
 
 Faraday first demonstrated this in a [famous ice bucket and metal sphere
-experiment](https://en.wikipedia.org/wiki/Faraday's_ice_pail_experiment).
+experiment](https_//en.wikipedia.org/wiki/Faraday's_ice_pail_experiment).
 Faraday lowered a metal ball charged with static electricity into a metal
 bucket supported by a wooden chair that insulated the bucket from the ground.
 When the charged ball was lowered into the bucket without touching the bucket,
@@ -119,7 +119,7 @@ use a Faraday Cage.
 ##### Building the Faraday Cage
 
 Note that we also sell [pre-made Faraday
-Cages](http://www.backyardbrains.com/products/faradaycage) if you do not want
+Cages](http_//www.backyardbrains.com/products/faradaycage) if you do not want
 to visit the hardware store.
 
   1. Measure out an 8 x 16 inch rectangle of screen metal mesh 
@@ -136,7 +136,7 @@ to visit the hardware store.
 
 ##### Using the Faraday Cage for Spikes
 
-  1. Set up a standard cockroach leg recording prep as described in [Experiment 1](http://www.backyardbrains.com/experiments/spikerbox)
+  1. Set up a standard cockroach leg recording prep as described in [Experiment 1](http_//www.backyardbrains.com/experiments/spikerbox)
   2. Create a noisy environment by hooking up a laptop to wall outlet and turning on a soldering iron or other high power appliance. Place your SpikerBox by these electronics, and also turn on all fluorescent lights in the room. Record your observations on noise level vs. neural signal level. 
   3. Clip an alligator clip to the ground (outside of RCA connector) on the Spikerbox. 
   4. Place your Spikerbox into your Faraday cage, with cage open. Record your observations on noise level vs. neural signal level. 

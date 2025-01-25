@@ -1,10 +1,10 @@
 ---
-id: experiment__build_and_control_your_own_diy_neuroprosthetic__a_cyborg_hand!
-title: "Experiment: Build and Control your own DIY Neuroprosthetic: a Cyborg Hand!"
-slug: /retired/experiments/build_and_control_your_own_diy_neuroprosthetic:_a_cyborg_hand!
+id_ experiment__build_and_control_your_own_diy_neuroprosthetic__a_cyborg_hand!
+title_ "Experiment_ Build and Control your own DIY Neuroprosthetic_ a Cyborg Hand!"
+slug_ /retired/experiments/build_and_control_your_own_diy_neuroprosthetic__a_cyborg_hand!
 ---
 
-# Experiment: Build and Control your own DIY Neuroprosthetic: a Cyborg Hand!
+# Experiment_ Build and Control your own DIY Neuroprosthetic_ a Cyborg Hand!
 
 Participate in the cutting-edge of biomedical engineering! Build your own DIY
 prosthetic hand with articulating fingers, then use the Muscle SpikerShield to
@@ -98,7 +98,7 @@ it.
 
 [ ![](./img/DIYHand10.jpg)](img/DIYHand10.jpg)
 
-  9. **This step is important for the Orientation of the motor:** with the wires of the servo motor coming in towards you, press the lever arm into place on the servo motor's gear so that the action arm makes a 90 degree angle (or close to it) with the rectangular body of the servo motor. If you have a small screwdriver, you can screw it into place, but the friction fit should be good enough too (especially once we get a bit of hot glue on it!) 
+  9. **This step is important for the Orientation of the motor_** with the wires of the servo motor coming in towards you, press the lever arm into place on the servo motor's gear so that the action arm makes a 90 degree angle (or close to it) with the rectangular body of the servo motor. If you have a small screwdriver, you can screw it into place, but the friction fit should be good enough too (especially once we get a bit of hot glue on it!) 
 
 [ ![](./img/DIYHand11.jpg)](img/DIYHand11.jpg)
 
@@ -114,7 +114,7 @@ it.
 
 [ ![](./img/DIYHand14.jpg)](img/DIYHand14.jpg)
 
-  13. **This step is important for the Orientation of the motor:** Glue the servo motor into this slot, and **make sure the wires coming out of the servo motor come out the tail end.**
+  13. **This step is important for the Orientation of the motor_** Glue the servo motor into this slot, and **make sure the wires coming out of the servo motor come out the tail end.**
 
 [ ![](./img/DIYHand15.jpg)](img/DIYHand15.jpg)
 
@@ -146,7 +146,7 @@ it.
 
 [ ![](./img/DIYHand24.jpg)](img/DIYHand24.jpg)
 
-  21. Test your hand by pressing the red button. It should change the resting state of the hand from open to closed! **Troubleshooting: If, when you plug it in, the servo motor and pencil immediately move the hand to the "closed" position, you can either adjust the starting position with the red button (needs to be done every time you plug it in), or pop the pencil off and reset it to the 90 degree position it was originally set to.**
+  21. Test your hand by pressing the red button. It should change the resting state of the hand from open to closed! **Troubleshooting_ If, when you plug it in, the servo motor and pencil immediately move the hand to the "closed" position, you can either adjust the starting position with the red button (needs to be done every time you plug it in), or pop the pencil off and reset it to the 90 degree position it was originally set to.**
   22. Plug in your orange cable and control it by flexing your own muscles! 
 
 ## Science Fair Project Ideas
@@ -160,4 +160,4 @@ Hand!
 
 Can you recreate this? Or better yet, can you build something better? Show us
 when you do! Email us your inventions at
-[hello@backyardbrains.com](mailto:hello@backyardbrains.com)
+[hello@backyardbrains.com](mailto_hello@backyardbrains.com)

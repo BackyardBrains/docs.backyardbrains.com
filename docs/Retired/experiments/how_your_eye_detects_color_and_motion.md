@@ -1,10 +1,10 @@
 ---
-id: experiment__how_your_eye_detects_color_and_motion
-title: "Experiment: How Your Eye Detects Color and Motion"
-slug: /retired/experiments/how_your_eye_detects_color_and_motion
+id_ experiment__how_your_eye_detects_color_and_motion
+title_ "Experiment_ How Your Eye Detects Color and Motion"
+slug_ /retired/experiments/how_your_eye_detects_color_and_motion
 ---
 
-# Experiment: How Your Eye Detects Color and Motion
+# Experiment_ How Your Eye Detects Color and Motion
 
 Everyday your eyes and brain work together to create vision. But how does this
 all really happen? What role does your brain and eyes play in the creation of
@@ -28,7 +28,7 @@ interprets motion/color.
 
 ##### Equipment
 
-[You build everything yourself from household materials.]()
+You build everything yourself from household materials.
 
 * * *
 
@@ -38,7 +38,7 @@ Light is the key to vision. The photons emitted from a light source bounce off
 of objects and eventually hit you in the eye! When a photon reaches your eye
 it passes through the transparent cornea and then through the lens which
 refracts and focuses the light onto your retina, where the light is
-selectively detected and absorbed by special photoreceptor cells: the rods and
+selectively detected and absorbed by special photoreceptor cells_ the rods and
 cones. After these photoreceptors transform the light into an electrical
 signal, nerves carry the signal into your brain, where some very complicated
 and awesome things occur, but we will discuss those in a later experiment.
@@ -64,8 +64,8 @@ centered around or in the fovea, which is a small dimple on the center of the
 retina. When you focus your eyes, for example reading or performing a science
 experiment, light entering your eye is being centered mainly on your fovea.
 The fovea consists of roughly thirty thousand specialized cones that are
-slightly smaller than other cones. There are also different subtypes of cones:
-each tuned to better absorb a different portion of the visible light spectrum:
+slightly smaller than other cones. There are also different subtypes of cones_
+each tuned to better absorb a different portion of the visible light spectrum_
 short wavelength (blue), middle (green), and long (red).
 
 Below are pictures of your retina as if you were standing in front and facing
@@ -81,12 +81,12 @@ traveling to the brain. The arteries supply fresh blood and nutrients to the
 eye. The Fovea has no rods, but it is full of cones.
 
 How do your rods and cones transform light into electrical signals? They use
-special proteins called [opsins](http://en.wikipedia.org/wiki/Opsin), which
+special proteins called [opsins](http_//en.wikipedia.org/wiki/Opsin), which
 turn the photons absorbed by the Rods and Cones into specific electrochemical
 signals that are then sent to the optic nerve and eventually the brain. This
 process is called
-[Phototransduction](http://en.wikipedia.org/wiki/Visual_phototransduction) and
-human vision has four essential types of opsin: one for rods and three for the
+[Phototransduction](http_//en.wikipedia.org/wiki/Visual_phototransduction) and
+human vision has four essential types of opsin_ one for rods and three for the
 cones. In your photoreceptors (your rods and cones), opsins are coupled with
 vitamin A (found in carrots). Vitamin A acts as a light absorbing molecule;
 after absorbing light its molecular structure changes and it separates from
@@ -102,7 +102,7 @@ along your retina.
 
 ## Materials
 
-#### For this experiment you need:
+#### For this experiment you need_
 
   1. White Poster board, standard size (28 inches X 22 inches) 
   2. Meter stick (yard stick, 3 foot stick) or 12 inch ruler 
@@ -131,7 +131,7 @@ along your retina.
 Now that you have materials ready, your group is good to go. One member will
 act as the subject and hold the poster board and the other one will record the
 data. You will carry out the experiment two times so that each member plays
-each role. Below is that chart that you will use for recording:
+each role. Below is that chart that you will use for recording_
 
 [ ![](./img/BYB_Exp1_Pic3.PNG)](img/BYB_Exp1_Pic3.PNG)
 
@@ -158,9 +158,9 @@ each role. Below is that chart that you will use for recording:
 
 #### Recent Posts
 
-  * [ It's The Backyard Brains 10-Year Anniversary!](http://blog.backyardbrains.com/?p=4906)
-  * [ Cincinnati Neuroscience Outreach by BYB Alumna](http://blog.backyardbrains.com/?p=4870)
-  * [ First Place at Science Fair for Student using BYB Gear](http://blog.backyardbrains.com/?p=4861)
+  * [ It's The Backyard Brains 10-Year Anniversary!](http_//blog.backyardbrains.com/?p=4906)
+  * [ Cincinnati Neuroscience Outreach by BYB Alumna](http_//blog.backyardbrains.com/?p=4870)
+  * [ First Place at Science Fair for Student using BYB Gear](http_//blog.backyardbrains.com/?p=4861)
 
 #### BYB Information
 
@@ -172,4 +172,4 @@ each role. Below is that chart that you will use for recording:
 
 * * *
 
-Copyright © 2009-2017 [ Backyard Brains](http://backyardbrains.com) | Protected under the Creative Common License [ ](http://creativecommons.org/licenses/)[](http://creativecommons.org/licenses/by-sa/3.0/)
+Copyright © 2009-2017 [ Backyard Brains](http_//backyardbrains.com) | Protected under the Creative Common License [ ](http_//creativecommons.org/licenses/)[](http_//creativecommons.org/licenses/by-sa/3.0/)

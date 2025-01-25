@@ -1,10 +1,10 @@
 ---
-id: _background__transistor_theory
-title: " Background: Transistor Theory"
-slug: /retired/experiments/transistor_theory
+id_ _background__transistor_theory
+title_ " Background_ Transistor Theory"
+slug_ /retired/experiments/transistor_theory
 ---
 
-#  Background: Transistor Theory
+#  Background_ Transistor Theory
 
 Ahh yes, the transistor. We all owe you so much. The transistor is the reason
 why your cell phone fits inside your pocket and why your SpikerBox can measure
@@ -19,7 +19,7 @@ Difficulty  Advanced
 In this lesson you will learn what a transistor is and how it works. It is a
 complicated, lovely mix of physics and chemistry, but with patience you can
 learn the principles behind the transistor. In the [next
-lab](http://www.backyardbrains.com/experiments/transistorDesign) you will use
+lab](http_//www.backyardbrains.com/experiments/transistorDesign) you will use
 this theory to build your very own junior SpikerBox on a solderless
 breadboard.
 
@@ -29,7 +29,7 @@ breadboard.
 
 ##### Equipment
 
-[Your Brain](http://en.wikipedia.org/wiki/Brain)
+[Your Brain](http_//en.wikipedia.org/wiki/Brain)
 
 * * *
 
@@ -216,14 +216,14 @@ it through a simple speaker. And the world of neurons is ours to study.
 [ ![](./img/fig12ampNewLeg_web.jpg)](img/fig12ampNewLeg_web.jpg)
 
 Now on to [part
-II](http://www.backyardbrains.com/experiments/transistorDesign) and building
+II](http_//www.backyardbrains.com/experiments/transistorDesign) and building
 your circuit...
 
-*Note: Unfortunately, you can't simply buy two RadioShack diodes and place them back-to-back with solder to make a transistor. The effects described above happen at the crystal lattice level. 
+*Note_ Unfortunately, you can't simply buy two RadioShack diodes and place them back-to-back with solder to make a transistor. The effects described above happen at the crystal lattice level. 
 
 ## Discussion Questions
 
   1. Why are the Group IV elements called "semi"-conductors? Do they conduct at all times? If not, what must be done to them to make them conduct? 
   2. What happens when Group III atoms are added into a block of Group IV material? What about when Group V atoms are added to Group IV instead? What do you think would happen if you just mixed Group III and Group V atoms? Do you think the resultant mix would be conductive? 
-  3. In our [temperature experiment](http://www.backyardbrains.com/experiments/temperature) we learned about the electro-chemical interactions that occur at the cellular membrane. How is a p-n junction similar to the lipid bilayer of a cell? How is it different? 
+  3. In our [temperature experiment](http_//www.backyardbrains.com/experiments/temperature) we learned about the electro-chemical interactions that occur at the cellular membrane. How is a p-n junction similar to the lipid bilayer of a cell? How is it different? 
   4. How do diodes relate to transistors?

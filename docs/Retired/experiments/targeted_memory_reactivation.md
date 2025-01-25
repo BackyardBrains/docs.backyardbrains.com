@@ -1,10 +1,10 @@
 ---
-id: experiment__targeted_memory_reactivation
-title: "Experiment: Targeted Memory Reactivation"
-slug: /retired/experiments/targeted_memory_reactivation
+id_ experiment__targeted_memory_reactivation
+title_ "Experiment_ Targeted Memory Reactivation"
+slug_ /retired/experiments/targeted_memory_reactivation
 ---
 
-# Experiment: Targeted Memory Reactivation
+# Experiment_ Targeted Memory Reactivation
 
 It can be so hard to remember things! Facts, names, where you placed your
 keys. We could all use some help. But could EEG come to the rescue? Maybe! It
@@ -31,11 +31,11 @@ None
 ##### Equipment
 
 [Heart and Brain
-SpikerBox](https://backyardbrains.com/products/heartAndBrainSpikerBox)
+SpikerBox](https_//backyardbrains.com/products/heartAndBrainSpikerBox)
 
 Laptop
 
-[SpikeRecorder](https://backyardbrains.com/products/spikerecorder)
+[SpikeRecorder](https_//backyardbrains.com/products/spikerecorder)
 
 * * *
 
@@ -53,13 +53,13 @@ The hippocampus is a seahorse shaped brain structure that helps with the
 storing of information from short-term memories to long-term memories. We call
 this memory consolidation. Much like a hotel assigning guests to their rooms,
 studies have shown that "episodic" memories... meaning memories of times,
-places, emotions: the _who, what, when, where, why_ memories are stored into
+places, emotions_ the _who, what, when, where, why_ memories are stored into
 cortex via the hippocampus. These memories can be retrieved again if enough
 associated cues are activated for "recall".
 
 Sleep has an interesting architecture, and is important for memory
 consolidation... so be sure to get some sleep before your finals! Our typical
-sleep cycle can be 8 to 9 hours long, and is divided mainly into two stages:
+sleep cycle can be 8 to 9 hours long, and is divided mainly into two stages_
 NREM/early night sleep, and REM/late night sleep. Our brain is still active
 during all stages of sleep and engages in cognitive activity, so we never
 really lose consciousness completely! When it comes to memory consolidation,
@@ -89,45 +89,45 @@ forget less?
 ## DIY Neuroscience Episode of Experiment
 
 > [How Sound Can Hack Your Memory While You
-> Sleep](https://www.facebook.com/DIYNeuro/videos/234975840406258/)
+> Sleep](https_//www.facebook.com/DIYNeuro/videos/234975840406258/)
 >
 > All you might need to improve your memory is a pair of headphones and a
 > comfortable sofa.
 >
-> Posted by [DIY Neuroscience](https://www.facebook.com/DIYNeuro/) on Monday,
+> Posted by [DIY Neuroscience](https_//www.facebook.com/DIYNeuro/) on Monday,
 > March 26, 2018
 
 ## Materials
 
-For this experiment you will need:
+For this experiment you will need_
 
-  * [Backyard Brains Heart and Brain SpikerBox](https://backyardbrains.com/products/heartAndBrainSpikerBox)
+  * [Backyard Brains Heart and Brain SpikerBox](https_//backyardbrains.com/products/heartAndBrainSpikerBox)
   * Laptop, phone or tablet for seeing EEGs
   * iPad/ Any Apple device for the memory game
-  * [Backyard Brains Spike Recorder](https://backyardbrains.com/products/spikerecorder)
+  * [Backyard Brains Spike Recorder](https_//backyardbrains.com/products/spikerecorder)
   * Xcode
   * A sleepy subject
 
 ## Procedure
 
-Download the software app for Xcode, and install on your iPad: [Available
-Here](https://github.com/BackyardBrains/Projects/tree/master/Sleep%20and%20Memory).
+Download the software app for Xcode, and install on your iPad_ [Available
+Here](https_//github.com/BackyardBrains/Projects/tree/master/Sleep%20and%20Memory).
 We are hoping to release this as an app one day.... Instructions for
 installing and running the app can be found in [This
-Document](https://docs.google.com/document/d/17ZqScaqQpJggKxGstVt43BhiDLVuuwdlMeZWWjB-
+Document](https_//docs.google.com/document/d/17ZqScaqQpJggKxGstVt43BhiDLVuuwdlMeZWWjB-
 Xck/edit?usp=sharing).
 
-Prep your Subject: Place an electrode patch on the mastoid bone behind the ear
+Prep your Subject_ Place an electrode patch on the mastoid bone behind the ear
 of the subject. Place the headband with its two electrodes centered on the
 frontal lobe/forehead of the subject. Place a good amount of gel on each of
 the two headband electrodes (the electrode patch already comes with gel).
-Connect the electrode cable with its 3 alligator clips as follows:
+Connect the electrode cable with its 3 alligator clips as follows_
 
 [ ![](./img/tmrPlacement.png)](img/tmr4.png)
 
-* Red: Place one of the red alligator clips at the headband electrode furthest from the patch behind the ear.
-* Red: Place the other red alligator clip at the electrode patch behind the ear.
-* Black: Place the black alligator clip at the headband electrode in-between the two red clips. 
+* Red_ Place one of the red alligator clips at the headband electrode furthest from the patch behind the ear.
+* Red_ Place the other red alligator clip at the electrode patch behind the ear.
+* Black_ Place the black alligator clip at the headband electrode in-between the two red clips. 
 
 [ ![](./img/tmr6.png)](img/tmr6.png)
 
@@ -175,7 +175,7 @@ software package of choice.
   * What would happen if we changed the cueing percentage to 0%, 25%, 75%, or 100%? 
   * How can we use TMR for real life applications? 
   * Does running the experiment during the night yield better results? Will having subjects perform this study before sleeping normally at night give different results than napping in the middle of the day? 
-  * How much does surrounding environmental factors affect the performance of the subject like: light, temperature, space, outside noise, etc. 
+  * How much does surrounding environmental factors affect the performance of the subject like_ light, temperature, space, outside noise, etc. 
 
 ## References
 
@@ -186,10 +186,10 @@ _Oudiette, D., J. W. Antony, J. D. Creery, and K. A. Paller. 2013. The role of
 memory reactivation during wakefulness and sleep in determining which memories
 endure. Vol. 33._
 
-_Oudiette, Delphine, James W. Antony, and Ken A. Paller. 2014. Spotlight: Fear
-not: Manipulating sleep might help you forget. Trends in Cognitive Sciences 18
-: 3-4._
+_Oudiette, Delphine, James W. Antony, and Ken A. Paller. 2014. Spotlight_ Fear
+not_ Manipulating sleep might help you forget. Trends in Cognitive Sciences 18
+_ 3-4._
 
 _Rudoy, John D., Joel L. Voss, Carmen E. Westerberg, and Ken A. Paller. 2009.
 Strengthening individual memories by reactivating them during sleep.
-Science(5956): 1079._
+Science(5956)_ 1079._

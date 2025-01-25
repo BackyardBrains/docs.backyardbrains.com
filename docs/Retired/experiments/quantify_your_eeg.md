@@ -1,10 +1,10 @@
 ---
-id: experiment__quantify_your_eeg
-title: "Experiment: Quantify Your EEG"
-slug: /retired/experiments/quantify_your_eeg
+id_ experiment__quantify_your_eeg
+title_ "Experiment_ Quantify Your EEG"
+slug_ /retired/experiments/quantify_your_eeg
 ---
 
-# Experiment: Quantify Your EEG
+# Experiment_ Quantify Your EEG
 
 Many students and teachers have enjoyed measuring their own brain activity
 with our Heart and Brain SpikerBox, but quantifying the brain signal has been
@@ -37,9 +37,9 @@ Engineering at the University of Santiago, Chile._
 
 Analyzing electroencephalograms (EEGs) is trickier than analyzing the action
 potentials from human muscles (using our [Muscle
-SpikerBox](https://backyardbrains.com/products/musclespikerboxpro)) or
+SpikerBox](https_//backyardbrains.com/products/musclespikerboxpro)) or
 cockroach leg nerves (using our [Neuron
-SpikerBox](https://backyardbrains.com/products/neuronspikerboxpro)). When
+SpikerBox](https_//backyardbrains.com/products/neuronspikerboxpro)). When
 recording EEG with the Heart and Brain SpikerBox, we are observing the
 collective electrical activity of many neurons in your brain at the same time,
 filtered through your skull and scalp. Thus, we cannot simply do a "spikes per
@@ -55,13 +55,13 @@ trials to see an "evoked potential," and 2) building a spectrogram to see
 frequency changes over time. In an evoked potential, we average the EEG signal
 over many repeated stimulus presentations and get an average "evoked
 response." This is what we do in our
-[P300](https://backyardbrains.com/experiments/p300) experiment.
+[P300](https_//backyardbrains.com/experiments/p300) experiment.
 
 [ ![](./img/Potentials_Math_red.jpg)](img/Potentials_Math_red.jpg)
 
 In contrast, building a spectrogram decomposes a complex signal into its many
 frequency components often using a "[Fourier
-Transform](https://en.wikipedia.org/wiki/Fourier_transform)," which states
+Transform](https_//en.wikipedia.org/wiki/Fourier_transform)," which states
 that any complex signal can be broken down into distinct sine and cosine
 waves. Joseph Fourier is a hero of ours, and he derived his famous formula
 studying heat flow in metals.
@@ -101,32 +101,32 @@ For example, in a simple example, if you imagine a signal alternating between
 At the moment our Spike Recorder software does not provide any quantitative
 analysis of the EEG after you record it, thus we will generate a figure using
 the popular open source analysis software [Python-based
-Anaconda](https://www.anaconda.com/products/individual). This software can be
+Anaconda](https_//www.anaconda.com/products/individual). This software can be
 intimidating to use, but just be patient; it is a very useful tool. We will do
 an example below.
 
 #### Downloads
 
 > [Spike Recorder Software for Displaying and Saving Data from Heart and Brain
-> SpikerBox on Computer](https://backyardbrains.com/products/spikerecorder)
+> SpikerBox on Computer](https_//backyardbrains.com/products/spikerecorder)
 >
 > [Python-Based Anaconda Program for
-> Download](https://www.anaconda.com/products/individual)
+> Download](https_//www.anaconda.com/products/individual)
 >
 > [Our Python Script for Analyzing
-> EEG](https://backyardbrains.com/experiments/files/Quantify_EEG4.py.zip)
+> EEG](https_//backyardbrains.com/experiments/files/Quantify_EEG4.py.zip)
 
 ## Procedure
 
 Now let's get our hands dirty with some code!
 
-  1. You can download our [test recording](https://backyardbrains.com/experiments/files/EEG_Alpha_SampleData.zip) of the alpha waves of the visual cortex while we opened and closed our eyes or [you can record the data on yourself](https://backyardbrains.com/experiments/eeg). Just remember to press the number 1 every time you close your eyes and the number 2 every time you open your eyes on your keyboard. 
+  1. You can download our [test recording](https_//backyardbrains.com/experiments/files/EEG_Alpha_SampleData.zip) of the alpha waves of the visual cortex while we opened and closed our eyes or [you can record the data on yourself](https_//backyardbrains.com/experiments/eeg). Just remember to press the number 1 every time you close your eyes and the number 2 every time you open your eyes on your keyboard. 
   2. Download the Anaconda Program and install it on your computer. 
   3. Once installed, you will open the Spyder Application, and you will see a window that looks like this. 
 
 [ ![](./img/Spyder_Window_Explain.jpg)](img/Spyder_Window_Explain.jpg)
 
-  4. To start you must install some packages: 1) numpy to use the math tools, 2) matplotlib.pyplot to be able to plot, 3) scipy.io.wavfile to read and transform the .wav audio file, 4) cvs to save your data, and 5) pandas for the dataframes. For this, you must write: 
+  4. To start you must install some packages_ 1) numpy to use the math tools, 2) matplotlib.pyplot to be able to plot, 3) scipy.io.wavfile to read and transform the .wav audio file, 4) cvs to save your data, and 5) pandas for the dataframes. For this, you must write_ 
     
     
     import numpy as np
@@ -162,7 +162,7 @@ Recording.jpg)
     data_new=signal.resample(data,ld_int)
     
 
-  8. And...we are ready to graph! We will use the "specgram" command with the following data: 1) data_new: our sample, 2) NFFT = 256: the number of samples for the frequency analysis, 3) Fs = 500: the sampling rate, and 4) noverlap = 250, the number of samples for the overlap in the moving window. 
+  8. And...we are ready to graph! We will use the "specgram" command with the following data_ 1) data_new_ our sample, 2) NFFT = 256_ the number of samples for the frequency analysis, 3) Fs = 500_ the sampling rate, and 4) noverlap = 250, the number of samples for the overlap in the moving window. 
   9. We save the data obtained by the spectrogram in the variables d (data), f (frequency), t (time) and im (image). In addition, we will define the limits to set the frequencies that interest us (0-90Hz). 
     
     
@@ -202,8 +202,8 @@ Recording.jpg)
     position_vector=[]
     length_f=np.shape(f)
     l_row_f=length_f[0]
-    for i in range(0, l_row_f):
-        if f[i]>=7 and f[i]<=12:
+    for i in range(0, l_row_f)_
+        if f[i]>=7 and f[i]<=12_
             position_vector.append(i)
     
 
@@ -213,23 +213,23 @@ Recording.jpg)
     length_d=np.shape(d)
     l_col_d=length_d[1]
     AlphaRange=[]
-    for i in range(0,l_col_d):
-        AlphaRange.append(np.mean(d[position_vector[0]:max(position_vector)+1,i]))
+    for i in range(0,l_col_d)_
+        AlphaRange.append(np.mean(d[position_vector[0]_max(position_vector)+1,i]))
     
 
-  18. We will then smooth the data using the smoothTriangle function. You can find the documentation [here](https://plotly.com/python/smoothing/). 
+  18. We will then smooth the data using the smoothTriangle function. You can find the documentation [here](https_//plotly.com/python/smoothing/). 
     
     
-    def smoothTriangle(data, degree):
-        triangle=np.concatenate((np.arange(degree + 1), np.arange(degree)[::-1])) # up then down
+    def smoothTriangle(data, degree)_
+        triangle=np.concatenate((np.arange(degree + 1), np.arange(degree)[__-1])) # up then down
         smoothed=[]
     
-        for i in range(degree, len(data) - degree * 2):
-            point=data[i:i + len(triangle)] * triangle
+        for i in range(degree, len(data) - degree * 2)_
+            point=data[i_i + len(triangle)] * triangle
             smoothed.append(np.sum(point)/np.sum(triangle))
         # Handle boundaries
         smoothed=[smoothed[0]]*int(degree + degree/2) + smoothed
-        while len(smoothed) < len(data):
+        while len(smoothed) < len(data)_
             smoothed.append(smoothed[-1])
         return smoothed
     
@@ -244,7 +244,7 @@ Recording.jpg)
     plt.xlim(0,max(t))
     
 
-  20. Thus, you can get the following image: 
+  20. Thus, you can get the following image_ 
 
 [ ![](./img/Alpha_Power_With_Time.jpg)](img/Alpha_Power_With_Time.jpg)
 
@@ -258,7 +258,7 @@ Recording.jpg)
            datosy,
             t
             ])
-    with open ('datosyt.csv', 'w', newline='') as file:
+    with open ('datosyt.csv', 'w', newline='') as file_
        writer=csv.writer(file, dialect='excel-tab')
       writer.writerows(datosyt.T)
       
@@ -275,7 +275,7 @@ Recording.jpg)
 
 [ ![](./img/Text-to-ColumnsII.jpg)](img/Text-to-ColumnsII.jpg)
 
-  24. Now let's set out to do what we originally wanted to - have a statistical test showing that alpha power in the visual cortex is higher when the eyes are closed versus when the eyes are open. We want to generate some box plots on the data. With such a [box plot](https://en.wikipedia.org/wiki/File:Box_plot_description.jpg) we can identify various characteristics of the data, such as 1) Median, 2) Quantiles, 3) Maximum and minimum, 4) Atypical values (outlier), 5) Interquartile range (IQR). 
+  24. Now let's set out to do what we originally wanted to - have a statistical test showing that alpha power in the visual cortex is higher when the eyes are closed versus when the eyes are open. We want to generate some box plots on the data. With such a [box plot](https_//en.wikipedia.org/wiki/File_Box_plot_description.jpg) we can identify various characteristics of the data, such as 1) Median, 2) Quantiles, 3) Maximum and minimum, 4) Atypical values (outlier), 5) Interquartile range (IQR). 
 
 [ ![](./img/BoxPlot.jpg)](img/BoxPlot.jpg)
 
@@ -283,7 +283,7 @@ Recording.jpg)
 
 [ ![](./img/Event_Times_Eyes.jpg)](img/Event_Times_Eyes.jpg)
 
-  26. First we form a vector with all the indicated times: 
+  26. First we form a vector with all the indicated times_ 
     
     
     tg=np.array([4.2552,14.9426, 23.2801,36.0951, 45.4738,59.3751, 72.0337,85.0831, max(t)+1])
@@ -298,13 +298,13 @@ Recording.jpg)
     eyesopen=[]
     j=0  #initial variable to traverse tg
     l=0  #initial variable to loop through the "y" data
-    for i in range(0, l_row_t):
-        if t[i]>=tg[j]:
+    for i in range(0, l_row_t)_
+        if t[i]>=tg[j]_
             
-            if j%2==0:
-                eyesopen.append(np.mean(datosy[l:i]))
-            if j%2==1:
-                eyesclosed.append(np.mean(datosy[l:i]))
+            if j%2==0_
+                eyesopen.append(np.mean(datosy[l_i]))
+            if j%2==1_
+                eyesclosed.append(np.mean(datosy[l_i]))
             l=i
             j=j+1
     
@@ -320,7 +320,7 @@ Recording.jpg)
 [ ![](./img/BoxPlotEyesOpenEyesClosed.jpg)](img/BoxPlotEyesOpenEyesClosed.jpg)
 
   29. So how do you think we could interpret it? Think about it... 
-  30. We can do the t-test to the samples of "closed eyes" and "open eyes" (you can learn more about the t-test [here](https://backyardbrains.com/experiments/p-value)). 
+  30. We can do the t-test to the samples of "closed eyes" and "open eyes" (you can learn more about the t-test [here](https_//backyardbrains.com/experiments/p-value)). 
     
     
     meanopen=np.mean(eyesopen)
@@ -341,11 +341,11 @@ Recording.jpg)
 
     
     
-    # -*- coding: utf-8 -*-
+    # -*- coding_ utf-8 -*-
     """
     Created on Feb 2021
     
-    @author: Natalia
+    @author_ Natalia
     """
     
     import numpy as np
@@ -380,27 +380,27 @@ Recording.jpg)
     position_vector=[]
     length_f=np.shape(f)
     l_row_f=length_f[0]
-    for i in range(0, l_row_f):
-        if f[i]>=7 and f[i]<=12:
+    for i in range(0, l_row_f)_
+        if f[i]>=7 and f[i]<=12_
             position_vector.append(i)
     
     length_d=np.shape(d)
     l_col_d=length_d[1]
     AlphaRange=[]
-    for i in range(0,l_col_d):
-        AlphaRange.append(np.mean(d[position_vector[0]:max(position_vector)+1,i]))
+    for i in range(0,l_col_d)_
+        AlphaRange.append(np.mean(d[position_vector[0]_max(position_vector)+1,i]))
     
     
-    def smoothTriangle(data, degree):
-        triangle=np.concatenate((np.arange(degree + 1), np.arange(degree)[::-1])) # up then down
+    def smoothTriangle(data, degree)_
+        triangle=np.concatenate((np.arange(degree + 1), np.arange(degree)[__-1])) # up then down
         smoothed=[]
     
-        for i in range(degree, len(data) - degree * 2):
-            point=data[i:i + len(triangle)] * triangle
+        for i in range(degree, len(data) - degree * 2)_
+            point=data[i_i + len(triangle)] * triangle
             smoothed.append(np.sum(point)/np.sum(triangle))
         # Handle boundaries
         smoothed=[smoothed[0]]*int(degree + degree/2) + smoothed
-        while len(smoothed) < len(data):
+        while len(smoothed) < len(data)_
             smoothed.append(smoothed[-1])
         return smoothed
     
@@ -416,7 +416,7 @@ Recording.jpg)
             datosy,
             t
             ])
-    with open ('datosyt.csv', 'w', newline='') as file:
+    with open ('datosyt.csv', 'w', newline='') as file_
         writer=csv.writer(file, dialect='excel-tab')
         writer.writerows(datosyt.T)
         
@@ -435,13 +435,13 @@ Recording.jpg)
     eyesopen=[]
     j=0  #initial variable to traverse tg
     l=0  #initial variable to loop through the "y" data
-    for i in range(0, l_row_t):
-        if t[i]>=tg[j]:
+    for i in range(0, l_row_t)_
+        if t[i]>=tg[j]_
             
-            if j%2==0:
-                eyesopen.append(np.mean(datosy[l:i]))
-            if j%2==1:
-                eyesclosed.append(np.mean(datosy[l:i]))
+            if j%2==0_
+                eyesopen.append(np.mean(datosy[l_i]))
+            if j%2==1_
+                eyesclosed.append(np.mean(datosy[l_i]))
             l=i
             j=j+1
     

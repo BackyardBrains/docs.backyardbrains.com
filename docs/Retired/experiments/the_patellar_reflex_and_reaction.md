@@ -1,10 +1,10 @@
 ---
-id: experiment__the_patellar_reflex_and_reaction
-title: "Experiment: The Patellar Reflex and Reaction"
-slug: /retired/experiments/the_patellar_reflex_and_reaction
+id_ experiment__the_patellar_reflex_and_reaction
+title_ "Experiment_ The Patellar Reflex and Reaction"
+slug_ /retired/experiments/the_patellar_reflex_and_reaction
 ---
 
-# Experiment: The Patellar Reflex and Reaction
+# Experiment_ The Patellar Reflex and Reaction
 
 Time  30 Minutes
 
@@ -71,7 +71,7 @@ Now let's try to measure this reflex! And perhaps let's measure a reaction
 too!
 
 > Before you begin, make sure you have the [Backyard Brains Spike
-> Recorder](https://backyardbrains.com/products/spikerecorder) installed on
+> Recorder](https_//backyardbrains.com/products/spikerecorder) installed on
 > your computer/smartphone/tablet. The Backyard Brains Spike Recorder program
 > allows you to visualize and save the data on your computer when doing
 > experiments. We have also built a simple lab handout to help you tabulate
@@ -81,16 +81,16 @@ too!
 >
 > If you purchased your [Muscle SpikerBox Pro](products/MuscleSpikerBoxPro)
 > before Feb 2019, you will need to follow the [Firmware Update
-> Instructions](https://backyardbrains.com/products/files/UpdateMuscleSpikerBoxProFirmware.pdf)
+> Instructions](https_//backyardbrains.com/products/files/UpdateMuscleSpikerBoxProFirmware.pdf)
 >
 > [Spike Recorder Computer
-> Software](https://backyardbrains.com/products/spikerecorder)
+> Software](https_//backyardbrains.com/products/spikerecorder)
 >
 > [Class
-> Handout](https://backyardbrains.com/experiments/files/Knee_Jerk_Handout.pdf)
+> Handout](https_//backyardbrains.com/experiments/files/Knee_Jerk_Handout.pdf)
 >
 > [Firmware Update
-> Instructions](https://backyardbrains.com/products/files/UpdateMuscleSpikerBoxProFirmware.pdf)
+> Instructions](https_//backyardbrains.com/products/files/UpdateMuscleSpikerBoxProFirmware.pdf)
 
 ## Video
 
@@ -98,12 +98,12 @@ too!
 
 > If you're looking for a PDF to print and scribble on, or a google doc to
 > edit, [check out this repository of print resources
-> here!](https://drive.google.com/drive/folders/1bE1B0DvsGNauhyj-z8YjzuBXmFYivfkR?usp=sharing)
+> here!](https_//drive.google.com/drive/folders/1bE1B0DvsGNauhyj-z8YjzuBXmFYivfkR?usp=sharing)
 
 ## Experiment
 
 For this experiment, we are going to look at the electromyographic signal in
-the [_rectus femoris_](https://en.wikipedia.org/wiki/Rectus_femoris_muscle)
+the [_rectus femoris_](https_//en.wikipedia.org/wiki/Rectus_femoris_muscle)
 muscle, one of the muscles in the quadriceps femoris group. We elicit a reflex
 using a tap to the patellar tendon. This is the same test that is done when
 you go to the doctor's office (the doctors use it as a quick test to determine
@@ -111,7 +111,7 @@ spinal pathway health - problems can be symptomatic of neuromuscular
 diseases).
 
   1. Set up your Muscle SpikerBox Pro using a smartphone or computer with the Spike Recorder app. 
-  2. Connect the USB cable from the Muscle SpikerBox Pro to the computer. Open Spike Recorder, and turn on your Muscle SpikerBox Pro. A USB icon should appear on the main SpikeRecorder screen. Click on it to connect to your Muscle SpikerBox Pro. (Note: If you are using a tablet, smartphone, and/or a Regular Muscle SpikerBox, you can connect to your tablet/smartphone/computer with the green smartphone audio cable. 
+  2. Connect the USB cable from the Muscle SpikerBox Pro to the computer. Open Spike Recorder, and turn on your Muscle SpikerBox Pro. A USB icon should appear on the main SpikeRecorder screen. Click on it to connect to your Muscle SpikerBox Pro. (Note_ If you are using a tablet, smartphone, and/or a Regular Muscle SpikerBox, you can connect to your tablet/smartphone/computer with the green smartphone audio cable. 
   3. Have the subject sit on a sturdy surface high enough to allow their lower legs and feet to dangle freely. 
   4. Have the subject contract their quadriceps (knee extensor) muscle so you can place two on either side of the knee as shown in below. One electrode on the Vastus Medialis, one on the Vastus Lateralis. Place a ground adhesive electrode on the back of the hand. 
 
@@ -126,11 +126,11 @@ diseases).
 
 [ ![](./img/Knee_Anatomy_web.jpg)](img/Knee_Anatomy_web.jpg)
 
-  9. If you have good electrode placement and apply a smart tap to the patellar tendon, you should see something like this (Note, it will be small! You may have to zoom in):
+  9. If you have good electrode placement and apply a smart tap to the patellar tendon, you should see something like this (Note, it will be small! You may have to zoom in)_
 
 [ ![](./img/ReflexEMG.jpg)](img/ReflexEMG.jpg)
 
-  10. Make a recording and zoom in over one of the reflex signals. You can see that the EMG signal looks much like other EMGs you have seen:
+  10. Make a recording and zoom in over one of the reflex signals. You can see that the EMG signal looks much like other EMGs you have seen_
 
 [ ![](./img/ReflexEMG2.png)](img/ReflexEMG2.png)
 
@@ -140,7 +140,7 @@ diseases).
 
 **Measure Reflex time**
 
-  1. Yes! We can measure the reflex time with the Backyard Brains [Reflex Hammer](https://backyardbrains.com/products/reflexhammer) \- an expansion kit for the [Muscle SpikerBox Pro](https://backyardbrains.com/products/musclespikerboxpro). 
+  1. Yes! We can measure the reflex time with the Backyard Brains [Reflex Hammer](https_//backyardbrains.com/products/reflexhammer) \- an expansion kit for the [Muscle SpikerBox Pro](https_//backyardbrains.com/products/musclespikerboxpro). 
 
 [ ![](./img/Hammer_Large.jpg)](img/Hammer_Large.jpg)
 
@@ -162,9 +162,9 @@ diseases).
 **Compare Against Reaction time**
 
 If you have the [Reaction
-Timer](https://backyardbrains.com/products/ReactionTimer) and performed the
+Timer](https_//backyardbrains.com/products/ReactionTimer) and performed the
 experiment [How Fast can Your Body
-React?"](https://backyardbrains.com/experiments/MuscleReactionTime), compare
+React?"](https_//backyardbrains.com/experiments/MuscleReactionTime), compare
 your findings and see how Reflex and Reaction times stack up against each
 other. Don't have the Reaction Timer? Well, you can record a simple reaction
 time test with this set-up too!
@@ -182,7 +182,7 @@ There is large variability between subjects in how well the EMG signal can be
 seen. As a last resort, you may need to try the demonstration with a different
 volunteer. If you are still having trouble, it may be necessary to move the
 placement of the electrodes. Recording strictly from the vastus medialis or
-lateralis can also work well. See below:
+lateralis can also work well. See below_
 
 **Medialis**
 

@@ -1,10 +1,10 @@
 ---
-id: experiment__turn_your_cell_phone_into_a_powerful_microscope
-title: "Experiment: Turn your Cell Phone into a Powerful Microscope"
-slug: /retired/experiments/turn_your_cell_phone_into_a_powerful_microscope
+id_ experiment__turn_your_cell_phone_into_a_powerful_microscope
+title_ "Experiment_ Turn your Cell Phone into a Powerful Microscope"
+slug_ /retired/experiments/turn_your_cell_phone_into_a_powerful_microscope
 ---
 
-# Experiment: Turn your Cell Phone into a Powerful Microscope
+# Experiment_ Turn your Cell Phone into a Powerful Microscope
 
 With the High Power RoachScope we can get a closer look at the cells that
 compose us.
@@ -26,13 +26,13 @@ magnification using two biology preps!
 
 [RoachScope](/products/RoachScope)
 
-[Glass Slides](http://www.amazon.com/Blank-Microscope-Slides-Square-
+[Glass Slides](http_//www.amazon.com/Blank-Microscope-Slides-Square-
 Cover/dp/B002OS6D9I)
 
-[Slide Covers](http://www.amazon.com/Blank-Microscope-Slides-Square-
+[Slide Covers](http_//www.amazon.com/Blank-Microscope-Slides-Square-
 Cover/dp/B002OS6D9I)
 
-[Toothpick](http://www.amazon.com/Farberware-5080422-Classic-
+[Toothpick](http_//www.amazon.com/Farberware-5080422-Classic-
 Toothpicks-300-Count/dp/B005D6G7U8/ref=sr_1_6?ie=UTF8&qid=1397592626&sr=8-6&keywords=toothpick)
 
 * * *
@@ -47,13 +47,13 @@ procedure. Fortunately, epithelial cells are available in abundance from your
 very own mouth for external examination! The epithelial cells we'll be
 examining in this experiment are from the inside of your cheek and are
 specifically classified as "Stratified Squamous Nonkeratinized Epithelium."
-That's a _mouthful_ of biological jargon, so let's break it down:
+That's a _mouthful_ of biological jargon, so let's break it down_
 
-**Stratified:** This describes how the cells join together. Stratified cells
+**Stratified_** This describes how the cells join together. Stratified cells
 stack together in multiple layers. This is different from other forms of
 Epithelium which sit one cell thick, called simple epithelium.
 
-**Squamous:** Is a descriptive word for the individual cells. Squamous cells
+**Squamous_** Is a descriptive word for the individual cells. Squamous cells
 are flat, scale-like, and fit together like building blocks to create
 protective layers of tissue. The other kinds of epithelial cells are Columnar
 (which function with secretion, found in tracts in your body), which build up
@@ -61,20 +61,20 @@ in such a way that their heights are greater than their widths, and Cuboidal
 epithelia (function as protective tissue found in glands), which are shaped
 like boxes.
 
-**Nonkeratinized:** Put simply, these cells make up soft tissue that live in
+**Nonkeratinized_** Put simply, these cells make up soft tissue that live in
 moist parts of our bodies, such as the mouth, esophagus, stomach, intestines,
 etc. Keratinized cells are our external skin cells and also make up our hair
 and finger nails.
 
-**Epithelium:** The basic type of animal tissue that we're focusing on
+**Epithelium_** The basic type of animal tissue that we're focusing on
 learning about right now!
 
 Many of our other experiments focus on neurons, which are the cells that make
 up our nervous system. Epithelium shares some similarities, but also
-differences with neurons! Let's check it out below:
+differences with neurons! Let's check it out below_
 
 [
-![](./img/neuronepithelial.png)](https://backyardbrains.com/experiments/img/neuronepithelial.png)
+![](./img/neuronepithelial.png)](https_//backyardbrains.com/experiments/img/neuronepithelial.png)
 
 Neurons and Epithelial cells do share some things in common. They both have a
 cell membrane, cytoplasm, and nuclei - which contain the cell's DNA and
@@ -100,33 +100,33 @@ High Powered Scope!
 
 ## Procedures
 
-### Prep 1: Human Cheek
+### Prep 1_ Human Cheek
 
-  1. Prepare your glass slide and slide cover by cleaning them with glass cleaning solution and a special glass cleaning cloth. If you have a camera or wear glasses, you can use the glass cleaning cloth that came with those. Otherwise, you can order special, disposable cleaning paper online - [here is an inexpensive option](http://www.amazon.com/OMAX-Sheets-Microscope-Camera-Cleaning/dp/B00A84NJ1U/ref=sr_1_3?ie=UTF8&qid=1399309334&sr=8-3&keywords=microscope+cleaning+kit)! 
+  1. Prepare your glass slide and slide cover by cleaning them with glass cleaning solution and a special glass cleaning cloth. If you have a camera or wear glasses, you can use the glass cleaning cloth that came with those. Otherwise, you can order special, disposable cleaning paper online - [here is an inexpensive option](http_//www.amazon.com/OMAX-Sheets-Microscope-Camera-Cleaning/dp/B00A84NJ1U/ref=sr_1_3?ie=UTF8&qid=1399309334&sr=8-3&keywords=microscope+cleaning+kit)! 
   2. Place a drop of water on the slide. 
   3. Take your toothpick and rub it against the inside of your cheek. Then take the toothpick and roll it through the drop of water. 
   4. Angle your slide cover over it, with one edge of the square touching the slide, then let the cover fall onto the drop of water. Run the flat side of your fingernail across the cover to remove any air from beneath it. Use a tissue paper to blot up water that escapes from beneath the slide cover. 
   5. Place the slide under the High-Power magnifying lense on the RoachScope and turn on the backlight. 
-  6. Set your cellphone's camera lens on top of the RoachScope's magnifying lens, centering the view of the microscope in the center of your screen. It should look something like this: 
+  6. Set your cellphone's camera lens on top of the RoachScope's magnifying lens, centering the view of the microscope in the center of your screen. It should look something like this_ 
 
 [
-![](./img/RoachScope1.jpg)](https://backyardbrains.com/experiments//img/RoachScope1.jpg)
+![](./img/RoachScope1.jpg)](https_//backyardbrains.com/experiments//img/RoachScope1.jpg)
 
 [
-![](./img/RoachScope2.jpg)](https://backyardbrains.com/experiments//img/RoachScope2.jpg)
+![](./img/RoachScope2.jpg)](https_//backyardbrains.com/experiments//img/RoachScope2.jpg)
 
   7. Zoom in on your phone! 
   8. If you can't see them already, search for some cells! To help find cells, carefully adjust the glass slide to hunt down your epithelial cells. To help focus you can tap on your screen (most smartphones have this feature) and make slight adjustments to the height of the RoachScope's magnifying platform. (we like to loosen the set screw, then make fine adjustments with the platform's height adjusting knob to find the focus, tightening the set screw once you like your image) 
 
 [ ![](./img/epithelial
-cells.jpg)](https://backyardbrains.com/experiments/img/epithelial cells.jpg)
+cells.jpg)](https_//backyardbrains.com/experiments/img/epithelial cells.jpg)
 
 Also, be sure not to mistake air bubbles for your cells!
 
 [ ![](./img/epithelial
-annot.jpg)](https://backyardbrains.com/experiments/img/epithelial annot.jpg)
+annot.jpg)](https_//backyardbrains.com/experiments/img/epithelial annot.jpg)
 
-### Prep 2: Onion
+### Prep 2_ Onion
 
 Now that you've learned to prepare a slide, your future microscopic
 observations will be a breeze! Let's practice preparing a slide again to look
@@ -144,7 +144,7 @@ at some more epithelial cells - but this time we're going to examine an onion!
   10. Move the light source to one side so that the onion cells are near the edge of the shadow. This may allow the cell nucleus to be seen (slightly darker than the rest of the cell, about 0.01 mm diameter, quite round). The nucleus houses all of the DNA needed for the entire onion plant. 
   11. With patience, good edge illumination, and a high-power view, some very active cells may have tiny dark vesicles (packages of stuff) moving or vibrating within the cell, usually near the nucleus, but sometimes quite a distance away. These vesicles can be found in areas of the onion that are actively growing. 
 
-[ ![](./img/onion cells.jpg)](https://backyardbrains.com/experiments/img/onion
+[ ![](./img/onion cells.jpg)](https_//backyardbrains.com/experiments/img/onion
 cells.jpg)
 
 Think about what you've seen and talk about it with your peers! Compare your
@@ -155,7 +155,7 @@ observation, think about other kinds of cells you could examine! What other
 cells can you retrieve from your own body safely? Also, all living things are
 made of cells, so you don't have to limit your research to human and onion
 cells! What will you find in the microscopic world? Email us your findings at
-[info@backyardbrains.com](mailto:info@backyardbrains.com)!
+[info@backyardbrains.com](mailto_info@backyardbrains.com)!
 
 Also, a big thank you to Dr. Charlie Taylor of our Education team for his work
 in helping develop these preps and write ups!
@@ -164,9 +164,9 @@ in helping develop these preps and write ups!
 
 #### Recent Posts
 
-  * [ It's The Backyard Brains 10-Year Anniversary!](http://blog.backyardbrains.com/?p=4906)
-  * [ Cincinnati Neuroscience Outreach by BYB Alumna](http://blog.backyardbrains.com/?p=4870)
-  * [ First Place at Science Fair for Student using BYB Gear](http://blog.backyardbrains.com/?p=4861)
+  * [ It's The Backyard Brains 10-Year Anniversary!](http_//blog.backyardbrains.com/?p=4906)
+  * [ Cincinnati Neuroscience Outreach by BYB Alumna](http_//blog.backyardbrains.com/?p=4870)
+  * [ First Place at Science Fair for Student using BYB Gear](http_//blog.backyardbrains.com/?p=4861)
 
 #### BYB Information
 
@@ -178,4 +178,4 @@ in helping develop these preps and write ups!
 
 * * *
 
-Copyright © 2009-2017 [ Backyard Brains](http://backyardbrains.com) | Protected under the Creative Common License [ ](http://creativecommons.org/licenses/)[](http://creativecommons.org/licenses/by-sa/3.0/)
+Copyright © 2009-2017 [ Backyard Brains](http_//backyardbrains.com) | Protected under the Creative Common License [ ](http_//creativecommons.org/licenses/)[](http_//creativecommons.org/licenses/by-sa/3.0/)

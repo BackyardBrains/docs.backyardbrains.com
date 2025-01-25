@@ -1,10 +1,10 @@
 ---
-id: experiment__activate_your_sympathetic_nervous_system
-title: "Experiment: Activate your Sympathetic Nervous System"
-slug: /retired/experiments/activate_your_sympathetic_nervous_system
+id_ experiment__activate_your_sympathetic_nervous_system
+title_ "Experiment_ Activate your Sympathetic Nervous System"
+slug_ /retired/experiments/activate_your_sympathetic_nervous_system
 ---
 
-# Experiment: Activate your Sympathetic Nervous System
+# Experiment_ Activate your Sympathetic Nervous System
 
 We will learn about your involuntary nervous system and manipulate it! Welcome
 to the autonomic nervous system, its division into the sympathetic and
@@ -17,7 +17,7 @@ Difficulty  Beginner
 #### What will you learn?
 
 Here we will activate your sympathetic nervous system using a famous model
-pain stimulus: dunking your hand in ice water. As you maintain the hand in the
+pain stimulus_ dunking your hand in ice water. As you maintain the hand in the
 ice water and your hand begins to hurt, your sympathetic nervous system "fight
 or flight" response will activate. This causes your heart rate to increase,
 which we will measure with our Heart and Brain SpikerShield.
@@ -31,7 +31,7 @@ which we will measure with our Heart and Brain SpikerShield.
 [Heart and Brain SpikerShield
 Bundle](/products/heartAndBrainSpikerShieldBundle)
 
-[Ice Water](https://en.wikipedia.org/wiki/Cold_pressor_test)
+[Ice Water](https_//en.wikipedia.org/wiki/Cold_pressor_test)
 
 * * *
 
@@ -39,18 +39,18 @@ Bundle](/products/heartAndBrainSpikerShieldBundle)
 
 Most of our human physiology experiments have dealt with the voluntary nervous
 system ([Neuromuscular
-Neuroscience](https://backyardbrains.com/experiments/muscleSpikerBox)) or
+Neuroscience](https_//backyardbrains.com/experiments/muscleSpikerBox)) or
 perception ([Sensory
-Neuroscience](https://backyardbrains.com/experiments/p300)); but here we will
+Neuroscience](https_//backyardbrains.com/experiments/p300)); but here we will
 talk about the "involuntary" part of the nervous system, the **autonomic**
 nervous system. The autonomic nervous system controls things we are both aware
 and unaware of but generally do not have much control over - digestion,
 homeostasis, sweating, blood pressure, heart rate, and many others. It is
 traditionally divided into two systems, the sympathetic division (which
-activates the coined "[fight or flight](https://en.wikipedia.org/wiki/Fight-
+activates the coined "[fight or flight](https_//en.wikipedia.org/wiki/Fight-
 or-flight_response)" response) and the parasympathetic division (which
 activates the also-coined "[rest and
-digest](https://en.wikipedia.org/wiki/Parasympathetic_nervous_system)"
+digest](https_//en.wikipedia.org/wiki/Parasympathetic_nervous_system)"
 response).
 
 [
@@ -58,7 +58,7 @@ response).
 
 We can study the effects of the sympathetic nervous activation by measuring
 heart rate. In our previous [heart
-experiment](https://backyardbrains.com/experiments/heartrate) we observed the
+experiment](https_//backyardbrains.com/experiments/heartrate) we observed the
 electrical impulses of the heart and the increase in heart rate during
 exercise. Let's go a little deeper into heart rate physiology and try to
 specifically activate your sympathetic nervous system's "fight or flight"
@@ -89,10 +89,10 @@ kidneys, releases norepinephrine and has a similar effect on the heart.
 
 To activate your sympathetic nervous system, we will use the famous "ice
 water" stimulus. This [is often
-used](https://en.wikipedia.org/wiki/Cold_pressor_test) in pain studies as
+used](https_//en.wikipedia.org/wiki/Cold_pressor_test) in pain studies as
 humans can tolerate it, everyone has experienced cold hands before, it is not
 scary and does not result in psychological damage, and is a [a good model
-stimulus](http://science.sciencemag.org/content/354/6312/564) easy to
+stimulus](http_//science.sciencemag.org/content/354/6312/564) easy to
 replicate in labs around the world. The longer you keep your hand in ice
 water, the more painful it becomes, activating your sympathetic nervous
 system, which will lead to an increase in heart rate.
@@ -104,16 +104,16 @@ Now let's see it for ourselves!
 #### Downloads
 
 > Before you begin, make sure you have the [Backyard Brains Spike
-> Recorder](https://backyardbrains.com/products/spikerecorder) installed on
+> Recorder](https_//backyardbrains.com/products/spikerecorder) installed on
 > your computer. The Backyard Brains Spike Recorder program allows you to
 > visualize and save the data on your computer when doing experiments. We have
 > also built a simple lab handout to help you tabulate your data.
 >
 > [Spike Recorder Computer
-> Software](https://backyardbrains.com/products/spikerecorder)
+> Software](https_//backyardbrains.com/products/spikerecorder)
 >
 > [Class
-> Handout](https://backyardbrains.com/experiments/files/Heart_Rate_HandOut.pdf)
+> Handout](https_//backyardbrains.com/experiments/files/Heart_Rate_HandOut.pdf)
 
 ## Video
 
@@ -121,7 +121,7 @@ Now let's see it for ourselves!
 
 > If you're looking for a PDF to print and scribble on, or a google doc to
 > edit, [check out this repository of print resources
-> here!](https://drive.google.com/drive/folders/1bE1B0DvsGNauhyj-z8YjzuBXmFYivfkR?usp=sharing)
+> here!](https_//drive.google.com/drive/folders/1bE1B0DvsGNauhyj-z8YjzuBXmFYivfkR?usp=sharing)
 
 ## Procedure
 
@@ -129,7 +129,7 @@ Now let's see it for ourselves!
 
 * Fill a pasta pot or large bucket 3/4 full with ice. 
 * Add cold water. Note that you making ice water, not water with ice in it. The ice water will ensure that the mixture is always in equilibrium at 32° F (0° C). 
-* Place [electrode patch stickers](https://backyardbrains.com/products/emglargeelectrodes) on your upper forearms, and one on the back of your hand. 
+* Place [electrode patch stickers](https_//backyardbrains.com/products/emglargeelectrodes) on your upper forearms, and one on the back of your hand. 
 * Connect the red alligator clips of your orange cable with the electrodes on your upper forearms, and the ground alligator clip to the ground electrode on the back of your hand. 
 * Hook up the orange cable to your Heart and Brain SpikerShield, and plug the Heart and Brain SpikerShield into your computer via USB. 
 * Set up your SpikeRecorder software to begin recording heart rate. This is done by connecting your Heart and Brain SpikerShield to your computer via USB port, turning on the power line noise notch filter of 60 Hz (USA) or 50 Hz (Europe, South America) depending on the country you live in, and the general band-pass filters from 1-100 Hz. Go into threshold mode, click the heart icon, and move the threshold until your can isolate and calculate the heart rate. 
@@ -142,13 +142,13 @@ Now let's see it for ourselves!
 * Wait until your friend reports that the stimulus becomes painful enough that he or she can "barely tolerate it." 
 * Write down their heart rate. 
 * Repeat a number of times to get an average (see handout). 
-* If you repeat enough observations, you can do [statistical hypothesis testing.](https://backyardbrains.com/experiments/p-value)
+* If you repeat enough observations, you can do [statistical hypothesis testing.](https_//backyardbrains.com/experiments/p-value)
 
 **Variant- The Diving Response**
 
 While we are set up for this experiment, we also examine another effect on the
 heart rate, called the [diving
-reflex](https://en.wikipedia.org/wiki/Diving_reflex). When a seal lion or
+reflex](https_//en.wikipedia.org/wiki/Diving_reflex). When a seal lion or
 other marine mammal dives, its heart rate decreases, and the veins and
 arteries in peripheral tissues and limbs contract. This limits blood flow to
 organs not related to the dive, reduces oxygen consumption of the heart, and
@@ -165,7 +165,7 @@ effects of water contact on the face versus simply holding your breath.
 
 **Heart Rate Diving Response Experiment**
 
-_Note: Instructor Supervision is advised when doing this experiment in the
+_Note_ Instructor Supervision is advised when doing this experiment in the
 classroom_
 
 * Dump out the ice water in the pot above and replace it with more tolerable cold/cool water. 
@@ -179,7 +179,7 @@ classroom_
 
 ## Notes
 
-* We thank our exercise and muscle physiology colleague, Associate Professor [Brian L. Tracy](http://www.hes.chhs.colostate.edu/faculty-staff/tracy.aspx) for describing this experiment to us during the Society for Neuroscience 2016 conference. 
+* We thank our exercise and muscle physiology colleague, Associate Professor [Brian L. Tracy](http_//www.hes.chhs.colostate.edu/faculty-staff/tracy.aspx) for describing this experiment to us during the Society for Neuroscience 2016 conference. 
 * The word "autonomic," meaning involuntary, is related to the word "autonomous," meaning independent. 
 
 ## Science Fair Project Ideas
@@ -188,7 +188,7 @@ Since these experiments are relatively easy to do quickly, you can rapidly
 generate a large data set in your family or school. Are there differences
 between athletes and people with normal or low levels of fitness? Are there
 differences in age, differences between male and female students, etc. [Happy
-Statistics!](https://backyardbrains.com/experiments/p-value)
+Statistics!](https_//backyardbrains.com/experiments/p-value)
 
 We previously studied the effect of exercise of heart rate. Why would or would
 not this stress response caused by ice increase the heart rate through

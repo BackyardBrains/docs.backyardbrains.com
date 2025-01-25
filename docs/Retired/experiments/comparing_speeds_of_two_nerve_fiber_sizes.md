@@ -1,10 +1,10 @@
 ---
-id: experiment__comparing_speeds_of_two_nerve_fiber_sizes
-title: "Experiment: Comparing Speeds of Two Nerve Fiber Sizes"
-slug: /retired/experiments/comparing_speeds_of_two_nerve_fiber_sizes
+id_ experiment__comparing_speeds_of_two_nerve_fiber_sizes
+title_ "Experiment_ Comparing Speeds of Two Nerve Fiber Sizes"
+slug_ /retired/experiments/comparing_speeds_of_two_nerve_fiber_sizes
 ---
 
-# Experiment: Comparing Speeds of Two Nerve Fiber Sizes
+# Experiment_ Comparing Speeds of Two Nerve Fiber Sizes
 
 Are you curious how the telephone pole lines in your neighborhood are similar
 to neurons in your own body? Find out in this lesson plan and learn about
@@ -37,9 +37,9 @@ axons.
 
 ## Background
 
-_Note: This experiment was peer-reviewed and published by the American
+_Note_ This experiment was peer-reviewed and published by the American
 Physiological Society in the journal "Advances in Physiology Education" -[Read
-the paper, intrepid scientists,](http://advan.physiology.org/content/38/1/62)
+the paper, intrepid scientists,](http_//advan.physiology.org/content/38/1/62)
 for a more in-depth treatment of the experiment described below_.
 
 Previously, you learned how to measure conduction velocity from the
@@ -109,7 +109,7 @@ length constant of 1 mm, that means at 1 mm away from the cell body in an
 axon, 37% of the voltage magnitude remains. At 2 mm away from the cell body in
 an axon, 14% of the magnitude remains, and at 3 mm away, 5% remains. This is
 representative of an [ "exponential decay"](
-http://en.wikipedia.org/wiki/Exponential_decay) function.
+http_//en.wikipedia.org/wiki/Exponential_decay) function.
 
 The length constant is calculated from rm and ri. rm is the electrical
 resistance of the neuron's membrane, or how "electrically leaky" it is. The
@@ -173,7 +173,7 @@ membrane, and plenty of active ion channels reside there. The discrete
 regeneration of action potentials between lengths of myelin at the Nodes of
 Ranvier is called "saltatory conduction."
 
-* Related Fact: Saltar is Spanish for "to jump." A grasshopper that lives in the Andes Mountains, for instance, is called "Saltamontes" or "mountain jumper." 
+* Related Fact_ Saltar is Spanish for "to jump." A grasshopper that lives in the Andes Mountains, for instance, is called "Saltamontes" or "mountain jumper." 
 
 [ ![](./img/Byb_mgnlgn_pic9.png)](img/Byb_mgnlgn_pic9.png)
 
@@ -204,7 +204,7 @@ also what many invertebrates use...
 [ ![](./img/Byb_mgnlgn_pic11.png)](img/Byb_mgnlgn_pic11.png)
 
 The larger the radius of the axon, the smaller both ri and rm will be.
-Remember our length constant equation states that :
+Remember our length constant equation states that _
 
 [ ![](./img/Byb_mgnlgn_pic6a_v2.png)](img/Byb_mgnlgn_pic6a_v2.png)
 
@@ -212,7 +212,7 @@ If both the top and bottom vary with the radius... it seems like the size of
 the axon wouldn't make a difference at all! But let's take a careful look at
 how these two values vary with the size of the axon. The membrane resistance
 (rm) changes with the circumference of the axon (where the membrane is) like
-so:
+so_
 
 [ ![](./img/Byb_mgnlgn_pic13.png)](img/Byb_mgnlgn_pic13.png)
 
@@ -222,14 +222,14 @@ while the internal resistance changes with area of the axon.
 
 Both Ri and Rm are constants that can be measured from the neuron regardless
 of it's size, (whereas ri and rm DO take size into account), π is 3.14, and
-radius is the radius of the axon. So now let's look at that equation again:
+radius is the radius of the axon. So now let's look at that equation again_
 
 [ ![](./img/Byb_mgnlgn_pic15.png)](img/Byb_mgnlgn_pic15.png)
 
 We are interested in seeing what changes when we change the size of the axon
 (radius), so we want to remove things that are constants and see what is left
 that changes. Both Rm and Ri are constants, so are 2 and π, and one radius
-cancels out. We are left with simply that:
+cancels out. We are left with simply that_
 
 [ ![](./img/Byb_mgnlgn_pic16.png)](img/Byb_mgnlgn_pic16.png)
 
@@ -245,7 +245,7 @@ in fat), so it's not the perfect solution for all animals. But...even the
 largest axons without myelin in the animal kingdom, such as the 1 mm diameter
 squid giant axon, only has a conduction velocity of 20-25 m/s second! You have
 myelinated axons in your body (the [ A alpha fibers](
-http://en.wikipedia.org/wiki/Nerve_fiber)) that are only 13-20 μm in diameter
+http_//en.wikipedia.org/wiki/Nerve_fiber)) that are only 13-20 μm in diameter
 (1/100 of the size of the squid axon), yet have conduction velocities that are
 80-120 m/s! Myelin is a wonderful biological invention, allowing neurons to
 get both small and fast, but it is expensive.
@@ -267,27 +267,27 @@ our results match the theory!
 
 #### Downloads
 
-> [Spike Recorder Software](https://backyardbrains.com/products/spikerecorder)
+> [Spike Recorder Software](https_//backyardbrains.com/products/spikerecorder)
 >
 > [Experiment in Editable Word .docx
-> Format](https://backyardbrains.com/experiments/files/Experiment-Comparing-
+> Format](https_//backyardbrains.com/experiments/files/Experiment-Comparing-
 > Nerve-Speed.docx)
 
 ## Video
 
-Note: The video below is a more recent July 2015 video on our [worm
-stretch](https://backyardbrains.com/experiments/wormstretch) experiment, but
+Note_ The video below is a more recent July 2015 video on our [worm
+stretch](https_//backyardbrains.com/experiments/wormstretch) experiment, but
 serves as a tutorial to use our new software, and the procedure is very
 similar. You can view the original [December 2012 video
-here](https://www.youtube.com/watch?feature=player_embedded&v=qZFTuOxUVok).
+here](https_//www.youtube.com/watch?feature=player_embedded&v=qZFTuOxUVok).
 
 ## Video
 
 ## Procedure
 
 ##### The Materials Required For This Lab Are Exactly The Same As The
-Experiment: [Introduction to Conduction Velocity (Neural
-Speed)](http://backyardbrains.com/experiments/speed#Materials)
+Experiment_ [Introduction to Conduction Velocity (Neural
+Speed)](http_//backyardbrains.com/experiments/speed#Materials)
 
   1. Anesthetize and take a recording of the posterior end of the worm as you did in the previous experiment. 
 
@@ -329,7 +329,7 @@ If your experiment was successful, you should have found that the MGN
 1.2x faster, but more like 2-4x faster! Why is this? You may recall that the
 earthworm neurons are actually myelinated! Some invertebrates, such as some
 shrimp and some worms, actually do have
-[myelin](http://en.wikipedia.org/wiki/Myelin ).
+[myelin](http_//en.wikipedia.org/wiki/Myelin ).
 
 Typically, as axon increases its diameter, its myelin thickness also
 increases. Perhaps the MGN has a thicker myelin sheath as well. This would
@@ -346,7 +346,7 @@ constant increases conduction velocity, let us know that as well.
   1. Does the anesthetic have an effect on the conduction velocities of the MGN and LGN? 
   2. Does a worm's general size have an effect on conduction velocity? 
   3. You can also anesthetize the worm in a 40% - 60% carbonated water solution for 5-9 minutes as an alternative anesthetic. Will this change the conduction velocity measurements. 
-  4. The worm _Lumbriculus variegatus_ (California Blackworm) actually has a larger LGN than MGN, so we would expect our results to be the opposite of what we observed here with our _Lumbricus terrestris_ nightcrawlers. Do this experiment and [let us know](mailto:info@backyardbrains.com) what you find! 
+  4. The worm _Lumbriculus variegatus_ (California Blackworm) actually has a larger LGN than MGN, so we would expect our results to be the opposite of what we observed here with our _Lumbricus terrestris_ nightcrawlers. Do this experiment and [let us know](mailto_info@backyardbrains.com) what you find! 
   5. How thick is the myelin? We don't have access to extensive histology resources, but you may. Why not take some slices of the earthworm, measure the axon diameter and myelin thickness on both nerves, and report back to us?
 
 ## Troubleshooting

@@ -1,10 +1,10 @@
 ---
-id: experiment__oxygen_and_spiking
-title: "Experiment: Oxygen and Spiking"
-slug: /retired/experiments/oxygen_and_spiking
+id_ experiment__oxygen_and_spiking
+title_ "Experiment_ Oxygen and Spiking"
+slug_ /retired/experiments/oxygen_and_spiking
 ---
 
-# Experiment: Oxygen and Spiking
+# Experiment_ Oxygen and Spiking
 
 Have you ever wondered what exactly happens to the oxygen you breath after it
 has entered your lungs and goes into your bloodstream? In this experiment, we
@@ -36,7 +36,7 @@ deprivation on a cockroach leg's neurons.
 ## Background
 
 Let's recall a [former
-experiment](http://wiki.backyardbrains.com/Experiment%3A_Power_Consumption),
+experiment](http_//wiki.backyardbrains.com/Experiment%3A_Power_Consumption),
 where we talked about the energy neurons need to continue generating spikes
 and specifically the energy needed to operate the sodium-potassium pump. This
 energy is provided by adenosine triphostate, or ATP. ATP is made from the
@@ -56,7 +56,7 @@ colonizing Earth.
 All animals, like insects, fish, birds, dogs, and you, need oxygen in addition
 to food to generate enough ATP to stay alive. But how? And why? Time for some
 biochemistry. For example, here is how your body breaks down the sugar
-glucose:
+glucose_
 
 [ ![](./img/Exp10_metabolism.jpeg)](img/Exp10_metabolism.jpeg)
 
@@ -98,7 +98,7 @@ cockroach will be white), you will notice a series of holes along its back
 [ ![](./img/spiraclesmolted_small.jpg)](img/spiraclesmolted_small.jpg)
 
 Let's see if we can investigate the dependence of oxygen on spikes in your
-cockroach leg preparation. There are two ways you can do this:
+cockroach leg preparation. There are two ways you can do this_
 
 ##### A. The Hard Way
 
@@ -114,7 +114,7 @@ spiking activity in the cockroach leg.
 
 Since the leg of the cockroach gets all its oxygen through the open wound (see
 our discovery of this when [we visited our friendly local electron
-microscopist](http://blog.backyardbrains.com/2010/11/byb-visits-a-scanning-
+microscopist](http_//blog.backyardbrains.com/2010/11/byb-visits-a-scanning-
 electron-microscope/)), we can "starve" the leg of oxygen by simply liberally
 coating the leg with petroleum jelly (vaseline).
 
@@ -124,7 +124,7 @@ coating the leg with petroleum jelly (vaseline).
 
 ## Materials
 
-##### For this experiment you need:
+##### For this experiment you need_
 
   1. Two cockroach legs from a cockroach 
   2. Two Recording Electrodes 
@@ -135,12 +135,12 @@ coating the leg with petroleum jelly (vaseline).
 
 ## Procedure
 
-  1. Anesthesize a cockroach in ice water, cut off two legs, and hook up each leg into your SpikerBox as you did in [Experiment 1](http://backyardbrains.com/experiments/spikerbox) to test if you can hear spiking. Note that you do not need two SpikerBoxes to do this experiment; you can simply swap out the electrodes that are hooked up to each cockroach leg. 
+  1. Anesthesize a cockroach in ice water, cut off two legs, and hook up each leg into your SpikerBox as you did in [Experiment 1](http_//backyardbrains.com/experiments/spikerbox) to test if you can hear spiking. Note that you do not need two SpikerBoxes to do this experiment; you can simply swap out the electrodes that are hooked up to each cockroach leg. 
   2. Liberally coat one leg (the "experimental leg") with petroleum jelly using a toothpick and start your stopwatch. 
   3. Every 10-15 minutes, manipulate both the control and experimental leg by touching one of the barbs to see if you can evoke spikes. 
   4. After a time, the experimental leg should stop spiking (if it doesn't you may not have put enough petroleum jelly on the leg to create a good seal against the air.) Mark down the time the spikes stopped. 
   5. Carefully remove the petroleum jelly with a napkin or paper towel. Restart your stopwatch. Every 10-15 minutes attempt to evoke spikes. Eventually they should return. Mark the time at which it does. Again also check if the control is still generating spikes. 
-  6. Repeat steps 2-5 as long as you have time for AND as long as the control leg is still generating spikes. Note: why is monitoring the control important? 
+  6. Repeat steps 2-5 as long as you have time for AND as long as the control leg is still generating spikes. Note_ why is monitoring the control important? 
   7. Repeat this experiment over a couple legs to see if you can find an "average time for the spikes to go away" and an "average time for the spikes to come back." Are they different or the same? What would be the reasons? Use the table below as a guide. 
 
 [ ![](./img/Exp10_spiketable.jpeg)](img/Exp10_spiketable.jpeg)

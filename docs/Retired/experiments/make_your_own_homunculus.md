@@ -1,10 +1,10 @@
 ---
-id: experiment__make_your_own_homunculus
-title: "Experiment: Make your own Homunculus"
-slug: /retired/experiments/make_your_own_homunculus
+id_ experiment__make_your_own_homunculus
+title_ "Experiment_ Make your own Homunculus"
+slug_ /retired/experiments/make_your_own_homunculus
 ---
 
-# Experiment: Make your own Homunculus
+# Experiment_ Make your own Homunculus
 
 While you know what you look like, do you know what your nervous system thinks
 you look like? Read further and learn how your skin's sensitivity changes how
@@ -21,7 +21,7 @@ sensitivity varies over certain areas of your body.
 
 ##### Prerequisite Labs
 
-  * [Experiment: How Your Skin Senses](skin) \- You should become familiar with how to your skin senses, and how to collect the data required for this lesson.
+  * [Experiment_ How Your Skin Senses](skin) \- You should become familiar with how to your skin senses, and how to collect the data required for this lesson.
 
 ##### Equipment
 
@@ -63,16 +63,16 @@ only for the left cerebral hemisphere.
 
 ## Materials
 
-#### For this experiment you need:
+#### For this experiment you need_
 
   1. The data you collected in the first [Skin Senstivity Experiment](skin)
   2. Access to the Internet 
-  3. This Website: <http://www.maxplanckflorida.org/fitzpatricklab/homunculus/>
+  3. This Website_ <http_//www.maxplanckflorida.org/fitzpatricklab/homunculus></http>
 
 ## Procedure
 
 Now that you have taken the measurements from the [Skin Senstivity
-Experiment](skin):
+Experiment](skin)_
 
 [ ![](./img/BYB_Exp2_Pic7.png)](img/BYB_Exp2_Pic7.png)
 
@@ -81,9 +81,9 @@ Planck Institute has designed a great website to do just that! Follow the
 instructions below, and you will see how your somatosensory system looks like
 according to your nervous system.
 
-#### Experiment Steps:
+#### Experiment Steps_
 
-  1. Go to [this website](http://www.maxplanckflorida.org/fitzpatricklab/homunculus/) and choose a model that looks most like you or you like best: 
+  1. Go to [this website](http_//www.maxplanckflorida.org/fitzpatricklab/homunculus/) and choose a model that looks most like you or you like best_ 
 
 ![Homunculus Choose Person](./img/HomunculusPeople.jpg)
 
@@ -103,9 +103,9 @@ according to your nervous system.
 
 #### Recent Posts
 
-  * [ It's The Backyard Brains 10-Year Anniversary!](http://blog.backyardbrains.com/?p=4906)
-  * [ Cincinnati Neuroscience Outreach by BYB Alumna](http://blog.backyardbrains.com/?p=4870)
-  * [ First Place at Science Fair for Student using BYB Gear](http://blog.backyardbrains.com/?p=4861)
+  * [ It's The Backyard Brains 10-Year Anniversary!](http_//blog.backyardbrains.com/?p=4906)
+  * [ Cincinnati Neuroscience Outreach by BYB Alumna](http_//blog.backyardbrains.com/?p=4870)
+  * [ First Place at Science Fair for Student using BYB Gear](http_//blog.backyardbrains.com/?p=4861)
 
 #### BYB Information
 
@@ -117,4 +117,4 @@ according to your nervous system.
 
 * * *
 
-Copyright © 2009-2017 [ Backyard Brains](http://backyardbrains.com) | Protected under the Creative Common License [ ](http://creativecommons.org/licenses/)[](http://creativecommons.org/licenses/by-sa/3.0/)
+Copyright © 2009-2017 [ Backyard Brains](http_//backyardbrains.com) | Protected under the Creative Common License [ ](http_//creativecommons.org/licenses/)[](http_//creativecommons.org/licenses/by-sa/3.0/)

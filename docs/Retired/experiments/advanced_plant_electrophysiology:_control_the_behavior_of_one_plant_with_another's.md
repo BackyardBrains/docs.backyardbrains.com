@@ -1,10 +1,10 @@
 ---
-id: experiment___advanced_plant_electrophysiology__control_the_behavior_of_one_plant_with_another's
-title: "Experiment:  Advanced Plant Electrophysiology: Control the Behavior of One Plant with Another's"
-slug: /retired/experiments/advanced_plant_electrophysiology:_control_the_behavior_of_one_plant_with_another's
+id_ experiment___advanced_plant_electrophysiology__control_the_behavior_of_one_plant_with_another's
+title_ "Experiment_  Advanced Plant Electrophysiology_ Control the Behavior of One Plant with Another's"
+slug_ /retired/experiments/advanced_plant_electrophysiology__control_the_behavior_of_one_plant_with_another's
 ---
 
-# Experiment:  Advanced Plant Electrophysiology: Control the Behavior of One Plant with Another's
+# Experiment_  Advanced Plant Electrophysiology_ Control the Behavior of One Plant with Another's
 
 Time  1 hour
 
@@ -13,13 +13,13 @@ Difficulty  Intermediate
 #### What will you learn?
 
 In this experiment, featured on the [TED Main
-Stage](https://www.ted.com/talks/greg_gage_electrical_experiments_with_plants_that_count_and_communicate?utm_campaign=tedspread
+Stage](https_//www.ted.com/talks/greg_gage_electrical_experiments_with_plants_that_count_and_communicate?utm_campaign=tedspread
 --a&utm_medium=referral&utm_source=tedcomshare), you will learn about plant
 electrophysiology and record the action potential of the Venus fly trap.
 
 ##### Prerequisite Labs
 
-  * [None]()
+  * None
 
 ##### Equipment
 
@@ -83,7 +83,7 @@ react to the stimulus and drop its branch.
 
 #### Venus Flytrap
 
-  2. Organize your Flytrap cables: Yellow RCA Jack with electrode clips, one short black wire with grounding pin, one orange stake recording electrode. 
+  2. Organize your Flytrap cables_ Yellow RCA Jack with electrode clips, one short black wire with grounding pin, one orange stake recording electrode. 
   3. Take the orange electrode stake and plant it firmly into the ground so that the silver electrode wire is touching, or is nearly touching, the side of the Venus Flytrap. 
   4. Apply conductive gel where the electrode meets the plant wall to complete the connection. 
   5. Take the short, black grounding pin with wire and ground the ground in the ground (stick the pin in the dirt...) 
@@ -95,14 +95,14 @@ react to the stimulus and drop its branch.
 
 #### Sensitive Mimosa
 
-  8. Organize your Mimosa cables: Stim Cable (long red cable with clips), one long black wire with grounding pin, one long red wire with silver wire tip. 
+  8. Organize your Mimosa cables_ Stim Cable (long red cable with clips), one long black wire with grounding pin, one long red wire with silver wire tip. 
   9. Take the black wire grounding pin and stick it in the dirt near the Mimosa's stem. 
   10. Take the red wire with the silver tip and carefully, and tightly, wrap the silver tip once around a large Mimosa branch. Try to wrap it close to the stem. This will probably cause the branch to "fall" as you fumble to wrap the electrode. That's okay, you just have to wait 10-20m for it to reset before performing the experiment. 
 
 [ ![](./img/MimosaElectrode2.png)](img/MimosaElectrode2.png)
 
   11. Apply a dab of conductive gel where the wrapped electrode meets the plant. 
-  12. Plug the red stimulation cable into the Plant SpikerBox and, pay attention here: Attach the BLACK clip to the RED cable and the RED clip to the BLACK cable. 
+  12. Plug the red stimulation cable into the Plant SpikerBox and, pay attention here_ Attach the BLACK clip to the RED cable and the RED clip to the BLACK cable. 
 
   
 
@@ -113,7 +113,7 @@ polarity of the connection, so we're actually grounding on the plant and
 sending the stimulation signal from the dirt...
 
   13. Once you've followed these directions, and doubled checked steps 12 and 13, turn on your Plant SpikerBox! 
-  14. If you want to record the trigger, plug your Plant SpikerBox into either a smartphone or PC which has the [Backyard Brains SpikeRecorder](https://backyardbrains.com/products/spikerecorder) software installed. 
+  14. If you want to record the trigger, plug your Plant SpikerBox into either a smartphone or PC which has the [Backyard Brains SpikeRecorder](https_//backyardbrains.com/products/spikerecorder) software installed. 
 
 [ ![](./img/PPIAllSet_bright.jpg)](img/PPIAllSet_bright.jpg)
 

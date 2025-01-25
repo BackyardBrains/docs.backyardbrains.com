@@ -17,13 +17,13 @@ you ever had the desire to take someone's free will? Now you can with our new
 #### What will you learn?
 
 In a continuation of our [1) Neuroprosthetics Experiment](./neuroprosthetics.md) and
-[2) Muscle SpikerShield Experiment](./MuscleSpikerShield.md), you will learn how to use your muscle signal to control other devices, in this
+[2) Muscle SpikerShield Experiment](muscleSpikerShield.md), you will learn how to use your muscle signal to control other devices, in this
 case, a TENS (transcutaneous electrical nerve stimulator) to excite and
 contract the muscle of another human.
 
 ##### Prerequisite Labs
 
-  * [Muscle SpikerShield](./MuscleSpikerShield.md) - You should become familiar with how to use your Muscle SpikerShield and an Arduino
+  * [Muscle SpikerShield](muscleSpikerShield.md) - You should become familiar with how to use your Muscle SpikerShield and an Arduino
 
 ##### Equipment
 
@@ -113,7 +113,7 @@ If you like who is controlling you, the feeling can be quite nice.
 
 [ ![](./img/HHI5.jpg)](./img/HHI5.jpg)
 
-  3. Now, have the controller flex their forearm muscles. With a sufficient strong flex, your controller should be able to light up all the LEDs, just like the [wholesale paper cup](https://www.somepromotional.com/mugs-bottle/paper-cup) [Muscle SpikerShield experiment](./MuscleSpikerShield.md). 
+  3. Now, have the controller flex their forearm muscles. With a sufficient strong flex, your controller should be able to light up all the LEDs, just like the [wholesale paper cup](https://www.somepromotional.com/mugs-bottle/paper-cup) [Muscle SpikerShield experiment](muscleSpikerShield.md). 
 
 **Note** Press the white button directly below the LEDs to change the
 sensitivity level to make it easier or harder to light up the LEDs.

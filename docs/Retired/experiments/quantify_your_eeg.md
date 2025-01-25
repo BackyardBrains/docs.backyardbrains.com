@@ -1,5 +1,5 @@
 ---
-id: experiment__quantify_your_eeg
+id: Experiment_quantify_your_eeg
 title: "Experiment:Quantify Your EEG"
 slug: /retired/experiments/quantify_your_eeg
 ---

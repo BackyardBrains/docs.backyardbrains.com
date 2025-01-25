@@ -157,7 +157,7 @@ flow!
   9. Now it is time to dive in and make your body a musical instrument. Turn the synthesizer on, hit instrument play on the Roland T-8 or your personal synthesizer, and you are ready to begin writing music with your muscle contraction. 
 
   
-![](img/Pablo-Schematic.jpg  )
+![](img/Pablo-Schematic.jpg)
 
   10. The code can certainly be optimized, and you can see the commented version below. Feel to modify! [Let us know](mailto_tim@backyardbrains.com) if you discover or compose something. Happy creating! 
 

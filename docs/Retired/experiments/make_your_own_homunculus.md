@@ -1,10 +1,10 @@
 ---
-id: experiment__make_your_own_homunculus
+id: Experiment_make_your_own_homunculus
 title: "Experiment: Make your own Homunculus"
 slug: /retired/experiments/make_your_own_homunculus
 ---
 
-# Experiment_ Make your own Homunculus
+# Experiment: Make your own Homunculus
 
 While you know what you look like, do you know what your nervous system thinks
 you look like? Read further and learn how your skin's sensitivity changes how
@@ -21,7 +21,7 @@ sensitivity varies over certain areas of your body.
 
 ##### Prerequisite Labs
 
-  * [Experiment_ How Your Skin Senses](skin) \- You should become familiar with how to your skin senses, and how to collect the data required for this lesson.
+  * [Experiment: How Your Skin Senses](skin) \- You should become familiar with how to your skin senses, and how to collect the data required for this lesson.
 
 ##### Equipment
 
@@ -80,7 +80,7 @@ Planck Institute has designed a great website to do just that! Follow the
 instructions below, and you will see how your somatosensory system looks like
 according to your nervous system.
 
-#### Experiment Steps_
+#### Experiment Steps:
 
   1. Go to [this website](http://www.maxplanckflorida.org/fitzpatricklab/homunculus/) and choose a model that looks most like you or you like best_ 
 

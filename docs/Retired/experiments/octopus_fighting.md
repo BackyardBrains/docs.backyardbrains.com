@@ -1,5 +1,5 @@
 ---
-id: experiment__octopus_fighting
+id: Experiment_octopus_fighting
 title: "Experiment: Octopus Fighting"
 slug: /retired/experiments/octopus_fighting
 ---
@@ -231,7 +231,7 @@ Press escape to run the algorithm.
 
   24. Repeat steps 14-23 for as many videoclips as needed.
 
-## Experiment_ Angle and Distance after Contact
+## Experiment: Angle and Distance after Contact
 
   1. First in Octopus_Optical_Flow load the a and b point data saved from the videoclips analyzed in the methods. To do this define number as the name of the saved points (the .npy file without the a or b at the end)_ 
 

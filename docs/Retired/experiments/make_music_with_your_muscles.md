@@ -1,10 +1,10 @@
 ---
-id: experiment__make_music_with_your_muscles
+id: Experiment_make_music_with_your_muscles
 title: "Experiment: Make Music with your Muscles"
 slug: /retired/experiments/make_music_with_your_muscles
 ---
 
-# Experiment_ Make Music with your Muscles
+# Experiment: Make Music with your Muscles
 
 Flex your muscles to create different frequencies and play music.
 

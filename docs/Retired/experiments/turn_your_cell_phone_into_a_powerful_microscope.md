@@ -25,7 +25,7 @@ magnification using two biology preps!
 ##### Equipment
 
 * [RoachScope](/https://backyardbrains.com/products/RoachScope)
-* [Glass Slides](https://www.amazon.com/Blank-Microscope-Slides-Square-Cover/dp/B002OS6D9I)
+* Glass Slides
 * [Slide Covers](https://www.amazon.com/Blank-Microscope-Slides-Square-Cover/dp/B002OS6D9I)
 * [Toothpick](https://www.amazon.com/Farberware-5080422-Classic-Toothpicks-300-Count/dp/B005D6G7U8/ref=sr_1_6?ie=UTF8&qid=1397592626&sr=8-6&keywords=toothpick)
 
@@ -108,11 +108,11 @@ High Powered Scope!
   7. Zoom in on your phone! 
   8. If you can't see them already, search for some cells! To help find cells, carefully adjust the glass slide to hunt down your epithelial cells. To help focus you can tap on your screen (most smartphones have this feature) and make slight adjustments to the height of the RoachScope's magnifying platform. (we like to loosen the set screw, then make fine adjustments with the platform's height adjusting knob to find the focus, tightening the set screw once you like your image) 
 
-![Epithelial cells](./img/epithelialcells.jpg)
+![Epithelial cells](./img/epithelia_cells.jpg)
 
 Also, be sure not to mistake air bubbles for your cells!
 
-![Epithelial annot](./img/epithelialannot.jpg)
+![Epithelial annot](./img/epithelia_annot.jpg)
 
 ### Prep 2: Onion
 

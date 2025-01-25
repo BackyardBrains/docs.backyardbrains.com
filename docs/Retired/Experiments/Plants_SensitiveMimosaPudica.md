@@ -46,7 +46,7 @@ touched, the Sensitive Mimosa, (_Mimosa Pudica_), has enraptured home
 gardeners and plant physiologists alike for its beauty and its unique
 behavior.
 
-[ ![](./img/Mimosa_Color_smaller_web.jpg)](img/Mimosa_Color_smaller_web.jpg)
+[ ![](./img/Mimosa_Color_smaller_web.jpg)](.img/Mimosa_Color_smaller_web.jpg)
 
 In a healthy Mimosa plant, you can observe two "rapid movement" responses to
 touch. With a **light** touch brushed along the leaves (called _pinnules_),
@@ -61,14 +61,14 @@ the underside of the leaves respond to mechanical disturbance. This initiates
 an electrical impulse (Action Potential) propagation along the rachis that
 results in the plant movement behavior we observe.
 
-[ ![](./img/Mimosaunderside_web.jpg)](img/Mimosaunderside_web.jpg)
+[ ![](./img/Mimosaunderside_web.jpg)](.img/Mimosaunderside_web.jpg)
 
 With a strong touch, the Action Potential travels along the rachis, down the
 petiole, and all the way to the main joint (_pulvinus_) via "phloem tubes."
 The exact nature of this signal propagation is still actively being
 investigated.
 
-[ ![](./img/MimosaActions_web.jpg)](img/MimosaActions_web.jpg)
+[ ![](./img/MimosaActions_web.jpg)](.img/MimosaActions_web.jpg)
 
 But how then do the plants actually move? Since plants do not have
 [muscles](muscleSpikerBox) like we do, plant movement occurs through hydraulic
@@ -84,7 +84,7 @@ flush water out of select cells. Such efflux of water shrinks the cell, and
 the shrinking of multiple cells at once, depending on location in the plant,
 can cause a mechanical strain that results in rapid movement.
 
-[ ![](./img/Cellsscene_web.jpg)](img/Cellsscene_web.jpg)
+[ ![](./img/Cellsscene_web.jpg)](.img/Cellsscene_web.jpg)
 
 What initiates the water movement to begin with? Why, the Action Potential
 itself! The movement of ions across the cell membrane, which causes the Action
@@ -108,7 +108,7 @@ the aquaporins, Water will then "chase" the potassium and chlorine ions,
 causing the plant cells to lose water rapidly, shrink, and, ultimately, result
 in the rapid movement of plant structures.
 
-[ ![](./img/Osmosis_web.jpg)](img/Osmosis_web.jpg)
+[ ![](./img/Osmosis_web.jpg)](.img/Osmosis_web.jpg)
 
 After the cells have shrunk, they can be refilled with water again by moving
 the chloride and potassium ions back into the cells, but this requires energy
@@ -138,31 +138,31 @@ stem/petiole joint of Mimosa plants.
 
   1. Grab your [Plant SpikerBox](https://www.backyardbrains.com/products/plantspikershield) and select from the kit the materials you will need_ One long red recording wire with silver tip, one grounding pin with long black wire, yellow RCA jack with recording electrode clips, and conductive electrode gel. 
 
-[ ![](./img/MimosaSetUp1.jpg)](img/MimosaSetUp1.jpg)
+[ ![](./img/MimosaSetUp1.jpg)](.img/MimosaSetUp1.jpg)
 
   2. Take the red wire with the silver tip and carefully, wrap the silver tip snugly around a large Mimosa branch. Try to wrap it close to the joint where the branch meets the stem. This will probably cause the branch to “fall” as you fumble to wrap the electrode. That’s okay, you just have to wait 10-20m for it to reset before performing the experiment. 
 
-[ ![](./img/MimosaElectrode2.png)](img/MimosaElectrode2.png)
+[ ![](./img/MimosaElectrode2.png)](.img/MimosaElectrode2.png)
 
   3. Place some conductive gel along the silver wire electrode you wrapped around the pbranch. Note_ We have noticed that placement of excessive conductive gel (perhaps due to ionic shunting?) prevents movement of the branch. Place only a dab of conductive gel along the silver wire electrode. 
 
-[ ![](./img/MimosaGel.jpg)](img/MimosaGel.jpg)
+[ ![](./img/MimosaGel.jpg)](.img/MimosaGel.jpg)
 
   4. Put the black grounding pin with long black wire in the...wait for it...ground of the plant pot. 
   5. Plug the yellow RCA jack with black and red electrode clips into the Plant SpikerBox. Attach the Red clip to the red recording wire and the black clip to the black grounding wire. 
 
-[ ![](./img/MimosaClips2.jpg)](img/MimosaClips2.jpg)
+[ ![](./img/MimosaClips2.jpg)](.img/MimosaClips2.jpg)
 
   6. Wait about 10 minutes for the plant to recover from its droopping movement. As said before, an advantage of the Sensitive Mimosa is that, unlike the Venus Flytrap, it only takes 10 minutes to recover instead of 1-2 days. 
   7. Connect your Plant SpikerBox to your Smartphone (via Green Smartphone Cable) or PC (via Blue USB Cable). 
 
-[ ![](./img/MimosaAllSet2.jpg)](img/MimosaAllSet2.jpg)
+[ ![](./img/MimosaAllSet2.jpg)](.img/MimosaAllSet2.jpg)
 
   8. Open our SpikeRecorder software. If on a Smartphone, you are ready to go! If on the PC, pair your SpikerBox with SpikeRecorder by clicking the "Plant" button in the upper left corner. 
   9. Press the "Record" button (red button on top right of screen) to begin a recording. 
   10. With a plastic probe, a pen, or your finger, forcefully tap or flick the leaves of the branch you are recording from. The plant branch should drop in a dramatic fashion, and, in the SpikeRecorder software, you should notice a large slow spike! Congratulations! you have just recorded an Action Potential in the Mimosa! 
 
-[ ![](./img/MimosaBranchDrop.jpg)](img/MimosaBranchDrop.jpg)
+[ ![](./img/MimosaBranchDrop.jpg)](.img/MimosaBranchDrop.jpg)
 
   11. If your Action Potential is too big, resulting in "flat tops," either pinch to reduce the scale on your smartphone display, or on a computer click the minus button on the SpikeRecorder display. Similarly, if it is small, you can zoom in to better see the shape of the Spike. 
   12. To analyze the data, such as the duration and amplitude of the plant Action Potential, you can open your .wav recording files by clicking the "open button" (looks like three horizontal lines) next to the "record button" on your laptop. On your phone, select the "recordings" tab. 
@@ -182,7 +182,7 @@ stem/petiole joint of Mimosa plants.
 We have been growing Mimosa plants in various attempts for the last three
 years, and below we summarize our efforts to ensure generation. A surprise to
 us was our observation that the Mimosas have [very deep
-roots](img/Mimosa_Roots_web.jpg), notable while the seedlings are still small.
+roots](.img/Mimosa_Roots_web.jpg), notable while the seedlings are still small.
 We present our growing recommendations, and [let us
 know](mailto:tim@backyardbrains.com) if you have any insider tips.
 
@@ -191,7 +191,7 @@ know](mailto:tim@backyardbrains.com) if you have any insider tips.
   3. Place about 50 "cracked" seeds between two layers of soaked paper towels, to make a "moist paper towel - Mimosa seed - moist paper towel" sandwich. 
   4. Keep the towels moist everyday, and everyday, check the seeds to see if you observe small white "rootlets" coming out of the seeds. This is a sign of germination. This can take 3 days to 3 weeks to occur (seriously). 
   5. Place any seeds with rootlets in medium-sized pots. Keep the soil moist. We usually put three to a pot, as typically only one will survive anyway. 
-  6. Once the Mimosas reach 2-4 cm (~1-1.5 inches) in height, with [three-four small branches](img/Mimosa_seedling_web.jpg), you have survived the most difficult part. Now care for the Mimosa as you would any other plant, giving it sunlight and water, and transplanting it to a large pot, is it has very deep roots. 
+  6. Once the Mimosas reach 2-4 cm (~1-1.5 inches) in height, with [three-four small branches](.img/Mimosa_seedling_web.jpg), you have survived the most difficult part. Now care for the Mimosa as you would any other plant, giving it sunlight and water, and transplanting it to a large pot, is it has very deep roots. 
   7. After summer flowering and the arrival of fall, the leaves will yellow and whither away, leaving a plant structure consisting of nothing more than stems and sticks. We thought our plants were annuals and thus had died... but when we cut the stem, the inside was still vibrant green! And indeed, when spring arrived, the plants began growing new branches and leaves! We have two plants that are now in their second year, appearing thus to be perennials. It is worth maintaining healthy Mimosas indefinitely once you have them, as we have said before, the hardest part of cultivation is the germination of the seeds. 
 
-[ ![](./img/BYB_Garden.jpg)](img/BYB_Garden.jpg)
+[ ![](./img/BYB_Garden.jpg)](.img/BYB_Garden.jpg)

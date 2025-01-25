@@ -61,7 +61,7 @@ An olympic distance runner, however, does not meet that same "mental" block
 and will continue to run through the discomfort.
 
 [
-![](./img/Central_Fatigue_web.jpg)](img/Central_Fatigue_web.jpg)
+![](./img/Central_Fatigue_web.jpg)](.img/Central_Fatigue_web.jpg)
 
 #### Peripheral Fatigue
 
@@ -322,7 +322,7 @@ body; investigate whether people's arms or legs have different rates of
 fatigue, or just compare left and right arms. You can compare people at a
 neutral state, and then at a tired or excited state. What can you come up
 with? If you design an experiment and come up with some cool results, email us
-at [hello@backyardbrains.com](mailto_hello@backyardbrains.com)!
+at [hello@backyardbrains.com](mailto:hello@backyardbrains.com)!
 
 and, with your permission, we'll share it on our website! You can contribute
 to the world's scientific knowledge!

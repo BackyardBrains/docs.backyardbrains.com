@@ -49,7 +49,7 @@ to activate them, causing muscle fiber action potentials. This is what we see
 in the electromyography (EMG) signal - the muscle fibers of a motor unit
 firing action potentials in response to the acetylcholine!
 
-[ ![](./img/The_Rock_Motor_Unit_web.jpg)](img/The_Rock_Motor_Unit_web.jpg)
+[ ![](./img/The_Rock_Motor_Unit_web.jpg)](.img/The_Rock_Motor_Unit_web.jpg)
 
 In healthy physiology, a single action potential in a neuron always causes a
 single action potential in the accompanying muscle fibers. If we are able to
@@ -77,7 +77,7 @@ motor unit from above the skin. So here we are, on the hunt for single motor
 unit action potentials using our Muscle SpikerBox and popsicle-stick
 electrodes.
 
-[ ![](./img/Motor_Unit_Stadium_web.jpg)](img/Motor_Unit_Stadium_web.jpg)
+[ ![](./img/Motor_Unit_Stadium_web.jpg)](.img/Motor_Unit_Stadium_web.jpg)
 
 A single motor unit produces repeated spikes (action potentials) about five to
 twenty times per second. They are pretty regular, and if you find a good one
@@ -87,7 +87,7 @@ stable, the amplitude of the spiking will remain stable. It will look
 something like this_
 
 [
-![](./img/Single_Motor_Unit_Recorder.png)](img/Single_Motor_Unit_Recorder.png)
+![](./img/Single_Motor_Unit_Recorder.png)](.img/Single_Motor_Unit_Recorder.png)
 
 Notice the repeated pattern of amplitude and spacing between the spikes. This
 regular pattern is how we can be sure it is a single motor unit. The quest is
@@ -116,7 +116,7 @@ of a single motor nerve cell from your own central nervous system.
 In this experiment, we are going to try to isolate individual motor units of
 the interossei muscles of the hand and the temporalis muscle of the jaw.
 
-[ ![](./img/Hand_Motor_Units_web.jpg)](img/Hand_Motor_Units_web.jpg)
+[ ![](./img/Hand_Motor_Units_web.jpg)](.img/Hand_Motor_Units_web.jpg)
 
   1. Set up your Muscle SpikerBox Pro using a smartphone or computer with the Spike Recorder app. Make sure the red leads are attached to the metal tabs on the popsicle sticks and the black ground is around the screw you will gripping with your hand. Add conductive gel to the metal tabs attached to the red alligator clips.
   2. Connect the USB cable from the the Muscle SpikerBox Pro to the computer. Open Spike Recorder, and turn on your Muscle SpikerBox Pro. A USB icon should appear on the main SpikeRecorder screen. Click on it to connect to your Muscle SpikerBox Pro. (Note_ If you are using a tablet, smartphone, and/or a Regular Muscle SpikerBox, you can connect to your tablet/smartphone/computer with the green smartphone audio cable. 
@@ -125,7 +125,7 @@ the interossei muscles of the hand and the temporalis muscle of the jaw.
   5. Now resist the pressure of the pencil oh so gently. You should begin hearing the distinct "pop" sound of an individual motor neuron causing its accompanying muscle fibers to discharge. This is a challenging experiment in self-control! To ensure the best possible conditions, try to do this experiment in a room that is relatively quiet in both ambient sound and ambient electrical noise. You can also try hooking up a secondary "louder" battery-powered speaker using the Backyard Brains blue audio cable that comes with your gear. This may help hear the faint individual popping of individual motor units.
   6. If you are finding trouble getting only one motor unit to fire in your hand, you can try another muscle, the temporalis of your jaw. 
 
-[ ![](./img/masticacion_web2.jpg)](img/masticacion_web2.jpg)
+[ ![](./img/masticacion_web2.jpg)](.img/masticacion_web2.jpg)
 
   7. Feel the side of your temple as you make chewing motions, this muscle (very visible on thin people when they chew gum) is your temporalis. Place your popsicle stick electrodes over this muscle.
   8. Close your jaw, bringing your upper and lower teeth together, but not applying force.

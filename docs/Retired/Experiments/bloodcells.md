@@ -224,7 +224,7 @@ the hemolymph that are performed differently by mammals?
 
 Take advantage of your new experience and create your own experiments or new
 observational preps! Email us your findings at
-[info@backyardbrains.com](mailto_info@backyardbrains.com) and we just might
+[info@backyardbrains.com](mailto:info@backyardbrains.com) and we just might
 ask your permission to include it on the website!
 
 Also, a big thank you to Dr. Charlie Taylor of our Education team for his work

@@ -62,7 +62,7 @@ slower allows us to dynamically change the muscle force we require. The neural
 output of the brain is the main thing that determines the number of motor
 units recruited and their firing rates.
 
-[ ![](./img/MotorHomonculus_web.jpg)](img/MotorHomonculus_web.jpg)
+[ ![](./img/MotorHomonculus_web.jpg)](.img/MotorHomonculus_web.jpg)
 
 Particular brain areas control specific body parts. When you decide to chew
 your food, the "mouth area" of the motor cortex in your brain is activated.
@@ -74,7 +74,7 @@ on the jaw muscles. When the motor neurons release acetylcholine on the
 muscles, the muscles themselves fire action potentials as well, which we can
 record with our Muscle SpikerBox
 
-[ ![](./img/Mandibular_Nerve.jpg)](img/Mandibular_Nerve.jpg)
+[ ![](./img/Mandibular_Nerve.jpg)](.img/Mandibular_Nerve.jpg)
 
 A larger EMG (electromyography) signal indicates that more motor units are
 being recruited. As you will find out, you don't have to "think" about making
@@ -123,7 +123,7 @@ largest to smallest expected EMG signal.
 
   6. Place the popsicle-stick electrode over the masseter muscle.
 
-[ ![](./img/masticacion_web2.jpg)](img/masticacion_web2.jpg)
+[ ![](./img/masticacion_web2.jpg)](.img/masticacion_web2.jpg)
 
   7. Select the first food you want to test and place it between your back teeth on the same side as your electrodes. 
 
@@ -133,7 +133,7 @@ largest to smallest expected EMG signal.
 
   10. Stop the recording, and play the recordings back to measure the root mean square (RMS) of the middle part of each EMG "burst." Zoom in so that you can measure only the EMG signal without any noise. The RMS is a measure of the size of the signal. Use it to compare the force needed to chew different foods. Be consistent in your selection of the data for measurement. Check out the example below!
 
-[ ![](./img/chewing_recorder_example.png)](img/Chewing_recorder_example.png)
+[ ![](./img/chewing_recorder_example.png)](.img/Chewing_recorder_example.png)
 
 This burst lasted 386.1 milliseconds and had an RMS of 0.024 millivolts. This
 was from chewing a gummy bear. How do your foods compare?

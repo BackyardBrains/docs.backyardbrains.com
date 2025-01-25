@@ -52,7 +52,7 @@ of copper. In this variation, we are building a replica of Volta's "Voltaic
 Pile" and using it to stimulate the cockroach leg, as a remake of the famous
 debate between the two scientists.
 
-[ ![](./img/GalvaniversusVolta_web.jpg)](img/GalvaniversusVolta_web.jpg)
+[ ![](./img/GalvaniversusVolta_web.jpg)](.img/GalvaniversusVolta_web.jpg)
 
 Our differences are minor_ 1) We won't need to sacrifice frogs like Galvani
 did. Rather, we will remove a hind leg from a cockroach, which the cockroach
@@ -66,7 +66,7 @@ water (a salt battery) can be leaky and difficult to manage, and thus we will
 use slices of fresh potatoes as a weakly acidic conductor (acid battery),
 which maintains moisture quite well and does not drip.
 
-[ ![](./img/CellOfBattery_web.jpg)](img/CellOfBattery_web.jpg)
+[ ![](./img/CellOfBattery_web.jpg)](.img/CellOfBattery_web.jpg)
 
 Aluminum, potatoes, electricity... _what?_ Yes, placing a slice of fresh
 potato between a plate of copper and a plate of aluminum will enable electron
@@ -82,7 +82,7 @@ enough to reliably measure it) but the battery is sufficient to stimulate a
 cockroach leg or turn on an LED if multiple copper-potato-aluminum cells are
 "piled" up.
 
-[ ![](./img/Electrochemistry.jpg)](img/Electrochemistry.jpg)
+[ ![](./img/Electrochemistry.jpg)](.img/Electrochemistry.jpg)
 
 But let us consider the historical context. What motivated Galvani to even
 examine the electrical excitability of nerves in the first place? What was the
@@ -108,7 +108,7 @@ century Europe. The [Leyden Jar](https://en.wikipedia.org/wiki/Leyden_jar)
 capability of generating electrical sparks) had recently just been invented as
 well.
 
-[ ![](./img/AmberFishLodestone_web.jpg)](img/AmberFishLodestone_web.jpg)
+[ ![](./img/AmberFishLodestone_web.jpg)](.img/AmberFishLodestone_web.jpg)
 
 Interested in the possible connection between electricity and living beings,
 Bologna physician and professor Luigi Galvani began studying
@@ -128,7 +128,7 @@ November 6th, 1780 (noted from his lab book), he connected a type of capacitor
 - a "Franklin Square" (yes, an invention of [Benjamin Franklin](https://en.wikipedia.org/wiki/Benjamin_Franklin)) to the nerve of a
 frog leg, causing the leg to famously twitch.
 
-[ ![](./img/FranklinwithColor_web2.jpg)](img/FranklinwithColor_web2.jpg)
+[ ![](./img/FranklinwithColor_web2.jpg)](.img/FranklinwithColor_web2.jpg)
 
 Luigi's next step was connecting nerve to muscle, or nerve to nerve, with
 metallics arcs and examining leg contraction [2]. These experiments revealed
@@ -137,7 +137,7 @@ was not necessary to cause leg contraction, providing evidence to Galvani's
 hypothesis that the nerve and muscle tissue itself was a generator of
 electrical energy that it used for its own proper functioning.
 
-[ ![](./img/loopcolor_web.jpg)](img/loopcolor_web.jpg)
+[ ![](./img/loopcolor_web.jpg)](.img/loopcolor_web.jpg)
 
 After Luigi published his results in 1791, he gained a reader turned
 scientific rival from nearby Pavia. Alessandro Volta had previously invented
@@ -162,7 +162,7 @@ and Activity of the Conducting Arc in the Contractions of the Muscles) [3]
 
 .
 
-[ ![](./img/movinglegs_web.jpg)](img/movinglegs_web.jpg)
+[ ![](./img/movinglegs_web.jpg)](.img/movinglegs_web.jpg)
 
 The vigorous debate between Galvani and Volta continued for three years more
 in another round of letters and manuscripts, but then Napoleon arrived,
@@ -180,7 +180,7 @@ battery for electrolysis experiments that led to the discovery of new elements
 (sodium, potassium, chlorine, calcium, etc), and [Georg Ohm](https://en.wikipedia.org/wiki/Georg_Ohm) using the battery to derive the
 law after his namesake.
 
-[ ![](./img/Volta_Ohm_English_web.jpg)](img/Volta_Ohm_English_web.jpg)
+[ ![](./img/Volta_Ohm_English_web.jpg)](.img/Volta_Ohm_English_web.jpg)
 
 This excellent "Galvani/Volta" debate centers on 1) whether nerve or muscle
 tissue generates its own electricity or if 2) externally applied electricity
@@ -203,16 +203,16 @@ Which would you think if you were present in that epoch? Let's see.
 Here are the tools with which you will begin the fields of neuroscience and
 electronics.
 
-[ ![](./img/itemsforexperiment_web.jpg)](img/itemsforexperiment_web.jpg)
+[ ![](./img/itemsforexperiment_web.jpg)](.img/itemsforexperiment_web.jpg)
 
 We need about 2-2.5V Volts to do our experiment, so we will build a "pile" of
 5 cells.
 
-[ ![](./img/5CellBattery_web.jpg)](img/5CellBattery_web.jpg)
+[ ![](./img/5CellBattery_web.jpg)](.img/5CellBattery_web.jpg)
 
 ...which we can use to stimulate a cockroach leg or turn on an LED.
 
-[ ![](./img/legclip_web.jpg)](img/legclip_web.jpg)
+[ ![](./img/legclip_web.jpg)](.img/legclip_web.jpg)
 
 Step by step details continue below. It is important to attempt to imagine a
 world where we do not have a system to understand this phenomenon. What is
@@ -232,12 +232,12 @@ have been perceived 235 years ago.....
 * You know your battery works! Now it is time to excite the cockroach leg. Take a juvenile cockroach and submerge it in a jar of ice water, and wait 1-2 minutes as the cockroach enters anesthesia. 
 * Once the cockroach has stopped moving, remove it from the ice water, grasp the femur with your fingers, and in a smart, swift motion, pull the leg off. A quick movement will cause the minimum damage to the cockroach, as the leg will break cleanly at its built-in breakage (autotomy) joint, thus assuring fast healing and [regrowth of a new leg](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146778). 
 
-[ ![](./img/RoachwithLeg_web.jpg)](img/RoachwithLeg_web.jpg)
+[ ![](./img/RoachwithLeg_web.jpg)](.img/RoachwithLeg_web.jpg)
 
 * Return the cockroach to its home cage. It will recover in approximately half an hour and be fine. 
 * Place the leg of the cockroach on a piece of cork, and place two pins in the femur of the leg. 
 
-[ ![](./img/reconfiguration_web2.jpg)](img/reconfiguration_web2.jpg)
+[ ![](./img/reconfiguration_web2.jpg)](.img/reconfiguration_web2.jpg)
 
 * Attach the red alligator clip to one map pin (which is which does not matter). Then, briefly tap the other map pin with the black alligator clip. The tarsus (tip, clawlike part of the leg), should twitch with each tap. 
 
@@ -266,7 +266,7 @@ Well said, Professor Galvani.
 * 1\. It was later discovered that a torpedo fish can deliver up to 200 V electric shocks due to highly modified parallel arranged muscle tissue contained inside its head. 
 * 2\. Galvani also performed a wireless variant that would be bizarre even if replicated today (stay tuned). When an electrostatic machine was generating electrical sparks, while _at the same time, in the same room_ Luigi Galvani touched a frog nerve with a metallic scalpel (unconnected to the machine), the leg muscles would contract as well! At the time there was no theory to explain this effect, as this was a full 100 years before [Heinrich Hertz's](https://en.wikipedia.org/wiki/Heinrich_Hertz) experiments showing that a high voltage spark generated electromagnetic waves that could induce another spark in an isolated adjacent coil, beginning the wireless telegraphy age. 
 
-[![](./img/DoesthisWorkbetter_trimmed_web.gif)](img/DoesthisWorkbetter_trimmed_web.gif)
+[![](./img/DoesthisWorkbetter_trimmed_web.gif)](.img/DoesthisWorkbetter_trimmed_web.gif)
 
 * 3\. This can seem confusing, but it was later found in the 19th century that cut nerve has a damage current called a "demarcation current" that can sometimes be sufficient to excite other nerves and muscle if the preparation is very fresh. 
 * 4\. Oddly enough, inspired by the torpedo fish, due to, again, the specialized shocking muscles cells arranged in parallel columns. 
@@ -282,7 +282,7 @@ Well said, Professor Galvani.
 * Try fruits and vegetables of different acidity to see if that affects the power of your battery (sour apples vs normal apples, for example). 
 * If you look at electric potentials in your chemistry textbook, you will see that zinc has an electric potential of -0.8V, but aluminum has an electric potential of -1.6. We observe a voltage of 0.9V (close) in a zinc-copper battery, but only 0.5V in our aluminum-copper battery. The aluminum-copper battery should have a higher voltage! Why do we not observe this. We actually do not know. [Email us](mailto:tim@backyardbrains.com) if you have any insight 
 
-[ ![](./img/ElectricPotential.jpg)](img/ElectricPotential.jpg)
+[ ![](./img/ElectricPotential.jpg)](.img/ElectricPotential.jpg)
 
 ##  References
 

@@ -52,7 +52,7 @@ the fastest signal in the universe, travels instantaneously. But how fast is a
 nervous system? Is it faster than a car, faster than a plane, or faster than a
 cell phone? And how can we measure it?
 
-[ ![](./img/Exp11_fig1.jpeg)](img/Exp11_fig1.jpeg)
+[ ![](./img/Exp11_fig1.jpeg)](.img/Exp11_fig1.jpeg)
 
 In all previous experiments, we've only recorded our neurons using one channel
 (meaning we used only one recording electrode and one ground). To measure
@@ -63,7 +63,7 @@ Take the analogy of a car on a highway. If you were looking out of a small
 observation hut by the road, you could tell what whether you saw a car, what
 kind of car it was, and the time that you saw it.
 
-[ ![](./img/Exp11Fig2_camino.jpeg)](img/Exp11Fig2_camino.jpeg)
+[ ![](./img/Exp11Fig2_camino.jpeg)](.img/Exp11Fig2_camino.jpeg)
 
 Similarly, with your SpikerBox, you can tell if you saw a spike, perhaps what
 kind of neuron generated that spike, and the spike time, but you can't tell
@@ -73,7 +73,7 @@ Let's go back to the car on the highway. Suppose you had a friend 1/2 mile
 down the road in a similar hut: Later, you two could compare notes to
 determine the speed of the car.
 
-[ ![](./img/Exp11Fig3_camino_small.jpeg)](img/Exp11Fig3_camino_small.jpeg)
+[ ![](./img/Exp11Fig3_camino_small.jpeg)](.img/Exp11Fig3_camino_small.jpeg)
 
 1 minute = 0.016 hours. Dividing 1/2 mile by 0.016 hours, you calculate a
 speed of 31.25 mph. Thus, we can measure the speed with two observers, and
@@ -89,7 +89,7 @@ Let's go back to our analog of the road. Imagine a very busy, fast moving
 street with many similar looking cars, say, Lakeshore Drive in Chicago, and
 you and your friend can only set up observation huts very close to each other.
 
-[ ![](./img/Exp11Fig2_honda.jpeg)](img/Exp11Fig2_honda.jpeg)
+[ ![](./img/Exp11Fig2_honda.jpeg)](.img/Exp11Fig2_honda.jpeg)
 
 You can see the problem, There are a lot of spikes occurring in the cockroach
 leg, and identifying unique ones with two observers is very tricky. The femur
@@ -105,7 +105,7 @@ many spikes.
 Is there any creature in the animal kingdom that meets these qualifications?
 Yes! and it is probably right now under your feet and in your backyard.
 
-[ ![](./img/Exp11gif7_earthworm.jpeg)](img/Exp11gif7_earthworm.jpeg)
+[ ![](./img/Exp11gif7_earthworm.jpeg)](.img/Exp11gif7_earthworm.jpeg)
 
 We have been studying arthropods (insects), but we now move to a new class of
 invertebrate: annelids! Or more commonly, worms! Enter our newest preparation:
@@ -117,12 +117,12 @@ closest to the clitellum), and the lateral giant fibers transmit information
 from the skin cells of the posterior end of the worm ([Kladt et. al
 2010](/./files/kladt_2010_earthworm.pdf)).
 
-[ ![](./img/Exp11fig8_cross.jpeg)](img/Exp11fig8_cross.jpeg)
+[ ![](./img/Exp11fig8_cross.jpeg)](.img/Exp11fig8_cross.jpeg)
 
 In addition to the earthworm's long length, which allows us to place our
 recording electrodes far apart, the earthworm also exhibits what is known as
 
-[ ![](./img/Exp11fig9_sparsecoding.jpeg)](img/Exp11fig9_sparsecoding.jpeg)
+[ ![](./img/Exp11fig9_sparsecoding.jpeg)](.img/Exp11fig9_sparsecoding.jpeg)
 
 What is sparse coding? Let's turn back to our cockroach and the "rate coding"
 you have previously studied. In rate-coding, the intensity of a stimulus is
@@ -130,7 +130,7 @@ encoded by the rate of spikes. If the cockroach leg used a sparse coding
 scheme, the leg nerves would only fire 1-2 times when you touched the barb
 with a toothpick, and 1-2 times more when you removed the toothpick.
 
-[ ![](./img/Exp11Fig10_sparsevsrate.jpeg)](img/Exp11Fig10_sparsevsrate.jpeg)
+[ ![](./img/Exp11Fig10_sparsevsrate.jpeg)](.img/Exp11Fig10_sparsevsrate.jpeg)
 
 This sparse coding scheme is what we will see in the earthworm experiment
 below, and we will exploit it to measure the conduction velocity (or speed) or
@@ -153,7 +153,7 @@ the spikes.
   7. [Alcohol](http://en.wikipedia.org/wiki/Ethanol) or [Seltzer Water](http://en.wikipedia.org/wiki/Carbonated_water)
   8. 2 small plastic tubs, one filled with water, the other filled with the alcohol/seltzer water anesthetic 
 
-[ ![](./img/NeuronSpikerBoxPro.jpg)](img/NeuronSpikerBoxPro.jpg)
+[ ![](./img/NeuronSpikerBoxPro.jpg)](.img/NeuronSpikerBoxPro.jpg)
 
 ## Procedure
 
@@ -171,7 +171,7 @@ the spikes.
     12. Divide the distance by the time. Viola! You have just measured conduction velocity. 
     13. Remove the electrodes from the worm, dip the worm briefly in water to remoisturize it, and return the worm to its styrofoam container. It can tolerate the needle placement and be used for another experiment another day, or you can return it to the environment where you found if you live in wet climates where Earthworms can be harvested in your backyard.
 
-[ ![](./img/Exp11Fig11_spiketiming.jpeg)](img/Exp11Fig11_spiketiming.jpeg)
+[ ![](./img/Exp11Fig11_spiketiming.jpeg)](.img/Exp11Fig11_spiketiming.jpeg)
 
 Now start exploring. For example, does this measurement change from spike to
 spike? Does it change from earthworm to earthworm? Are smaller earthworms
@@ -190,7 +190,7 @@ damage/pain) travel via two different fiber systems that have very different
 speeds. Below is a teaser as to why - want to dive deeper? Proceed to the next
 experiment: - [Comparing Speeds of Two Different Fibers.](comparingNerveSpeed)
 
-[ ![](./img/Zombie_Speed.jpg)](img/Zombie_Speed.jpg)
+[ ![](./img/Zombie_Speed.jpg)](.img/Zombie_Speed.jpg)
 
 ## Troubleshooting
 

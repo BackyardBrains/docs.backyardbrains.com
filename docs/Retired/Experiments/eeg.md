@@ -43,7 +43,7 @@ the nerves of cockroach legs when demonstrating neural electrical activity. If
 instead you wanted to record the response of a human visual cortex neuron
 (located in the back of your head) in response to light...
 
-[ ![](./img/EEG-Relax-cropped_web.jpg)](img/EEG-Relax-cropped_web.jpg)
+[ ![](./img/EEG-Relax-cropped_web.jpg)](.img/EEG-Relax-cropped_web.jpg)
 
 However, when broad collections of neurons are all doing the same thing at the
 same time, we can see this "synchronous" activity with electrodes placed on
@@ -52,7 +52,7 @@ your visual cortex is not receiving complex information from your eyes (only
 darkness), and the visual cortex enters an idling mode of synchrony, called
 "alpha," which is strong enough that we can detect it non-invasively.
 
-[ ![](./img/EEG-VisualSong-web.jpg)](img/EEG-VisualSong-web.jpg)
+[ ![](./img/EEG-VisualSong-web.jpg)](.img/EEG-VisualSong-web.jpg)
 
 The relationship between synchrony and data processing in the brain can be
 hard to understand, and relates to information theory (you can dive into our
@@ -65,7 +65,7 @@ have a dangerous situation (like epilepsy---when all the neurons in an area
 are firing rapidly and at the same time, leading to convulsions and more
 dangerous consequences).
 
-[ ![](./img/EEG-Math-English_web.jpg)](img/EEG-Math-English_web.jpg)
+[ ![](./img/EEG-Math-English_web.jpg)](.img/EEG-Math-English_web.jpg)
 
 Often, when you are intensely concentrating, many neurons in your brain are
 calculating many different things. The "information capacity" of your brain is
@@ -76,7 +76,7 @@ between themselves. If you are outside the stadium, all you hear is a formless
 hum of noise. There are many interesting things being said (probably), but you
 can't detect it outside the stadium.
 
-[ ![](./img/EEG-Stadium_halftime_web.jpg)](img/EEG-Stadium_halftime_web.jpg)
+[ ![](./img/EEG-Stadium_halftime_web.jpg)](.img/EEG-Stadium_halftime_web.jpg)
 
 However, imagine when all the participants in the stadium are doing the same
 thing, such as the singing of a national anthem.* We can certainly hear the
@@ -84,7 +84,7 @@ song, though distorted, outside the stadium. This is analogous to the slow
 waves your brain generates while in deep sleep or the alpha waves the visual
 cortex generates when your eyes are closed.
 
-[ ![](./img/EEG-Stadium_song_web.jpg)](img/EEG-Stadium_song_web.jpg)
+[ ![](./img/EEG-Stadium_song_web.jpg)](.img/EEG-Stadium_song_web.jpg)
 
 The loudest event we can detect outside the stadium is when a "goal" occurs,
 as a huge population inside the stadium all scream very loudly at exactly same
@@ -92,7 +92,7 @@ time. When large populations of neurons in your brain do this (all firing
 action potentials at the same time), it is called epilepsy, and it is very
 dangerous.
 
-[ ![](./img/EEG-Stadium-Epilepsia_web.jpg)](img/EEG-Stadium-Epilepsia_web.jpg)
+[ ![](./img/EEG-Stadium-Epilepsia_web.jpg)](.img/EEG-Stadium-Epilepsia_web.jpg)
 
 With both the national anthem and the goal events, we can say people in the
 stadium are very "synchronized" with "low information." We can observe similar
@@ -118,14 +118,14 @@ action potentials, and are important in encoding information in the brain. If
 you would like to go down the rabbit hole, the core reference is the exquisite
 and challenging "[Mitzdorf 1985](files/Mitzdorf-1985.pdf)."
 
-[ ![](./img/EEG-Anatomy-PtI_web.jpg)](img/EEG-Anatomy-PtI_web.jpg)
+[ ![](./img/EEG-Anatomy-PtI_web.jpg)](.img/EEG-Anatomy-PtI_web.jpg)
 
 If many EPSP's are occurring at the same time and in the same area of your
 brain, such as when your eyes are closed and the visual cortex neurons are all
 in the same "idling" state, we can observe the adding up of these EPSP's in
 the EEG.
 
-[ ![](./img/EEG-Anatomy-PtII_web.jpg)](img/EEG-Anatomy-PtII_web.jpg)
+[ ![](./img/EEG-Anatomy-PtII_web.jpg)](.img/EEG-Anatomy-PtII_web.jpg)
 
 Interestingly, the eminent Lord Edgar Adrian, who was the first person to
 connect a neuron's spiking activity to a speaker and ["hear" the
@@ -135,7 +135,7 @@ cortex](files/AdrianMathews-1934-EEG-recordings.pdf) while lecturing in
 Cambridge in the early 1930's. We follow your example, our Lord, and replicate
 you as best our poor ability enables.
 
-[ ![](./img/EEG_Now_and_Then_text_web.jpg)](img/EEG_Now_and_Then_text_web.jpg)
+[ ![](./img/EEG_Now_and_Then_text_web.jpg)](.img/EEG_Now_and_Then_text_web.jpg)
 
 #### Downloads
 
@@ -173,13 +173,13 @@ normal lighted room.
   10. To record the data, you can press the red record button on the Spike Recorder software.
   11. Each event (i.e. eye opening) can be recorded with an event marker, placed by pressing a number during the recording. Event marker names can be changed by going into the BYB folder where data files are stored 
 
-[ ![](./img/p300findingbybfiles.jpg)](img/p300findingbybfiles.jpg)
+[ ![](./img/p300findingbybfiles.jpg)](.img/p300findingbybfiles.jpg)
 
 and opening the event file associated with the recording. The numbers can be
 replaced by whatever you would like the event marker to show (i.e. Open). Save
 the changes you make.
 
-[ ![](./img/p300markerfile.jpg)](img/p300markerfile.jpg)
+[ ![](./img/p300markerfile.jpg)](.img/p300markerfile.jpg)
 
   12. And you are done! Now explore other rhythms of the brain. Stay tuned to us at Backyard Brains as well as we dive further into the EEG and attempt to extract meaning. 
 
@@ -196,7 +196,7 @@ the changes you make.
   9. Our SpikeRecorder Software is designed to be easy to use, but if you want to hack an interface, you can modify our legacy processing sketch that also saves and displays the data. [Download it here](files/BYB_Heart_Rate_Monitor_Processing_SaveData.pde.zip). To do this, you need to use a different Arduino Sketch, [that you can find in this link](files/BYB_Heart_Monitor_Arduino_Sketch_timer.ino.zip). 
   10. Finally, EEG is wonderful to measure, but novices may find the low signal strength surprising. EEG is one of the weaker electrophysiological signals, and it is important to remain still (don't move any muscle of the head) and reduce noise as much as possible. See figure below that illustrates the EEG signal strength compared to other signals we can measure with the heart and brain SpikerBox. 
 
-[ ![](./img/Signal_Comparison.jpg)](img/Signal_Comparison.jpg)
+[ ![](./img/Signal_Comparison.jpg)](.img/Signal_Comparison.jpg)
 
 ##  Notes
 

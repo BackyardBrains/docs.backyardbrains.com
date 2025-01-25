@@ -49,7 +49,7 @@ In a continuing mystery to science, neurons in the mammalian brain and spinal
 cord do not regrow (unless you count a small population of neurons in the
 memory (hippocampus) and smell (olfactory) parts of the brain).
 
-[ ![](./img/Exp9_hipsterneurons.jpeg)](img/Exp9_hipsterneurons.jpeg)
+[ ![](./img/Exp9_hipsterneurons.jpeg)](.img/Exp9_hipsterneurons.jpeg)
 
 Thus, given current technology, in order to fix brains and spinal cords,
 sometimes engineers and doctors try to bypass the site of injury through
@@ -59,7 +59,7 @@ muscles in their legs are still alive, and the brain can still make commands
 like "I want to move my leg." The message, however, cannot travel from the
 brain to the leg muscles because the spinal cord is damaged.
 
-[ ![](./img/Exp9_fig2.jpeg)](img/Exp9_fig2.jpeg)
+[ ![](./img/Exp9_fig2.jpeg)](.img/Exp9_fig2.jpeg)
 
 Enter neuroprosthetics! Somehow, if you could "read out" the command signal
 from the brain, and use it to stimulate muscles or a robotic limb, you'd have
@@ -67,7 +67,7 @@ a neuroprosthetic! In fact, a research group in Pittsburgh has used this
 technique to train a monkey implanted with electrodes in his brain to control
 a robotic arm to feed itself!
 
-[ ![](./img/Exp9_monkey.jpeg)](img/Exp9_monkey.jpeg)
+[ ![](./img/Exp9_monkey.jpeg)](.img/Exp9_monkey.jpeg)
 
 We will demonstrate basic principles of neuroprosthetics using two natural
 cockroach legs.
@@ -76,7 +76,7 @@ cockroach legs.
 
 ## Procedures
 
-[ ![](./img/Exp9_setup.jpeg)](img/Exp9_setup.jpeg)
+[ ![](./img/Exp9_setup.jpeg)](.img/Exp9_setup.jpeg)
 
 In addition to the equipment above, you should buy a
 [Y-splitter](https://www.radioshack.com/product/index.jsp?productId=2103422)

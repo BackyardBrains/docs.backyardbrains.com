@@ -46,11 +46,11 @@ worm does not have rigid structures like bones with which to move muscles
 around on pivot points. Random fact_ if you brush a worm carefully down its
 length with your finger, you may detect with your fingers, yet not see with
 your eyes, bristles going in one vs. another direction. These
-[bristles](img/estiramiento_bristles_web.jpg) allow a worm to grip the earth
+[bristles](.img/estiramiento_bristles_web.jpg) allow a worm to grip the earth
 as it moves.
 
 [
-![](./img/estiramiento_01_correction.jpg)](img/estiramiento_01_correction.jpg)
+![](./img/estiramiento_01_correction.jpg)](.img/estiramiento_01_correction.jpg)
 
 When you watch the behavior of an earthworm as it moves in your backyard after
 a rainy night, you will notice a worm can change its entire body length up to
@@ -67,7 +67,7 @@ the earthworm and how such structures would affect impulse conduction. First,
 we need to think in "worm relativity," where length is a more a state of being
 than something fixed.
 
-[ ![](./img/budha_correction_web.jpg)](img/budha_correction_web.jpg)
+[ ![](./img/budha_correction_web.jpg)](.img/budha_correction_web.jpg)
 
 In worm relativity, we can think of two measures of velocity_
 
@@ -77,7 +77,7 @@ In worm relativity, we can think of two measures of velocity_
 Both concepts are important for understanding signal propagation from within
 the worm and without the worm.
 
-[ ![](./img/relajado_extendido_web.jpg)](img/relajado_extendido_web.jpg)
+[ ![](./img/relajado_extendido_web.jpg)](.img/relajado_extendido_web.jpg)
 
 Given two concepts of length, we can imagine three scenarios of impulse
 propagation in a stretched vs. relaxed worm.
@@ -96,7 +96,7 @@ experiments](./comparingNerveSpeed)
 that the two important components of cable theory are the length constant and
 the time constant.
 
-[ ![](./img/teoria_de_constantes_web.jpg)](img/teoria_de_constantes_web.jpg)
+[ ![](./img/teoria_de_constantes_web.jpg)](.img/teoria_de_constantes_web.jpg)
 
 If stretching the nerve results in smaller diameter, the internal axon
 resistance will increase (because when a cross-sectional area of wires
@@ -117,7 +117,7 @@ the inflated state, the nerve diameter is actually larger.
 increase.**
 
 [
-![](./img/compresion_extension_text_web.jpg)](img/compresion_extension_text_web.jpg)
+![](./img/compresion_extension_text_web.jpg)](.img/compresion_extension_text_web.jpg)
 
 To simplify, we have_
 
@@ -176,7 +176,7 @@ experiments, as shown above in the video._
   2. Try doing it in multiple spikes in the same animal, and perhaps comparing the LGN vs. the MGN. 
   3. Use the following table below as a guide. 
 
-[ ![](./img/TableNerveStretch.jpg)](img/TableNerveStretch.jpg)
+[ ![](./img/TableNerveStretch.jpg)](.img/TableNerveStretch.jpg)
 
   4. Statistically test your results (see our [intro to p-values](https://backyardbrains.com/experiments/p-value) writeup for how to do this. You may notice that while the time delay ("segments per second") change is statistically significant, the conduction velocity ("meters per second") is not. Strange and interesting, why is such so? [E-mail us](mailto:tim@backyardbrains.com)if you think you have the answer 
 
@@ -192,14 +192,14 @@ phrase "open." And, when the vigilant finishes opening their own door, they
 then repeat the command "Open" which the next person hears, as we illustrate
 below_
 
-[ ![](./img/low-length-constant_z_web.gif)](img/low-length-constant_z_web.gif)
+[ ![](./img/low-length-constant_z_web.gif)](.img/low-length-constant_z_web.gif)
 
 A length constant can be thought of as a measure of how loud the voice of the
 vigilants decreeing "open" is. If the "Open" is very loud, many vigilants can
 hear the open command at once, thus allowing many doors to open at the same
 time. This is equivalent to a high length constant.
 
-[ ![](./img/high-length-constant_z_web.gif)](img/high-length-
+[ ![](./img/high-length-constant_z_web.gif)](.img/high-length-
 constant_z_web.gif)
 
 The time constant is a measure of how fast the "Open" command is said. If
@@ -207,7 +207,7 @@ The time constant is a measure of how fast the "Open" command is said. If
 "open" command, no matter how loud it is uttered. This is equivalente to a
 high time constant.
 
-[ ![](./img/low-time-constant_z_web.gif)](img/low-time-constant_z_web.gif)
+[ ![](./img/low-time-constant_z_web.gif)](.img/low-time-constant_z_web.gif)
 
 2) While the video above only shows one measurement, we have repeated this
 experiment ~10 times, and we have **always** (yes, as scientists, we are
@@ -252,8 +252,8 @@ constant higher, but that since myelin also decreases the membrane
 capacitance, the increased membrane resistance and decreased membrane
 capacitance will "cancel out," leaving the time constant unaffected.
 
-[ ![](./img/equacion_length_constant.jpg)](img/equacion_length_constant.jpg) [
-![](./img/equacion_time_constant.jpg)](img/equacion_time_constant.jpg)
+[ ![](./img/equacion_length_constant.jpg)](.img/equacion_length_constant.jpg) [
+![](./img/equacion_time_constant.jpg)](.img/equacion_time_constant.jpg)
 
 Separating the oposite effects of increasing membrane resistance and
 decreasing membrane capacitance remains a challenge that we have not found

@@ -53,7 +53,7 @@ iron and precisely position it to build very small electronics, **and** it can
 maintain a grip force equivalent of your own body weight. The muscular anatomy
 has fascinated medical scientists from antiquity to the present day.
 
-[ ![](./img/musculatura_brazos_web.jpg)](img/musculatura_brazos_web.jpg)
+[ ![](./img/musculatura_brazos_web.jpg)](.img/musculatura_brazos_web.jpg)
 
 You can see the hand has muscles "inside of it" (intrinsic) and "outside of
 it" (extrinsic). Here we are looking at the inner forearm, which has the
@@ -69,7 +69,7 @@ electrodes on the forearm and use a bit of "signal classication theory".
 If we place five electrode pairs on various parts of the arm, as we have
 determined through experiment below_
 
-[ ![](./img/electrodos_brazos_web.jpg)](img/electrodos_brazos_web.jpg)
+[ ![](./img/electrodos_brazos_web.jpg)](.img/electrodos_brazos_web.jpg)
 
 We can record different "levels of EMG" in the 5 channels that give distinct
 patterns to individual finger movements that we can try to decode!
@@ -79,7 +79,7 @@ algorithms, and now you can too! We are fans of Kalman filters, PCA, ICA, and
 ANNs.
 
 [
-![](./img/representacion_graficos_web.jpg)](img/representacion_graficos_web.jpg)
+![](./img/representacion_graficos_web.jpg)](.img/representacion_graficos_web.jpg)
 
 At present we are implementing [euclidean
 distance](https://en.wikipedia.org/wiki/Euclidean_distance) and [support
@@ -87,7 +87,7 @@ vector machine](https://en.wikipedia.org/wiki/Support_vector_machine)
 algorithms to isolate individual finger movements to control individual
 fingers of a robotic hand.
 
-[ ![](./img/HackerHand_View2_web.jpg)](img/HackerHand_View2_web.jpg)
+[ ![](./img/HackerHand_View2_web.jpg)](.img/HackerHand_View2_web.jpg)
 
 #### Downloads
 
@@ -118,49 +118,49 @@ below) we hope to redesign._
 
   1. Your HackerHand System came with a Ribbon Cable with different endings on either side. Insert the Linear End (blue stripe on left) in the connector on the back of the hand. 
 
-[ ![](./img/HH-RibbonBack.jpg)](img/HH-RibbonBack.jpg)
+[ ![](./img/HH-RibbonBack.jpg)](.img/HH-RibbonBack.jpg)
 
   2. And plug in your power cord with the barrel style connector on the hand. Attach other end of the power cord to your USB battery. Since the Hand has five hungry servo motors, it needs its own power supply. 
 
-[ ![](./img/HH-PowerCord.jpg)](img/HH-PowerCord.jpg)
+[ ![](./img/HH-PowerCord.jpg)](.img/HH-PowerCord.jpg)
 
   3. Plug the other end of the ribbon cable to the connector on the Shield that is close to the audio out. There is a mark of red paint that identifies the orientation of the plug. Use the photo below as a guide. 
 
-[ ![](./img/HH-BoardConnection.jpg)](img/HH-BoardConnection.jpg)
+[ ![](./img/HH-BoardConnection.jpg)](.img/HH-BoardConnection.jpg)
 
   4. Plug the other USB cable into the back of the 5-Channel EMG Board. 
 
-[ ![](./img/HH-PluggingInUSB.jpg)](img/HH-PluggingInUSB.jpg)
+[ ![](./img/HH-PluggingInUSB.jpg)](.img/HH-PluggingInUSB.jpg)
 
   5. Plug the other side of the USB Cable into the computer, and you are ready to begin your first test! Load the [Random Mode Arduino Sketch](https://backyardbrains.com/products/files/HackerHand_Test_FingersLoop_FistPeaceV2.ino.zip) (also above) on your Arduino, turn the USB battery on that gives power to the Hand Server Motors, and you should see the fingers begin to move in a hypnotic random fashion! The inner button on your 5 Channel Board also causes the hand to make a peace sign, and the outer button causes a fist. 
   6. Now it is time to wire yourself up. Plug in the electrode cables. Note colored tape labels. 
 
-[ ![](./img/HH-EMG-Cables.jpg)](img/HH-EMG-Cables.jpg)
+[ ![](./img/HH-EMG-Cables.jpg)](.img/HH-EMG-Cables.jpg)
 
   7. And now it's time to hook up the electrode stickers to your forearm. Place the 11 electrodes on your arm using the photos below or the illustration above as your guide. 
 
-[ ![](./img/HH-Electrodes_on_Hands-labelled.jpg)](img/HH-Electrodes_on_Hands-
+[ ![](./img/HH-Electrodes_on_Hands-labelled.jpg)](.img/HH-Electrodes_on_Hands-
 labelled.jpg)
 
-[ ![](./img/HH-Ground_on_Hand-labelled.jpg)](img/HH-Ground_on_Hand-
+[ ![](./img/HH-Ground_on_Hand-labelled.jpg)](.img/HH-Ground_on_Hand-
 labelled.jpg)
 
   8. It's time to interface the machine to your muscles. Connect the electrode cables to sticker electrodes as shown below.The red alligators go the thumb position (channel 1), green to the index position (channel 2), yellow to the middle position (channel 3), blue to the ring position (channel 4), and white to the pinky position (channel 5). Ground (black clip) goes on the electrode sticker placed on the back of your hand. 
 
-[ ![](./img/HH-Cables_Plugged_In-labelled.jpg)](img/HH-Cables_Plugged_In-
+[ ![](./img/HH-Cables_Plugged_In-labelled.jpg)](.img/HH-Cables_Plugged_In-
 labelled.jpg)
 
-[ ![](./img/HH-Ground-Cable_labelled.jpg)](img/HH-Ground-Cable_labelled.jpg)
+[ ![](./img/HH-Ground-Cable_labelled.jpg)](.img/HH-Ground-Cable_labelled.jpg)
 
   9. Load the [Human Control Arduino Sketch](https://backyardbrains.com/products/files/HackerHand_Arduino_2.7.ino.zip) (also above) on your Arduino. 
   10. With your Arduino loaded with the control Code, open our [BYB HackerHand Control (MacOS)](https://backyardbrains.com/products/files/BYB_HackerHand_Control_v2.7.zip) software on your laptop. As you move your fingers, you should see the levels for each channel change. 
 
-[ ![](./img/HH-ControlSoftware-LevelsChange.jpg)](img/HH-ControlSoftware-
+[ ![](./img/HH-ControlSoftware-LevelsChange.jpg)](.img/HH-ControlSoftware-
 LevelsChange.jpg)
 
   11. Press the "Calibrate" Button and follow the On-Screen Instructions 
 
-[ ![](./img/HH-ControlSoftware-Calibrate.jpg)](img/HH-ControlSoftware-
+[ ![](./img/HH-ControlSoftware-Calibrate.jpg)](.img/HH-ControlSoftware-
 Calibrate.jpg)
 
   12. You are now in control mode! You can switch between the SVM and Euclidean Distance algorithms. Move your fingers in discrete movements. If the algorithms are working, the corresponding fingers on the robotic hand should correspondingly move. 

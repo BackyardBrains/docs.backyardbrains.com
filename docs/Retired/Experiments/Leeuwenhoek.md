@@ -49,7 +49,7 @@ such was the very edge of science. This time was the 1660s and 1670s in
 England and Holland with work done by two scientists - Robert Hooke and
 Antonie Philips van Leeuwenhoek.
 
-[ ![](./img/Hooke_Leeuenhoek-web.jpg)](img/Hooke_Leeuenhoek-web.jpg)
+[ ![](./img/Hooke_Leeuenhoek-web.jpg)](.img/Hooke_Leeuenhoek-web.jpg)
 
 In 1664, a 29-year-old Robert Hooke was commissioned by the Royal Society of
 England to write and publish _"Micrografia – Or some Physiological
@@ -59,7 +59,7 @@ condenser and an objective), he made a famous observation of a slice of cork,
 showing that the tissue of the plant was made up of individual elements he
 called "cells," after their appearance to the cells of bee honeycombs.
 
-[ ![](./img/Hooke_with_cork_web.jpg)](img/Hooke_with_cork_web.jpg)
+[ ![](./img/Hooke_with_cork_web.jpg)](.img/Hooke_with_cork_web.jpg)
 
 Robert Hooke was an excellent inventor and polymath. He is indeed the Hooke of
 ["Hooke's Law"](https://en.wikipedia.org/wiki/Hooke%27s_law) concerning the
@@ -72,7 +72,7 @@ interest in optics. He fabricated small glass spheres and developed a metal
 casing for the spheres in a deceptively simple and elegant design for viewing
 samples at different angles by changing the position of various screws.
 
-[ ![](./img/Leeuwenhoek_Design_web.jpg)](img/Leeuwenhoek_Design_web.jpg)
+[ ![](./img/Leeuwenhoek_Design_web.jpg)](.img/Leeuwenhoek_Design_web.jpg)
 
 Leeuwenhoek would stare at samples through the sphere in bright daylight, and,
 one day beginning in 1674, viewing a drop of pond water, he observed things
@@ -88,13 +88,13 @@ in Dutch to the Royal Society in England, which are stilled preserved and
 archived in London.
 
 [
-![](./img/Leeuwenhoek_with_scope_web.jpg)](img/Leeuwenhoek_with_scope_web.jpg)
+![](./img/Leeuwenhoek_with_scope_web.jpg)](.img/Leeuwenhoek_with_scope_web.jpg)
 
 We at Backyard Brains are certainly fans of scientists who are excellent tool
 builders, which is one of the reasons we study Leeuwenhoek here. But let's
 take a step back. How does a lens work? Moreover, what is even a lens?
 
-[ ![](./img/WhatIsALens_web.jpg)](img/WhatIsALens_web.jpg)
+[ ![](./img/WhatIsALens_web.jpg)](.img/WhatIsALens_web.jpg)
 
 A lens has three properties, it is clear, it is curved, and it bends light.
 The bending of the light is the key property that allows microscopes to
@@ -102,14 +102,14 @@ magnify images. Light bends when it enters or exits transparent material at an
 angle, and the curved form of a lens allows the bending to either "diverge
 out" or "converge in" depending on the shape of the lens.
 
-[ ![](./img/Lens_Types_web.jpg)](img/Lens_Types_web.jpg)
+[ ![](./img/Lens_Types_web.jpg)](.img/Lens_Types_web.jpg)
 
 The bending property is actually due to the speed of light. We often think of
 the speed of light as a constant that can never be surpassed, but light
 actually travels at different velocities depending on the material in which it
 is passing through.
 
-[ ![](./img/refractionequation_web.jpg)](img/refractionequation_web.jpg)
+[ ![](./img/refractionequation_web.jpg)](.img/refractionequation_web.jpg)
 
 Because of this difference in speed of light between two materials, and given
 light's peculiarities, when a ray of light, traveling in vacuum or air,
@@ -123,15 +123,15 @@ she enters the water and exits the water to reach the donuts in the fastest
 time possible. This "time minimization" serves as an analogy as to why light
 bends when entering a material.
 
-[ ![](./img/Runner-of-Light.jpg)](img/Runner-of-Light.jpg)
+[ ![](./img/Runner-of-Light.jpg)](.img/Runner-of-Light.jpg)
 
 Mathematically, the bending, the index of refraction, is expressed as_
 
-[ ![](./img/Snell's_Law_Web.jpg)](img/Snell's_Law_Web.jpg)
+[ ![](./img/Snell's_Law_Web.jpg)](.img/Snell's_Law_Web.jpg)
 
 and the higher a material's index of refraction, the more the light ray bends.
 
-[ ![](./img/Refraction_Chart_web.jpg)](img/Refraction_Chart_web.jpg)
+[ ![](./img/Refraction_Chart_web.jpg)](.img/Refraction_Chart_web.jpg)
 
 This mathematical relationship of the changing angles between two materials
 was first derived geometrically by the Persian/Baghdad scholar Ibn Sahl in the
@@ -143,36 +143,36 @@ history recognizes it the equation above as Snell's law, though it was known
 during the Islamic Golden age by Ibn Sahl and the famous optics theorist Ibn
 al-Haytham.
 
-[ ![](./img/SahlversusSnellius_web.jpg)](img/SahlversusSnellius_web.jpg)
+[ ![](./img/SahlversusSnellius_web.jpg)](.img/SahlversusSnellius_web.jpg)
 
 With just this simple index of refraction equation, you can calculate how
 lenses behave. Remember that a lens needs be curved. With this curvature, you
 can cause light rays to diverge or converge. Let's look at the simplest
 example, a ball lens.
 
-[ ![](./img/Ball_Draft_1ray.jpg)](img/Ball_Draft_1ray.jpg)
+[ ![](./img/Ball_Draft_1ray.jpg)](.img/Ball_Draft_1ray.jpg)
 
 Note that the curvature of lens deflects the ray of light more than if it were
 simple flat piece of glass. The curvature causes an image to focus at some
 distance away from the lens, or the effective focal length.
 
-[ ![](./img/LensDiameter_web.jpg)](img/LensDiameter_web.jpg)
+[ ![](./img/LensDiameter_web.jpg)](.img/LensDiameter_web.jpg)
 
 Optics is all geometry, and the equation for calculating focal length based on
 the geometrical bending only requires we only know the diameter of the sphere
 (d) and the index of refraction of the material the sphere is made out of (n).
 
-[ ![](./img/Focus_Ball_Lens_Equation.jpg)](img/Focus_Ball_Lens_Equation.jpg)
+[ ![](./img/Focus_Ball_Lens_Equation.jpg)](.img/Focus_Ball_Lens_Equation.jpg)
 
 But, you may ask, how does the lens actually enlarge the image and cause the
 magnification. See the image below, and you will recognize, again, why the
 curvature of the lens is the fundamental key.
 
-[ ![](./img/Ball_Draft_2ray.jpg)](img/Ball_Draft_2ray.jpg)
+[ ![](./img/Ball_Draft_2ray.jpg)](.img/Ball_Draft_2ray.jpg)
 
 Returning to the parameters of the ball lens_
 
-[ ![](./img/Focus_Ball_Lens_Equation.jpg)](img/Focus_Ball_Lens_Equation.jpg)
+[ ![](./img/Focus_Ball_Lens_Equation.jpg)](.img/Focus_Ball_Lens_Equation.jpg)
 
 You see that either lowering d (diameter) and increasing n (index of
 refraction) lowers the effective focal length and increases the magnification.
@@ -186,13 +186,13 @@ lens - Lucky for Leeuwenhoek! But how do we calculate the magnification of a
 ball lens? We use an equation based on the [general lens
 equation](https://en.wikipedia.org/wiki/Thin_lens)_
 
-[ ![](./img/Equation_Magnification.jpg)](img/Equation_Magnification.jpg)
+[ ![](./img/Equation_Magnification.jpg)](.img/Equation_Magnification.jpg)
 
 A 5 mm diameter lens, which has a focal length of 3.75 mm, thus has a 67x
 magnification. The range of useful diameters is_
 
 [
-![](./img/Magnification_Calculations.jpg)](img/Magnification_Calculations.jpg)
+![](./img/Magnification_Calculations.jpg)](.img/Magnification_Calculations.jpg)
 
 As you decrease the size of the lens, you increase the magnification more and
 more! The caveat is that the focal length, for glass, starts becoming
@@ -217,7 +217,7 @@ using our eyes to view worlds unseen.
 Here are the tools with which you will build the first microscope. In the most
 basic form, you will need_
 
-[ ![](./img/Tools_Needed_web.jpg)](img/Tools_Needed_web.jpg)
+[ ![](./img/Tools_Needed_web.jpg)](.img/Tools_Needed_web.jpg)
 
 **How to build the basic LeeuwenScope**
 
@@ -268,7 +268,7 @@ How is the quality of your ball lens compared to our industry ball lens and
 our [RoachScope](https://backyardbrains.com/products/roachscope)? See image
 comparison below.
 
-[ ![](./img/Magnification_Compare.jpg)](img/Magnification_Compare.jpg)
+[ ![](./img/Magnification_Compare.jpg)](.img/Magnification_Compare.jpg)
 
 Happy exploring the previously invisible worlds!
 

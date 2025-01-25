@@ -42,7 +42,7 @@ helm of a ship or aircraft, for example... A servo motor is made up of a small
 DC motor, a gear transmission which reduces speed and increases strength, and
 a small circuit control that makes it possible to move the motor accurately.
 
-[ ![](./img/ServoMotor_web.jpg)](img/ServoMotor_web.jpg)
+[ ![](./img/ServoMotor_web.jpg)](.img/ServoMotor_web.jpg)
 
 **What is the difference between a stepper motor and a servo motor?**
 
@@ -56,7 +56,7 @@ normally not used in high speed applications because at these speeds it loses
 strength. However, at low speeds the Stepper motor is more accurate and
 stronger than the servo, that's why it's widely used in industrial robot arms.
 
-[ ![](./img/MotorTypes_web.jpg)](img/MotorTypes_web.jpg)
+[ ![](./img/MotorTypes_web.jpg)](.img/MotorTypes_web.jpg)
 
 The PWM (Pulse Width Modulation) is the most commonly used system for servo
 control. This system generates a square wave which changes the amount of time
@@ -71,7 +71,7 @@ even find motors of 360ï¿½, these servos are ideal for installations where yo
 need a wide angle rotation), but this range varies by application and
 manufacturer. The pulse duration indicates the rotation angle of the motor.
 
-[ ![](./img/Graphs_PWM_web.jpg)](img/Graphs_PWM_web.jpg)
+[ ![](./img/Graphs_PWM_web.jpg)](.img/Graphs_PWM_web.jpg)
 
 It's important to emphasize that, to make a servo remain in the same position,
 it is necessary to continuously send a pulse of constant width. This way, if
@@ -92,7 +92,7 @@ generating the signal. It can do this with just a few lines of code.
 
 Terminal configuration
 
-[ ![](./img/ServoMotorColor_web.jpg)](img/ServoMotorColor_web.jpg)
+[ ![](./img/ServoMotorColor_web.jpg)](.img/ServoMotorColor_web.jpg)
 
 In this experiment you will use only use power, ground, and digital out pin 2
 of the SpikerShield to generate a PWM wave. Power will come from a second 9V
@@ -115,7 +115,7 @@ draws of the servo).
   1. Your Robotic Claw has a three wire servomotor cable that you plug into your Muscle SpikerShield. The Cable has a black, red, and a yellow wire. The yellow is the control wire, red is power (9V), and black is ground. 
   2. Plug the Servomotor cable into the three pin header on your Muscle SpikerShield. Order is important! The yellow side goes toward the center of the board. 
 
-[ ![](./img/claw_muscleSpikerShield2.jpg)](img/claw_muscleSpikerShield2.jpg)
+[ ![](./img/claw_muscleSpikerShield2.jpg)](.img/claw_muscleSpikerShield2.jpg)
 
   3. Your Claw is power hungry and needs its own power supply. Plug the two 9V batteries into the barrel connectors on the Muscle SpikerShield Board and the Arduino. 
   4. Place three sticker electrodes on your own, two on your forearm and one on the back of your palm. 
@@ -124,7 +124,7 @@ draws of the servo).
   7. Now flex your arm! You should see the Claw move as well. You can push the white button to change between high and low threshold modes, and you can push the red button to switch between default open or default closing. 
 
 [
-![](./img/claw_muscleSpikerShield_jumpwire.jpg)](img/claw_muscleSpikerShield_jumpwire.jpg)
+![](./img/claw_muscleSpikerShield_jumpwire.jpg)](.img/claw_muscleSpikerShield_jumpwire.jpg)
 
 **Code description:** This code makes the Arduino, with help of the Muscle
 SpikerShield, capture EMG signals produced by contracting muscles of the

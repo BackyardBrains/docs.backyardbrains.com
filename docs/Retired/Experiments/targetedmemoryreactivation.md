@@ -43,7 +43,7 @@ constant memory storage update is needed. This depends on the "memory
 reactivation" of previously learned things... quizzing yourself over and over
 before a big exam often helps you remember!
 
-[ ![](./img/tmrHippocampus.png)](img/tmrHippocampus.png)
+[ ![](./img/tmrHippocampus.png)](.img/tmrHippocampus.png)
 
 The hippocampus is a seahorse shaped brain structure that helps with the
 storing of information from short-term memories to long-term memories. We call
@@ -68,7 +68,7 @@ tasks like verbal list learning, or spatial recall. Other types of memory like
 procedural and emotional can be consolidated in both REM and NREM sleep.
 
 [
-![](./img/tmrBrainThinkingRemembering.png)](img/tmrBrainThinkingRemembering.png)
+![](./img/tmrBrainThinkingRemembering.png)](.img/tmrBrainThinkingRemembering.png)
 
 It has been recently shown that such consolidation can be artificially
 enhanced using the method of **Targeted Memory Reactivation** (TMR). This
@@ -119,15 +119,15 @@ frontal lobe/forehead of the subject. Place a good amount of gel on each of
 the two headband electrodes (the electrode patch already comes with gel).
 Connect the electrode cable with its 3 alligator clips as follows_
 
-[ ![](./img/tmrPlacement.png)](img/tmr4.png)
+[ ![](./img/tmrPlacement.png)](.img/tmr4.png)
 
 * Red_ Place one of the red alligator clips at the headband electrode furthest from the patch behind the ear.
 * Red_ Place the other red alligator clip at the electrode patch behind the ear.
 * Black_ Place the black alligator clip at the headband electrode in-between the two red clips. 
 
-[ ![](./img/tmr6.png)](img/tmr6.png)
+[ ![](./img/tmr6.png)](.img/tmr6.png)
 
-[ ![](./img/tmr7.png)](img/tmr7.png)
+[ ![](./img/tmr7.png)](.img/tmr7.png)
 
 Connect the electrode cable to the Heart and Brain SpikerBox, then connect the
 Heart and Brain SpikerBox to your laptop via the USB cable. Load up

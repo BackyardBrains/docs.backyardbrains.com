@@ -42,7 +42,7 @@ have a previous version. Check out the [legacy instructions here!](./files/Legac
 
 ## Background
 
-[ ![](./img/Descartes1.jpg)](img/Descartes1.jpg)
+[ ![](./img/Descartes1.jpg)](.img/Descartes1.jpg)
 
 The story begins with René Descartes - as a young boy in France, René visited
 the gardens of the French Royal Palace St. Germain. The French king was a bit
@@ -55,7 +55,7 @@ system worked, and upon investigation, he found a hydraulic system of water
 pipes whereby stepping on a pressure plate caused almost "life-like" action in
 the mannequins.
 
-[ ![](./img/Descartes2.jpg)](img/Descartes2.jpg)
+[ ![](./img/Descartes2.jpg)](.img/Descartes2.jpg)
 
 Descartes writes of this experience in his 1633 essay "Treatise of Man" which
 details his theory of "stimulus response."
@@ -68,7 +68,7 @@ stimulus response and reflexes as mechanistic, but its proposed mechanisms are
 false_ Nerves are not hollow, nor is there a flow of animal spirits through
 our nervous system.
 
-[ ![](./img/Descartes3.jpg)](img/Descartes3.jpg)
+[ ![](./img/Descartes3.jpg)](.img/Descartes3.jpg)
 
 Had Descartes lived another 70 years (to the ripe old age of 124!), he would
 have learned of Galvani and Volta's investigations into the role that
@@ -96,7 +96,7 @@ information!
 
 #### Setting up the Reaction Timer
 
-[ ![](./img/ReactionTimer_SetUp.jpg)](img/ReactionTimer_SetUp.jpg)
+[ ![](./img/ReactionTimer_SetUp.jpg)](.img/ReactionTimer_SetUp.jpg)
 
   1. Plug the Muscle SpikerBox Pro into your recording device via USB. This experiment only works on devices you can connect to via USB, so it excludes iPads, iPhones, and Chromebooks until those platforms offer 3rd party USB communication (we're patiently waiting, it is very frustrating.) 
   2. Connect the Reaction Timer to the Muscle SpikerBox Pro with the Orange Expansion Cable. Note_ if your Reaction Timer looks different, you may have a previous version. Check out the [legacy instructions here!](./files/Legacy_Reaction_Timer.pdf)
@@ -105,7 +105,7 @@ information!
   5. Next, test the Reaction Timer. Make sure the Light and Tone switches are in the on position, and the random switch is in the off position, and then press the first button on your board! You should hear a sound, see an LED light up, and in SpikeRecorder you should see that a tick mark has been placed in your recording at the exact moment you pressed the button. 
 
 [
-![](./img/ReactionTimer_SpikeRecorder3.jpg)](img/ReactionTimer_SpikeRecorder3.jpg)
+![](./img/ReactionTimer_SpikeRecorder3.jpg)](.img/ReactionTimer_SpikeRecorder3.jpg)
 
 > **Troubleshooting your set up_**
 > * If you don't hear any sounds through the speaker, make sure your the tone
@@ -129,7 +129,7 @@ react with no distractions or instructions?
   3. The controller will press the button 10 times at random intervals. The subject will flex in response to the stimulus as quickly as possible. 
 
 [
-![](./img/ReactionTimer_SpikeRecorder1.png)](img/ReactionTimer_SpikeRecorder1.png)
+![](./img/ReactionTimer_SpikeRecorder1.png)](.img/ReactionTimer_SpikeRecorder1.png)
 
   4. After the subject's reaction time has been tested 10 times with sound switched on, end and save the recording. 
   5. Repeat the above steps using light as the stimulus. Then repeat again using both sound and light turned on! You want to end up with three different recordings, each with 10 reactions.
@@ -140,11 +140,11 @@ react with no distractions or instructions?
   2. Search for the tick marks. For each tick mark, click and drag from the tick mark to the beginning of the subject's muscle activity to measure the reaction time. For Smartphones, do this by long-pressing on the screen at the tick mark, then dragging to the beginning of the flex! 
 
 [
-![](./img/ReactionTimer_SpikeRecorder2_Label.jpg)](img/ReactionTimer_SpikeRecorder2_Label.jpg)
+![](./img/ReactionTimer_SpikeRecorder2_Label.jpg)](.img/ReactionTimer_SpikeRecorder2_Label.jpg)
 
   3. Record the reaction times and fill in the chart below! 
 
-[ ![](./img/worksheet reaction timer.jpg)](img/worksheet reaction timer.jpg)
+[ ![](./img/worksheet reaction timer.jpg)](.img/worksheet reaction timer.jpg)
 
 * Average your results! Calculate the [Standard Deviation](https://backyardbrains.com/experiments/p-value). Then perform again and again! Change the variables! Test light, sound, random, ... 
 
@@ -156,7 +156,7 @@ controller will add a distraction, presenting the subject with both red and
 green lights... what effect will this decision-making have on the reaction
 time speed? Let's find out!
 
-[ ![](./img/descartes4.jpg)](img/descartes4.jpg)
+[ ![](./img/descartes4.jpg)](.img/descartes4.jpg)
 
   1. Set up your subject just as you did before. 
   2. Tell your subject to flex only in response to the red light and not the green light. 
@@ -191,7 +191,7 @@ well-rested subject. Also, where you place your electrodes may make a
 difference_ can you flex your right arm faster than your left? Can you clench
 your jaw faster than you can flex your thigh? Conduct your own experiments and
 share your results with us at
-[hello@backyardbrains.com](mailto_hello@backyardbrains.com)!
+[hello@backyardbrains.com](mailto:hello@backyardbrains.com)!
 
 #### Project Lead the Way Alignment
 

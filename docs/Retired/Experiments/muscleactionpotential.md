@@ -67,7 +67,7 @@ only detecting local electric activity of muscles, and we put electrodes on
 the top of your hand, would you expect a difference if you moved your fingers
 up and down vs left or right? Let's see!
 
-[ ![](./img/Muscles_Combined.jpg)](img/Muscles_Combined.jpg)
+[ ![](./img/Muscles_Combined.jpg)](.img/Muscles_Combined.jpg)
 
 ## Video
 
@@ -75,30 +75,30 @@ up and down vs left or right? Let's see!
 
   1. Using your orange electrode cable, attach the red alligator clips to each of the brass fasteners in our "popsicle stick electrode" that came with your SpikerBox. Attach the black alligator clip to the ground screw. See images below as a guide. 
 
-[ ![](./img/combopic.jpg)](img/combopic.jpg)
+[ ![](./img/combopic.jpg)](.img/combopic.jpg)
 
   2. Locate an indent (valley) between knuckles on your hand. 
 
-[ ![](./img/HandPlacement.jpg)](img/HandPlacement.jpg)
+[ ![](./img/HandPlacement.jpg)](.img/HandPlacement.jpg)
 
   3. Place the electrodes over the back of your hand between the knuckles as shown below. Make sure you put a dab of [conductive gel](https://backyardbrains.com/products/emgelectrodegel) in-between each electrode and your skin. This will increase your signal quality (without gel you will most likely just get noise). 
 
-[ ![](./img/HandwithElectrodes.jpg)](img/HandwithElectrodes.jpg)
+[ ![](./img/HandwithElectrodes.jpg)](.img/HandwithElectrodes.jpg)
 
   4. Hook up the Muscle SpikerBox to the electrode cable (see video above as a guide). 
   5. Turn on the Muscle SpikerBox. 
   6. Plug in your [SmartPhone Cable](https://backyardbrains.com/products/smartphonecable) (with our free [Android](https://play.google.com/store/apps/details?id=com.backyardbrains) or [iPhone](https://itunes.apple.com/gb/app/backyard-brains/id367151200?mt=8) apps installed) or computer (using our [Backyard Brains PC app](./files/Backyard_Brains_Neuron_Recorder_Install.air.zip) and a USB cable if you have the [Muscle SpikerBox Pro](https://backyardbrains.com/products/musclespikerboxpro)). 
   7. Move your middle or ring finger either side to side or up and down. Do you notice a difference? 
 
-[ ![](./img/handmovements2.jpg)](img/handmovements2.jpg)
+[ ![](./img/handmovements2.jpg)](.img/handmovements2.jpg)
 
   8. Now, try to isolate the muscles in your forearm responsible for up and down motion of your fingers! Can you find your _flexor digitorum superficialis_? 
 
-[ ![](./img/arm_New.jpg)](img/arm_New.jpg)
+[ ![](./img/arm_New.jpg)](.img/arm_New.jpg)
 
   9. Observe your smartphone or computer screen to see if you can isolate single muscle action potentials. You may find you have to "think about moving" so that you only generate a single twitch and a single AP! See if you can do it! 
 
-[ ![](./img/Spikes.png)](img/Spikes.png)
+[ ![](./img/Spikes.png)](.img/Spikes.png)
 
 ## Science Fair Project Ideas
 

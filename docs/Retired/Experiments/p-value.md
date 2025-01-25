@@ -49,7 +49,7 @@ analysis. For example, how do you determine the average height of a man? You
 wouldn't solely go to an NBA basketball team nor a Kentucky Derby Horse Jockey
 convention would you?
 
-[ ![](./img/BYB_exp4_pic1.png)](img/BYB_exp4_pic1.png)
+[ ![](./img/BYB_exp4_pic1.png)](.img/BYB_exp4_pic1.png)
 
 Going further and using inferences to show how two populations are different
 can be even more challenging. Is it possible to prove that on average men are
@@ -59,14 +59,14 @@ male height solely from the Kentucky Derby jockeys would result in a
 population bias as well as a small sample size. Finally, was data self-
 reported, or was it professionally measured?
 
-[ ![](./img/BYB_exp4_pic2.png)](img/BYB_exp4_pic2.png)
+[ ![](./img/BYB_exp4_pic2.png)](.img/BYB_exp4_pic2.png)
 
 As you can imagine, collecting good data and analyzing it is hard work. The
 good news is that becoming a statistician is a lucrative profession.
 Governments, Wall Street, corporations, labs, and even some individuals all
 need good statisticians, and they are usually willing to pay good wages.
 
-[ ![](./img/BYB_exp4_pic3.png)](img/BYB_exp4_pic3.png)
+[ ![](./img/BYB_exp4_pic3.png)](.img/BYB_exp4_pic3.png)
 
 In this lesson we will do some basic statistical analysis. Before we do this
 though, you must go out and collect data. Luckily, if you have already
@@ -82,11 +82,11 @@ Before we begin to collect data, we are going to form some hypotheses.
 
 * Our first hypothesis will be_ right-handed people have a faster reaction time with their right hand than their left hand. 
 
-[ ![](./img/BYB_exp4_pic4.png)](img/BYB_exp4_pic4.png)
+[ ![](./img/BYB_exp4_pic4.png)](.img/BYB_exp4_pic4.png)
 
 * Our second hypothesis will be_ left-handed people, since they are special, are faster than right-handed people. 
 
-[ ![](./img/BYB_exp4_pic5.png)](img/BYB_exp4_pic5.png)
+[ ![](./img/BYB_exp4_pic5.png)](.img/BYB_exp4_pic5.png)
 
 ## The Raw Data, Graphs & Distributions
 
@@ -95,7 +95,7 @@ Reaction Time. Here we show the reaction times for both left and right hands
 for the visual cue. We gathered 20 college age volunteers, 10 left-handed and
 10 right-handed. Reaction time is displayed in seconds.
 
-[ ![](./img/BYB_exp4_pic6.png)](img/BYB_exp4_pic6.png)
+[ ![](./img/BYB_exp4_pic6.png)](.img/BYB_exp4_pic6.png)
 
 Now that we have the raw data written down, we can begin to look over the
 results. There appear to be no "strange" values, so our data set is probably
@@ -109,11 +109,11 @@ Next, we want to organize the data specifically for both our hypothesis_
 #### Hypothesis 1_ Right handed people are faster with their right, dominant,
 hand.
 
-[ ![](./img/BYB_exp4_pic7.png)](img/BYB_exp4_pic7.png)
+[ ![](./img/BYB_exp4_pic7.png)](.img/BYB_exp4_pic7.png)
 
 #### Hypothesis 2_ Left-handed people are faster than right-handed people are.
 
-[ ![](./img/BYB_exp4_pic8.png)](img/BYB_exp4_pic8.png)
+[ ![](./img/BYB_exp4_pic8.png)](.img/BYB_exp4_pic8.png)
 
 We formatted the values in ascending order as well, because it makes the data
 easier to work with and look at. Before we go into statistical tests, we
@@ -127,17 +127,17 @@ should calculate some basic values.
 
 First we want to find these values for the data in our first hypothesis.
 
-[ ![](./img/BYB_exp4_pic9_minmax.png)](img/BYB_exp4_pic9_minmax.png)
+[ ![](./img/BYB_exp4_pic9_minmax.png)](.img/BYB_exp4_pic9_minmax.png)
 
-[ ![](./img/BYB_exp4_pic9_mean.png)](img/BYB_exp4_pic9_mean.png)
+[ ![](./img/BYB_exp4_pic9_mean.png)](.img/BYB_exp4_pic9_mean.png)
 
-[ ![](./img/BYB_exp4_pic9_mode.png)](img/BYB_exp4_pic9_mode.png)
+[ ![](./img/BYB_exp4_pic9_mode.png)](.img/BYB_exp4_pic9_mode.png)
 
-[ ![](./img/BYB_exp4_pic9_median.png)](img/BYB_exp4_pic9_median.png)
+[ ![](./img/BYB_exp4_pic9_median.png)](.img/BYB_exp4_pic9_median.png)
 
 * And another one_ Standard Deviations! The standard deviation is a measure of the variation in the data. The higher the standard deviation value, the further "spread" the data are from the mean. The mathematical symbol used for the standard deviation is_ σ (lower case Greek symbol for Sigma). How do we calculate it? See below... 
 
-[ ![](./img/BYB_exp4_pic9_sigma.png)](img/BYB_exp4_pic9_sigma.png)
+[ ![](./img/BYB_exp4_pic9_sigma.png)](.img/BYB_exp4_pic9_sigma.png)
 
 These are interesting results.
 
@@ -153,7 +153,7 @@ handed and left handed people and their reaction times, we must graph our data
 and run statistical tests. We will now learn about probability distributions
 before diving into statistical testing.
 
-[ ![](./img/BYB_exp4_pic14.png)](img/BYB_exp4_pic14.png)
+[ ![](./img/BYB_exp4_pic14.png)](.img/BYB_exp4_pic14.png)
 
 First, the data is graphed in the form of a "histogram". Density or (number of
 occurrences) is the y-axis. The x-axis is the range of values recorded from
@@ -166,16 +166,16 @@ own histograms for left-handed people using Excel or any other type of
 graphing program. Ask your teacher or neighborhood scientist for help if you
 do not know how to do this.
 
-[ ![](./img/BYB_exp4_pic11_lefthand.png)](img/BYB_exp4_pic11_lefthand.png)
+[ ![](./img/BYB_exp4_pic11_lefthand.png)](.img/BYB_exp4_pic11_lefthand.png)
 
-[ ![](./img/BYB_exp4_pic11_righthand.png)](img/BYB_exp4_pic11_righthand.png)
+[ ![](./img/BYB_exp4_pic11_righthand.png)](.img/BYB_exp4_pic11_righthand.png)
 
 There are many probability distribution curves in this world, but we use the
 "normal" distribution, because it is the most common and probably indicative
 of human reaction time. What does it mean to be normally distributed? It's a
 mathematic model of "normal" spread. Here is the equation_
 
-[ ![](./img/BYB_exp4_pic13.png)](img/BYB_exp4_pic13.png)
+[ ![](./img/BYB_exp4_pic13.png)](.img/BYB_exp4_pic13.png)
 
 Don't worry if you don't understand it, but scientists have found that human's
 heights, IQ, weight and so on are all normally distributed, so we make the
@@ -190,7 +190,7 @@ the mean. In a normal distribution_
 * Approximately 95% of people fall within two standard deviations from the mean (between 4'11 and 6'2 tall'). 
 * Approximately 99.7% of people fall within three standard deviations mean (between 4'8 and 6'5 tall'). 
 
-[ ![](./img/BYB_exp4_pic12.png)](img/BYB_exp4_pic12.png)
+[ ![](./img/BYB_exp4_pic12.png)](.img/BYB_exp4_pic12.png)
 
 You might be thinking, "Our graphs do not look normally distributed at all!"
 This is partially true, because we have such a small sample size. If we took
@@ -211,7 +211,7 @@ they did allow him to publish under a pen name. What Guinness did not know was
 that the scientific community knew Gosset's pen name, Student, anyway! Now we
 have better beer and better statistics.
 
-[ ![](./img/BYB_exp4_piclightningbrew.png)](img/BYB_exp4_piclightningbrew.png)
+[ ![](./img/BYB_exp4_piclightningbrew.png)](.img/BYB_exp4_piclightningbrew.png)
 
 The T-test is powerful, because it allows us to make inferences from a small
 sample size about the whole population. We will show you how to do a T-test
@@ -235,7 +235,7 @@ it is either "faster" OR "slower". Stated differently, if we did not care
 which sample was faster, and we just wanted to see if the two samples did not
 have the same mean, we would use a two-tailed test.
 
-[ ![](./img/BYB_exp4_pictails.png)](img/BYB_exp4_pictails.png)
+[ ![](./img/BYB_exp4_pictails.png)](.img/BYB_exp4_pictails.png)
 
 Lastly, we need to set the "alpha value" which can be viewed as a "threshold
 for acceptance." Common values are .05, .01, and .001. With an alpha value of
@@ -260,14 +260,14 @@ calculate below.
 
 #### Step 1_ Find the "pooled variance", or Sp^2.
 
-[ ![](./img/BYB_exp4_pic15_ttest1.png)](img/BYB_exp4_pic15_ttest1.png)
+[ ![](./img/BYB_exp4_pic15_ttest1.png)](.img/BYB_exp4_pic15_ttest1.png)
 
 * Note how the subscript "1" represents the data for the right-hand sample and the subscript "2" represents the data for the left-hand sample. This annotation [replicaimitation](https://www.replicaimitation.com/blog/) will stay consistent during our calculations. 
 
 Next let's substitute the letters in the equation above with our numerical
 values.
 
-[ ![](./img/BYB_exp4_pic15_ttest2.png)](img/BYB_exp4_pic15_ttest2.png)
+[ ![](./img/BYB_exp4_pic15_ttest2.png)](.img/BYB_exp4_pic15_ttest2.png)
 
 #### Step 2_ Calculate your t-statistic.
 
@@ -276,19 +276,19 @@ t-statistic_
 
 [https://backyardbrains.com](https://backyardbrains.com/products/css/index.html)
 
-[ ![](./img/BYB_exp4_pic15_ttest3.png)](img/BYB_exp4_pic15_ttest3.png)
+[ ![](./img/BYB_exp4_pic15_ttest3.png)](.img/BYB_exp4_pic15_ttest3.png)
 
 Again, what do these letters and symbols mean? We know_ Sp^2, n1, and n2. But
 what about the rest?
 
-[ ![](./img/BYB_exp4_pic15_ttest4.png)](img/BYB_exp4_pic15_ttest4.png)
+[ ![](./img/BYB_exp4_pic15_ttest4.png)](.img/BYB_exp4_pic15_ttest4.png)
 
 Note, delta, is equal to zero. Why would the hypothesized difference between
 sample means be zero? HINT_ Refer back to the Null hypothesis.
 
 We are now ready to substitute! Plug in all the numerical values.
 
-[ ![](./img/BYB_exp4_pic15_ttest5.png)](img/BYB_exp4_pic15_ttest5.png)
+[ ![](./img/BYB_exp4_pic15_ttest5.png)](.img/BYB_exp4_pic15_ttest5.png)
 
 Our t-statistic, t, is .2046
 
@@ -300,7 +300,7 @@ chart](https://www.stattools.net/tTest_Tab.php). For this we also need our
 "degrees of freedom", our df, which is the number of independent pieces of
 information that are FREE to vary.
 
-[ ![](./img/BYB_exp4_pic15_ttest6.png)](img/BYB_exp4_pic15_ttest6.png)
+[ ![](./img/BYB_exp4_pic15_ttest6.png)](.img/BYB_exp4_pic15_ttest6.png)
 
 One way to think about it is with sports. Let's say you are the coach and your
 team consists of 11 players and the game you are playing has 11 positions. You
@@ -315,14 +315,14 @@ generated. That's a good question, and it is answered best by integral
 calculus for the "probability distribution" we spoke about above and which you
 will learn about when you major in Statistics in college...
 
-[ ![](./img/BYB_exp4_pic15_ttest7.png)](img/BYB_exp4_pic15_ttest7.png)
+[ ![](./img/BYB_exp4_pic15_ttest7.png)](.img/BYB_exp4_pic15_ttest7.png)
 
 Look up your p-value, which we decided would be 0.05 using a one-tail test.
 Match this up with the df=18, and you get a t-value of 1.734. As our
 calculated t-value, 0.2046, is LESS than 1.734, we CANNOT reject the null
 hypothesis. What if we use a less stringent p-value, say 0.10?
 
-[ ![](./img/BYB_exp4_pic15_ttest8.png)](img/BYB_exp4_pic15_ttest8.png)
+[ ![](./img/BYB_exp4_pic15_ttest8.png)](.img/BYB_exp4_pic15_ttest8.png)
 
 At a p-value of 0.10, or 90% confidence, our t-statistic of 0.2046 is still
 less than the value of 1.330, so we still can't reject our null hypothesis,
@@ -360,7 +360,7 @@ it is much harder to prove an "absence of something" than a "presence of
 something". Alternatively, as alien hunters like to say_ "absence of evidence
 does not mean evidence of absence."
 
-[ ![](./img/BYB_exp4_pic16.png)](img/BYB_exp4_pic16.png)
+[ ![](./img/BYB_exp4_pic16.png)](.img/BYB_exp4_pic16.png)
 
 ## Questions to Consider
 

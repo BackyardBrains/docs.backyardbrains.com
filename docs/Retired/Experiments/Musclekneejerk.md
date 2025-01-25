@@ -50,7 +50,7 @@ pathway. Stretching the muscle activates the muscle spindle at the end of the
 sensory neuron (embedded in your muscle) and starts the reflex. The reflex is
 to prevent overstretching of the muscle and compensates with a contraction.
 
-[ ![](./img/Knee_Reflex_web.jpg)](img/Knee_Reflex_web.jpg)
+[ ![](./img/Knee_Reflex_web.jpg)](.img/Knee_Reflex_web.jpg)
 
 As you can see, there is only one connection (a synapse) needed for the
 information from the sensory neuron to get to the motor neuron and cause a
@@ -112,24 +112,24 @@ diseases).
   3. Have the subject sit on a sturdy surface high enough to allow their lower legs and feet to dangle freely. 
   4. Have the subject contract their quadriceps (knee extensor) muscle so you can place two on either side of the knee as shown in below. One electrode on the Vastus Medialis, one on the Vastus Lateralis. Place a ground adhesive electrode on the back of the hand. 
 
-[ ![](./img/ReflexHammerPrep2.jpg)](img/ReflexHammerPrep2.jpg)
+[ ![](./img/ReflexHammerPrep2.jpg)](.img/ReflexHammerPrep2.jpg)
 
   5. Clip the red leads of your orange muscle cable of the electrodes on the muscle of your thigh, and the black lead on the ground on your outer palm.
   6. Getting a good quality muscle signal is really important for this experiment. Test to see if you get a good EMG signal with a fairly small contraction by asking the subject to straighten their knee against resistance. Poor signal? Adjust the vertical zoom on SpikeRecorder. If that still doesn't help, adjust the electrode placement. 
   7. Also, if you are still not getting a very clear signal, feel free to experiment with where you place the ground electrode. You can also go into the SpikeRecorder settings and set the signal threshold from 70 to 1500, and check the box by "60hz" to filter out more noise. 
   8. Locate the part of the patellar tendon just below the kneecap and above where it inserts into the shinbone. The best place to tap it is just below the kneecap. If you like this person, avoid hitting the knee cap because...ouch! Use a quick, firm tap to the tendon to elicit an involuntary kick out. Experiment with small changes in location and tap force. Find the sweet spot.
 
-[ ![](./img/ReflexHammerPrep4.jpg)](img/ReflexHammerPrep4.jpg)
+[ ![](./img/ReflexHammerPrep4.jpg)](.img/ReflexHammerPrep4.jpg)
 
-[ ![](./img/Knee_Anatomy_web.jpg)](img/Knee_Anatomy_web.jpg)
+[ ![](./img/Knee_Anatomy_web.jpg)](.img/Knee_Anatomy_web.jpg)
 
   9. If you have good electrode placement and apply a smart tap to the patellar tendon, you should see something like this (Note, it will be small! You may have to zoom in)_
 
-[ ![](./img/ReflexEMG.jpg)](img/ReflexEMG.jpg)
+[ ![](./img/ReflexEMG.jpg)](.img/ReflexEMG.jpg)
 
   10. Make a recording and zoom in over one of the reflex signals. You can see that the EMG signal looks much like other EMGs you have seen_
 
-[ ![](./img/ReflexEMG2.png)](img/ReflexEMG2.png)
+[ ![](./img/ReflexEMG2.png)](.img/ReflexEMG2.png)
 
   11. Congratulations! You can now record the muscular response to the Patellar Reflex. But how might we measure the time difference between when the hammer strikes and the muscle flexes?
 
@@ -139,20 +139,20 @@ diseases).
 
   1. Yes! We can measure the reflex time with the Backyard Brains [Reflex Hammer](https://backyardbrains.com/products/reflexhammer) \- an expansion kit for the [Muscle SpikerBox Pro](https://backyardbrains.com/products/musclespikerboxpro). 
 
-[ ![](./img/Hammer_Large.jpg)](img/Hammer_Large.jpg)
+[ ![](./img/Hammer_Large.jpg)](.img/Hammer_Large.jpg)
 
   2. Plug the Reflex Hammer into the Muscle SpikerBox Pro. If you are connected to SpikeRecorder already, you should see a second channel appear in the recording! Give the hammer a wiggle... then gently strike it against a nearby obstacle or foe. Watch in SpikeRecorder as the accelerometer in the Reflex Hammer creates great wiggles and spikes! 
 
-[ ![](./img/ReflexRecord4.jpg)](img/ReflexRecord4.jpg)
+[ ![](./img/ReflexRecord4.jpg)](.img/ReflexRecord4.jpg)
 
   3. Now, have your subject sit up high so their legs are dangling. Also, and this is important, have your subject **close their eyes or look away** so that they can't anticipate the hammer. 
   4. Begin experimenting! Depending on how you'd prefer to describe it, give your subject some forceful taps, or gentle strikes, below their kneecap. Once you find the sweet spot, you should be able to evoke the leg-kick reflex! 
 
-[ ![](./img/ReflexRecord1.png)](img/ReflexRecord1.png)
+[ ![](./img/ReflexRecord1.png)](.img/ReflexRecord1.png)
 
   5. Zoom in with touch controls or your mouse wheel. You can measure the reflex time by measuring the difference between the spike when the hammer strikes and the muscles flex in response! The hammer strike is when the accelerometer in the reflex hammer experiences the greatest degree of (de)acceleration, so alight the EMG recording to the earliest "vertical" mark on the accelerometer reading - see photo before. You can use the handout link above to have a form to allow you to easily tabulate the data. 
 
-[ ![](./img/ReflexRecord2_Label_small.jpg)](img/ReflexRecord2_Label_small.jpg)
+[ ![](./img/ReflexRecord2_Label_small.jpg)](.img/ReflexRecord2_Label_small.jpg)
 
 ###
 
@@ -171,7 +171,7 @@ time test with this set-up too!
   3. Tell the research subject to close their eyes again. Tell them to kick their other leg when they feel the hammer tap the same leg you had recorded from previously. 
   4. Compare the reflex of one leg to the reaction of the other! You should notice the reaction is dramatically slower than the reflex. Why do you think that is? (We think you know the answer!) 
 
-[ ![](./img/ReflexReact.jpg)](img/ReflexReact.jpg)
+[ ![](./img/ReflexReact.jpg)](.img/ReflexReact.jpg)
 
 ## Troubleshooting Suggestions
 
@@ -183,11 +183,11 @@ lateralis can also work well. See below_
 
 **Medialis**
 
-[ ![](./img/ReflexHammerPrep1.jpg)](img/ReflexHammerPrep1.jpg)
+[ ![](./img/ReflexHammerPrep1.jpg)](.img/ReflexHammerPrep1.jpg)
 
 **Lateralis**
 
-[ ![](./img/ReflexHammerPrep3.jpg)](img/ReflexHammerPrep3.jpg)
+[ ![](./img/ReflexHammerPrep3.jpg)](.img/ReflexHammerPrep3.jpg)
 
   * Still having trouble? Try positioning the electrodes even further onto the lateral or medial sides of the leg. 
   * If you are plugged into a wall outlet, go into the settings a check the box that says "60hz" to filter out electrical interference. 

@@ -52,7 +52,7 @@ There are multiple configurations using NPN transistors, but we will use the
 Why is it called a "common emitter amplifier?" - because the base is the
 input, the collector is the output, and the "common" or ground is the emitter.
 
-[ ![](./img/CommonEmitter.jpg)](img/CommonEmitter.jpg)
+[ ![](./img/CommonEmitter.jpg)](.img/CommonEmitter.jpg)
 
 Like any diligent engineer, let's start with the "requirements" which is a
 boring way to say_ "what we want this machine to actually do." For our bio-
@@ -106,7 +106,7 @@ You also need a small piece of cork or styrofoam to lay the cockroach leg on.
 Since we will be using a 9V battery, and our spikes have both a positive and
 negative component_
 
-[ ![](./img/SpikePosNeg.jpg)](img/SpikePosNeg.jpg)
+[ ![](./img/SpikePosNeg.jpg)](.img/SpikePosNeg.jpg)
 
 We want the neural signal to ride on top of +4.5 V, so we have enough voltage
 "room" to amplify both the negative and positive parts of the signal. Thus,
@@ -115,23 +115,23 @@ Vcc means "common current"" or more generally, our 9V power source). We thus
 need to put a resistor at Vc to set Vc = 1/2 Vcc, and we use Ohm's law V=IR,
 which we can rewrite as_
 
-[ ![](./img/RcCalc_1.jpg)](img/RcCalc_1.jpg)
+[ ![](./img/RcCalc_1.jpg)](.img/RcCalc_1.jpg)
 
 Ic is the current through the collector and function of the transistor (you
 use the [data
 sheet](https://edge.rit.edu/content/P12005/public/Part%20DataSheets/2N4401NPN.pdf)
 of the transistor to calculate it). We will use a value of 1 mA for Ic.
 
-[ ![](./img/RcCalc_2.jpg)](img/RcCalc_2.jpg)
+[ ![](./img/RcCalc_2.jpg)](.img/RcCalc_2.jpg)
 
 4.7 kΩ is a standard value from a resistor pack, so we will use 4.7 kΩ for Rc
 
-[ ![](./img/CommonEmitter2.jpg)](img/CommonEmitter2.jpg)
+[ ![](./img/CommonEmitter2.jpg)](.img/CommonEmitter2.jpg)
 
 The gain of our circuit as it stands at ΔVc/ΔVe which is equal to the ratio of
 Rc/Re.
 
-[ ![](./img/GainCalc0.jpg)](img/GainCalc0.jpg)
+[ ![](./img/GainCalc0.jpg)](.img/GainCalc0.jpg)
 
 We have already set Rc = 4.7 kΩ, and Re is already built into transistor. Its
 Re is called the transresistance, which is calculated as_
@@ -144,7 +144,7 @@ Ie is approximately the same as Ic, so the transresistance is thus 26 Ω.
 
 We can calculate the gain as thus_
 
-[ ![](./img/GainCalc1.jpg)](img/GainCalc1.jpg)
+[ ![](./img/GainCalc1.jpg)](.img/GainCalc1.jpg)
 
 However, the transresistance can be unstable in the transistor, so we need to
 add our own R in addition to the transresistance.
@@ -152,15 +152,15 @@ add our own R in addition to the transresistance.
 Edition/dp/0071771336/ref=dp_ob_title_bk) recommends a Ve of 1 V to stabilize
 the transresistance instability, so via Ohm's law_
 
-[ ![](./img/GainCalc3.jpg)](img/GainCalc3.jpg)
+[ ![](./img/GainCalc3.jpg)](.img/GainCalc3.jpg)
 
 But note that that adding this R to the circuit_
 
-[ ![](./img/RcRe_Known.jpg)](img/RcRe_Known.jpg)
+[ ![](./img/RcRe_Known.jpg)](.img/RcRe_Known.jpg)
 
 We will have a change in gain. The new gain is_
 
-[ ![](./img/GainCalc3.jpg)](img/GainCalc3.jpg)
+[ ![](./img/GainCalc3.jpg)](.img/GainCalc3.jpg)
 
 Oh no! Our original gain of 180 disappeared! And our gain is now much smaller
 than we need! But, have no fear, we can add a capacitor in parallel with the 1
@@ -172,17 +172,17 @@ signal. We want to add the capacitor anyway, as we need to make a_
 A resistor and capacitor in parallel act as high pass filters, and, as stated
 above, we want our high pass to 300 Hz. This is easy to calculate.
 
-[ ![](./img/HighPassCapacitor_1.jpg)](img/HighPassCapacitor_1.jpg)
+[ ![](./img/HighPassCapacitor_1.jpg)](.img/HighPassCapacitor_1.jpg)
 
 We already have R = 1 kΩ, and the f should be 300 Hz, so the capacitor is thus
 20 uF.
 
-[ ![](./img/HighPassCapacitor_2.jpg)](img/HighPassCapacitor_2.jpg)
+[ ![](./img/HighPassCapacitor_2.jpg)](.img/HighPassCapacitor_2.jpg)
 
 All that remains is the input capacitor to remove any DC offset on the input
 signal and keep our circuit stable. Let's just set it to 1 uF.
 
-[ ![](./img/CommonEmitter_CapsIN.jpg)](img/CommonEmitter_CapsIN.jpg)
+[ ![](./img/CommonEmitter_CapsIN.jpg)](.img/CommonEmitter_CapsIN.jpg)
 
 ##### Setting the Bias Voltages
 
@@ -191,36 +191,36 @@ theory](./transistorTheory) that the
 transistor will not switch on without a lower limit voltage push, and this is
 approximately 0.6 V for silicon-based circuits. We need to add bias resistors.
 
-[ ![](./img/NeedR1R2.jpg)](img/NeedR1R2.jpg)
+[ ![](./img/NeedR1R2.jpg)](.img/NeedR1R2.jpg)
 
 We want Vb, the voltage at the base, to be 0.6 V higher that the Voltage at
 Ve, so
 
-[ ![](./img/Vbase.jpg)](img/Vbase.jpg)
+[ ![](./img/Vbase.jpg)](.img/Vbase.jpg)
 
 We know Ve to be 1V due to the voltage drop calculated above, so Vb should be
 1.6V. We will make a voltage divider!
 
-[ ![](./img/VoltageDivider.jpg)](img/VoltageDivider.jpg)
+[ ![](./img/VoltageDivider.jpg)](.img/VoltageDivider.jpg)
 
 Our Vin is course 9V, and our Vout is 1.6 V, and we use the classic voltage
 divider equation_
 
-[ ![](./img/VoltageDividerEquation.jpg)](img/VoltageDividerEquation.jpg)
+[ ![](./img/VoltageDividerEquation.jpg)](.img/VoltageDividerEquation.jpg)
 
 We can rearrange the equation and calculate...
 
-[ ![](./img/R1vR2.jpg)](img/R1vR2.jpg)
+[ ![](./img/R1vR2.jpg)](.img/R1vR2.jpg)
 
 Thus, R1 needs to be ~4.6x larger than R2. Sounds simple enough, but, as a
 rule of thumb for this transistor design_
 
-[ ![](./img/minimumR1R2.jpg)](img/minimumR1R2.jpg)
+[ ![](./img/minimumR1R2.jpg)](.img/minimumR1R2.jpg)
 
 So, we'll just select R2 = 1 kΩ, and R1 = 4.7kΩ as values, since we are
 already using these resistor values and have them on hand.
 
-[ ![](./img/Finished1stage.jpg)](img/Finished1stage.jpg)
+[ ![](./img/Finished1stage.jpg)](.img/Finished1stage.jpg)
 
 And that's that! Now it's time to...
 
@@ -230,11 +230,11 @@ You've done the math, and now it's time to physically build your circuit. Put
 your battery, transistor, resistors, capacitors, and input/output components
 into place on your breadboard, as below_
 
-[ ![](./img/1StageBig.jpg)](img/1StageBig.jpg)
+[ ![](./img/1StageBig.jpg)](.img/1StageBig.jpg)
 
 A closer look at the circuit on the breadboard_
 
-[ ![](./img/1StageSmall.jpg)](img/1StageSmall.jpg)
+[ ![](./img/1StageSmall.jpg)](.img/1StageSmall.jpg)
 
 Insert the electrodes into a cockroach leg like you have done in [previous
 experiments](./spikerbox) and hook up
@@ -256,7 +256,7 @@ still make for louder spikes when you hook up up this circuit to your
 cockroach leg. See video below.
 
 You have now built your very own amplifier with transistors! Congratulations!
-[Let us know](mailto_info@backyardbrains.com) if you have figured out a way to
+[Let us know](mailto:info@backyardbrains.com) if you have figured out a way to
 make the circuit simpler, cleaner, and with more amplification.
 
 ## Discussion

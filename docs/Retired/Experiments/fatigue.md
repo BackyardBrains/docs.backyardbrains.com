@@ -30,7 +30,7 @@ in muscle cells and neural signals during fatigue.
 
 #### Equipment
 
-* [Muscle SpikerBox](/products/muscleSpikerboxBundle)
+* [Muscle SpikerBox](https://backyardbrains.com/products/muscleSpikerboxBundle)
 
 * [Dumbbell](http://en.wikipedia.org/wiki/Dumbbell)
 

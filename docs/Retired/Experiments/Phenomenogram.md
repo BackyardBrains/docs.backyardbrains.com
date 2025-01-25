@@ -189,7 +189,7 @@ communicating with other devices wirelessly with light.
 
 [ ![](./img/Output_csv_web.jpg)](img/Output_csv_web.jpg)
 
-  7. Now go and study your own bistabiliy or that of someone else! and [let us know](mailto_tim@backyardbrains.com) if you find something interesting lurking in the corners of your perception of reality. 
+  7. Now go and study your own bistabiliy or that of someone else! and [let us know](mailto:tim@backyardbrains.com) if you find something interesting lurking in the corners of your perception of reality. 
 
 [ ![](./img/Fenomenograma_sin_labels.jpg)](img/Fenomenograma_sin_labels.jpg)
 

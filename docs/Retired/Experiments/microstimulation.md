@@ -27,8 +27,8 @@ on the electrical excitability of cockroach nerves.
 
 ##### Equipment
 
-* [Stimulation Cable](/products/stimulationcable)
-* [Cockroaches](/products/cockroaches)
+* [Stimulation Cable](https://backyardbrains.com/products/stimulationcable)
+* [Cockroaches](https://backyardbrains.com/products/cockroaches)
 
 
 ## Background

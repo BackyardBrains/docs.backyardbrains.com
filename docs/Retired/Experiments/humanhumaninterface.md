@@ -27,7 +27,7 @@ contract the muscle of another human.
 
 ##### Equipment
 
-[Human-Human Interface](/products/HHI)
+[Human-Human Interface](https://backyardbrains.com/products/HHI)
 
 ## Background
 

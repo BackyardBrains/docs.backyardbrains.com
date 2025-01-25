@@ -280,7 +280,7 @@ Well said, Professor Galvani.
 * You can use this experiment to derive Ohm's law. Georg Ohm used Volta's battery and noticed when he added more cells to the battery, the brightness of the a lamp ("current") became larger. 
 * You can use a salt bridge (like Volta did with salty water cardboard) in place of an acid bridge (like we did with the potato). The electrochemistry is slightly different - see references below. 
 * Try fruits and vegetables of different acidity to see if that affects the power of your battery (sour apples vs normal apples, for example). 
-* If you look at electric potentials in your chemistry textbook, you will see that zinc has an electric potential of -0.8V, but aluminum has an electric potential of -1.6. We observe a voltage of 0.9V (close) in a zinc-copper battery, but only 0.5V in our aluminum-copper battery. The aluminum-copper battery should have a higher voltage! Why do we not observe this. We actually do not know. [Email us](mailto_tim@backyardbrains.com) if you have any insight 
+* If you look at electric potentials in your chemistry textbook, you will see that zinc has an electric potential of -0.8V, but aluminum has an electric potential of -1.6. We observe a voltage of 0.9V (close) in a zinc-copper battery, but only 0.5V in our aluminum-copper battery. The aluminum-copper battery should have a higher voltage! Why do we not observe this. We actually do not know. [Email us](mailto:tim@backyardbrains.com) if you have any insight 
 
 [ ![](./img/ElectricPotential.jpg)](img/ElectricPotential.jpg)
 

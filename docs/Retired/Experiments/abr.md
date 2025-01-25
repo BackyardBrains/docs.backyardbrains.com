@@ -167,7 +167,7 @@ experiment!
 ## Discussion
 
     1. Though our protocol is much more garagy, this is a legitimate test used in hospitals. What do you think are the differences between our equipment and protocol and that which a hospital uses? What do you think are the differences between FDA-certified medical devices and our simpler science instruments used for investigation. 
-    2. Making Backyard Brains versions of clinical neurophysiology tools is new to us. Do you have a request or a suggestion? E-mail us to [let us know!](mailto_tim@backyardbrains.com)! 
+    2. Making Backyard Brains versions of clinical neurophysiology tools is new to us. Do you have a request or a suggestion? E-mail us to [let us know!](mailto:tim@backyardbrains.com)! 
 
 ## Questions to Consider
 

@@ -27,7 +27,7 @@ electrophysiology and record the Action Potential of the Venus Flytrap.
 
 ##### Equipment
 
-* [Plant SpikerBox](/products/plantspikerbox)
+* [Plant SpikerBox](https://backyardbrains.com/products/plantspikerbox)
 * [Venus Flytrap](http://www.californiacarnivores.com/dionaeamuscipulab52smalldeluxepotted.aspx)
 
 ## Background

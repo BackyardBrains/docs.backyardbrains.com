@@ -36,9 +36,9 @@ rest and during contraction.
 
 ##### Equipment
 
-* [Muscle SpikerBox](/products/emgspikerbox)
-* [Cable: Laptop](/products/laptopcable) 
-* [Cable: Phone](/products/smartphonecable)
+* [Muscle SpikerBox](https://backyardbrains.com/products/emgspikerbox)
+* [Cable: Laptop](https://backyardbrains.com/products/laptopcable) 
+* [Cable: Phone](https://backyardbrains.com/products/smartphonecable)
 
 ## Background
 
@@ -95,7 +95,7 @@ muscle fibers within the bicep muscle.
 
   3. Place the reference electrode (Black) anywhere on the body. In the figure above we show it attached to a metal bracelet near the wrist. You can also use another surface electrode placed anywhere on the back of your hand (like in the movie above), or if you have any metal rings on your fingers, you can clip the reference electrode to your ring. 
   4. Turn on the Muscle SpikerBox and listen for changes in activity. Do you notice a difference when you flex your muscles?
-  5. Plug in your [SmartPhone Cable](https://backyardbrains.com/products/smartphonecable) (with our free [Android](https://play.google.com/store/apps/details?id=com.backyardbrains) or [iPhone](https://itunes.apple.com/gb/app/backyard-brains/id367151200?mt=8) apps installed) or computer (using our [Backyard Brains PC app](http://www.backyardbrains.com/experiments/files/Backyard_Brains_Neuron_Recorder_Install.air.zip) and a USB cable if you have the [Muscle SpikerBox Pro](https://backyardbrains.com/products/musclespikerboxpro)). Pick up something heavy. Do you see and hear a difference? The "Whoosh" is the sound of many action potentials occurring in your muscles as the muscles contract. You are listening to the conversation between your brain and muscle! 
+  5. Plug in your [SmartPhone Cable](https://backyardbrains.com/products/smartphonecable) (with our free [Android](https://play.google.com/store/apps/details?id=com.backyardbrains) or [iPhone](https://itunes.apple.com/gb/app/backyard-brains/id367151200?mt=8) apps installed) or computer (using our [Backyard Brains PC app](http://www.backyardbrains.com/./files/Backyard_Brains_Neuron_Recorder_Install.air.zip) and a USB cable if you have the [Muscle SpikerBox Pro](https://backyardbrains.com/products/musclespikerboxpro)). Pick up something heavy. Do you see and hear a difference? The "Whoosh" is the sound of many action potentials occurring in your muscles as the muscles contract. You are listening to the conversation between your brain and muscle! 
 
 [ ![](./img/EMG-iPhone.png)](img/EMG-iPhone.png)
 

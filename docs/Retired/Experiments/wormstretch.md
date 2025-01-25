@@ -178,7 +178,7 @@ experiments, as shown above in the video._
 
 [ ![](./img/TableNerveStretch.jpg)](img/TableNerveStretch.jpg)
 
-  4. Statistically test your results (see our [intro to p-values](https://backyardbrains.com/experiments/p-value) writeup for how to do this. You may notice that while the time delay ("segments per second") change is statistically significant, the conduction velocity ("meters per second") is not. Strange and interesting, why is such so? [E-mail us](mailto_tim@backyardbrains.com)if you think you have the answer 
+  4. Statistically test your results (see our [intro to p-values](https://backyardbrains.com/experiments/p-value) writeup for how to do this. You may notice that while the time delay ("segments per second") change is statistically significant, the conduction velocity ("meters per second") is not. Strange and interesting, why is such so? [E-mail us](mailto:tim@backyardbrains.com)if you think you have the answer 
 
 ## Discussion
 

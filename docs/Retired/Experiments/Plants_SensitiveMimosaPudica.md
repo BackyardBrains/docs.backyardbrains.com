@@ -184,7 +184,7 @@ years, and below we summarize our efforts to ensure generation. A surprise to
 us was our observation that the Mimosas have [very deep
 roots](img/Mimosa_Roots_web.jpg), notable while the seedlings are still small.
 We present our growing recommendations, and [let us
-know](mailto_tim@backyardbrains.com) if you have any insider tips.
+know](mailto:tim@backyardbrains.com) if you have any insider tips.
 
   1. The seeds are fairly easy to obtain, you can purchase them on [Amazon](https://www.amazon.com/Package-Sensitive-Compact-Seed-Needs/dp/B00323LXCG/ref=sr_1_1?ie=UTF8&qid=1448571799&sr=8-1&keywords=Mimosa+seeds), but the germination rate is not high. We have only observed that only 10-20% of the seeds will germinate, and of, these, only 1/3 will survive the seedling phase. 
   2. With a pair of pliers, lightly compress a seed to cause the hard outer shell to "crack." This will allow water to diffuse into the seed more readily and cause germination. 

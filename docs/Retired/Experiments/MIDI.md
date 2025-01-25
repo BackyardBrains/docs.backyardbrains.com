@@ -153,7 +153,7 @@ flow!
   7. Now it is time to place the electrodes. We have 6 pairs of electrodes plus a ground for a total of 13 electrodes. We often put the pairs on both the hands near the thumb, on the biceps, and on the calves. The ground we place on the back of one of the hands. This is the Pablo Pardo system, an electrode configuration designed for our previous [Muscle SpikerShield Pro](https://backyardbrains.com/experiments/spikershieldpro) experiment. 
   8. Hook up the electrode cables to the electrodes (using video above as reference), and power on the Muscle SpikerShield Pro with a battery or the USB cable port. 
   9. Now it is time to dive in and make your body a musical instrument. Turn the synthesizer on, hit instrument play on the Roland T-8 or your personal synthesizer, and you are ready to begin writing music with your muscle contraction. 
-  10. The code can certainly be optimized, and you can see the commented version below. Feel to modify! [Let us know](mailto_tim@backyardbrains.com) if you discover or compose something. Happy creating! 
+  10. The code can certainly be optimized, and you can see the commented version below. Feel to modify! [Let us know](mailto:tim@backyardbrains.com) if you discover or compose something. Happy creating! 
 
     
 ```cpp

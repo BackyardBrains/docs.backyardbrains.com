@@ -20,7 +20,7 @@ posture and smooth, controlled movements.
 
 #### What will you learn?
 
-Get started with the [Muscle SpikerBox Pro](/products/emgTwoChannelSpikerbox)
+Get started with the [Muscle SpikerBox Pro](https://backyardbrains.com/products/emgTwoChannelSpikerbox)
 and learn about the relationships between different pairs of muscles in your
 body. This will give you an understanding of the difference between agonist
 muscles (cause movement by contracting) and antagonist muscles (opposes a
@@ -34,8 +34,8 @@ between flexor and extensor muscles.
 
 ##### Equipment
 
-* [Muscle SpikerBox Pro and Included Cables](/products/MuscleSpikerBoxPro)
-* [BYB Spike Recorder](/products/spikerecorder)
+* [Muscle SpikerBox Pro and Included Cables](https://backyardbrains.com/products/MuscleSpikerBoxPro)
+* [BYB Spike Recorder](https://backyardbrains.com/products/spikerecorder)
 
 ## Background
 

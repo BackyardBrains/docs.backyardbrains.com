@@ -25,7 +25,7 @@ and listen to the contractions of your heart.
 
 ##### Equipment
 
-* [Heart & Brain SpikerBox](/products/heartAndBrainSpikerBox)
+* [Heart & Brain SpikerBox](https://backyardbrains.com/products/heartAndBrainSpikerBox)
 
 
 ## Background

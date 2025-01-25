@@ -29,8 +29,8 @@ the principle of rate coding, and how to record spikes using a SpikerBox!
 
 ##### Equipment
 
-* [Neuron SpikerBox](/products/neuronspikerboxpro)
-* [Cockroaches](/products/cockroaches)
+* [Neuron SpikerBox](https://backyardbrains.com/products/neuronspikerboxpro)
+* [Cockroaches](https://backyardbrains.com/products/cockroaches)
 
 
 ## Introduction

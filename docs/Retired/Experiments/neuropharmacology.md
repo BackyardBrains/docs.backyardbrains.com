@@ -28,8 +28,8 @@ how to create a few different chemical solutions.
 
 ##### Equipment
 
-* [SpikerBox](/products/spikerbox)
-* [Cable: Laptop](/products/laptopcable) [Phone](/products/smartphonecable)
+* [SpikerBox](https://backyardbrains.com/products/spikerbox)
+* [Cable: Laptop](https://backyardbrains.com/products/laptopcable) [Phone](https://backyardbrains.com/products/smartphonecable)
 
 ## Background
 

@@ -33,9 +33,9 @@ microstimulation.
 
 ##### Equipment
 
-* [RoboRoach](/products/roboroach)
-* [RoboRoach Surgery Kit](/products/roboroachSurgeryKit)
-* [Cockroaches](/products/cockroaches)
+* [RoboRoach](https://backyardbrains.com/products/roboroach)
+* [RoboRoach Surgery Kit](https://backyardbrains.com/products/roboroachSurgeryKit)
+* [Cockroaches](https://backyardbrains.com/products/cockroaches)
 
 ## Background
 
@@ -130,7 +130,7 @@ Unless you name is Gregor Samsa, your central nervous system looks like the
 one on the left.
 
 #### But how does it
-work[?!](https://backyardbrains.com/experiments/files/ButHowDoesItWorkQ.wma)
+work[?!](https://backyardbrains.com/./files/ButHowDoesItWorkQ.wma)
 
 Cockroaches have two antennae on their anterior end. These antennae assist to
 guide the cockroaches through the world by sensing touch (as small as moving
@@ -211,9 +211,9 @@ our [ethics guideline and discussion](https://backyardbrains.com/about/ethics)
 #### What you'll need:
 
   * The "RoboRoach Surgery Procedure" (below). This is also available as a(n):
-    1. Downloadable [PDF](https://backyardbrains.com/experiments/files/RoboRoachExperiment-NeuralInterfaceSurgery.pdf).
+    1. Downloadable [PDF](https://backyardbrains.com/./files/RoboRoachExperiment-NeuralInterfaceSurgery.pdf).
     2. Instructional [video](https://www.youtube.com/watch?v=EsrorUT_Svc).
-  * A printed ["RoboRoach Surgery Worksheet"](https://backyardbrains.com/experiments/files/RoboRoach Surgery Worksheet.pdf)
+  * A printed ["RoboRoach Surgery Worksheet"](https://backyardbrains.com/./files/RoboRoach Surgery Worksheet.pdf)
   * Your brain, some patience, and a deft hand
   * Approximately 1 hour of your time
   * [“RoboRoach Surgery Kit”](https://backyardbrains.com/products/roboRoachSurgeryKit)
@@ -247,7 +247,7 @@ Choose your cockroach. Document!
 Lay out all the necessary supplies and tools listed above. Plug in your hot
 glue gun and if it has a temperature setting, set it to low. Fill in the
 initial information on your Surgery Setup Record, page 1 of the [RoboRoach
-Surgery Worksheet](https://backyardbrains.com/experiments/files/RoboRoach
+Surgery Worksheet](https://backyardbrains.com/./files/RoboRoach
 Surgery Worksheet.pdf).
 
 ![](./img/rrSurgeryTable.jpg)
@@ -448,7 +448,7 @@ cockroach will be ready for the experiment by the following morning.
 water! Clean your surgery table and tools. Always remember to wash your hands!
 
 7.3) Fill out the Post-Op Review Record, page 3 of the [RoboRoach Surgery
-Worksheet](https://backyardbrains.com/experiments/files/RoboRoach Surgery
+Worksheet](https://backyardbrains.com/./files/RoboRoach Surgery
 Worksheet.pdf).
 
 #### [Step 8](http://youtu.be/EsrorUT_Svc?t=12m34s): Testing your RoboRoach

@@ -27,10 +27,10 @@ one to measure neural activity when using the SpikerBox.
 
 ##### Equipment
 
-* [SpikerBox](/products/spikerbox)
-* [Cable: Laptop](/products/laptopcable)
-* [Cable: Phone](/products/smartphonecable)
-* [Cockroaches](/products/cockroaches)
+* [SpikerBox](https://backyardbrains.com/products/spikerbox)
+* [Cable: Laptop](https://backyardbrains.com/products/laptopcable)
+* [Cable: Phone](https://backyardbrains.com/products/smartphonecable)
+* [Cockroaches](https://backyardbrains.com/products/cockroaches)
 
 
 ## Background
@@ -161,7 +161,7 @@ That's it!
 
 What do you notice? Can you provide an explanation for the difference? Here is
 a [classic cockroach leg neuroanatomy
-paper](http://www.backyardbrains.com/experiments/files/Nijenhuis_Dresden1954_cockroach_neuroanatomy.pdf)
+paper](http://www.backyardbrains.com/./files/Nijenhuis_Dresden1954_cockroach_neuroanatomy.pdf)
 from 1954 that can help.
 
 ## Discussion Questions

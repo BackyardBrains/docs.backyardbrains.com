@@ -1,6 +1,6 @@
 ---
 id: experiment__the_leeuwenhoek_microscope_and_the_beginning_of_our_view_into_the_small
-title: "Experiment_ The Leeuwenhoek Microscope and the Beginning of Our View into the Small"
+title: "Experiment: The Leeuwenhoek Microscope and the Beginning of Our View into the Small"
 slug: /retired/experiments/the_leeuwenhoek_microscope_and_the_beginning_of_our_view_into_the_small
 ---
 
@@ -31,7 +31,7 @@ magnifying lens, but a ball of diamond does not.
 
 [Leeuwenhoek Replica Kit](/products/LeeuwenScope)
 
-[Onion](https_//en.wikipedia.org/wiki/Onion)
+[Onion](https://en.wikipedia.org/wiki/Onion)
 
 * * *
 
@@ -42,7 +42,7 @@ In grade school you are taught that your body is composed of individual
 almost all the parts of your body are made up of the trillions of cells that
 are you. Perhaps you have even seen some examples of these cells from our
 [previous Backyard Brains
-experiments](https_//backyardbrains.com/experiments/RoachScopeHighPower) or
+experiments](https://backyardbrains.com/experiments/RoachScopeHighPower) or
 experiments in your school. You may have also heard from your loved ones to
 wash your hands because of indivisible little things called "germs." The
 existence of cells and microscopic life is common knowledge as it should be.
@@ -65,7 +65,7 @@ called "cells," after their appearance to the cells of bee honeycombs.
 [ ![](./img/Hooke_with_cork_web.jpg)](img/Hooke_with_cork_web.jpg)
 
 Robert Hooke was an excellent inventor and polymath. He is indeed the Hooke of
-["Hooke's Law"](https_//en.wikipedia.org/wiki/Hooke%27s_law) concerning the
+["Hooke's Law"](https://en.wikipedia.org/wiki/Hooke%27s_law) concerning the
 force on springs, and he did important work along with Galileo and Huygens
 verifying the rings of Saturn. As far as we know, he moved on to other
 investigations after he published Micrografia and did not turn to further
@@ -187,7 +187,7 @@ focused, as the focus plane is _actually inside the lens_. Normal soda-lima
 glass has an index of refraction of 1.5, so the focal plane is outside the
 lens - Lucky for Leeuwenhoek! But how do we calculate the magnification of a
 ball lens? We use an equation based on the [general lens
-equation](https_//en.wikipedia.org/wiki/Thin_lens)_
+equation](https://en.wikipedia.org/wiki/Thin_lens)_
 
 [ ![](./img/Equation_Magnification.jpg)](img/Equation_Magnification.jpg)
 
@@ -224,12 +224,12 @@ basic form, you will need_
 
 **How to build the basic LeeuwenScope**
 
-  1. A high temperature flame - it can be a [camping torch](https_//www.amazon.com/Etekcity-Ultralight-Portable-Backpacking-Ignition/dp/B00B4FY8YO/ref=pd_bxgy_468_img_2?_encoding=UTF8&psc=1&refRID=2685X0QM77XANZYY5KQ3) or a [crème broûlèe torch.](https_//www.amazon.com/Culinary-Torch-Brulee-Kitchen-Cooking/dp/B013MQ0ELS)
-  2. Solid Glass Filament, we use [McMaster-Carr borosilicate glass filament](https_//www.mcmaster.com/#8496k1/=19wzfco) but you can try with your own different glass filament, such as crystal glass (higher index of refraction, lower melting point) or soda lime glass (same index of refraction, lower melting point, more susceptible to fracture). 
-  3. Basic Metal Probe tools - we have found [dental picks](https_//www.amazon.com/Moody-Tools-55-1292-Anodized-Precision/dp/B001VXUI3O/ref=sr_1_3?ie=UTF8&qid=1508638501&sr=8-3&keywords=dental+straight+pick) work the best. 
-  4. Basic [Needle Noise Pliers](https_//www.amazon.com/Stanley-84-101-Basic-Cutting-Plier/dp/B000B8FRQ8/ref=sr_1_3?s=hi&ie=UTF8&qid=1508639033&sr=1-3&keywords=stanley+needle+nose+pliers), forceps, or a [jewelry toolset](https_//www.amazon.com/Wisehands-Professional-Jewelry-Crafting-Storage/dp/B01N1RV9HZ/ref=sr_1_1_sspa?s=power-hand-tools&ie=UTF8&qid=1508638759&sr=1-1-spons&keywords=jewelry+pliers&psc=1). 
-  5. [Support](https_//backyardbrains.com/products/files/2mm_1mm_diameter_holes_2x.stl.zip) for the sphere lens 
-  6. [Plain Glass Slide](https_//www.amazon.com/AmScope-BS-72P-100S-22-Pre-Cleaned-Microscope-Coverslips/dp/B00L1S93PS/ref=sr_1_1?ie=UTF8&qid=1510109128&sr=8-1&keywords=glass+slide+microscopy)
+  1. A high temperature flame - it can be a [camping torch](https://www.amazon.com/Etekcity-Ultralight-Portable-Backpacking-Ignition/dp/B00B4FY8YO/ref=pd_bxgy_468_img_2?_encoding=UTF8&psc=1&refRID=2685X0QM77XANZYY5KQ3) or a [crème broûlèe torch.](https://www.amazon.com/Culinary-Torch-Brulee-Kitchen-Cooking/dp/B013MQ0ELS)
+  2. Solid Glass Filament, we use [McMaster-Carr borosilicate glass filament](https://www.mcmaster.com/#8496k1/=19wzfco) but you can try with your own different glass filament, such as crystal glass (higher index of refraction, lower melting point) or soda lime glass (same index of refraction, lower melting point, more susceptible to fracture). 
+  3. Basic Metal Probe tools - we have found [dental picks](https://www.amazon.com/Moody-Tools-55-1292-Anodized-Precision/dp/B001VXUI3O/ref=sr_1_3?ie=UTF8&qid=1508638501&sr=8-3&keywords=dental+straight+pick) work the best. 
+  4. Basic [Needle Noise Pliers](https://www.amazon.com/Stanley-84-101-Basic-Cutting-Plier/dp/B000B8FRQ8/ref=sr_1_3?s=hi&ie=UTF8&qid=1508639033&sr=1-3&keywords=stanley+needle+nose+pliers), forceps, or a [jewelry toolset](https://www.amazon.com/Wisehands-Professional-Jewelry-Crafting-Storage/dp/B01N1RV9HZ/ref=sr_1_1_sspa?s=power-hand-tools&ie=UTF8&qid=1508638759&sr=1-1-spons&keywords=jewelry+pliers&psc=1). 
+  5. [Support](https://backyardbrains.com/products/files/2mm_1mm_diameter_holes_2x.stl.zip) for the sphere lens 
+  6. [Plain Glass Slide](https://www.amazon.com/AmScope-BS-72P-100S-22-Pre-Cleaned-Microscope-Coverslips/dp/B00L1S93PS/ref=sr_1_1?ie=UTF8&qid=1510109128&sr=8-1&keywords=glass+slide+microscopy)
   7. Onion 
 
 **How to Fabricate the Ball Lens**
@@ -260,7 +260,7 @@ basic form, you will need_
 
 **Using the Leeuwenscope**
 
-  1. With our LeeuwenScope that you can [buy](https_//backyardbrains.com/products/LeeuwenScope) or [build,](https_//backyardbrains.com/products/files/LeeuwenScope_Building_Instructions.pdf) place your plastic holder with its ball lens in the support stand on the LeeuwenScope. 
+  1. With our LeeuwenScope that you can [buy](https://backyardbrains.com/products/LeeuwenScope) or [build,](https://backyardbrains.com/products/files/LeeuwenScope_Building_Instructions.pdf) place your plastic holder with its ball lens in the support stand on the LeeuwenScope. 
   2. Turn LED light on. 
   3. Place your smartphone over the lens. 
   4. Focus sample by turning the focus knobs. The depth of field is very narrow on ball lenses. 
@@ -268,7 +268,7 @@ basic form, you will need_
   6. Now find some pond water and see what Leeuwenhoek also saw! The greener the water, the better, and if there is plant debris is the water sample, even more so! 
 
 How is the quality of your ball lens compared to our industry ball lens and
-our [RoachScope](https_//backyardbrains.com/products/roachscope)? See image
+our [RoachScope](https://backyardbrains.com/products/roachscope)? See image
 comparison below.
 
 [ ![](./img/Magnification_Compare.jpg)](img/Magnification_Compare.jpg)
@@ -277,31 +277,31 @@ Happy exploring the previously invisible worlds!
 
 ## Notes
 
-* You can see the microscope that Robert Hooke used for his studies at the National Museum of Health and Medicine in Washington, D.C. as part of an exhibition - [The Evolution of the Microscope](http_//www.medicalmuseum.mil/?p=collections.historical.index). Scans of Hooke's gorgeously drawn book are [available online](https_//www.nlm.nih.gov/exhibition/historicalanatomies/hooke_home.html). 
-* Leeuwenhoek's microscope are rare (only [11 verified microscopes survive to date](https_//lensonleeuwenhoek.net/content/what-happened-microscopes)), and most museum exhibitions only show replicas. But...if you want to see original Leeuwenhoek microscopes, your road leads to the [Boerhaave Museum](https_//rijksmuseumboerhaave.nl/) in Leiden, the Netherlands. We have heard rumors that another is stored at the [Delft University of Technology](https_//www.tudelft.nl/en/).
-* Scans of Leeuwenhoek's letters to the Royal Society are [available online](http_//lensonleeuwenhoek.net/content/letters). 
+* You can see the microscope that Robert Hooke used for his studies at the National Museum of Health and Medicine in Washington, D.C. as part of an exhibition - [The Evolution of the Microscope](https://www.medicalmuseum.mil/?p=collections.historical.index). Scans of Hooke's gorgeously drawn book are [available online](https://www.nlm.nih.gov/exhibition/historicalanatomies/hooke_home.html). 
+* Leeuwenhoek's microscope are rare (only [11 verified microscopes survive to date](https://lensonleeuwenhoek.net/content/what-happened-microscopes)), and most museum exhibitions only show replicas. But...if you want to see original Leeuwenhoek microscopes, your road leads to the [Boerhaave Museum](https://rijksmuseumboerhaave.nl/) in Leiden, the Netherlands. We have heard rumors that another is stored at the [Delft University of Technology](https://www.tudelft.nl/en/).
+* Scans of Leeuwenhoek's letters to the Royal Society are [available online](https://lensonleeuwenhoek.net/content/letters). 
 * If you want to visit the resting places of the scientists mentioned here, Antonie van Leeuwenhoek is buried at the "Oude Kerk" (Old Church) in the small town of Delft. Willebrord Snellius is buried at the Pieterskerk church in Leiden. The resting places of Robert Hooke and Ibn Sahl, to our knowledge, are unknown and have been lost to history. 
 * The compound microscope that Hooke used should have been good enough to see at least unicellular organisms. Perhaps he never looked a pond water as Leeuwenhoek had? Or perhaps the optical quality was not high enough? We will not know short of looking ourselves at pond water with Hooke's microscope (we are trying to obtain permission....) 
-* The recent re-make of Cosmos, hosted by Neil Dygrass Tyson, has an episode talking about Ibn al-Haytham's work, who was a contemporary of Ibn Sahl. Go to time mark 8_20 of episode 5 "Hiding in the Light" (available on [Netflix](https_//www.netflix.com/watch/80004601?trackId=14170286&tctx=1%2C2%2C420bd144-2237-4699-a228-bb435a4529b8-61876731) and [iTunes](https_//itunes.apple.com/us/tv-season/hiding-in-the-light/id888781083?i=889287736)).
+* The recent re-make of Cosmos, hosted by Neil Dygrass Tyson, has an episode talking about Ibn al-Haytham's work, who was a contemporary of Ibn Sahl. Go to time mark 8_20 of episode 5 "Hiding in the Light" (available on [Netflix](https://www.netflix.com/watch/80004601?trackId=14170286&tctx=1%2C2%2C420bd144-2237-4699-a228-bb435a4529b8-61876731) and [iTunes](https://itunes.apple.com/us/tv-season/hiding-in-the-light/id888781083?i=889287736)).
 * If you want to dive into the original text and understand how Ibn Sahl derived the "Sahl's Law" (Snell's Law), you can read [French scholar Roshdi Rashed's](files/Rashed_1990_Ibn_Sahl.pdf) extensive examination of Ibn Sahl's original Arabic text.
-* Paul de Kruif's famous 1926 book [The Microbe Hunters](https_//www.amazon.com/Microbe-Hunters-Paul-Kruif/dp/0156002620/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=RGGVWSR9BJ75R641QAHK) has an excellent early chapter on Leeuwenhoek. Unfortunately the later chapters on 19th century disease science propagate racial stereotypes of the epoch. 
+* Paul de Kruif's famous 1926 book [The Microbe Hunters](https://www.amazon.com/Microbe-Hunters-Paul-Kruif/dp/0156002620/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=RGGVWSR9BJ75R641QAHK) has an excellent early chapter on Leeuwenhoek. Unfortunately the later chapters on 19th century disease science propagate racial stereotypes of the epoch. 
 * It is easier to make microscopes out of glass than out of mirrors, and it is easier to make telescopes out of mirrors than glass. Why is this? Think about the sizes and weights involved. 
 * It is interesting to think that light travels 2.6x less when it is traveling through diamond, with its index of refraction of 2.6. Could we imagine a material with an infinite index of refraction? A Black Hole? Can we imagine a science fiction world with indices of refraction less than 1, or, gasp, less than zero? 
 * How Leeuwenhoek built his microscope is still unknown and only hypothesized as he never revealed his techniques, typical of scientists of his day (as Galileo also never revealed how he built his telescopes). They were not very open-source, but we try.
 
 ## Science Fair / Research Project Ideas
 
-* Why did it take until the enlightenment for Europe to invent the microscope and telescope? A historical examination into the development of glass shaping techniques would be a valuable endeavor. The Venetians made advancements in shaping glass and mirrors in the 1300s-1400s, which they [militantly kept a trade secret](https_//en.wikipedia.org/wiki/Hall_of_Mirrors). Glass had been manipulated since antiquity (Romans), but it appears glass clear enough to be used as corrective eyeglasses [occurred in the 1300s in Italy](https_//en.wikipedia.org/wiki/Glasses). The first European telescopes were invented in Holland in 1608 by [Hans Lippershey](https_//en.wikipedia.org/wiki/Hans_Lippershey). Why you think it took so long between eye glasses and telescopes? If you can make eye glasses, you are almost there.....Our hypothesis is that truly "clear" glass was [difficult to manufacture](https_//en.wikipedia.org/wiki/George_Ravenscroft) until the 17th century, and optic theory was still not understood well. 
+* Why did it take until the enlightenment for Europe to invent the microscope and telescope? A historical examination into the development of glass shaping techniques would be a valuable endeavor. The Venetians made advancements in shaping glass and mirrors in the 1300s-1400s, which they [militantly kept a trade secret](https://en.wikipedia.org/wiki/Hall_of_Mirrors). Glass had been manipulated since antiquity (Romans), but it appears glass clear enough to be used as corrective eyeglasses [occurred in the 1300s in Italy](https://en.wikipedia.org/wiki/Glasses). The first European telescopes were invented in Holland in 1608 by [Hans Lippershey](https://en.wikipedia.org/wiki/Hans_Lippershey). Why you think it took so long between eye glasses and telescopes? If you can make eye glasses, you are almost there.....Our hypothesis is that truly "clear" glass was [difficult to manufacture](https://en.wikipedia.org/wiki/George_Ravenscroft) until the 17th century, and optic theory was still not understood well. 
 
 ## Acknowledgements
 
-* This project was developed in collaboration with biologist Daniela Flores of the Chilean science outreach group [MicroMundo](http_//micromundo.microscopiavirtual.cl/). 
+* This project was developed in collaboration with biologist Daniela Flores of the Chilean science outreach group [MicroMundo](https://micromundo.microscopiavirtual.cl/). 
 
 ##  References
 
-* John N. Davis. 2007. [Measuring the magnification of homemade simple microscope lenses](http_//www.microscopy-uk.org.uk/mag/indexmag.html?http_//www.microscopy-uk.org.uk/mag/artoct07/jd-lens.html). Micscape magazine. 
+* John N. Davis. 2007. [Measuring the magnification of homemade simple microscope lenses](https://www.microscopy-uk.org.uk/mag/indexmag.html?https://www.microscopy-uk.org.uk/mag/artoct07/jd-lens.html). Micscape magazine. 
 * Howard Gest. 2004. [The discovery of microorganisms by Robert Hooke and Antoni Van Leeuwenhoek, fellows of the royal society.](/experiments/files/2004_Gest_The discovery_of_microorganisms.pdf) Notes Rec. R. Soc. Lond. 58 (2), 187–201 
-* Edmund Optics. [ Understanding Ball Lenses](https_//www.edmundoptics.com/resources/application-notes/optics/understanding-ball-lenses/). 
+* Edmund Optics. [ Understanding Ball Lenses](https://www.edmundoptics.com/resources/application-notes/optics/understanding-ball-lenses/). 
 * Roshdi Rashed. 1990. [A pioneer in anaclastics_ Ibn Sahl on burning mirrors and lenses.](files/Rashed_1990_Ibn_Sahl.pdf) Isis, Vol. 81, No. 3. pp. 464-491. 
 * Lesley Robertson. 2015. [van Leeuwenhoek microscopes—where are they now? ](/experiments/files/2015-Robertson_Where_are_microscopes_Leeuwenhoek.pdf)FEMS Microbiology Letters, 362, 2015, fnv056. 
 * Maria Rooseboom. 1939. [Concerning the optical qualities of some microscopes made by leeuwenhoek.](/experiments/files/1939_Maria_Rooseboom_Concerning_the_optical_qualities_ leeuwenhoek.pdf) Journal of Microscopy. Vol 59,3, Pgs 177–183. 
@@ -311,9 +311,9 @@ Happy exploring the previously invisible worlds!
 
 #### Recent Posts
 
-  * [ It's The Backyard Brains 10-Year Anniversary!](http_//blog.backyardbrains.com/?p=4906)
-  * [ Cincinnati Neuroscience Outreach by BYB Alumna](http_//blog.backyardbrains.com/?p=4870)
-  * [ First Place at Science Fair for Student using BYB Gear](http_//blog.backyardbrains.com/?p=4861)
+  * [ It's The Backyard Brains 10-Year Anniversary!](https://blog.backyardbrains.com/?p=4906)
+  * [ Cincinnati Neuroscience Outreach by BYB Alumna](https://blog.backyardbrains.com/?p=4870)
+  * [ First Place at Science Fair for Student using BYB Gear](https://blog.backyardbrains.com/?p=4861)
 
 #### BYB Information
 
@@ -325,4 +325,4 @@ Happy exploring the previously invisible worlds!
 
 * * *
 
-Copyright © 2009-2017 [ Backyard Brains](http_//backyardbrains.com) | Protected under the Creative Common License [ ](http_//creativecommons.org/licenses/)[](http_//creativecommons.org/licenses/by-sa/3.0/)
+Copyright © 2009-2017 [ Backyard Brains](https://backyardbrains.com) | Protected under the Creative Common License [ ](https://creativecommons.org/licenses/)[](https://creativecommons.org/licenses/by-sa/3.0/)

@@ -1,6 +1,6 @@
 ---
 id: experiment__the_consciousness_detector_-_eeg,_oddball_task,_and_p300
-title: "Experiment_ The Consciousness Detector - EEG, Oddball Task, and P300"
+title: "Experiment: The Consciousness Detector - EEG, Oddball Task, and P300"
 slug: /retired/experiments/the_consciousness_detector_-_eeg,_oddball_task,_and_p300
 ---
 
@@ -86,7 +86,7 @@ parietal lobe.
 
 One of the most fascinating applications of the auditory p300 is to examine
 the brain activity of comatose patients. [Some evidence
-shows](http_//www.neurology.org/content/82/10_Supplement/P1.281) that if you
+shows](https://www.neurology.org/content/82/10_Supplement/P1.281) that if you
 perform this experiment on an individual in a coma and see a variant of the
 p300 signal in their EEG, it is a strong indicator that they might be able to
 be brought out of the coma. Hence why we name this experiment the
@@ -108,8 +108,8 @@ versus when we hypothesize it should not.
 #### Downloads
 
 > Before you begin, make sure you have the [Backyard Brains Spike
-> Recorder](https_//backyardbrains.com/products/spikerecorder) and
-> [Arduino](http_//arduino.cc/en/main/software#.Uxd6XYWhZMk) Programs
+> Recorder](https://backyardbrains.com/products/spikerecorder) and
+> [Arduino](https://arduino.cc/en/main/software#.Uxd6XYWhZMk) Programs
 > installed on your computer. The Arduino "Sketch" is what you install on your
 > Arduino circuit board using the Arduino laptop software (your board comes
 > preinstalled if you bought the Arduino from us), and Backyard Brains Spike
@@ -117,20 +117,20 @@ versus when we hypothesize it should not.
 > when doing experiments. You should be familiar with this from your
 > experience finding alpha waves. For now, analyzing the data your collect
 > requires
-> [Matlab](http_//www.mathworks.com/academia/student_version/?s_tid=main_sv_ML_tb),
+> [Matlab](https://www.mathworks.com/academia/student_version/?s_tid=main_sv_ML_tb),
 > which is typically available on university engineering library computers.
 >
 > [Spike Recorder Computer
-> Software](https_//backyardbrains.com/products/spikerecorder)
+> Software](https://backyardbrains.com/products/spikerecorder)
 >
 > [EEG Arduino
-> code](https_//backyardbrains.com/experiments/files/SpikeRecorderArduino.zip)
+> code](https://backyardbrains.com/experiments/files/SpikeRecorderArduino.zip)
 >
 > [Buzzer Arduino
-> code](https_//backyardbrains.com/experiments/files/Buzzer_with_delay.zip)
+> code](https://backyardbrains.com/experiments/files/Buzzer_with_delay.zip)
 >
 > [Matlab
-> Scripts](https_//backyardbrains.com/experiments/files/MatlabFiles.zip)
+> Scripts](https://backyardbrains.com/experiments/files/MatlabFiles.zip)
 
 ## Tutorial Video of Experiment
 
@@ -147,7 +147,7 @@ stimulus among a series of standard stimuli.
 
 **Device Setup**
 
-  1. Two Arduinos will be used for this experiment. The Arduino equipped with the Heart & Brain SpikerShield will be referred to as "Brainduino", and the additional Arduino , which controls the buzzers generating sound, will be called the "Buzzduino". Download the standard [ Heart & Brain code](https_//backyardbrains.com/experiments/files/SpikeRecorderArduino.zip) onto the Brainduino and the [Buzzer Arduino code](https_//backyardbrains.com/experiments/files/Buzzer_with_delay.zip) to the Buzzduino. Note_ Our Heart & Brain SpikerShield comes with the SpikeRecorder Drivers already loaded, so unless you are hacking your own code you do not have to worry about the code on the Heart & Brain SpikerShield. 
+  1. Two Arduinos will be used for this experiment. The Arduino equipped with the Heart & Brain SpikerShield will be referred to as "Brainduino", and the additional Arduino , which controls the buzzers generating sound, will be called the "Buzzduino". Download the standard [ Heart & Brain code](https://backyardbrains.com/experiments/files/SpikeRecorderArduino.zip) onto the Brainduino and the [Buzzer Arduino code](https://backyardbrains.com/experiments/files/Buzzer_with_delay.zip) to the Buzzduino. Note_ Our Heart & Brain SpikerShield comes with the SpikeRecorder Drivers already loaded, so unless you are hacking your own code you do not have to worry about the code on the Heart & Brain SpikerShield. 
   2. Wire up two small speakers to your Brainduino and Buzzduino as shown below. The tones come out of Digital Out 8 and 9 on the BuzzDuino and go to the Speakers as well as Analog input 1 and 2 on the Brainduino. Grounds are shared. Replicate the setup per the circuit diagram photo and schematic. 
 
 [ ![](./img/P300-photoschematic_web.jpg)](img/P300-photoschematic_web.jpg)
@@ -186,7 +186,7 @@ Here is a circuit diagram showing the connections to be made_
 
 **Analysis**
 
-  1. Open Matlab and upload the data file recorded from the Spike Recorder app. Run the [Matlab script](https_//backyardbrains.com/experiments/files/MatlabFiles.zip) by typing "runP300" in the command window and pressing "Enter" if on PC or "Return" if on Mac. 
+  1. Open Matlab and upload the data file recorded from the Spike Recorder app. Run the [Matlab script](https://backyardbrains.com/experiments/files/MatlabFiles.zip) by typing "runP300" in the command window and pressing "Enter" if on PC or "Return" if on Mac. 
   2. The prompt will ask for the name of the file. Write it in single quotes. As in_ 'nameoffile.wav' 
     1. Three figures will then be generated. 
     2. Each gray line in this figure shows one second of the EEG recording surrounding each standard tone onset in the experiment. The average of each of these tone responses is taken and plotted in red.
@@ -205,9 +205,9 @@ Here is a circuit diagram showing the connections to be made_
 
 #### Recent Posts
 
-  * [ It's The Backyard Brains 10-Year Anniversary!](http_//blog.backyardbrains.com/?p=4906)
-  * [ Cincinnati Neuroscience Outreach by BYB Alumna](http_//blog.backyardbrains.com/?p=4870)
-  * [ First Place at Science Fair for Student using BYB Gear](http_//blog.backyardbrains.com/?p=4861)
+  * [ It's The Backyard Brains 10-Year Anniversary!](https://blog.backyardbrains.com/?p=4906)
+  * [ Cincinnati Neuroscience Outreach by BYB Alumna](https://blog.backyardbrains.com/?p=4870)
+  * [ First Place at Science Fair for Student using BYB Gear](https://blog.backyardbrains.com/?p=4861)
 
 #### BYB Information
 
@@ -219,4 +219,4 @@ Here is a circuit diagram showing the connections to be made_
 
 * * *
 
-Copyright © 2009-2017 [ Backyard Brains](http_//backyardbrains.com) | Protected under the Creative Common License [ ](http_//creativecommons.org/licenses/)[](http_//creativecommons.org/licenses/by-sa/3.0/)
+Copyright © 2009-2017 [ Backyard Brains](https://backyardbrains.com) | Protected under the Creative Common License [ ](https://creativecommons.org/licenses/)[](https://creativecommons.org/licenses/by-sa/3.0/)

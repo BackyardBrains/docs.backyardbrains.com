@@ -1,6 +1,6 @@
 ---
 id: experiment__cellular_microscopy-blood_cells
-title: "Experiment_ Cellular Microscopy-Blood Cells"
+title: "Experiment: Cellular Microscopy-Blood Cells"
 slug: /retired/experiments/cellular_microscopy-blood_cells
 ---
 
@@ -24,22 +24,22 @@ works!
 
 ##### Prerequisite Labs
 
-  * [Getting Started with the Roachscope](https_//backyardbrains.com/experiments/RoachScopeHighPower)
+  * [Getting Started with the Roachscope](https://backyardbrains.com/experiments/RoachScopeHighPower)
 
 ##### Equipment
 
 [RoachScope](/products/RoachScope)
 
-[Glass Slides](http_//www.amazon.com/Blank-Microscope-Slides-Square-
+[Glass Slides](https://www.amazon.com/Blank-Microscope-Slides-Square-
 Cover/dp/B002OS6D9I)
 
-[Slide Covers](http_//www.amazon.com/Blank-Microscope-Slides-Square-
+[Slide Covers](https://www.amazon.com/Blank-Microscope-Slides-Square-
 Cover/dp/B002OS6D9I)
 
-[Toothpick](http_//www.amazon.com/Farberware-5080422-Classic-
+[Toothpick](https://www.amazon.com/Farberware-5080422-Classic-
 Toothpicks-300-Count/dp/B005D6G7U8/ref=sr_1_6?ie=UTF8&qid=1397592626&sr=8-6&keywords=toothpick)
 
-[Lancets](http_//www.amazon.com/BD-Ultra-Fine-33-Gauge-
+[Lancets](https://www.amazon.com/BD-Ultra-Fine-33-Gauge-
 Lancets/dp/B0000DD8VM/ref=sr_1_1?ie=UTF8&qid=1399907387&sr=8-1&keywords=lancets)
 
 Syringe/Hypodermic Needle
@@ -73,7 +73,7 @@ Now, to the blood! Remember, our blood is made up of four components_ red and
 white blood cells, platelets, and plasma.
 
 [
-![](./img/plasmaclub.jpg)](https_//backyardbrains.com/experiments/img/plasmaclub.jpg)
+![](./img/plasmaclub.jpg)](https://backyardbrains.com/experiments/img/plasmaclub.jpg)
 
 **Red blood cells** are responsible for keeping us alive! Our heart pumps our
 blood, our lungs oxygenate the red blood cells, and the red blood cells
@@ -137,7 +137,7 @@ be purchased over the counter at most pharmacies. These needles are _SHARP_
 and you should exercise extreme care when working with them - never leave them
 sitting around without ther protective cover on. When you are ready to dispose
 of them, follow [proper sharps disposal
-protocol](http_//www.fda.gov/MedicalDevices/ProductsandMedicalProcedures/HomeHealthandConsumer/ConsumerProducts/Sharps/ucm263240.htm
+protocol](https://www.fda.gov/MedicalDevices/ProductsandMedicalProcedures/HomeHealthandConsumer/ConsumerProducts/Sharps/ucm263240.htm
 
 ). You may also be able to take your sharps in to a local clinic and ask if
 they can be disposed of there.
@@ -146,43 +146,43 @@ they can be disposed of there.
 
 ### Prep 1_ Human Blood
 
-  1. Begin by preparing your RoachScope for high powered magnification like you did in the [Getting Started with the RoachScope experiment](https_//backyardbrains.com/experiments/roachscopehighpower)! 
-  2. Prepare your glass slide and slide cover by cleaning them with glass cleaning solution and a special glass cleaning cloth. If you have a camera or wear glasses, you can use the glass cleaning cloth that came with those. Otherwise, you can order special, disposable cleaning paper online - [here is an inexpensive option](http_//www.amazon.com/OMAX-Sheets-Microscope-Camera-Cleaning/dp/B00A84NJ1U/ref=sr_1_3?ie=UTF8&qid=1399309334&sr=8-3&keywords=microscope+cleaning+kit)! 
+  1. Begin by preparing your RoachScope for high powered magnification like you did in the [Getting Started with the RoachScope experiment](https://backyardbrains.com/experiments/roachscopehighpower)! 
+  2. Prepare your glass slide and slide cover by cleaning them with glass cleaning solution and a special glass cleaning cloth. If you have a camera or wear glasses, you can use the glass cleaning cloth that came with those. Otherwise, you can order special, disposable cleaning paper online - [here is an inexpensive option](https://www.amazon.com/OMAX-Sheets-Microscope-Camera-Cleaning/dp/B00A84NJ1U/ref=sr_1_3?ie=UTF8&qid=1399309334&sr=8-3&keywords=microscope+cleaning+kit)! 
   3. Thoroughly scrub the skin of one fingertip with a cotton swab and rubbing alcohol. 
   4. Open a lancet to expose the sharp point (about 3 mm long). Quickly puncture the cleaned fingertip, put the lancet down, and gently squeeze the finger until a small drop of blood forms on the fingertip. 
 
 [
-![](./img/blood1_1.jpg)](https_//backyardbrains.com/experiments/img/blood1_1.jpg)
+![](./img/blood1_1.jpg)](https://backyardbrains.com/experiments/img/blood1_1.jpg)
 
 [
-![](./img/blood2_1.jpg)](https_//backyardbrains.com/experiments/img/blood2_1.jpg)
+![](./img/blood2_1.jpg)](https://backyardbrains.com/experiments/img/blood2_1.jpg)
 
 [
-![](./img/blood3_1.jpg)](https_//backyardbrains.com/experiments/img/blood3_1.jpg)
+![](./img/blood3_1.jpg)](https://backyardbrains.com/experiments/img/blood3_1.jpg)
 
 [
-![](./img/blood4_1.jpg)](https_//backyardbrains.com/experiments/img/blood4_1.jpg)
+![](./img/blood4_1.jpg)](https://backyardbrains.com/experiments/img/blood4_1.jpg)
 
 [
-![](./img/blood5_1.jpg)](https_//backyardbrains.com/experiments/img/blood5_1.jpg)
+![](./img/blood5_1.jpg)](https://backyardbrains.com/experiments/img/blood5_1.jpg)
 
   5. Place the drop of blood from the finger into the middle of the glass slide and then wipe the fingertip to clean excess blood. (Bleeding should not be a problem, but if it persists, apply pressure with a cotton ball or paper towel until it stops). 
 
 [
-![](./img/blood6.jpg)](https_//backyardbrains.com/experiments/img/blood6.jpg)
+![](./img/blood6.jpg)](https://backyardbrains.com/experiments/img/blood6.jpg)
 
 [
-![](./img/blood7.jpg)](https_//backyardbrains.com/experiments/img/blood7.jpg)
+![](./img/blood7.jpg)](https://backyardbrains.com/experiments/img/blood7.jpg)
 
   6. Before the droplet begins to dry on the slide, place a coverslip on one edge so that it touches the blood droplet at an acute angle (blood drop inside the sharp angle of cover slip to slide). Smoothly, with a single motion, move the edge of the coverslip away from the blood drop, across the surface of the slide to smear the blood out until it stops flowing (usually the smear is less than one inch long). A sharper angle will produce a thinner smear (this is desirable). Then quickly allow the coverslip to fall flat and stick to the blood smear surface. After it falls, don't move it around, but you might want to tamp the surface slightly with a finger to help remove bubbles. If the smear looks bright red (rather than light pink), there is too much blood, and you will have to start over with a clean slide. Only a very thin smear of blood is needed. 
 
 [
-![](./img/blood8.jpg)](https_//backyardbrains.com/experiments/img/blood8.jpg)
+![](./img/blood8.jpg)](https://backyardbrains.com/experiments/img/blood8.jpg)
 
   7. Put the covered blood smear on the microscope stage with the cover slip toward the objective lens and focus until blood cells are visible. 
 
 [
-![](./img/bloodcells.jpg)](https_//backyardbrains.com/experiments/img/bloodcells.jpg)
+![](./img/bloodcells.jpg)](https://backyardbrains.com/experiments/img/bloodcells.jpg)
 
 Red blood cells are by far the most numerous, and are about 0.007mm in
 diameter. White blood cells are slightly larger, but are much harder to see
@@ -204,26 +204,26 @@ of the toothpick depression should make the cells flow through the plasma!
   5. _Please note before performing this step_ you won't be able to draw much of the Cockroach's hemolymph into the chamber - the sample will be small and will be mostly contained in the tip of the needle._ Insert the needle into the cockroach's ventral abdomen (it's belly) in between the plates of its carapace and then pull up on the plunger just enough that the chamber fills with a bit of air. 
 
 [
-![](./img/hemolymph1.jpg)](https_//backyardbrains.com/experiments/img/hemolymph1.jpg)
+![](./img/hemolymph1.jpg)](https://backyardbrains.com/experiments/img/hemolymph1.jpg)
 
 [
-![](./img/hemolymph2.jpg)](https_//backyardbrains.com/experiments/img/hemolymph2.jpg)
+![](./img/hemolymph2.jpg)](https://backyardbrains.com/experiments/img/hemolymph2.jpg)
 
   6. Pull the needle out of the cockroach and place it back on ice water. The Roach's work here is done; it will be ready to go back into your breeder colony with just another few minutes on ice! 
   7. Hovering just above the glass slide with your needle, press the plunger of the needle until all the air is forced out of the chamber. Start pressing even harder here and you should see a small bubble of liquid begin to form up and hang from the tip of the needle. Touch this bubble to the glass slide and pull the needle away once the drop is on the slide. **IMMEDIATELY** put the protective cover back on the needle. 
 
 [
-![](./img/hemolymph3.jpg)](https_//backyardbrains.com/experiments/img/hemolymph3.jpg)
+![](./img/hemolymph3.jpg)](https://backyardbrains.com/experiments/img/hemolymph3.jpg)
 
   8. Before the droplet begins to dry on the slide, place a coverslip on one edge so that it touches the droplet at an acute angle. Smoothly, with a single motion, move the edge of the coverslip away from the blood drop, across the surface of the slide to smear the hemolymph out until it stops flowing (usually the smear is less than one inch long). A sharper angle will produce a thinner smear (this is desirable). Then quickly allow the coverslip to fall flat and stick to the hemolymph smear surface. 
 
 [
-![](./img/hemolymph4.jpg)](https_//backyardbrains.com/experiments/img/hemolymph4.jpg)
+![](./img/hemolymph4.jpg)](https://backyardbrains.com/experiments/img/hemolymph4.jpg)
 
   9. Put the covered hemolymph smear on the microscope stage with the cover slip toward the objective lens and focus until cells are visible. 
 
 [
-![](./img/hemolymph.jpg)](https_//backyardbrains.com/experiments/img/hemolymph.jpg)
+![](./img/hemolymph.jpg)](https://backyardbrains.com/experiments/img/hemolymph.jpg)
 
 Since hemolymph doesn't have blood cells like we do, what do you suspect you
 are seeing? The largest cells in hemolymph are the hemocytes, the insect
@@ -245,9 +245,9 @@ in helping develop these preps and write ups!
 
 #### Recent Posts
 
-  * [ It's The Backyard Brains 10-Year Anniversary!](http_//blog.backyardbrains.com/?p=4906)
-  * [ Cincinnati Neuroscience Outreach by BYB Alumna](http_//blog.backyardbrains.com/?p=4870)
-  * [ First Place at Science Fair for Student using BYB Gear](http_//blog.backyardbrains.com/?p=4861)
+  * [ It's The Backyard Brains 10-Year Anniversary!](https://blog.backyardbrains.com/?p=4906)
+  * [ Cincinnati Neuroscience Outreach by BYB Alumna](https://blog.backyardbrains.com/?p=4870)
+  * [ First Place at Science Fair for Student using BYB Gear](https://blog.backyardbrains.com/?p=4861)
 
 #### BYB Information
 
@@ -259,4 +259,4 @@ in helping develop these preps and write ups!
 
 * * *
 
-Copyright © 2009-2017 [ Backyard Brains](http_//backyardbrains.com) | Protected under the Creative Common License [ ](http_//creativecommons.org/licenses/)[](http_//creativecommons.org/licenses/by-sa/3.0/)
+Copyright © 2009-2017 [ Backyard Brains](https://backyardbrains.com) | Protected under the Creative Common License [ ](https://creativecommons.org/licenses/)[](https://creativecommons.org/licenses/by-sa/3.0/)

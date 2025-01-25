@@ -1,6 +1,6 @@
 ---
 id: experiment__exploring_rates_of_fatigue
-title: "Experiment_ Exploring Rates of Fatigue"
+title: "Experiment: Exploring Rates of Fatigue"
 slug: /retired/experiments/exploring_rates_of_fatigue
 ---
 
@@ -133,24 +133,24 @@ scientists even do this?
 First, it's important to remember that our signal has positive and negative
 values, like this_
 
-[ ![](./img/RMS1.jpg)](https_//backyardbrains.com/experiments/img/RMS1.jpg)
+[ ![](./img/RMS1.jpg)](https://backyardbrains.com/experiments/img/RMS1.jpg)
 
 So if we were to try to take an average of this signal, we wouldn't end up
 with much...
 
-[ ![](./img/RMS2.jpg)](https_//backyardbrains.com/experiments/img/RMS2.jpg)
+[ ![](./img/RMS2.jpg)](https://backyardbrains.com/experiments/img/RMS2.jpg)
 
 Remember from math class, how can you get rid of a negative? By squaring it!
 So let's try that with our signal_
 
-[ ![](./img/RMS3.jpg)](https_//backyardbrains.com/experiments/img/RMS3.jpg)
+[ ![](./img/RMS3.jpg)](https://backyardbrains.com/experiments/img/RMS3.jpg)
 
 That covers the square, but what about Root and Mean? Root and mean go hand in
 hand together here. Now we take the "sum of the squares" of the signal and
 divide it by the number of samples we took to get our mean (or average) value.
 Then you take the square root of your mean value to come up with the RMS!
 
-[ ![](./img/RMS4.jpg)](https_//backyardbrains.com/experiments/img/RMS4.jpg)
+[ ![](./img/RMS4.jpg)](https://backyardbrains.com/experiments/img/RMS4.jpg)
 
 ### But What to Test?
 
@@ -164,17 +164,17 @@ few years of the same age.
 #### Downloads
 
 > Before you begin, make sure you have the [Backyard Brains Spike
-> Recorder](https_//backyardbrains.com/products/spikerecorder) installed on
+> Recorder](https://backyardbrains.com/products/spikerecorder) installed on
 > your computer/smartphone/tablet. The Backyard Brains Spike Recorder program
 > allows you to visualize and save the data on your computer when doing
 > experiments. We have also built a simple lab handout to help you tabulate
 > your data.
 >
 > [Spike Recorder Computer
-> Software](https_//backyardbrains.com/products/spikerecorder)
+> Software](https://backyardbrains.com/products/spikerecorder)
 >
 > [Class
-> Handout](https_//backyardbrains.com/experiments/files/Fatigue_HandOut.pdf)
+> Handout](https://backyardbrains.com/experiments/files/Fatigue_HandOut.pdf)
 
 ## Video
 
@@ -184,28 +184,28 @@ Before you hook up a subject you have a couple of decisions to make_ What
 muscle are you going to record from and what kind of activity are you going to
 have the subject perform? We prefer "isometric" contractions, where you are
 contracting but the body is not moving. Our favorites are the bicep lift
-(which uses the ...[biceps](https_//en.wikipedia.org/wiki/Biceps)), the
+(which uses the ...[biceps](https://en.wikipedia.org/wiki/Biceps)), the
 deltoid lift (which uses the ...deltoid), and the lateral row (which uses the
-[latissimus dorsi](https_//en.wikipedia.org/wiki/Latissimus_dorsi_muscle)).
+[latissimus dorsi](https://en.wikipedia.org/wiki/Latissimus_dorsi_muscle)).
 The lateral row may require a visit to your school gymnasium, which is a good
 excuse to get your pump on after you do your experiments. Decide which muscles
 you want to record from and apply the muscle electrodes in the usual manner.
 
 [
-![](./img/groupexercise_web.jpg)](https_//backyardbrains.com/experiments/img/groupexercise_web.jpg)
+![](./img/groupexercise_web.jpg)](https://backyardbrains.com/experiments/img/groupexercise_web.jpg)
 
   1. First, connect your subject to the Muscle SpikerBox and your Muscle Spikerbox to 1) your computer using a USB or laptop cable or 2) to smartphone/tablet using the green smartphone cable. Begin by testing your signal_ have your subject flex a few times and watch your display to see the spikes. 
   2. Next, we want to adjust the gain. Turn the wheel on your Muscle SpikerBox all the way up, then have your subject flex as hard as they can. If the signal is clipping, like this_ 
 
 [
-![](./img/Clipped_Signal.jpg)](https_//backyardbrains.com/experiments/img/Clipped_Signal.jpg)
+![](./img/Clipped_Signal.jpg)](https://backyardbrains.com/experiments/img/Clipped_Signal.jpg)
 
-  3. Turn down the "volume" wheel (gain of the signal) until you can see the tops and bottoms of all the spikes. Once you can, have your subject relax a couple of minutes. Note, this is only an issue if you have our normal [Muscle SpikerBox](https_//backyardbrains.com/products/muscleSpikerboxBundle). If you have our new [Muscle SpikerBox Pro](https_//backyardbrains.com/products/musclespikerboxpro), you do not have to worry about gain clipping, the circuit won't let you! 
+  3. Turn down the "volume" wheel (gain of the signal) until you can see the tops and bottoms of all the spikes. Once you can, have your subject relax a couple of minutes. Note, this is only an issue if you have our normal [Muscle SpikerBox](https://backyardbrains.com/products/muscleSpikerboxBundle). If you have our new [Muscle SpikerBox Pro](https://backyardbrains.com/products/musclespikerboxpro), you do not have to worry about gain clipping, the circuit won't let you! 
   4. Choose a weight load that the subject is comfortable maintaining between 15-120 seconds before load fatigue is too high. Instruct the subject to keep the muscle active for as long as they can, even as they feel themselves getting "weaker." 
   5. When the subject can no longer maintain the weight, stop the recording. Your recording may look something like this_ 
 
 [
-![](./img/MuscleFatigueExample.jpg)](https_//backyardbrains.com/experiments/img/MuscleFatigueExample.jpg)
+![](./img/MuscleFatigueExample.jpg)](https://backyardbrains.com/experiments/img/MuscleFatigueExample.jpg)
 
   6. Write down the length of time the subject was contracting as shown by the EMG, and save the recording with identifiable notation, such as "Muscle Fatigue - Woman 1 - total time 118s." 
 
@@ -224,10 +224,10 @@ something quantifiable.
   3. Now repeat for the last five seconds of the signal, just before the subject relaxed. Write down the RMS value. 
 
 [
-![](./img/First_Five_Seconds.jpg)](https_//backyardbrains.com/experiments/img/First_Five_Seconds.jpg)
+![](./img/First_Five_Seconds.jpg)](https://backyardbrains.com/experiments/img/First_Five_Seconds.jpg)
 
 [
-![](./img/Last_Five_Seconds.jpg)](https_//backyardbrains.com/experiments/img/Last_Five_Seconds.jpg)
+![](./img/Last_Five_Seconds.jpg)](https://backyardbrains.com/experiments/img/Last_Five_Seconds.jpg)
 
 For each recording you thus have three measurements 1) total time in seconds -
 Total Time(s), 2) RMS of the first five seconds - RMS Begin, and 3) RMS of the
@@ -245,14 +245,14 @@ Now that we've got our values, let's chart them out to make them easier to
 manage.
 
 [
-![](./img/mfchartfill.jpg)](https_//backyardbrains.com/experiments/img/mfchartfill.jpg)
+![](./img/mfchartfill.jpg)](https://backyardbrains.com/experiments/img/mfchartfill.jpg)
 
 Now, we have a couple of calculations to make using our values...
 
 #### Equation for a Line (and our trend line!)_
 
 [
-![](./img/mfline.png)](https_//backyardbrains.com/experiments/img/mfline.png)
+![](./img/mfline.png)](https://backyardbrains.com/experiments/img/mfline.png)
 
 This is the formula for our trend line, where "m"" is equal to our slope (rate
 of fatigue), and where "b" represents where the line would intersect with the
@@ -261,7 +261,7 @@ y-axis.
 #### Slope_
 
 [
-![](./img/mfslope.png)](https_//backyardbrains.com/experiments/img/mfslope.png)
+![](./img/mfslope.png)](https://backyardbrains.com/experiments/img/mfslope.png)
 
 "m" is the slope of our trend line that we're calculating for the fatigue
 signal.
@@ -273,20 +273,20 @@ for the slope above. Since our experiment started at time = 0, 0 will be the
 second x variable.
 
 [
-![](./img/Robert_Slope.jpg)](https_//backyardbrains.com/experiments/img/Robert_Slope.jpg)
+![](./img/Robert_Slope.jpg)](https://backyardbrains.com/experiments/img/Robert_Slope.jpg)
 
 This is Robert's **rate of fatigue** and what we are principally concerned
 with.
 
 [
-![](./img/Fatigue2_27.jpeg)](https_//backyardbrains.com/experiments/img/Fatigue2_27.jpeg)
+![](./img/Fatigue2_27.jpeg)](https://backyardbrains.com/experiments/img/Fatigue2_27.jpeg)
 
 We can go full circle here and practice calculating the trend line, or line of
 best fit. In our case it is easy, as we already know the b (y-intercept)
 value, since have we have the RMS value for time = 0.
 
 [
-![](./img/Robert_equation.jpg)](https_//backyardbrains.com/experiments/img/Robert_equation.jpg)
+![](./img/Robert_equation.jpg)](https://backyardbrains.com/experiments/img/Robert_equation.jpg)
 
 This formula represents the trend line for the first test subject's EMG signal
 during the fatigue test.
@@ -295,7 +295,7 @@ Now calculate the slope, or rate of fatigue, for all your subjects. What will
 the data reveal?
 
 [
-![](./img/Rate_Of_Fatigue.jpg)](https_//backyardbrains.com/experiments/img/Rate_Of_Fatigue.jpg)
+![](./img/Rate_Of_Fatigue.jpg)](https://backyardbrains.com/experiments/img/Rate_Of_Fatigue.jpg)
 
 ### Discussion
 
@@ -307,13 +307,13 @@ their strength over a longer period of time? Are they stronger? not
 necessarily, endurance isn't really about strength. Are they tougher?
 Certainly. Are they just flat out better in terms of muscular endurance?
 Maybe! Lots of research has been done into looking at this difference
-([example](http_//www.ncbi.nlm.nih.gov/pubmed/10643144)), and it has been
+([example](https://www.ncbi.nlm.nih.gov/pubmed/10643144)), and it has been
 found (by us too!) that women's endurance is often greater than men's. Where
 can we see this in a non-scientific setting though? Women's impressive
 endurance gives them an edge in rock climbing - this is a sport where it is
 common to see women in direct competition with men. Research is also being
 done into [women's endurance
-running](http_//faculty.washington.edu/crowther/Misc/RBC/gender.shtml) and it
+running](https://faculty.washington.edu/crowther/Misc/RBC/gender.shtml) and it
 looks like men and women are on equal footing there as well!
 
 ### Your Turn!

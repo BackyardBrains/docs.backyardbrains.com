@@ -1,6 +1,6 @@
 ---
 id: experiment__sensitive_mimosa_pudica_electrophysiology
-title: "Experiment_ Sensitive Mimosa Pudica Electrophysiology"
+title: "Experiment: Sensitive Mimosa Pudica Electrophysiology"
 slug: /retired/experiments/sensitive_mimosa_pudica_electrophysiology
 ---
 
@@ -10,7 +10,7 @@ With the Venus Flytrap experiment, we previously introduced you to plant
 electrophysiology, showing that plants can generate electrical impulses too!
 We now move to a second exquisite "rapid movement plant" - the Sensitive
 Mimosa, featured in our [TED Main
-Stage](https_//www.ted.com/talks/greg_gage_electrical_experiments_with_plants_that_count_and_communicate?utm_campaign=tedspread
+Stage](https://www.ted.com/talks/greg_gage_electrical_experiments_with_plants_that_count_and_communicate?utm_campaign=tedspread
 --a&utm_medium=referral&utm_source=tedcomshare) talk.
 
 Time  1 hour
@@ -30,7 +30,7 @@ rapidly through cells, plant morphology, and the ion channels used by plants.
 
 [Plant SpikerBox](/products/plantspikerbox)
 
-[Mimosa Seeds](http_//www.amazon.com/Package-Sensitive-Compact-Seed-
+[Mimosa Seeds](https://www.amazon.com/Package-Sensitive-Compact-Seed-
 Needs/dp/B00323LXCG/ref=sr_1_1?ie=UTF8&qid=1449965936&sr=8-1&keywords=Mimosa+seeds)
 
 * * *
@@ -38,7 +38,7 @@ Needs/dp/B00323LXCG/ref=sr_1_1?ie=UTF8&qid=1449965936&sr=8-1&keywords=Mimosa+see
 ## Background
 
 _Note_ As you cannot normally buy Sensitive Mimosa plant seedlings, you have
-to[buy seeds](http_//www.amazon.com/Package-Sensitive-Compact-Seed-
+to[buy seeds](https://www.amazon.com/Package-Sensitive-Compact-Seed-
 Needs/dp/B00323LXCG/ref=sr_1_1?ie=UTF8&qid=1449965936&sr=8-1&keywords=Mimosa+seeds)
 and grow them. Mimosas are famously tricky to germinate; See our note at the
 bottom of this page for recommendations on Mimosa growth._
@@ -75,11 +75,11 @@ investigated.
 But how then do the plants actually move? Since plants do not have
 [muscles](muscleSpikerBox) like we do, plant movement occurs through hydraulic
 forces (the flow of water). Plant cells have special large organs called
-"[vacuoles](https_//en.wikipedia.org/wiki/Vacuole)" which are filled with
+"[vacuoles](https://en.wikipedia.org/wiki/Vacuole)" which are filled with
 water and can make up 70-80% of the cell volume. Plants thus have developed
 ways to rapidly move water in and out of the the vacuoles through special
 transport channels in their cell walls called
-"[aquaporins](https_//en.wikipedia.org/wiki/Aquaporin)." These are like ion
+"[aquaporins](https://en.wikipedia.org/wiki/Aquaporin)." These are like ion
 channels, but instead of permitting ions to flow across membranes, they permit
 the rapid flow of water. As such, plants capable of rapid movement quickly
 flush water out of select cells. Such efflux of water shrinks the cell, and
@@ -105,7 +105,7 @@ chloride charges.
 
 Buuuuuttttt...we now have an ionic situation the plant cell can exploit_ an
 excess of chloride and potassium ion are now outside the cells, or, we have an
-[osmotic imbalance](https_//en.wikipedia.org/wiki/Osmotic_pressure). Through
+[osmotic imbalance](https://en.wikipedia.org/wiki/Osmotic_pressure). Through
 the aquaporins, Water will then "chase" the potassium and chlorine ions,
 causing the plant cells to lose water rapidly, shrink, and, ultimately, result
 in the rapid movement of plant structures.
@@ -124,12 +124,12 @@ knowledge!
 #### Downloads
 
 > Before you begin, make sure you have the [Backyard Brains
-> SpikeRecorder](https_//backyardbrains.com/products/spikerecorder). The
+> SpikeRecorder](https://backyardbrains.com/products/spikerecorder). The
 > Backyard Brains SpikeRecorder program allows you to visualize and save the
 > data on your computer when doing experiments.
 >
 > [SpikeRecorder Software for Displaying and Saving Data on
-> Computer](https_//backyardbrains.com/products/spikerecorder)
+> Computer](https://backyardbrains.com/products/spikerecorder)
 
 ## Tutorial Video of Experiment
 
@@ -138,7 +138,7 @@ knowledge!
 In this experiment, you will measure the Action Potentials generated at the
 stem/petiole joint of Mimosa plants.
 
-  1. Grab your [Plant SpikerBox](https_//www.backyardbrains.com/products/plantspikershield) and select from the kit the materials you will need_ One long red recording wire with silver tip, one grounding pin with long black wire, yellow RCA jack with recording electrode clips, and conductive electrode gel. 
+  1. Grab your [Plant SpikerBox](https://www.backyardbrains.com/products/plantspikershield) and select from the kit the materials you will need_ One long red recording wire with silver tip, one grounding pin with long black wire, yellow RCA jack with recording electrode clips, and conductive electrode gel. 
 
 [ ![](./img/MimosaSetUp1.jpg)](img/MimosaSetUp1.jpg)
 
@@ -188,7 +188,7 @@ roots](img/Mimosa_Roots_web.jpg), notable while the seedlings are still small.
 We present our growing recommendations, and [let us
 know](mailto_tim@backyardbrains.com) if you have any insider tips.
 
-  1. The seeds are fairly easy to obtain, you can purchase them on [Amazon](http_//www.amazon.com/Package-Sensitive-Compact-Seed-Needs/dp/B00323LXCG/ref=sr_1_1?ie=UTF8&qid=1448571799&sr=8-1&keywords=Mimosa+seeds), but the germination rate is not high. We have only observed that only 10-20% of the seeds will germinate, and of, these, only 1/3 will survive the seedling phase. 
+  1. The seeds are fairly easy to obtain, you can purchase them on [Amazon](https://www.amazon.com/Package-Sensitive-Compact-Seed-Needs/dp/B00323LXCG/ref=sr_1_1?ie=UTF8&qid=1448571799&sr=8-1&keywords=Mimosa+seeds), but the germination rate is not high. We have only observed that only 10-20% of the seeds will germinate, and of, these, only 1/3 will survive the seedling phase. 
   2. With a pair of pliers, lightly compress a seed to cause the hard outer shell to "crack." This will allow water to diffuse into the seed more readily and cause germination. 
   3. Place about 50 "cracked" seeds between two layers of soaked paper towels, to make a "moist paper towel - Mimosa seed - moist paper towel" sandwich. 
   4. Keep the towels moist everyday, and everyday, check the seeds to see if you observe small white "rootlets" coming out of the seeds. This is a sign of germination. This can take 3 days to 3 weeks to occur (seriously). 

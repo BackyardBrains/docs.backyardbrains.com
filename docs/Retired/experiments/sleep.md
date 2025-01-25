@@ -1,6 +1,6 @@
 ---
 id: experiment__sleep
-title: "Experiment_ Sleep"
+title: "Experiment: Sleep"
 slug: /retired/experiments/sleep
 ---
 
@@ -89,13 +89,13 @@ is a reduction in physiological activity. Your consciousness of the
 environment, cortical activity, and internal thoughts are at very low levels
 but still occurring. During this epoch, you are awake but relaxed with your
 eyes closed. Alpha waves of around 8-13 Hz dominate. These are the same [alpha
-rhythms](https_//backyardbrains.com/experiments/eeg) we recorded previously.
+rhythms](https://backyardbrains.com/experiments/eeg) we recorded previously.
 When we eventually fall asleep, sleep is then classified into the four stages
 mentioned above. This sleep scoring was first described in detail in [a 1957
 paper](Dement-Kleitman-1957-first-sleep-scoring.pdf) by graduate student
-[William “Bill” Dement](https_//en.wikipedia.org/wiki/William_C._Dement) and
+[William “Bill” Dement](https://en.wikipedia.org/wiki/William_C._Dement) and
 his advisor, noted sleep researcher [Nathaniel
-Kleitman](https_//en.wikipedia.org/wiki/Nathaniel_Kleitman), at the University
+Kleitman](https://en.wikipedia.org/wiki/Nathaniel_Kleitman), at the University
 of Chicago.
 
 **N1 (Stage 1) sleep_**
@@ -133,17 +133,17 @@ noticed while on a long train ride that people's eyes were twitching (under
 their eyelids) while they were sleeping, and that this eye twitching would
 abruptly stop and restart some point later. Being an observant and curious
 scientist, he wrote down and published his notes in a [short letter in
-Nature](http_//www.backyardbrains.com/experiments/files/Lawson-first-
+Nature](https://www.backyardbrains.com/experiments/files/Lawson-first-
 REM-1950.pdf) (productive train ride).
 
 [ ![](./img/sleep_Lawson01_bubble_web.gif)](img/sleep_Lawson01_bubble_web.gif)
 
 The aforementioned University of Chicago sleep researcher Nathaniel Kleitman
 read this Nature letter and assigned its verification to his graduate student
-[Eugene Aserinsky](https_//en.wikipedia.org/wiki/Eugene_Aserinsky). Eugene
+[Eugene Aserinsky](https://en.wikipedia.org/wiki/Eugene_Aserinsky). Eugene
 then recorded the EEG of REM on his 8 year old son Armond Aserinsky, and
 [published it in Science in
-1953](http_//www.backyardbrains.com/experiments/files/Aserinsky-first-REM-
+1953](https://www.backyardbrains.com/experiments/files/Aserinsky-first-REM-
 EEG-1953.pdf). Yes, though humans have been dreaming since they have existed,
 and REM is where dreams occur, such a connection was not known until 1953. An
 REM EEG often looks like an "awake" EEG, composed of various high frequency,
@@ -167,19 +167,19 @@ nap time or take one yourself! Time for experiments!
 #### Downloads
 
 > Before you begin, make sure you have the [Backyard Brains Spike
-> Recorder](https_//backyardbrains.com/products/spikerecorder) program
+> Recorder](https://backyardbrains.com/products/spikerecorder) program
 > installed on your computer or your smartphone/tablet. The Backyard Brains
 > Spike Recorder program allows you to visualize and save the data on your
 > computer when doing experiments.
 >
 > [Spike Recorder Software for Displaying and Saving Data on
-> Computer](https_//backyardbrains.com/products/spikerecorder)
+> Computer](https://backyardbrains.com/products/spikerecorder)
 >
 > [Primer on Optimizing your EEG
-> Signal](https_//backyardbrains.com/products/files/EEG_Troubleshooting_Guide.pdf)
+> Signal](https://backyardbrains.com/products/files/EEG_Troubleshooting_Guide.pdf)
 >
 > [Primer on Frequency Analysis in EEG
-> Signals](https_//backyardbrains.com/products/files/Extracting_Frequency_Bands_EEG.pdf)
+> Signals](https://backyardbrains.com/products/files/Extracting_Frequency_Bands_EEG.pdf)
 
 ## Tutorial Video of Experiment
 
@@ -208,7 +208,7 @@ movement after a couple hours. You can still collect some good data though.
 **Notes for Sleep Staging/Scoring in Real Time_**
 
 The time spent in each cycle varies through the sleep cycle. In our idealized
-[hypnogram](https_//en.wikipedia.org/wiki/Hypnogram) below, you can see more
+[hypnogram](https://en.wikipedia.org/wiki/Hypnogram) below, you can see more
 REM occurs as the night draws on and less time occurs in deep sleep. In our 90
 minute nap though, we will probably spend more time in deep sleep though. See
 for yourself!
@@ -229,7 +229,7 @@ for yourself!
 
 ## Discussion / Further Work
 
-  1. The documented record of most days without sleep was made by high school student [Randy Gardner](https_//en.wikipedia.org/wiki/Randy_Gardner_\(record_holder\)) when he went for 11 days without sleep in San Diego in 1964. But this is a dangerous record to try to break, so don't try it (and Guinness no longer keeps track). 
+  1. The documented record of most days without sleep was made by high school student [Randy Gardner](https://en.wikipedia.org/wiki/Randy_Gardner_\(record_holder\)) when he went for 11 days without sleep in San Diego in 1964. But this is a dangerous record to try to break, so don't try it (and Guinness no longer keeps track). 
   2. You may have noticed the EEG during is much stronger and more obvious in the delta waves of sleep than during awake EEG. Why do you think that is? 
   3. Ever wondered how coffee works? We feel tired after being awake for a while, as the build-up of adenosine produced by neurons in our brain indicates the need for us to sleep. Caffeine blocks the adenosine receptors in your brain. 
   4. We have found that our EEG headband works best for naps, but doesn’t stay situated correctly overnight. Most overnight sleep involves body movement that shifts the headband and and releases the electrode connection. Perhaps you could design a better way to keep the headband in place during the night with hair clips and a modification of the electrodes. 
@@ -241,15 +241,15 @@ for yourself!
 
   * You can notice REM sleep in your dog. When, during sleep, your dog's eyes and mouth are twitching, with an occasional twitch of a leg, your dog is in REM sleep. This of course leaves any curious mind to wonder what it is that dogs even dream about. Maybe you can repeat Robert Lawson's famous train ride experiment and simply observe your dog when it begins sleeping and write down the time and duration when its eyes start twitching versus not twitching. One of our colleagues, Ivonne Beltran, sent us a video of her dog in obvious REM sleep. 
 
-  * Is there a way to calculate how much energy you save while sleeping? There are movement trackers like the [Fitbit](https_//www.fitbit.com/cl/home), [Apple Watch](https_//www.apple.com/lae/watch/), and Misfit. You may be able to also "back of the envelope" calculate it using some physics. 
+  * Is there a way to calculate how much energy you save while sleeping? There are movement trackers like the [Fitbit](https://www.fitbit.com/cl/home), [Apple Watch](https://www.apple.com/lae/watch/), and Misfit. You may be able to also "back of the envelope" calculate it using some physics. 
   * Which hypothesis on why we sleep do you find the most compelling from above (Protection, Energy Conservation, Body Repair, and Strengthen Learning)? Why? Can you design an experiment testing your reasons? 
 
 ## References
 
-  * [Sleepy Head - Narcolepsy , Neuroscience, and the Search for a Good Night](https_//www.amazon.com/Sleepyhead-Narcolepsy-Neuroscience-Search-Night-ebook/dp/B074V4TQ9R) by Henry Nicholls. A new book released in 2018 that goes over the state of the art in sleep research. Many of our historial references on the discovery of REM came from this book. 
-  * [National Institutes of Health Guide to Healthy Sleep](https_//www.nhlbi.nih.gov/files/docs/public/sleep/healthy_sleep.pdf)
-  * Society for Neuroscience [Brain Facts](http_//www.brainfacts.org/thinking-sensing-and-behaving/sleep)
-  * [Smithsonian Magazine article](https_//www.smithsonianmag.com/science-nature/the-stubborn-scientist-who-unraveled-a-mystery-of-the-night-91514538/
+  * [Sleepy Head - Narcolepsy , Neuroscience, and the Search for a Good Night](https://www.amazon.com/Sleepyhead-Narcolepsy-Neuroscience-Search-Night-ebook/dp/B074V4TQ9R) by Henry Nicholls. A new book released in 2018 that goes over the state of the art in sleep research. Many of our historial references on the discovery of REM came from this book. 
+  * [National Institutes of Health Guide to Healthy Sleep](https://www.nhlbi.nih.gov/files/docs/public/sleep/healthy_sleep.pdf)
+  * Society for Neuroscience [Brain Facts](https://www.brainfacts.org/thinking-sensing-and-behaving/sleep)
+  * [Smithsonian Magazine article](https://www.smithsonianmag.com/science-nature/the-stubborn-scientist-who-unraveled-a-mystery-of-the-night-91514538/
 ) on the work done by Nathaniel Kleitman, Eugene Aserinsky, and William Dement
 and the origins of the sleep science field.
 
@@ -259,17 +259,17 @@ If you have the old heart and brain SpikerShield, you can do this experiment
 as well - our legacy downloads are below.
 
 Before you begin, make sure you have the [Backyard Brains Spike
-Recorder](https_//backyardbrains.com/products/spikerecorder) and
-[Arduino](http_//arduino.cc/en/main/software#.Uxd6XYWhZMk) Programs installed
+Recorder](https://backyardbrains.com/products/spikerecorder) and
+[Arduino](https://arduino.cc/en/main/software#.Uxd6XYWhZMk) Programs installed
 on your computer. The Arduino "Sketch" is what you install on your Arduino
 circuit board using the Arduino laptop software (your board comes preinstalled
 if you bought the Arduino from us), and Backyard Brains Spike Recorder program
 allows you to visualize and save the data on your computer when doing
-experiments. We [made a video](https_//www.youtube.com/watch?v=L23Aeo6WXjA)
+experiments. We [made a video](https://www.youtube.com/watch?v=L23Aeo6WXjA)
 for you to explain this!
 
 [Spike Recorder Software for Displaying and Saving Data on
-Computer](https_//backyardbrains.com/products/spikerecorder)
+Computer](https://backyardbrains.com/products/spikerecorder)
 
 [Arduino Sketch for Sending Data to
-Computer](https_//backyardbrains.com/experiments/files/SpikeRecorderArduino.zip)
+Computer](https://backyardbrains.com/experiments/files/SpikeRecorderArduino.zip)

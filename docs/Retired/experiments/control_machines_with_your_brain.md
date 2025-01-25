@@ -1,6 +1,6 @@
 ---
 id: experiment__control_machines_with_your_brain
-title: "Experiment_ Control Machines with your Brain"
+title: "Experiment: Control Machines with your Brain"
 slug: /retired/experiments/control_machines_with_your_brain
 ---
 
@@ -17,7 +17,7 @@ Difficulty  Intermediate
 
 Here you will learn how to interface an Muscle SpikerShield with external
 hardware. This is continuation of our [Neuroprosthetics
-Experiment](https_//www.backyardbrains.com/experiments/neuroprosthetics); only
+Experiment](https://www.backyardbrains.com/experiments/neuroprosthetics); only
 now, you will use an EMG Signal from a muscle of choice, paired with an
 Arduino Microcontroller, to control a bank of LED lights with this Brain-
 Arduino interface!.
@@ -29,14 +29,14 @@ Arduino interface!.
 ##### Equipment
 
 [Muscle SpikerShield
-Bundle](https_//backyardbrains.com/products/muscleSpikershieldBundle)
+Bundle](https://backyardbrains.com/products/muscleSpikershieldBundle)
 
 * * *
 
 ## Background
 
 In the [Muscle
-SpikerBox](https_//backyardbrains.com/experiments/muscleSpikerBox) experiment
+SpikerBox](https://backyardbrains.com/experiments/muscleSpikerBox) experiment
 we learned about how motor neurons activate muscles with electrical signals,
 and we learned how to record that electrical activity using the BYB Spike
 Recorder App. These EMG signals are powerful tools for doctors and scientists
@@ -45,13 +45,13 @@ biohackers! By using our EMG signals as an input, we can begin to create
 human-machine interfaces.
 
 The [Muscle
-SpikerShield](https_//backyardbrains.com/products/muscleSpikershieldBundle)
+SpikerShield](https://backyardbrains.com/products/muscleSpikershieldBundle)
 has all the same functionality of the [Muscle
-SpikerBox](https_//backyardbrains.com/experiments/muscleSpikerBox), but it is
+SpikerBox](https://backyardbrains.com/experiments/muscleSpikerBox), but it is
 also designed to pair with an [Arduino
-Uno](http_//arduino.cc/en/Main/arduinoBoardUno) board. What is this 'Arduino,'
+Uno](https://arduino.cc/en/Main/arduinoBoardUno) board. What is this 'Arduino,'
 you may ask? An Arduino is a
-[microcontroller](http_//en.wikipedia.org/wiki/Single-board_microcontroller).
+[microcontroller](https://en.wikipedia.org/wiki/Single-board_microcontroller).
 Microcontrollers are simple devices at heart_ they take input signals, execute
 custom code to interpret those signals, and then use that information and
 those commands to control other devices. A famous example of a microcontroller
@@ -63,7 +63,7 @@ the food hopper to pour more food in the bowl.
 [ ![](./img/cat_microcontroller2_web.jpg)](img/cat_microcontroller2_web.jpg)
 
 Now that we've fed the cat, let's get back to business with the [Muscle
-SpikerShield](https_//backyardbrains.com/products/muscleSpikershieldBundle).
+SpikerShield](https://backyardbrains.com/products/muscleSpikershieldBundle).
 The SpikerShield allows you to record your muscle's electrical activity and
 send it into the arduino. It's important to note here that our EMG signal
 begins as an analog (continuously varying). The analog signal is what you hear
@@ -88,14 +88,14 @@ we're about to see... LEDs!
 > This experiment assumes you have a basic understanding of how to use the
 > Arduino Platform and you know how to upload code to your board. If you are
 > new to arduino, or need a refresher, check out [Getting Started with Arduino
-> on Windows](http_//arduino.cc/en/guide/windows#.UyIUTYW3t4x) or [Getting
+> on Windows](https://arduino.cc/en/guide/windows#.UyIUTYW3t4x) or [Getting
 > Started with Arduino on Mac OS X
-> ](http_//arduino.cc/en/guide/macOSX#.UyIU2IW3t4w). Note_ If you bought our
+> ](https://arduino.cc/en/guide/macOSX#.UyIU2IW3t4w). Note_ If you bought our
 > [Muscle SpikerShield
-> Bundle](https_//backyardbrains.com/products/emgspikershieldbundle), the
+> Bundle](https://backyardbrains.com/products/emgspikershieldbundle), the
 > Human-Human-Interface and Claw Combined code is already uploaded.
 >
-> [Arduino Software](http_//arduino.cc/en/main/software#.Uxd6XYWhZMk)
+> [Arduino Software](https://arduino.cc/en/main/software#.Uxd6XYWhZMk)
 >
 > This lab has you begin with different code, allowing you to see the
 > digitized signal in the serial monitor. Then, at the end of the lab, you
@@ -103,13 +103,13 @@ we're about to see... LEDs!
 > Arduino(.ino) Sketch for this Experiment
 >
 >
-> [led_strip2014_highergain.ino](https_//backyardbrains.com/experiments/files/led_strip2014_highergain.zip)
+> [led_strip2014_highergain.ino](https://backyardbrains.com/experiments/files/led_strip2014_highergain.zip)
 
 #### Print Materials
 
 > If you're looking for a PDF to print and scribble on, or a google doc to
 > edit, [check out this repository of print resources
-> here!](https_//drive.google.com/drive/folders/1bE1B0DvsGNauhyj-z8YjzuBXmFYivfkR?usp=sharing)
+> here!](https://drive.google.com/drive/folders/1bE1B0DvsGNauhyj-z8YjzuBXmFYivfkR?usp=sharing)
 
 ### Procedure
 
@@ -121,7 +121,7 @@ we're about to see... LEDs!
 
 [ ![](./img/SpikerShieldImg2.jpg)](img/SpikerShieldImg2.jpg)
 
-  3. Download our [led_strip2014_highergain.ino](https_//www.backyardbrains.com/experiments/files/led_strip2014_highergain.ino.zip) sketch (also mentioned above) and upload it to your arduino. 
+  3. Download our [led_strip2014_highergain.ino](https://www.backyardbrains.com/experiments/files/led_strip2014_highergain.ino.zip) sketch (also mentioned above) and upload it to your arduino. 
 
 [ ![](./img/SpikerShieldImg3.jpg)](img/SpikerShieldImg3.jpg)
 
@@ -146,7 +146,7 @@ we're about to see... LEDs!
 
 [ ![](./img/SpikerShieldImg8.jpg)](img/SpikerShieldImg8.jpg)
 
-  8. Finally, if your SpikerShield came as part of a kit (Such as the HHI or Claw Bundle), then you will want to upload code onto it which will allow the Claw and the Human-to-Human-Interface to run. [Default Code.](https_//raw.githubusercontent.com/BackyardBrains/Muscle-SpikerShield/master/V2_61/Muscle-SpikerShield/Muscle-
+  8. Finally, if your SpikerShield came as part of a kit (Such as the HHI or Claw Bundle), then you will want to upload code onto it which will allow the Claw and the Human-to-Human-Interface to run. [Default Code.](https://raw.githubusercontent.com/BackyardBrains/Muscle-SpikerShield/master/V2_61/Muscle-SpikerShield/Muscle-
 SpikerShield.ino)
 
 ### Other Experiments

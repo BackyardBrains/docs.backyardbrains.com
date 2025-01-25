@@ -1,6 +1,6 @@
 ---
 id: experiment__mosquito_love_songs
-title: "Experiment_ Mosquito Love Songs"
+title: "Experiment: Mosquito Love Songs"
 slug: /retired/experiments/mosquito_love_songs
 ---
 
@@ -90,7 +90,7 @@ in order to better understand mosquito mating behavior.
 ### Preperation for the preperation
 
 Before you begin, make sure you have downloaded
-[Audacity](https_//www.audacityteam.org/). You will also needs a few
+[Audacity](https://www.audacityteam.org/). You will also needs a few
 additional Materials_
 
   1. Mosquitoes (wild type or lab purchased)

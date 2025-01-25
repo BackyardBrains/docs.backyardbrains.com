@@ -1,6 +1,6 @@
 ---
 id: experiment__make_music_with_your_muscles
-title: "Experiment_ Make Music with your Muscles"
+title: "Experiment: Make Music with your Muscles"
 slug: /retired/experiments/make_music_with_your_muscles
 ---
 
@@ -24,18 +24,18 @@ and notes by reading your muscle's action potentials.
 ##### Equipment
 
 [Muscle SpikerShield
-Bundle](https_//backyardbrains.com/products/muscleSpikershieldBundle)
+Bundle](https://backyardbrains.com/products/muscleSpikershieldBundle)
 
 [Music-Interface
-Cable](https_//backyardbrains.com/products/musicinterfacecable)
+Cable](https://backyardbrains.com/products/musicinterfacecable)
 
 * * *
 
 ## Background
 
 From [mammoth ivory
-flutes](https_//www.nature.com/news/2004/041213/full/041213-14.html) to
-guitars to [cat pianos](https_//en.wikipedia.org/wiki/Cat_organ), instruments
+flutes](https://www.nature.com/news/2004/041213/full/041213-14.html) to
+guitars to [cat pianos](https://en.wikipedia.org/wiki/Cat_organ), instruments
 have been a central part of human existence for tens of thousands of years.
 Most instruments, however, tend to be quite similar in the way they are
 played; that is, by mechanical movement of the hands or feet. How else could
@@ -48,30 +48,30 @@ instrument incorporates both biology and music (in a more high-tech manner, of
 course).
 
 Our device also joins a long line of synthetic instruments going back to the
-1960's. Beginning with the [Minimoog](https_//en.wikipedia.org/wiki/Minimoog),
+1960's. Beginning with the [Minimoog](https://en.wikipedia.org/wiki/Minimoog),
 a synth used in classic albums like "Abbey Road", musicians started
 incorporating artificially produced sounds into their work. One of the key
 albums that popularized synthesisers, ["Switched on
-Bach"](https_//en.wikipedia.org/wiki/Switched-On_Bach), was in fact made using
+Bach"](https://en.wikipedia.org/wiki/Switched-On_Bach), was in fact made using
 only a Moog. You may also be familiar with the [Doctor Who
-theme](https_//www.youtube.com/watch?v=75V4ClJZME4), written by [Delia
-Derbyshire](https_//en.wikipedia.org/wiki/Delia_Derbyshire), which also helped
+theme](https://www.youtube.com/watch?v=75V4ClJZME4), written by [Delia
+Derbyshire](https://en.wikipedia.org/wiki/Delia_Derbyshire), which also helped
 introduce the synth to the world. This development of synthesisers eventually
 led to the rise of electronic music in the 70's and 80's, with artists like
-[Giorgio Giovanni ](https_//www.youtube.com/watch?v=5vu1MYRlpGg), [ Duran
-Duran ](https_//www.youtube.com/watch?v=6Uxc9eFcZyM) and [David Bowie
-](https_//www.youtube.com/watch?v=yadcdunOd7U) making heavy use of the synth.
+[Giorgio Giovanni ](https://www.youtube.com/watch?v=5vu1MYRlpGg), [ Duran
+Duran ](https://www.youtube.com/watch?v=6Uxc9eFcZyM) and [David Bowie
+](https://www.youtube.com/watch?v=yadcdunOd7U) making heavy use of the synth.
 Up until that point, however, synthesisers were expensive and could only be
 purchased by music studios. It wasn't until the mid-80's, with the release of
-the [Roland TR-808](https_//en.wikipedia.org/wiki/Roland_TR-808) , that they
+the [Roland TR-808](https://en.wikipedia.org/wiki/Roland_TR-808) , that they
 became accessible to most people. This allowed street genres like [hip-
-hop](https_//www.youtube.com/watch?v=6JhVgba8HX8) and
-[trap](https_//www.youtube.com/watch?v=LDIX43oMMxs) to emerge, making use of
+hop](https://www.youtube.com/watch?v=6JhVgba8HX8) and
+[trap](https://www.youtube.com/watch?v=LDIX43oMMxs) to emerge, making use of
 [drum beats and chord
-progressions](https_//www.youtube.com/watch?v=NxhMUPpQzPk&list=RDYeZZk2czG1c&index=11)
+progressions](https://www.youtube.com/watch?v=NxhMUPpQzPk&list=RDYeZZk2czG1c&index=11)
 on a loop combined with clever word play. You didn't need much else than the
 creative urge to begin making music, much like [punk
-music](https_//www.youtube.com/watch?v=yCW7Aw8ugOI) with cheap electric
+music](https://www.youtube.com/watch?v=yCW7Aw8ugOI) with cheap electric
 guitars and power chords.
 
 Although admittedly not the most practical, our device is certainly one of the
@@ -93,9 +93,9 @@ take the frequency of the middle A (440Hz), for instance, and double it, you
 will get the frequency of the A one octave above that (880Hz). This pattern
 applies to all notes. Since there are 12 notes in an octave, (not what you'd
 expect given the name, I know), [you can multiply any note by the 12th root of
-two](https_//en.wikipedia.org/wiki/Twelfth_root_of_two), or 1.059, to get to
+two](https://en.wikipedia.org/wiki/Twelfth_root_of_two), or 1.059, to get to
 the next one. This number is also
-[irrational](https_//en.wikipedia.org/wiki/Irrational_number), just like pi!
+[irrational](https://en.wikipedia.org/wiki/Irrational_number), just like pi!
 The dots mean it just goes on and on without any repeating pattern.
 
   
@@ -107,8 +107,8 @@ The dots mean it just goes on and on without any repeating pattern.
 As far as why this particular tuning sounds pleasant to the human ear, it
 seems to be somewhat arbitrary. Other tunings, in fact, have used different
 ratios in the past, such as the [pythagorean scale
-](https_//en.wikipedia.org/wiki/Pythagorean_tuning) and the classical [Indian
-scale](http_//dhrupadmusic.com/indian-western-music.html).
+](https://en.wikipedia.org/wiki/Pythagorean_tuning) and the classical [Indian
+scale](https://dhrupadmusic.com/indian-western-music.html).
 
   
 
@@ -126,7 +126,7 @@ line of code that makes this happen_
 ![](./img/line_of_code.jpg)
 
 The second setting outputs notes on a [chromatic
-scale](https_//en.wikipedia.org/wiki/Chromatic_scale), so you can play
+scale](https://en.wikipedia.org/wiki/Chromatic_scale), so you can play
 different melodies by changing how much you flex your arm.
 
 The third setting plays the same chromatic scale but slightly out of tune, so
@@ -137,7 +137,7 @@ The fourth setting plays an Indian scale that has different notes than the
 ones western music listeners are used to.
 
 The fifth setting plays "Mary had a Little Lamb" on repeat and, just like a
-real [music box](https_//en.wikipedia.org/wiki/Music_box), lets you alter the
+real [music box](https://en.wikipedia.org/wiki/Music_box), lets you alter the
 speed at which the melody plays.
 
 The sixth setting allows you to slightly alter the frequencies of the notes in
@@ -145,7 +145,7 @@ The sixth setting allows you to slightly alter the frequencies of the notes in
 
 If nursery rhymes aren't really your thing, you can always alter the code and
 change the melody. This is for all our [circuit bending
-friends](http_//blog.backyardbrains.com/2017/03/brainding-project-commences-
+friends](https://blog.backyardbrains.com/2017/03/brainding-project-commences-
 with-first-working-prototype/) out there! Now go make some music and entertain
 your friends and loved ones!
 
@@ -156,17 +156,17 @@ your friends and loved ones!
 > This experiment assumes you have a basic understanding of how to use the
 > Arduino Platform and you know how to upload code to your board. If you are
 > new to arduino, or need a refresher, check out [Getting Started with Arduino
-> on Windows](http_//arduino.cc/en/guide/windows#.UyIUTYW3t4x) or [Getting
+> on Windows](https://arduino.cc/en/guide/windows#.UyIUTYW3t4x) or [Getting
 > Started with Arduino on Mac OS X
-> ](http_//arduino.cc/en/guide/macOSX#.UyIU2IW3t4w).
+> ](https://arduino.cc/en/guide/macOSX#.UyIU2IW3t4w).
 >
-> [Arduino Software](http_//arduino.cc/en/main/software#.Uxd6XYWhZMk)
+> [Arduino Software](https://arduino.cc/en/main/software#.Uxd6XYWhZMk)
 >
 > You can download the sketch here. Check out the comments for some insight
 > into how it works!
 >
 > [Music
-> Sketch](https_//backyardbrains.com/experiments/files/musicalBox2.ino.zip)
+> Sketch](https://backyardbrains.com/experiments/files/musicalBox2.ino.zip)
 
 ### Procedure
 
@@ -174,7 +174,7 @@ your friends and loved ones!
 ![](./img/MuscleMusicSetup.jpg)
 
   1. Your set up is easy! Upload the code to the Arduino, then unplug it from the computer and then plug in a battery to power up your Muscle SpikerShield. 
-  2. Take your [Music-Interface Cable](https_//backyardbrains.com/products/musicinterfacecable) and attach one pin out to digital pin 8 and another one to ground, then plug your cable into a speaker. 
+  2. Take your [Music-Interface Cable](https://backyardbrains.com/products/musicinterfacecable) and attach one pin out to digital pin 8 and another one to ground, then plug your cable into a speaker. 
 
   
 ![](./img/MuscleMusicPins.jpg)
@@ -493,6 +493,6 @@ our social medias and mail you a free BYB Sticker Pack!
 ### Discussion
 
     1. This technology could potentially be used to make "air" instruments, such as air drums or an air guitar. If you hooked up the electrodes to your wrist extensors, could you create a "drumming" type percussion sound? 
-    2. We did not implement a [Pythagorean scale](http_//charlesames.net/sound/tuning.html) in this code, but we leave it to you to play more with different scale arrangements. 
+    2. We did not implement a [Pythagorean scale](https://charlesames.net/sound/tuning.html) in this code, but we leave it to you to play more with different scale arrangements. 
     3. We dealt with pure frequencies here given the limitations of Arduino, but if we wanted to generate more complex sounds, we need to generate more than 1 frequency at once. This is why an A4 note at 440 Hz sounds different on a flute, piano, and guitar, as it deals with the harmonics of the fundamental frequencies generated. Arduino actually allows you to generate three tones at once, if you hook up to three different digital outputs. We haven't tried this though and, again, leave it to you. 
     4. Music theory is new to us, did we miss something or do you have ideas for other music projects? Let [let us know!](mailto_tim@backyardbrains.com)

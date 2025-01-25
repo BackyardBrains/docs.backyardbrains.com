@@ -1,6 +1,6 @@
 ---
 id: experiment__turn_your_cell_phone_into_a_powerful_microscope
-title: "Experiment_ Turn your Cell Phone into a Powerful Microscope"
+title: "Experiment: Turn your Cell Phone into a Powerful Microscope"
 slug: /retired/experiments/turn_your_cell_phone_into_a_powerful_microscope
 ---
 
@@ -26,13 +26,13 @@ magnification using two biology preps!
 
 [RoachScope](/products/RoachScope)
 
-[Glass Slides](http_//www.amazon.com/Blank-Microscope-Slides-Square-
+[Glass Slides](https://www.amazon.com/Blank-Microscope-Slides-Square-
 Cover/dp/B002OS6D9I)
 
-[Slide Covers](http_//www.amazon.com/Blank-Microscope-Slides-Square-
+[Slide Covers](https://www.amazon.com/Blank-Microscope-Slides-Square-
 Cover/dp/B002OS6D9I)
 
-[Toothpick](http_//www.amazon.com/Farberware-5080422-Classic-
+[Toothpick](https://www.amazon.com/Farberware-5080422-Classic-
 Toothpicks-300-Count/dp/B005D6G7U8/ref=sr_1_6?ie=UTF8&qid=1397592626&sr=8-6&keywords=toothpick)
 
 * * *
@@ -74,7 +74,7 @@ up our nervous system. Epithelium shares some similarities, but also
 differences with neurons! Let's check it out below_
 
 [
-![](./img/neuronepithelial.png)](https_//backyardbrains.com/experiments/img/neuronepithelial.png)
+![](./img/neuronepithelial.png)](https://backyardbrains.com/experiments/img/neuronepithelial.png)
 
 Neurons and Epithelial cells do share some things in common. They both have a
 cell membrane, cytoplasm, and nuclei - which contain the cell's DNA and
@@ -102,7 +102,7 @@ High Powered Scope!
 
 ### Prep 1_ Human Cheek
 
-  1. Prepare your glass slide and slide cover by cleaning them with glass cleaning solution and a special glass cleaning cloth. If you have a camera or wear glasses, you can use the glass cleaning cloth that came with those. Otherwise, you can order special, disposable cleaning paper online - [here is an inexpensive option](http_//www.amazon.com/OMAX-Sheets-Microscope-Camera-Cleaning/dp/B00A84NJ1U/ref=sr_1_3?ie=UTF8&qid=1399309334&sr=8-3&keywords=microscope+cleaning+kit)! 
+  1. Prepare your glass slide and slide cover by cleaning them with glass cleaning solution and a special glass cleaning cloth. If you have a camera or wear glasses, you can use the glass cleaning cloth that came with those. Otherwise, you can order special, disposable cleaning paper online - [here is an inexpensive option](https://www.amazon.com/OMAX-Sheets-Microscope-Camera-Cleaning/dp/B00A84NJ1U/ref=sr_1_3?ie=UTF8&qid=1399309334&sr=8-3&keywords=microscope+cleaning+kit)! 
   2. Place a drop of water on the slide. 
   3. Take your toothpick and rub it against the inside of your cheek. Then take the toothpick and roll it through the drop of water. 
   4. Angle your slide cover over it, with one edge of the square touching the slide, then let the cover fall onto the drop of water. Run the flat side of your fingernail across the cover to remove any air from beneath it. Use a tissue paper to blot up water that escapes from beneath the slide cover. 
@@ -110,21 +110,21 @@ High Powered Scope!
   6. Set your cellphone's camera lens on top of the RoachScope's magnifying lens, centering the view of the microscope in the center of your screen. It should look something like this_ 
 
 [
-![](./img/RoachScope1.jpg)](https_//backyardbrains.com/experiments//img/RoachScope1.jpg)
+![](./img/RoachScope1.jpg)](https://backyardbrains.com/experiments//img/RoachScope1.jpg)
 
 [
-![](./img/RoachScope2.jpg)](https_//backyardbrains.com/experiments//img/RoachScope2.jpg)
+![](./img/RoachScope2.jpg)](https://backyardbrains.com/experiments//img/RoachScope2.jpg)
 
   7. Zoom in on your phone! 
   8. If you can't see them already, search for some cells! To help find cells, carefully adjust the glass slide to hunt down your epithelial cells. To help focus you can tap on your screen (most smartphones have this feature) and make slight adjustments to the height of the RoachScope's magnifying platform. (we like to loosen the set screw, then make fine adjustments with the platform's height adjusting knob to find the focus, tightening the set screw once you like your image) 
 
 [ ![](./img/epithelial
-cells.jpg)](https_//backyardbrains.com/experiments/img/epithelial cells.jpg)
+cells.jpg)](https://backyardbrains.com/experiments/img/epithelial cells.jpg)
 
 Also, be sure not to mistake air bubbles for your cells!
 
 [ ![](./img/epithelial
-annot.jpg)](https_//backyardbrains.com/experiments/img/epithelial annot.jpg)
+annot.jpg)](https://backyardbrains.com/experiments/img/epithelial annot.jpg)
 
 ### Prep 2_ Onion
 
@@ -144,7 +144,7 @@ at some more epithelial cells - but this time we're going to examine an onion!
   10. Move the light source to one side so that the onion cells are near the edge of the shadow. This may allow the cell nucleus to be seen (slightly darker than the rest of the cell, about 0.01 mm diameter, quite round). The nucleus houses all of the DNA needed for the entire onion plant. 
   11. With patience, good edge illumination, and a high-power view, some very active cells may have tiny dark vesicles (packages of stuff) moving or vibrating within the cell, usually near the nucleus, but sometimes quite a distance away. These vesicles can be found in areas of the onion that are actively growing. 
 
-[ ![](./img/onion cells.jpg)](https_//backyardbrains.com/experiments/img/onion
+[ ![](./img/onion cells.jpg)](https://backyardbrains.com/experiments/img/onion
 cells.jpg)
 
 Think about what you've seen and talk about it with your peers! Compare your
@@ -164,9 +164,9 @@ in helping develop these preps and write ups!
 
 #### Recent Posts
 
-  * [ It's The Backyard Brains 10-Year Anniversary!](http_//blog.backyardbrains.com/?p=4906)
-  * [ Cincinnati Neuroscience Outreach by BYB Alumna](http_//blog.backyardbrains.com/?p=4870)
-  * [ First Place at Science Fair for Student using BYB Gear](http_//blog.backyardbrains.com/?p=4861)
+  * [ It's The Backyard Brains 10-Year Anniversary!](https://blog.backyardbrains.com/?p=4906)
+  * [ Cincinnati Neuroscience Outreach by BYB Alumna](https://blog.backyardbrains.com/?p=4870)
+  * [ First Place at Science Fair for Student using BYB Gear](https://blog.backyardbrains.com/?p=4861)
 
 #### BYB Information
 
@@ -178,4 +178,4 @@ in helping develop these preps and write ups!
 
 * * *
 
-Copyright © 2009-2017 [ Backyard Brains](http_//backyardbrains.com) | Protected under the Creative Common License [ ](http_//creativecommons.org/licenses/)[](http_//creativecommons.org/licenses/by-sa/3.0/)
+Copyright © 2009-2017 [ Backyard Brains](https://backyardbrains.com) | Protected under the Creative Common License [ ](https://creativecommons.org/licenses/)[](https://creativecommons.org/licenses/by-sa/3.0/)

@@ -1,6 +1,6 @@
 ---
 id: experiment__the_auditory_brainstem_response
-title: "Experiment_ The Auditory Brainstem Response"
+title: "Experiment: The Auditory Brainstem Response"
 slug: /retired/experiments/the_auditory_brainstem_response
 ---
 
@@ -20,16 +20,16 @@ electrical responses from your own ear, brainstem, and cerebral cortex.
 
 ##### Prerequisite Labs
 
-  * [Experiment_ EEG - Recording from the human brain](https_//backyardbrains.com/experiments/eeg) \- This will introduce you to the concept of recording from large neural populations (you only need to read)
-  * [Experiment_ The P300 Surprise Signal](https_//backyardbrains.com/experiments/p300) \- This will introduce you to concept of averaging potentials (also only need to read)
+  * [Experiment_ EEG - Recording from the human brain](https://backyardbrains.com/experiments/eeg) \- This will introduce you to the concept of recording from large neural populations (you only need to read)
+  * [Experiment_ The P300 Surprise Signal](https://backyardbrains.com/experiments/p300) \- This will introduce you to concept of averaging potentials (also only need to read)
 
 ##### Equipment
 
-[Muscle SpikerBox Pro](https_//backyardbrains.com/products/musclespikerboxpro)
+[Muscle SpikerBox Pro](https://backyardbrains.com/products/musclespikerboxpro)
 
-[EEG headband](https_//backyardbrains.com/products/EEGheadband)
+[EEG headband](https://backyardbrains.com/products/EEGheadband)
 
-[electrode gel](https_//backyardbrains.com/products/emgelectrodegel)
+[electrode gel](https://backyardbrains.com/products/emgelectrodegel)
 
 * * *
 
@@ -37,7 +37,7 @@ electrical responses from your own ear, brainstem, and cerebral cortex.
 
 _
 
-* Contrary to intuition, we will use the[Muscle SpikerBox Pro](https_//backyardbrains.com/products/musclespikerboxpro) for this experiment rather than the [Heart and Brain SpikerBox](https_//backyardbrains.com/products/heartAndBrainSpikerBox). We are measuring the auditory system, which is very fast, and we are measuring nerve responses that occur within 2-15 ms after the click. We need the high frequency filters that the Heart and Brain SpikerBox is not designed for. Also the Muscle SpikerBox could alternatively be called the "High Frequency Non-invasive Human Neuromotorphysiology SpikerBox" but our marketing team killed that name.
+* Contrary to intuition, we will use the[Muscle SpikerBox Pro](https://backyardbrains.com/products/musclespikerboxpro) for this experiment rather than the [Heart and Brain SpikerBox](https://backyardbrains.com/products/heartAndBrainSpikerBox). We are measuring the auditory system, which is very fast, and we are measuring nerve responses that occur within 2-15 ms after the click. We need the high frequency filters that the Heart and Brain SpikerBox is not designed for. Also the Muscle SpikerBox could alternatively be called the "High Frequency Non-invasive Human Neuromotorphysiology SpikerBox" but our marketing team killed that name.
 _
 
 Some of us are familiar with audiologists and auditory exams if you have
@@ -82,12 +82,12 @@ Yes, such a test exists, and it is called the
 ![](./img/ABR_text.jpg)
 
 which stands for the "[Acoustic Brainstem
-Response](https_//en.wikipedia.org/wiki/Auditory_brainstem_response)" and
+Response](https://en.wikipedia.org/wiki/Auditory_brainstem_response)" and
 works whether or not you are paying attention! Great for babies. The ABR
 measures the averaged potential to the presentation of about 2000 clicks. One
 electrode goes on the mastoid process behind the ear (or on the earlobe), the
 second electrode on [encephalography
-point](https_//en.wikipedia.org/wiki/10%E2%80%9320_system_\(EEG\)) Cz on the
+point](https://en.wikipedia.org/wiki/10%E2%80%9320_system_\(EEG\)) Cz on the
 top of your head between your ears, and the ground on Fz in the middle of your
 forehead.
 
@@ -98,12 +98,12 @@ click presentations, you can see the various peaks and valleys in the evoked
 potential that correspond to different parts of the auditory anatomy. For
 example, there is a wave around ~1 ms that consists in the cochlear response,
 called peak I. There is a wave ~3 ms that corresponds to the [lateral olivary
-nucleus](https_//en.wikipedia.org/wiki/Superior_olivary_complex#Lateral_superior_olive_\(LSO\))
+nucleus](https://en.wikipedia.org/wiki/Superior_olivary_complex#Lateral_superior_olive_\(LSO\))
 of the brainstem called peak III. There is a wave at 5 ms that corresponds to
-the [inferior colliculus](https_//en.wikipedia.org/wiki/Inferior_colliculus)
+the [inferior colliculus](https://en.wikipedia.org/wiki/Inferior_colliculus)
 (part of the midbrain) that is named, unsurprisingly, peak V, and so on.
 Around 14 ms there may be a peak that is
-[cortical](https_//en.wikipedia.org/wiki/Auditory_cortex).
+[cortical](https://en.wikipedia.org/wiki/Auditory_cortex).
 
 ![](./img/Auditory_Physiology_BW_web.jpg)
 
@@ -118,7 +118,7 @@ experiment!
 #### Downloads
 
 > Before you begin, make sure you have the [Backyard Brains Spike
-> Recorder](https_//backyardbrains.com/products/spikerecorder) installed on
+> Recorder](https://backyardbrains.com/products/spikerecorder) installed on
 > your computer. The Backyard Brains Spike Recorder program allows you to
 > visualize data on your computer when doing experiments. You will also need
 > to download "Audacity" to play the sound files in repetitive mode. For now,
@@ -126,34 +126,34 @@ experiment!
 > trial).
 >
 > [Spike Recorder Computer
-> Software](https_//backyardbrains.com/products/spikerecorder)
+> Software](https://backyardbrains.com/products/spikerecorder)
 >
 > [Arduino Code for
-> SpikeRecorder](https_//raw.githubusercontent.com/BackyardBrains/SpikerShield/master/Muscle/Arduino%20Code/SpikeRecorder/SpikeRecorderSpikerShield_V1_1.ino)
+> SpikeRecorder](https://raw.githubusercontent.com/BackyardBrains/SpikerShield/master/Muscle/Arduino%20Code/SpikeRecorder/SpikeRecorderSpikerShield_V1_1.ino)
 >
-> [Audacity](https_//www.audacityteam.org/)
+> [Audacity](https://www.audacityteam.org/)
 >
 > [Click Sound File - 9 minutes of 4 Hz
-> clicks](https_//backyardbrains.com/experiments/files/9_minutes_of_clicks.mp3)
+> clicks](https://backyardbrains.com/experiments/files/9_minutes_of_clicks.mp3)
 >
 > [Matlab Trial
-> Download](https_//www.mathworks.com/campaigns/products/trials.highResolutionDisplay.html)
+> Download](https://www.mathworks.com/campaigns/products/trials.highResolutionDisplay.html)
 >
 > [Matlab Script for Doing ABR
-> Analysis](https_//backyardbrains.com/experiments/files/ABR_analysisV2.zip)
+> Analysis](https://backyardbrains.com/experiments/files/ABR_analysisV2.zip)
 
 ## Video
 
 ## Experimental Procedure
 
-  1. Place the electrodes. One goes on the mastoid process behind the ear you want to test. It is the bony projection that you can easily feel. This may be confusing, as in our [previous EEG](https_//backyardbrains.com/experiments/eeg) experiments, this location was the ground location, and in this experiment, it is the signal location. As we have [stated before](https_//backyardbrains.com/experiments/referencing) there is no such thing as a perfect ground in electrophysiology, and where you place your ground depends on the signal you are trying to measure. Since we are measuring the auditory system, it makes sense that our signal electrode goes as close to the cochlea as possible. The second electrode goes on the Cz and is directly on top of your head between your ears. We are going to use our [EEG headband](https_//backyardbrains.com/products/EEGheadband) for the Cz location. Slide the headband under the chin and over your head so that the electrode is located directly at the top of your head in between your two ears. You will need to apply some [conductive gel](https_//backyardbrains.com/products/emgelectrodegel) to the space in between the electrode and the top of your head. The last electrode, the ground electrode, is nothing more than an electrode patch you put in the middle of your forehead, called Fz. 
+  1. Place the electrodes. One goes on the mastoid process behind the ear you want to test. It is the bony projection that you can easily feel. This may be confusing, as in our [previous EEG](https://backyardbrains.com/experiments/eeg) experiments, this location was the ground location, and in this experiment, it is the signal location. As we have [stated before](https://backyardbrains.com/experiments/referencing) there is no such thing as a perfect ground in electrophysiology, and where you place your ground depends on the signal you are trying to measure. Since we are measuring the auditory system, it makes sense that our signal electrode goes as close to the cochlea as possible. The second electrode goes on the Cz and is directly on top of your head between your ears. We are going to use our [EEG headband](https://backyardbrains.com/products/EEGheadband) for the Cz location. Slide the headband under the chin and over your head so that the electrode is located directly at the top of your head in between your two ears. You will need to apply some [conductive gel](https://backyardbrains.com/products/emgelectrodegel) to the space in between the electrode and the top of your head. The last electrode, the ground electrode, is nothing more than an electrode patch you put in the middle of your forehead, called Fz. 
   2. Download the sound file above, open in Audacity, and put it on repeat play. You can also open it in any other audio program. 
-  3. Put an audio splitter in your computer output port. Plug headphones into one port and a male-male audio cable in the other port (our [Backyard Brains audio cable](https_//backyardbrains.com/products/laptopcable), for example). 
+  3. Put an audio splitter in your computer output port. Plug headphones into one port and a male-male audio cable in the other port (our [Backyard Brains audio cable](https://backyardbrains.com/products/laptopcable), for example). 
   4. Put headphones in the ear you are testing. Adjust the volume so the sound is loud but not uncomfortable. 
   5. Put the other end of the audio cable into channel two of your Muscle SpikerBox Pro. 
   6. Plug the orange electrode cable into channel one of your Muscle SpikerBox Pro. The red alligator clips attach to the electrode on your ear mastoid and the electrode on top of your head (point Cz). The black alligator clip goes onto the electrode on your forehead (point Fz). 
-  7. Connect to the Muscle SpikerBox Pro to your computer using the USB cable and open our [SpikeRecorder Software](https_//backyardbrains.com/products/spikerecorder). Turn the Muscle SpikerPro on, and a USB icon will appear in the upper left screen. Click the USB icon, and also go into settings and assign a color to the second channel. You should now see two channels on the main screen_ 1) the recording from your ear on channel 1, 2) and the auditory clicks on channel 2. 
-  8. Begin recording. Since we need about 2000 click presentations, and the sound above occurs at 4 Hz, you will need to listen for 500 seconds, or 8 minutes and 20 seconds. Don't move your head, don't do anything. We often just [read a book](https_//en.wikipedia.org/wiki/The_Road) with minimal body movement. 
+  7. Connect to the Muscle SpikerBox Pro to your computer using the USB cable and open our [SpikeRecorder Software](https://backyardbrains.com/products/spikerecorder). Turn the Muscle SpikerPro on, and a USB icon will appear in the upper left screen. Click the USB icon, and also go into settings and assign a color to the second channel. You should now see two channels on the main screen_ 1) the recording from your ear on channel 1, 2) and the auditory clicks on channel 2. 
+  8. Begin recording. Since we need about 2000 click presentations, and the sound above occurs at 4 Hz, you will need to listen for 500 seconds, or 8 minutes and 20 seconds. Don't move your head, don't do anything. We often just [read a book](https://en.wikipedia.org/wiki/The_Road) with minimal body movement. 
   9. Done! Now disconnect everything and open Matlab. 
   10. In Matlab, click the button "import data" and select the .wav file of your recording. 
   11. Now type the line ABR_analysisV2 

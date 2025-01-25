@@ -1,6 +1,6 @@
 ---
 id: experiment__targeted_memory_reactivation
-title: "Experiment_ Targeted Memory Reactivation"
+title: "Experiment: Targeted Memory Reactivation"
 slug: /retired/experiments/targeted_memory_reactivation
 ---
 
@@ -31,11 +31,11 @@ None
 ##### Equipment
 
 [Heart and Brain
-SpikerBox](https_//backyardbrains.com/products/heartAndBrainSpikerBox)
+SpikerBox](https://backyardbrains.com/products/heartAndBrainSpikerBox)
 
 Laptop
 
-[SpikeRecorder](https_//backyardbrains.com/products/spikerecorder)
+[SpikeRecorder](https://backyardbrains.com/products/spikerecorder)
 
 * * *
 
@@ -89,32 +89,32 @@ forget less?
 ## DIY Neuroscience Episode of Experiment
 
 > [How Sound Can Hack Your Memory While You
-> Sleep](https_//www.facebook.com/DIYNeuro/videos/234975840406258/)
+> Sleep](https://www.facebook.com/DIYNeuro/videos/234975840406258/)
 >
 > All you might need to improve your memory is a pair of headphones and a
 > comfortable sofa.
 >
-> Posted by [DIY Neuroscience](https_//www.facebook.com/DIYNeuro/) on Monday,
+> Posted by [DIY Neuroscience](https://www.facebook.com/DIYNeuro/) on Monday,
 > March 26, 2018
 
 ## Materials
 
 For this experiment you will need_
 
-  * [Backyard Brains Heart and Brain SpikerBox](https_//backyardbrains.com/products/heartAndBrainSpikerBox)
+  * [Backyard Brains Heart and Brain SpikerBox](https://backyardbrains.com/products/heartAndBrainSpikerBox)
   * Laptop, phone or tablet for seeing EEGs
   * iPad/ Any Apple device for the memory game
-  * [Backyard Brains Spike Recorder](https_//backyardbrains.com/products/spikerecorder)
+  * [Backyard Brains Spike Recorder](https://backyardbrains.com/products/spikerecorder)
   * Xcode
   * A sleepy subject
 
 ## Procedure
 
 Download the software app for Xcode, and install on your iPad_ [Available
-Here](https_//github.com/BackyardBrains/Projects/tree/master/Sleep%20and%20Memory).
+Here](https://github.com/BackyardBrains/Projects/tree/master/Sleep%20and%20Memory).
 We are hoping to release this as an app one day.... Instructions for
 installing and running the app can be found in [This
-Document](https_//docs.google.com/document/d/17ZqScaqQpJggKxGstVt43BhiDLVuuwdlMeZWWjB-
+Document](https://docs.google.com/document/d/17ZqScaqQpJggKxGstVt43BhiDLVuuwdlMeZWWjB-
 Xck/edit?usp=sharing).
 
 Prep your Subject_ Place an electrode patch on the mastoid bone behind the ear

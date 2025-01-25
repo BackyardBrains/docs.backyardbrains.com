@@ -1,6 +1,6 @@
 ---
 id: experiment__hunt_for_a_single_motor_unit
-title: "Experiment_ Hunt for a Single Motor Unit"
+title: "Experiment: Hunt for a Single Motor Unit"
 slug: /retired/experiments/hunt_for_a_single_motor_unit
 ---
 
@@ -33,8 +33,8 @@ patient and creative enough to complete the hunt.
 
 _Based on experiments and writing by Colorado State University student Breonna
 E. Holland, Associate Professor[Brian L.
-Tracy](http_//www.hes.chhs.colostate.edu/faculty-staff/tracy.aspx), and CSU's
-[Muscles Alive!](https_//www.facebook.com/MusclesAliveCSU/) outreach program._
+Tracy](https://www.hes.chhs.colostate.edu/faculty-staff/tracy.aspx), and CSU's
+[Muscles Alive!](https://www.facebook.com/MusclesAliveCSU/) outreach program._
 
 In several other experiments, we talked about the motor unit - a single motor
 nerve cell, or motor neuron, and all of the muscle fibers that the neuron
@@ -44,9 +44,9 @@ sensory neuron) that sends messages to the spinal cord and helps us feel
 things.
 
 Motor neuron axons have special synapses with muscles called [neuromuscular
-junctions](https_//en.wikipedia.org/wiki/Neuromuscular_junction) that release
+junctions](https://en.wikipedia.org/wiki/Neuromuscular_junction) that release
 the neurotransmitter
-[acetylcholine](https_//en.wikipedia.org/wiki/Acetylcholine) onto muscle cells
+[acetylcholine](https://en.wikipedia.org/wiki/Acetylcholine) onto muscle cells
 to activate them, causing muscle fiber action potentials. This is what we see
 in the electromyography (EMG) signal - the muscle fibers of a motor unit
 firing action potentials in response to the acetylcholine!
@@ -99,17 +99,17 @@ of a single motor nerve cell from your own central nervous system.
 #### Downloads
 
 > Before you begin, make sure you have the [Backyard Brains Spike
-> Recorder](https_//backyardbrains.com/products/spikerecorder) installed on
+> Recorder](https://backyardbrains.com/products/spikerecorder) installed on
 > your computer/smartphone/tablet. The Backyard Brains Spike Recorder program
 > allows you to visualize and save the data on your computer when doing
 > experiments. We have also built a simple lab handout to help you tabulate
 > your data.
 >
 > [Spike Recorder Computer
-> Software](https_//backyardbrains.com/products/spikerecorder)
+> Software](https://backyardbrains.com/products/spikerecorder)
 >
 > [Class
-> Handout](https_//backyardbrains.com/experiments/files/Hunt_for_Motor_Unit_handout.pdf)
+> Handout](https://backyardbrains.com/experiments/files/Hunt_for_Motor_Unit_handout.pdf)
 
 ## Video
 
@@ -122,7 +122,7 @@ the interossei muscles of the hand and the temporalis muscle of the jaw.
 
   1. Set up your Muscle SpikerBox Pro using a smartphone or computer with the Spike Recorder app. Make sure the red leads are attached to the metal tabs on the popsicle sticks and the black ground is around the screw you will gripping with your hand. Add conductive gel to the metal tabs attached to the red alligator clips.
   2. Connect the USB cable from the the Muscle SpikerBox Pro to the computer. Open Spike Recorder, and turn on your Muscle SpikerBox Pro. A USB icon should appear on the main SpikeRecorder screen. Click on it to connect to your Muscle SpikerBox Pro. (Note_ If you are using a tablet, smartphone, and/or a Regular Muscle SpikerBox, you can connect to your tablet/smartphone/computer with the green smartphone audio cable. 
-  3. Place the electrodes over the back of your hand between the knuckles as shown in our [Muscle Action Potentials](https_//backyardbrains.com/experiments/muscleactionpotential) experiment. 
+  3. Place the electrodes over the back of your hand between the knuckles as shown in our [Muscle Action Potentials](https://backyardbrains.com/experiments/muscleactionpotential) experiment. 
   4. Have your friend place a pen or pencil(eraser side down) adjacent to your middle finger. Have your friend veeeeeeeeerrrrrryyyyyy gently try move your finger with the pencil with a minimum of force. 
   5. Now resist the pressure of the pencil oh so gently. You should begin hearing the distinct "pop" sound of an individual motor neuron causing its accompanying muscle fibers to discharge. This is a challenging experiment in self-control! To ensure the best possible conditions, try to do this experiment in a room that is relatively quiet in both ambient sound and ambient electrical noise. You can also try hooking up a secondary "louder" battery-powered speaker using the Backyard Brains blue audio cable that comes with your gear. This may help hear the faint individual popping of individual motor units.
   6. If you are finding trouble getting only one motor unit to fire in your hand, you can try another muscle, the temporalis of your jaw. 

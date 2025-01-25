@@ -1,6 +1,6 @@
 ---
 id: experiment__recording_the_muscles_of_clams
-title: "Experiment_ Recording the Muscles of Clams"
+title: "Experiment: Recording the Muscles of Clams"
 slug: /retired/experiments/recording_the_muscles_of_clams
 ---
 
@@ -21,11 +21,11 @@ record the electromyograms of its lateral muscles.
 
 ##### Prerequisite Labs
 
-  * [Experiment_ Record Electricity from your Muscles](https_//backyardbrains.com/experiments/muscleSpikerBox) \- This will introduce you to the concept of electromyography.
+  * [Experiment_ Record Electricity from your Muscles](https://backyardbrains.com/experiments/muscleSpikerBox) \- This will introduce you to the concept of electromyography.
 
 ##### Equipment
 
-[Muscle SpikerBox](https_//backyardbrains.com/products/muscleSpikerboxBundle)
+[Muscle SpikerBox](https://backyardbrains.com/products/muscleSpikerboxBundle)
 
 * * *
 
@@ -51,7 +51,7 @@ are in the mollusk phylum (phylum is a division of the kingdom of types of
 animals). The clams are bivalve mollusks, as are oysters and mussels, with two
 shells that close to protect the soft tissue of the animal. Some types of
 bivalves, like scallops, can even "flap" their shells to [swim through the
-ocean water for brief periods](https_//www.youtube.com/watch?v=NBH3UvlZo90).
+ocean water for brief periods](https://www.youtube.com/watch?v=NBH3UvlZo90).
 Note that not all mollusks have shells though, like squids, octopuses, and
 slugs.
 
@@ -116,15 +116,15 @@ muscle! Let's try to record the EMG of the adductors now!
     6. Insert the other red map pin electrode nearby. 
     7. Insert the black map pin ground electrode in the general mantle tissue. 
     8. Plug the orange electrode cable into your Muscle SpikerBox. 
-    9. If using a Muscle SpikerBox, plug the Muscle SpikerBox into a table or smartphone using the green smartphone cable. If using the Muscle SpikerBox Pro, connect it to your computer using the USB cable and open our [SpikeRecorder Software](https_//backyardbrains.com/products/spikerecorder). Turn the Muscle SpikerPro on, and a USB icon will appear in the upper left screen. Click the USB icon to connect to your Muscle SpikerBox Pro. 
+    9. If using a Muscle SpikerBox, plug the Muscle SpikerBox into a table or smartphone using the green smartphone cable. If using the Muscle SpikerBox Pro, connect it to your computer using the USB cable and open our [SpikeRecorder Software](https://backyardbrains.com/products/spikerecorder). Turn the Muscle SpikerPro on, and a USB icon will appear in the upper left screen. Click the USB icon to connect to your Muscle SpikerBox Pro. 
     10. Now lightly tap lightly on different parts of the remaining shell. You should see the EMG spikes of the adductor muscles responding to the tap. Tap various parts of the shell. Do you notice if some parts are more sensitive than others? 
     11. After you are done with the recording, you can dispose of the clam. We recommend steaming it and eating it. 
 
 ## Discussion
 
-    1. Another favorite animal of ours, the [mantis shrimp](https_//blog.backyardbrains.com/2018/06/mantis-shrimp-do-me-a-favor/), is a [predator of clams](https_//www.youtube.com/watch?v=i-ahuZEvWH8). 
-    2. Working with mollusk electrophysiology is new to us. Our only other experiments on the mollusk animal phylum were an exploratory [demonstration in squid](https_//blog.backyardbrains.com/2012/08/insane-in-the-chromatophores/) and and two intern projects on [squid hatchling phototaxis](https_//blog.backyardbrains.com/?s=Squid+Hatchlings) and [octopus adult aggression](https_//backyardbrains.com/experiments/OctopusFighting) behavior. Do you have a request or a suggestion? E-mail us to [let us know](mailto_tim@backyardbrains.com)! It would also be interesting to work on experiments from [echinoderms](https_//en.wikipedia.org/wiki/Echinoderm), another animal phylum distinct from mollusks and arthropods. 
-    3. Using [adhesive patch electrodes](https_//backyardbrains.com/products/emglargeelectrodes), you can also record your own adductor muscles. In humans, these muscles bring your legs together. Gym patrons exercise them to shape their thighs.
+    1. Another favorite animal of ours, the [mantis shrimp](https://blog.backyardbrains.com/2018/06/mantis-shrimp-do-me-a-favor/), is a [predator of clams](https://www.youtube.com/watch?v=i-ahuZEvWH8). 
+    2. Working with mollusk electrophysiology is new to us. Our only other experiments on the mollusk animal phylum were an exploratory [demonstration in squid](https://blog.backyardbrains.com/2012/08/insane-in-the-chromatophores/) and and two intern projects on [squid hatchling phototaxis](https://blog.backyardbrains.com/?s=Squid+Hatchlings) and [octopus adult aggression](https://backyardbrains.com/experiments/OctopusFighting) behavior. Do you have a request or a suggestion? E-mail us to [let us know](mailto_tim@backyardbrains.com)! It would also be interesting to work on experiments from [echinoderms](https://en.wikipedia.org/wiki/Echinoderm), another animal phylum distinct from mollusks and arthropods. 
+    3. Using [adhesive patch electrodes](https://backyardbrains.com/products/emglargeelectrodes), you can also record your own adductor muscles. In humans, these muscles bring your legs together. Gym patrons exercise them to shape their thighs.
     4. Try to record the EMG of the adductor muscles in clams of various sizes. One would suspect that the larger the clam, the larger the EMG amplitude, due to the muscle being larger. 
     5. Unlike the common clam, the scallop only has one muscle instead of two muscles. In a scallop of similar size to a clam, try to record the the comparative EMG amplitude from its one muscle. What would you expect to see? 
 
@@ -150,11 +150,11 @@ when you are done with the experiments.
 ## Abandoned Project_ the Clam Electrocardiogram
 
 Hi friends, Eduardo here. Astute followers of Backyard Brains, who [read our
-blog](https_//blog.backyardbrains.com/2019/02/backyard-brains-
+blog](https://blog.backyardbrains.com/2019/02/backyard-brains-
 welcomes-2019-university-of-santiago-interns/), may remember_ "Hey wasn't
 there some electrocardiogram (EKG) project that was trying to replicate [Henry
 Dale's famous acetylcholine
-experiment](https_//www.ncbi.nlm.nih.gov/pmc/articles/PMC2591841/pdf/yjbm00162-0034.pdf),
+experiment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2591841/pdf/yjbm00162-0034.pdf),
 but using clam hearts instead of frog hearts?" You are correct, for 6 weeks of
 my 8 week internship, I tried to record the EKG of the clam. The results,
 however, were confusing. Sometimes we would see what looked like an EKG (see

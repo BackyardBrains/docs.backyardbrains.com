@@ -1,6 +1,6 @@
 ---
 id: experiment__debunking_the_p-value_with_statistics
-title: "Experiment_ Debunking the P-value with Statistics"
+title: "Experiment: Debunking the P-value with Statistics"
 slug: /retired/experiments/debunking_the_p-value_with_statistics
 ---
 
@@ -30,8 +30,8 @@ You should have data ready from previous experiments. If not, go back to one
 of the experiments listed below and collect some data, or follow along using
 our data set for left and right hand reaction times.
 
-  * [Reaction Time](http_//www.backyardbrains.com/experiments/reactiontime)
-  * [Comparing Nerve Speed](http_//www.backyardbrains.com/experiments/comparingNerveSpeed)
+  * [Reaction Time](https://www.backyardbrains.com/experiments/reactiontime)
+  * [Comparing Nerve Speed](https://www.backyardbrains.com/experiments/comparingNerveSpeed)
 
 ##### Equipment
 
@@ -101,7 +101,7 @@ Now that we have the raw data written down, we can begin to look over the
 results. There appear to be no "strange" values, so our data set is probably
 good. For example, if one of our values were a .78, we would probably throw
 this value out and not use it. Sound fishy? Sure does, but there is math to
-it, which can read more about [outliers](http_//en.wikipedia.org/wiki/Outlier)
+it, which can read more about [outliers](https://en.wikipedia.org/wiki/Outlier)
 here.
 
 Next, we want to organize the data specifically for both our hypothesis_
@@ -262,7 +262,7 @@ calculate below.
 
 [ ![](./img/BYB_exp4_pic15_ttest1.png)](img/BYB_exp4_pic15_ttest1.png)
 
-* Note how the subscript "1" represents the data for the right-hand sample and the subscript "2" represents the data for the left-hand sample. This annotation [replicaimitation](https_//www.replicaimitation.com/blog/) will stay consistent during our calculations. 
+* Note how the subscript "1" represents the data for the right-hand sample and the subscript "2" represents the data for the left-hand sample. This annotation [replicaimitation](https://www.replicaimitation.com/blog/) will stay consistent during our calculations. 
 
 Next let's substitute the letters in the equation above with our numerical
 values.
@@ -274,7 +274,7 @@ values.
 Now that we have pooled variance, Sp^2= .000119, we use it to calculate the
 t-statistic_
 
-[https_//backyardbrains.com](https_//backyardbrains.com/products/css/index.html)
+[https://backyardbrains.com](https://backyardbrains.com/products/css/index.html)
 
 [ ![](./img/BYB_exp4_pic15_ttest3.png)](img/BYB_exp4_pic15_ttest3.png)
 
@@ -296,7 +296,7 @@ Our t-statistic, t, is .2046
 
 We compare our t-statistic against the standard t-value chart, and you can
 look it up in the back of a statistics textbook or here_ [t-value
-chart](http_//www.stattools.net/tTest_Tab.php). For this we also need our
+chart](https://www.stattools.net/tTest_Tab.php). For this we also need our
 "degrees of freedom", our df, which is the number of independent pieces of
 information that are FREE to vary.
 
@@ -373,9 +373,9 @@ does not mean evidence of absence."
 
 #### Recent Posts
 
-  * [ It's The Backyard Brains 10-Year Anniversary!](http_//blog.backyardbrains.com/?p=4906)
-  * [ Cincinnati Neuroscience Outreach by BYB Alumna](http_//blog.backyardbrains.com/?p=4870)
-  * [ First Place at Science Fair for Student using BYB Gear](http_//blog.backyardbrains.com/?p=4861)
+  * [ It's The Backyard Brains 10-Year Anniversary!](https://blog.backyardbrains.com/?p=4906)
+  * [ Cincinnati Neuroscience Outreach by BYB Alumna](https://blog.backyardbrains.com/?p=4870)
+  * [ First Place at Science Fair for Student using BYB Gear](https://blog.backyardbrains.com/?p=4861)
 
 #### BYB Information
 
@@ -387,4 +387,4 @@ does not mean evidence of absence."
 
 * * *
 
-Copyright © 2009-2017 [ Backyard Brains](http_//backyardbrains.com) | Protected under the Creative Common License [ ](http_//creativecommons.org/licenses/)[](http_//creativecommons.org/licenses/by-sa/3.0/)
+Copyright © 2009-2017 [ Backyard Brains](https://backyardbrains.com) | Protected under the Creative Common License [ ](https://creativecommons.org/licenses/)[](https://creativecommons.org/licenses/by-sa/3.0/)

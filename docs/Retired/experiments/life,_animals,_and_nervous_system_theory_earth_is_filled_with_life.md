@@ -1,6 +1,6 @@
 ---
 id: _background__life,_animals,_and_nervous_system_theory
-title: " Background_ Life, Animals, and Nervous System Theory"
+title: " Background: Life, Animals, and Nervous System Theory"
 slug: /retired/experiments/life,_animals,_and_nervous_system_theory_earth_is_filled_with_life
 ---
 
@@ -25,7 +25,7 @@ types of nervous systems therein.
 
 ##### Equipment
 
-[Your Brain](http_//en.wikipedia.org/wiki/Brain)
+[Your Brain](https://en.wikipedia.org/wiki/Brain)
 
 * * *
 
@@ -44,12 +44,12 @@ two [1]. Question three remains the unknown of unknowns [2].
 We tackle question one here_ what is Life? In the 1970's, Chilean scientists
 Humberto Maturana and Francisco Varela wrote of 4 properties common to all
 living systems in their influential philosophical work
-"[Autopoiesis](https_//en.wikipedia.org/wiki/Autopoiesis)_ On Machines and
+"[Autopoiesis](https://en.wikipedia.org/wiki/Autopoiesis)_ On Machines and
 Living Things."
 
 [ ![](./img/WhatisLife_web.jpg)](img/WhatisLife_web.jpg)
 
-* All life systems consist of **separation** , be it cells or viruses, of an inside environment and an outside environment, typically using hydrocarbon "[micelles](https_//en.wikipedia.org/wiki/Micelle)" than can spontaneously form in solutions [3]. 
+* All life systems consist of **separation** , be it cells or viruses, of an inside environment and an outside environment, typically using hydrocarbon "[micelles](https://en.wikipedia.org/wiki/Micelle)" than can spontaneously form in solutions [3]. 
 * A living system also consists of **cycles** between chemical components_ metabolic activity among proteins, amino acids, fats, sugars, etc.
 * Life begets more life, given its ability for **reproduction**.
 * Life has **behavior** \- it seeks conditions ideal for its own existence. If Life is hungry, Life eats. If Life is cold, Life seeks warmth. If Life is damaged, Life self-repairs. 
@@ -124,8 +124,8 @@ But as biology is famous for, there are exceptions to nervous system
 organization. A sea star has radial symmetry but does not have a neural net;
 it has a type of ganglia called a "nerve ring." And not all animals have
 nervous systems- specifically the two most basal animals_
-[porifera](https_//en.wikipedia.org/wiki/Sponge) (sponges) and
-[placozoa](https_//en.wikipedia.org/wiki/Placozoa) (the trichoplax). All other
+[porifera](https://en.wikipedia.org/wiki/Sponge) (sponges) and
+[placozoa](https://en.wikipedia.org/wiki/Placozoa) (the trichoplax). All other
 animals though, be it jellyfish, clams, crustaceans, insects, fish, lizards,
 birds, mammals, and of course we humans, have nervous systems.
 
@@ -153,7 +153,7 @@ And in general, the larger the organism, the more neurons it has.
 [ ![](./img/neurongroup_web.jpg)](img/neurongroup_web.jpg)
 
 What creature is the question mark? It is a ["sea-
-squirt,"](https_//en.wikipedia.org/wiki/Ascidiacea) a type of animal that is
+squirt,"](https://en.wikipedia.org/wiki/Ascidiacea) a type of animal that is
 motile in its larval phase, but once it finds a rock substrate, it undergoes
 metamorphosis and sometimes dissolves its own nervous system in its sedentary
 form! The world of invertebrate neuroanatomy is full of strange secrets on the
@@ -174,11 +174,11 @@ Clues may lie in these creatures.
 [ ![](./img/But_Wait.jpg)](img/But_Wait.jpg)
 
 The neuron only evolving once [is now up for
-debate](https_//www.quantamagazine.org/20150325-did-neurons-evolve-twice/) due
+debate](https://www.quantamagazine.org/20150325-did-neurons-evolve-twice/) due
 to the recent genetic sequencing of comb jellies (Ctenophora). Comb jellies
 are sometimes popularly considered jellyfish but are a completely different
 type of marine creature. Notably, they are the largest life forms that [swim
-with cilia along their bodies](https_//www.youtube.com/watch?v=bW3sqB7RTIc)
+with cilia along their bodies](https://www.youtube.com/watch?v=bW3sqB7RTIc)
 (like super size protists). The genetic studies have revealed that comb
 jellies have ion channels in their neurons that are distinct from all other
 animals' ion channels. Perhaps it developed neurons independently. New
@@ -195,12 +195,12 @@ guarded by the comb jellies.....we await the unveiling.
 ##  Notes
 
 [**1**] You can read about the [famous experiments of Miller-
-Urey](https_//en.wikipedia.org/wiki/Miller%E2%80%93Urey_experiment) if you are
+Urey](https://en.wikipedia.org/wiki/Miller%E2%80%93Urey_experiment) if you are
 curious into the question of abiogenesis and how living systems systems can
 emerge from primordial terrestrial chemistry.
 
 [**2**] Planet-Hunter Astronomers are trying to identify "["habitable
-zone"](https_//en.wikipedia.org/wiki/Circumstellar_habitable_zone) planets
+zone"](https://en.wikipedia.org/wiki/Circumstellar_habitable_zone) planets
 that contain spectral evidence of water, considered a universal solvent of
 life. The sub-surface sea on Jupiter's moon Europa also is an intriguing
 candidate, as well as the strange "hydrocarbon" oceans on Saturn's moon Titan.
@@ -215,17 +215,17 @@ Fungus, and Animals.
 ## Discussion Questions
 
 * How starfish have radial symmetry but yet contain ganglia is due to their ancestors. Reading about their classification will reveal why. Hint_ They are more related to bilateral animals. 
-* Robots that can self assemble is [an active research topic](http_//news.mit.edu/2013/simple-scheme-for-self-assembling-robots-1004). What do you think would be required for a robot to be considered alive? 
-* As stated before, we know very little how neural nets function, but this is beginning to change. ["Back to Basics_ Cnidarians Start to Fire"](https_//www.ncbi.nlm.nih.gov/pubmed/28041633) (paywall) by Rafael Yuste and colleagues, summarizes emerging studies of creatures with neural nets and where we are. 
+* Robots that can self assemble is [an active research topic](https://news.mit.edu/2013/simple-scheme-for-self-assembling-robots-1004). What do you think would be required for a robot to be considered alive? 
+* As stated before, we know very little how neural nets function, but this is beginning to change. ["Back to Basics_ Cnidarians Start to Fire"](https://www.ncbi.nlm.nih.gov/pubmed/28041633) (paywall) by Rafael Yuste and colleagues, summarizes emerging studies of creatures with neural nets and where we are. 
 
 ## Acknowledgements
 
 * We thank an anonymous visitor to our Detroit Maker Faire stand way back in 2010. When we said_ "All animals have nervous systems," he responded with "What is an animal then?" We realized we did not have a satisfactory answer and were ignorant. 
-* We also thank Biologist Daniela Flores of the Chilean Science outreach group [MicroMundo](http_//micromundo.microscopiavirtual.cl/) for advising us on comparative biology and classification. 
+* We also thank Biologist Daniela Flores of the Chilean Science outreach group [MicroMundo](https://micromundo.microscopiavirtual.cl/) for advising us on comparative biology and classification. 
 
 ##  References
 
 [ ![](./img/maturanaVSvarela_web.jpg)](img/maturanaVSvarela_web.jpg)
 
-* [The Tree of Knowledge](https_//www.amazon.com/Tree-Knowledge-Biological-Roots-Understanding/dp/0877736421) by Humberto Maturana and Francisco Varela - An accesible work on the properties life has and its development, based on the famous academic philosophical work by the same authors_ [On Machines and Living Things](https_//www.amazon.com/Maquinas-Seres-Vivos-Spanish/dp/9870003869/ref=sr_1_1?s=books&ie=UTF8&qid=1480638335&sr=1-1&keywords=maquinas+y+seres+vivos) (Spanish)
-* [Biology](https_//www.amazon.com/Campbell-Biology-11th-Lisa-Urry/dp/0134093410/ref=pd_cp_14_4?_encoding=UTF8&pd_rd_i=0134093410&pd_rd_r=HVM5K5Y06ZCHHYY1MJ6P&pd_rd_w=LgWhO&pd_rd_wg=C6CYO&psc=1&refRID=HVM5K5Y06ZCHHYY1MJ6P) by Neil Campbell - Our go-to general biology reference. You can find previous editions usually very cheaply or free at used bookstores or libraries.
+* [The Tree of Knowledge](https://www.amazon.com/Tree-Knowledge-Biological-Roots-Understanding/dp/0877736421) by Humberto Maturana and Francisco Varela - An accesible work on the properties life has and its development, based on the famous academic philosophical work by the same authors_ [On Machines and Living Things](https://www.amazon.com/Maquinas-Seres-Vivos-Spanish/dp/9870003869/ref=sr_1_1?s=books&ie=UTF8&qid=1480638335&sr=1-1&keywords=maquinas+y+seres+vivos) (Spanish)
+* [Biology](https://www.amazon.com/Campbell-Biology-11th-Lisa-Urry/dp/0134093410/ref=pd_cp_14_4?_encoding=UTF8&pd_rd_i=0134093410&pd_rd_r=HVM5K5Y06ZCHHYY1MJ6P&pd_rd_w=LgWhO&pd_rd_wg=C6CYO&psc=1&refRID=HVM5K5Y06ZCHHYY1MJ6P) by Neil Campbell - Our go-to general biology reference. You can find previous editions usually very cheaply or free at used bookstores or libraries.

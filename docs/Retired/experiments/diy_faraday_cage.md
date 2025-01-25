@@ -1,6 +1,6 @@
 ---
 id: experiment___diy_faraday_cage
-title: "Experiment_  DIY Faraday Cage"
+title: "Experiment:  DIY Faraday Cage"
 slug: /retired/experiments/diy_faraday_cage
 ---
 
@@ -60,7 +60,7 @@ can be used to block many of these noise sources.
 
 The Faraday cage is named after 1800s scientist Michael Faraday, but to learn
 how the cage works we start with another famous scientist, [Charles-Augustin
-de Coulomb](http_//en.wikipedia.org/wiki/Charles-Augustin_de_Coulomb). Coulomb
+de Coulomb](https://en.wikipedia.org/wiki/Charles-Augustin_de_Coulomb). Coulomb
 did much work on the dynamics of charged particles and the electric fields
 that they generate. Coulomb determined that the electric field, "E", at a
 radius "r" away from a stationary point charge, "Q", could be calculated by
@@ -97,7 +97,7 @@ interference.
 ![](./img/Fig2_Sketch_FaradayCage_Fields.jpeg)](img/Fig2_Sketch_FaradayCage_Fields.jpeg)
 
 Faraday first demonstrated this in a [famous ice bucket and metal sphere
-experiment](https_//en.wikipedia.org/wiki/Faraday's_ice_pail_experiment).
+experiment](https://en.wikipedia.org/wiki/Faraday's_ice_pail_experiment).
 Faraday lowered a metal ball charged with static electricity into a metal
 bucket supported by a wooden chair that insulated the bucket from the ground.
 When the charged ball was lowered into the bucket without touching the bucket,
@@ -119,7 +119,7 @@ use a Faraday Cage.
 ##### Building the Faraday Cage
 
 Note that we also sell [pre-made Faraday
-Cages](http_//www.backyardbrains.com/products/faradaycage) if you do not want
+Cages](https://www.backyardbrains.com/products/faradaycage) if you do not want
 to visit the hardware store.
 
   1. Measure out an 8 x 16 inch rectangle of screen metal mesh 
@@ -136,7 +136,7 @@ to visit the hardware store.
 
 ##### Using the Faraday Cage for Spikes
 
-  1. Set up a standard cockroach leg recording prep as described in [Experiment 1](http_//www.backyardbrains.com/experiments/spikerbox)
+  1. Set up a standard cockroach leg recording prep as described in [Experiment 1](https://www.backyardbrains.com/experiments/spikerbox)
   2. Create a noisy environment by hooking up a laptop to wall outlet and turning on a soldering iron or other high power appliance. Place your SpikerBox by these electronics, and also turn on all fluorescent lights in the room. Record your observations on noise level vs. neural signal level. 
   3. Clip an alligator clip to the ground (outside of RCA connector) on the Spikerbox. 
   4. Place your Spikerbox into your Faraday cage, with cage open. Record your observations on noise level vs. neural signal level. 

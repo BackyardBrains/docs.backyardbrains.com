@@ -1,6 +1,6 @@
 ---
 id: experiment__effect_of_nerve_stretch_on_conduction_velocity
-title: "Experiment_ Effect of Nerve Stretch on Conduction Velocity"
+title: "Experiment: Effect of Nerve Stretch on Conduction Velocity"
 slug: /retired/experiments/effect_of_nerve_stretch_on_conduction_velocity
 ---
 
@@ -32,7 +32,7 @@ time an impulse takes to travel along an axon.
 
 [Laptop Cable](/products/laptopcable)
 
-[USB 2-Channel Adaptor](http_//www.amazon.com/Griffin-Technology-iMic-Audio-
+[USB 2-Channel Adaptor](https://www.amazon.com/Griffin-Technology-iMic-Audio-
 Device/dp/B000BVV2IC)
 
 * * *
@@ -42,7 +42,7 @@ Device/dp/B000BVV2IC)
 _Note_ In 2014, older, related experiments by our team were peer-reviewed and
 published by the American Physiological Society in the journal "Advances in
 Physiology Education" -[Read the paper intrepid
-scientists!](http_//advan.physiology.org/content/38/1/62) for a more
+scientists!](https://advan.physiology.org/content/38/1/62) for a more
 formalized treatment of cable theory and worm anatomy._
 
 We return to the concept of [conduction velocity](speed). The earthworm is a
@@ -98,7 +98,7 @@ will increase.**
 
 **2)** The Nerve is like a Chinese Finger Trap, with a structure whose
 diameter decreases when extended. Recall from [our previous
-experiments](https_//www.backyardbrains.com/experiments/comparingNerveSpeed)
+experiments](https://www.backyardbrains.com/experiments/comparingNerveSpeed)
 that the two important components of cable theory are the length constant and
 the time constant.
 
@@ -143,7 +143,7 @@ Now we go to our lab and investigate!!!
 
 #### Downloads
 
-> [Spike Recorder Software](https_//backyardbrains.com/products/spikerecorder)
+> [Spike Recorder Software](https://backyardbrains.com/products/spikerecorder)
 
 ## Video
 
@@ -151,11 +151,11 @@ Now we go to our lab and investigate!!!
 
 The materials required for this lab are exactly the same as the experiment
 ["Introduction to Conduction
-Velocity"](http_//backyardbrains.com/experiments/speed#Materials), save for
+Velocity"](https://backyardbrains.com/experiments/speed#Materials), save for
 one-two extra items_
 
-  1. Digital Vernier Calipers (available at [Auto parts stores](http_//www.autozone.com/clamps-and-measuring-tools/vernier-caliper/oem-6-in-electronic-digital-caliper/864649_0_0/), [hardware stores](http_//www.acehardware.com/product/index.jsp?productId=2278941), [Amazon](http_//www.amazon.com/60%25-OFF-Digital-Stainless-Precision/dp/B00TL1A4E6/ref=sr_1_3?s=industrial&ie=UTF8&qid=1433982876&sr=1-3&keywords=digital+vernier)) 
-  2. Modern laptops, over the past four years, have stopped having stereo audio inputs. We recommend the [iMic](http_//www.amazon.com/Griffin-Technology-iMic-Audio-Device/dp/B000BVV2IC) to provide stereo audio input to your computer. 
+  1. Digital Vernier Calipers (available at [Auto parts stores](https://www.autozone.com/clamps-and-measuring-tools/vernier-caliper/oem-6-in-electronic-digital-caliper/864649_0_0/), [hardware stores](https://www.acehardware.com/product/index.jsp?productId=2278941), [Amazon](https://www.amazon.com/60%25-OFF-Digital-Stainless-Precision/dp/B00TL1A4E6/ref=sr_1_3?s=industrial&ie=UTF8&qid=1433982876&sr=1-3&keywords=digital+vernier)) 
+  2. Modern laptops, over the past four years, have stopped having stereo audio inputs. We recommend the [iMic](https://www.amazon.com/Griffin-Technology-iMic-Audio-Device/dp/B000BVV2IC) to provide stereo audio input to your computer. 
 
 ## Procedure
 
@@ -167,8 +167,8 @@ experiments, as shown above in the video._
   3. Place the Red Electrode (channel one) 2-3 cm away from mouth. The mouth of the worm is the end closest to the fleshy "clitellum" in the worm. 
   4. Place the White Electrode (channel two) 6-8 cm away from mouth. 
   5. Place the Black Electrode (ground) some distance further away. 
-  6. Plug the electrodes into your 2-channel SpikerBox, the stereo audio out cable into your USB stereo audio adaptor (typically an [iMic](http_//www.amazon.com/Griffin-Technology-iMic-Audio-Device/dp/B000BVV2IC)), and the USB end of the iMic into the USB port of your computer. 
-  7. Open our [SpikeRecorder](https_//backyardbrains.com/products/spikerecorder) software, open preferences (the gear symbol), and enable your two iMic Audio channels. Also unmute the Speaker output in the preferences so you can hear the evoked spikes. 
+  6. Plug the electrodes into your 2-channel SpikerBox, the stereo audio out cable into your USB stereo audio adaptor (typically an [iMic](https://www.amazon.com/Griffin-Technology-iMic-Audio-Device/dp/B000BVV2IC)), and the USB end of the iMic into the USB port of your computer. 
+  7. Open our [SpikeRecorder](https://backyardbrains.com/products/spikerecorder) software, open preferences (the gear symbol), and enable your two iMic Audio channels. Also unmute the Speaker output in the preferences so you can hear the evoked spikes. 
   8. Using your Digital Vernier Calipers, measure the distance between the Red and Black electrode pins. 
   9. Press the record button on your Spike Recorder software, and using a plastic or glass probe, tap the mouth end of the worm. You should hear the evoked spikes caused by the tap. Make 3-4 taps, separated by about 3-4 seconds each. _Note_ USB sound adaptors like the iMac have a ~1 second delay due to the USB aquisition. This delay was edited in the video above for educational purposes, but you will hear the spikes about ~1 second after you touch the worm. This is due to the USB sound acquisition adding a delay, not the worm_
   10. Turn the SpikerBox off to cause a blank space in the recording as a reference space. 
@@ -178,13 +178,13 @@ experiments, as shown above in the video._
 
 **Data Analysis**
 
-  1. As shown in the video above (and in the [intro](https_//backyardbrains.com/experiments/speed), [comparing nerve speed](https_//backyardbrains.com/experiments/comparingNerveSpeed), and [temperature](https_//backyardbrains.com/experiments/WormTemperature) experiments), measure the time delay between the two channels. 
+  1. As shown in the video above (and in the [intro](https://backyardbrains.com/experiments/speed), [comparing nerve speed](https://backyardbrains.com/experiments/comparingNerveSpeed), and [temperature](https://backyardbrains.com/experiments/WormTemperature) experiments), measure the time delay between the two channels. 
   2. Try doing it in multiple spikes in the same animal, and perhaps comparing the LGN vs. the MGN. 
   3. Use the following table below as a guide. 
 
 [ ![](./img/TableNerveStretch.jpg)](img/TableNerveStretch.jpg)
 
-  4. Statistically test your results (see our [intro to p-values](https_//backyardbrains.com/experiments/p-value) writeup for how to do this. You may notice that while the time delay ("segments per second") change is statistically significant, the conduction velocity ("meters per second") is not. Strange and interesting, why is such so? [E-mail us](mailto_tim@backyardbrains.com)if you think you have the answer 
+  4. Statistically test your results (see our [intro to p-values](https://backyardbrains.com/experiments/p-value) writeup for how to do this. You may notice that while the time delay ("segments per second") change is statistically significant, the conduction velocity ("meters per second") is not. Strange and interesting, why is such so? [E-mail us](mailto_tim@backyardbrains.com)if you think you have the answer 
 
 ## Discussion
 
@@ -231,7 +231,7 @@ worm the time delay is not as pronounced...
 4) We are not the first to observe this effect. As usual with visits to the
 library when reading about invertebrates, the road leads to the Esteemed
 Biologist [Theodore
-Bullock](http_//en.wikipedia.org/wiki/Theodore_Holmes_Bullock) who noted in a
+Bullock](https://en.wikipedia.org/wiki/Theodore_Holmes_Bullock) who noted in a
 [1945
 paper](files/Bullock_1945_Functional_Organization_of_the_Giant_Fiber_System_of_Lumbricus.pdf)
 "The Functional Organization of the Giant Fiber System of the Lumbricus" that_
@@ -272,11 +272,11 @@ permit slight changes in length constant?
 
 ## Notes / Further Work
 
-    1. It is worth a trip to the your university library to spend a couple hours browsing Theodore Bullock's tome, [The Structure and Function of the Nervous System in Invertebrates](http_//www.worldcat.org/title/structure-and-function-in-the-nervous-systems-of-invertebrates/oclc/558128) and marvel on the scale of the unknown that exists in the world of the invertebrates. 
-    2. Thanks go to the [Dunalastair Colegio](http_//www.dunalastair.cl/LasCondes/Pages/Index.aspx), a high school in Santiago, Chile, where we first observed this effect during a teacher training workshop, and to Alejandra Riveros Campos, a Chilean Colleague who then helped with the systematic experiments verifying the time difference. 
-    3. What would happen if the nerve were cooled, as [in a previous experiment](https_//www.backyardbrains.com/experiments/WormTemperature), and then the stretched vs. unstretched time difference measured? 
+    1. It is worth a trip to the your university library to spend a couple hours browsing Theodore Bullock's tome, [The Structure and Function of the Nervous System in Invertebrates](https://www.worldcat.org/title/structure-and-function-in-the-nervous-systems-of-invertebrates/oclc/558128) and marvel on the scale of the unknown that exists in the world of the invertebrates. 
+    2. Thanks go to the [Dunalastair Colegio](https://www.dunalastair.cl/LasCondes/Pages/Index.aspx), a high school in Santiago, Chile, where we first observed this effect during a teacher training workshop, and to Alejandra Riveros Campos, a Chilean Colleague who then helped with the systematic experiments verifying the time difference. 
+    3. What would happen if the nerve were cooled, as [in a previous experiment](https://www.backyardbrains.com/experiments/WormTemperature), and then the stretched vs. unstretched time difference measured? 
     4. We have left out the pesky detail that [earthworm axons are actually myelinated](file/Hartline_Colman_2007_MyelinReview.pdf) and that saltatory conduction is occurring. How does this affect the interpretation of the results and our hypotheses? 
 
 _Note_ _ Gracias to [Italo Ahumada
-Morasky](http_//www.italoahumada.cl/about/), a Chilean artist who illustrated
+Morasky](https://www.italoahumada.cl/about/), a Chilean artist who illustrated
 this experiment with us.

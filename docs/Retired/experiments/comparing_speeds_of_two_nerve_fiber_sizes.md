@@ -1,6 +1,6 @@
 ---
 id: experiment__comparing_speeds_of_two_nerve_fiber_sizes
-title: "Experiment_ Comparing Speeds of Two Nerve Fiber Sizes"
+title: "Experiment: Comparing Speeds of Two Nerve Fiber Sizes"
 slug: /retired/experiments/comparing_speeds_of_two_nerve_fiber_sizes
 ---
 
@@ -39,7 +39,7 @@ axons.
 
 _Note_ This experiment was peer-reviewed and published by the American
 Physiological Society in the journal "Advances in Physiology Education" -[Read
-the paper, intrepid scientists,](http_//advan.physiology.org/content/38/1/62)
+the paper, intrepid scientists,](https://advan.physiology.org/content/38/1/62)
 for a more in-depth treatment of the experiment described below_.
 
 Previously, you learned how to measure conduction velocity from the
@@ -109,7 +109,7 @@ length constant of 1 mm, that means at 1 mm away from the cell body in an
 axon, 37% of the voltage magnitude remains. At 2 mm away from the cell body in
 an axon, 14% of the magnitude remains, and at 3 mm away, 5% remains. This is
 representative of an [ "exponential decay"](
-http_//en.wikipedia.org/wiki/Exponential_decay) function.
+https://en.wikipedia.org/wiki/Exponential_decay) function.
 
 The length constant is calculated from rm and ri. rm is the electrical
 resistance of the neuron's membrane, or how "electrically leaky" it is. The
@@ -245,7 +245,7 @@ in fat), so it's not the perfect solution for all animals. But...even the
 largest axons without myelin in the animal kingdom, such as the 1 mm diameter
 squid giant axon, only has a conduction velocity of 20-25 m/s second! You have
 myelinated axons in your body (the [ A alpha fibers](
-http_//en.wikipedia.org/wiki/Nerve_fiber)) that are only 13-20 μm in diameter
+https://en.wikipedia.org/wiki/Nerve_fiber)) that are only 13-20 μm in diameter
 (1/100 of the size of the squid axon), yet have conduction velocities that are
 80-120 m/s! Myelin is a wonderful biological invention, allowing neurons to
 get both small and fast, but it is expensive.
@@ -267,19 +267,19 @@ our results match the theory!
 
 #### Downloads
 
-> [Spike Recorder Software](https_//backyardbrains.com/products/spikerecorder)
+> [Spike Recorder Software](https://backyardbrains.com/products/spikerecorder)
 >
 > [Experiment in Editable Word .docx
-> Format](https_//backyardbrains.com/experiments/files/Experiment-Comparing-
+> Format](https://backyardbrains.com/experiments/files/Experiment-Comparing-
 > Nerve-Speed.docx)
 
 ## Video
 
 Note_ The video below is a more recent July 2015 video on our [worm
-stretch](https_//backyardbrains.com/experiments/wormstretch) experiment, but
+stretch](https://backyardbrains.com/experiments/wormstretch) experiment, but
 serves as a tutorial to use our new software, and the procedure is very
 similar. You can view the original [December 2012 video
-here](https_//www.youtube.com/watch?feature=player_embedded&v=qZFTuOxUVok).
+here](https://www.youtube.com/watch?feature=player_embedded&v=qZFTuOxUVok).
 
 ## Video
 
@@ -287,7 +287,7 @@ here](https_//www.youtube.com/watch?feature=player_embedded&v=qZFTuOxUVok).
 
 ##### The Materials Required For This Lab Are Exactly The Same As The
 Experiment_ [Introduction to Conduction Velocity (Neural
-Speed)](http_//backyardbrains.com/experiments/speed#Materials)
+Speed)](https://backyardbrains.com/experiments/speed#Materials)
 
   1. Anesthetize and take a recording of the posterior end of the worm as you did in the previous experiment. 
 
@@ -329,7 +329,7 @@ If your experiment was successful, you should have found that the MGN
 1.2x faster, but more like 2-4x faster! Why is this? You may recall that the
 earthworm neurons are actually myelinated! Some invertebrates, such as some
 shrimp and some worms, actually do have
-[myelin](http_//en.wikipedia.org/wiki/Myelin ).
+[myelin](https://en.wikipedia.org/wiki/Myelin ).
 
 Typically, as axon increases its diameter, its myelin thickness also
 increases. Perhaps the MGN has a thicker myelin sheath as well. This would

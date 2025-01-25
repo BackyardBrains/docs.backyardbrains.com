@@ -1,6 +1,6 @@
 ---
 id: experiment__oxygen_and_spiking
-title: "Experiment_ Oxygen and Spiking"
+title: "Experiment: Oxygen and Spiking"
 slug: /retired/experiments/oxygen_and_spiking
 ---
 
@@ -36,7 +36,7 @@ deprivation on a cockroach leg's neurons.
 ## Background
 
 Let's recall a [former
-experiment](http_//wiki.backyardbrains.com/Experiment%3A_Power_Consumption),
+experiment](https://wiki.backyardbrains.com/Experiment%3A_Power_Consumption),
 where we talked about the energy neurons need to continue generating spikes
 and specifically the energy needed to operate the sodium-potassium pump. This
 energy is provided by adenosine triphostate, or ATP. ATP is made from the
@@ -114,7 +114,7 @@ spiking activity in the cockroach leg.
 
 Since the leg of the cockroach gets all its oxygen through the open wound (see
 our discovery of this when [we visited our friendly local electron
-microscopist](http_//blog.backyardbrains.com/2010/11/byb-visits-a-scanning-
+microscopist](https://blog.backyardbrains.com/2010/11/byb-visits-a-scanning-
 electron-microscope/)), we can "starve" the leg of oxygen by simply liberally
 coating the leg with petroleum jelly (vaseline).
 
@@ -135,7 +135,7 @@ coating the leg with petroleum jelly (vaseline).
 
 ## Procedure
 
-  1. Anesthesize a cockroach in ice water, cut off two legs, and hook up each leg into your SpikerBox as you did in [Experiment 1](http_//backyardbrains.com/experiments/spikerbox) to test if you can hear spiking. Note that you do not need two SpikerBoxes to do this experiment; you can simply swap out the electrodes that are hooked up to each cockroach leg. 
+  1. Anesthesize a cockroach in ice water, cut off two legs, and hook up each leg into your SpikerBox as you did in [Experiment 1](https://backyardbrains.com/experiments/spikerbox) to test if you can hear spiking. Note that you do not need two SpikerBoxes to do this experiment; you can simply swap out the electrodes that are hooked up to each cockroach leg. 
   2. Liberally coat one leg (the "experimental leg") with petroleum jelly using a toothpick and start your stopwatch. 
   3. Every 10-15 minutes, manipulate both the control and experimental leg by touching one of the barbs to see if you can evoke spikes. 
   4. After a time, the experimental leg should stop spiking (if it doesn't you may not have put enough petroleum jelly on the leg to create a good seal against the air.) Mark down the time the spikes stopped. 

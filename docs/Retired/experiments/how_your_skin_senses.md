@@ -1,6 +1,6 @@
 ---
 id: experiment__how_your_skin_senses
-title: "Experiment_ How Your Skin Senses"
+title: "Experiment: How Your Skin Senses"
 slug: /retired/experiments/how_your_skin_senses
 ---
 
@@ -111,7 +111,7 @@ experiment in [Neural Adaptation](somatotopy).
 
 #### For this experiment you need_
 
-  1. Calipers [Measuring tool purchased at auto part or hardware store] [AutoZone Caliper](http_//www.autozone.com/autozone/accessories/Tools-Garage-and-Equipment/Vernier-Caliper/OEM/_/N-26elZ1z141ur)
+  1. Calipers [Measuring tool purchased at auto part or hardware store] [AutoZone Caliper](https://www.autozone.com/autozone/accessories/Tools-Garage-and-Equipment/Vernier-Caliper/OEM/_/N-26elZ1z141ur)
   2. Paper 
   3. Writing Utensil 
   4. Eye Shades 

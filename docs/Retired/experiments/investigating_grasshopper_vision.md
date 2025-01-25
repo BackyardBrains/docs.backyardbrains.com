@@ -1,6 +1,6 @@
 ---
 id: experiment__investigating_grasshopper_vision
-title: "Experiment_ Investigating Grasshopper Vision"
+title: "Experiment: Investigating Grasshopper Vision"
 slug: /retired/experiments/investigating_grasshopper_vision
 ---
 
@@ -28,11 +28,11 @@ stimuli.
 
 ##### Equipment
 
-[Neuron SpikerBox Bundle](https_//backyardbrains.com/products/SpikerBoxBundle)
+[Neuron SpikerBox Bundle](https://backyardbrains.com/products/SpikerBoxBundle)
 
-[Manipulator](https_//backyardbrains.com/products/micromanipulator)
+[Manipulator](https://backyardbrains.com/products/micromanipulator)
 
-[RoachScope](https_//backyardbrains.com/products/RoachScope)
+[RoachScope](https://backyardbrains.com/products/RoachScope)
 
 * * *
 
@@ -101,7 +101,7 @@ we can take extracellular recordings of the DCMDs.
 
 Also, this experiment has been published! Check out the full publication in
 [JUNE (Journal of Undergraduate Neuroscience Education)
-here!](http_//www.funjournal.org/wp-content/uploads/2017/05/june-15-162.pdf)
+here!](https://www.funjournal.org/wp-content/uploads/2017/05/june-15-162.pdf)
 
 #### Downloads
 

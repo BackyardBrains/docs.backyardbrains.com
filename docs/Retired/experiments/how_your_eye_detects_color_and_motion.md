@@ -1,6 +1,6 @@
 ---
 id: experiment__how_your_eye_detects_color_and_motion
-title: "Experiment_ How Your Eye Detects Color and Motion"
+title: "Experiment: How Your Eye Detects Color and Motion"
 slug: /retired/experiments/how_your_eye_detects_color_and_motion
 ---
 
@@ -81,11 +81,11 @@ traveling to the brain. The arteries supply fresh blood and nutrients to the
 eye. The Fovea has no rods, but it is full of cones.
 
 How do your rods and cones transform light into electrical signals? They use
-special proteins called [opsins](http_//en.wikipedia.org/wiki/Opsin), which
+special proteins called [opsins](https://en.wikipedia.org/wiki/Opsin), which
 turn the photons absorbed by the Rods and Cones into specific electrochemical
 signals that are then sent to the optic nerve and eventually the brain. This
 process is called
-[Phototransduction](http_//en.wikipedia.org/wiki/Visual_phototransduction) and
+[Phototransduction](https://en.wikipedia.org/wiki/Visual_phototransduction) and
 human vision has four essential types of opsin_ one for rods and three for the
 cones. In your photoreceptors (your rods and cones), opsins are coupled with
 vitamin A (found in carrots). Vitamin A acts as a light absorbing molecule;
@@ -158,9 +158,9 @@ each role. Below is that chart that you will use for recording_
 
 #### Recent Posts
 
-  * [ It's The Backyard Brains 10-Year Anniversary!](http_//blog.backyardbrains.com/?p=4906)
-  * [ Cincinnati Neuroscience Outreach by BYB Alumna](http_//blog.backyardbrains.com/?p=4870)
-  * [ First Place at Science Fair for Student using BYB Gear](http_//blog.backyardbrains.com/?p=4861)
+  * [ It's The Backyard Brains 10-Year Anniversary!](https://blog.backyardbrains.com/?p=4906)
+  * [ Cincinnati Neuroscience Outreach by BYB Alumna](https://blog.backyardbrains.com/?p=4870)
+  * [ First Place at Science Fair for Student using BYB Gear](https://blog.backyardbrains.com/?p=4861)
 
 #### BYB Information
 
@@ -172,4 +172,4 @@ each role. Below is that chart that you will use for recording_
 
 * * *
 
-Copyright © 2009-2017 [ Backyard Brains](http_//backyardbrains.com) | Protected under the Creative Common License [ ](http_//creativecommons.org/licenses/)[](http_//creativecommons.org/licenses/by-sa/3.0/)
+Copyright © 2009-2017 [ Backyard Brains](https://backyardbrains.com) | Protected under the Creative Common License [ ](https://creativecommons.org/licenses/)[](https://creativecommons.org/licenses/by-sa/3.0/)

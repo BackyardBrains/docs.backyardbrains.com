@@ -1,6 +1,6 @@
 ---
 id: experiment__eye_potentials_(the_eog)
-title: "Experiment_ Eye Potentials (The EOG)"
+title: "Experiment: Eye Potentials (The EOG)"
 slug: /retired/experiments/eye_potentials_(the_eog)
 ---
 
@@ -61,13 +61,13 @@ Now let's observe and measure the signal!
 #### Downloads
 
 > Before you begin, make sure you have the [Backyard Brains Spike
-> Recorder](https_//backyardbrains.com/products/spikerecorder) installed on
+> Recorder](https://backyardbrains.com/products/spikerecorder) installed on
 > your computer or mobile device. The Backyard Brains Spike Recorder program
 > allows you to visualize and save the data on your computer/tablet/phone when
 > doing experiments.
 >
 > [Spike Recorder Software for Displaying and Saving Data on Computer of
-> mobile device](https_//backyardbrains.com/products/spikerecorder)
+> mobile device](https://backyardbrains.com/products/spikerecorder)
 >
 > ## Procedure
 >
@@ -80,7 +80,7 @@ Now let's observe and measure the signal!
 >   2. Add globs of electrode gel underneath the metal patches in the
 > headband.
 >   3. Now, add an electrode patch on the bony protrusion behind your ear (the
-> [mastoid process](http_//en.wikipedia.org/wiki/Mastoid_process)).
+> [mastoid process](https://en.wikipedia.org/wiki/Mastoid_process)).
 >   4. Note_ An alternative electrode setup is to put both electrodes patch
 > electrodes on either side of the temples, on the outer side of the eyes..
 >   5. Now it's time to connect your electrodes! place the red alligator clips
@@ -126,7 +126,7 @@ Now let's observe and measure the signal!
 >
 > ##  Notes
 >
-> Gracias goes to [Italo Ahumada Morasky](http_//www.italoahumada.cl/about/),
+> Gracias goes to [Italo Ahumada Morasky](https://www.italoahumada.cl/about/),
 > a Chilean artist who illustrated our Serbian Hero at the request of Jose.
 >
 > ## Science Fair Project Ideas

@@ -1,6 +1,6 @@
 ---
 id: experiment__signal_classification
-title: "Experiment_ Signal Classification"
+title: "Experiment: Signal Classification"
 slug: /retired/experiments/signal_classification
 ---
 
@@ -17,8 +17,8 @@ Difficulty  Advanced
 #### What will you learn?
 
 This is a continuation of our
-[Neuroprosthetics](https_//www.backyardbrains.com/experiments/neuroprosthetics)
-and [EMG SpikerShield](https_//backyardbrains.com/experiments/emgspikershield)
+[Neuroprosthetics](https://www.backyardbrains.com/experiments/neuroprosthetics)
+and [EMG SpikerShield](https://backyardbrains.com/experiments/emgspikershield)
 experiments; only now, you will use multiple EMG Signals from your forearm to
 attempt to control individual fingers on a robotic hand.
 
@@ -83,8 +83,8 @@ ANNs.
 ![](./img/representacion_graficos_web.jpg)](img/representacion_graficos_web.jpg)
 
 At present we are implementing [euclidean
-distance](https_//en.wikipedia.org/wiki/Euclidean_distance) and [support
-vector machine](https_//en.wikipedia.org/wiki/Support_vector_machine)
+distance](https://en.wikipedia.org/wiki/Euclidean_distance) and [support
+vector machine](https://en.wikipedia.org/wiki/Support_vector_machine)
 algorithms to isolate individual finger movements to control individual
 fingers of a robotic hand.
 
@@ -100,15 +100,15 @@ fingers of a robotic hand.
 > continuous loop, but the inner button on your 5 Channel Board causes the
 > hand to make a peace sign, and the outer button causes a fist.
 >
-> [Arduino Software](http_//arduino.cc/en/main/software#.Uxd6XYWhZMk)
+> [Arduino Software](https://arduino.cc/en/main/software#.Uxd6XYWhZMk)
 >
 > Download our Arduino(.ino) sketches and Control Software
 >
 > [ Control Arduino
-> Sketch](https_//backyardbrains.com/products/files/HackerHand_Arduino_v0_BB_Oct2016.ino.zip)
+> Sketch](https://backyardbrains.com/products/files/HackerHand_Arduino_v0_BB_Oct2016.ino.zip)
 >
 > [Random Mode Arduino
-> Sketch](https_//backyardbrains.com/products/files/HackerHand_Test_FingersLoop_FistPeaceV2.ino.zip)
+> Sketch](https://backyardbrains.com/products/files/HackerHand_Test_FingersLoop_FistPeaceV2.ino.zip)
 
 ## Video
 
@@ -133,7 +133,7 @@ below) we hope to redesign._
 
 [ ![](./img/HH-PluggingInUSB.jpg)](img/HH-PluggingInUSB.jpg)
 
-  5. Plug the other side of the USB Cable into the computer, and you are ready to begin your first test! Load the [Random Mode Arduino Sketch](https_//backyardbrains.com/products/files/HackerHand_Test_FingersLoop_FistPeaceV2.ino.zip) (also above) on your Arduino, turn the USB battery on that gives power to the Hand Server Motors, and you should see the fingers begin to move in a hypnotic random fashion! The inner button on your 5 Channel Board also causes the hand to make a peace sign, and the outer button causes a fist. 
+  5. Plug the other side of the USB Cable into the computer, and you are ready to begin your first test! Load the [Random Mode Arduino Sketch](https://backyardbrains.com/products/files/HackerHand_Test_FingersLoop_FistPeaceV2.ino.zip) (also above) on your Arduino, turn the USB battery on that gives power to the Hand Server Motors, and you should see the fingers begin to move in a hypnotic random fashion! The inner button on your 5 Channel Board also causes the hand to make a peace sign, and the outer button causes a fist. 
   6. Now it is time to wire yourself up. Plug in the electrode cables. Note colored tape labels. 
 
 [ ![](./img/HH-EMG-Cables.jpg)](img/HH-EMG-Cables.jpg)
@@ -153,8 +153,8 @@ labelled.jpg)
 
 [ ![](./img/HH-Ground-Cable_labelled.jpg)](img/HH-Ground-Cable_labelled.jpg)
 
-  9. Load the [Human Control Arduino Sketch](https_//backyardbrains.com/products/files/HackerHand_Arduino_2.7.ino.zip) (also above) on your Arduino. 
-  10. With your Arduino loaded with the control Code, open our [BYB HackerHand Control (MacOS)](https_//backyardbrains.com/products/files/BYB_HackerHand_Control_v2.7.zip) software on your laptop. As you move your fingers, you should see the levels for each channel change. 
+  9. Load the [Human Control Arduino Sketch](https://backyardbrains.com/products/files/HackerHand_Arduino_2.7.ino.zip) (also above) on your Arduino. 
+  10. With your Arduino loaded with the control Code, open our [BYB HackerHand Control (MacOS)](https://backyardbrains.com/products/files/BYB_HackerHand_Control_v2.7.zip) software on your laptop. As you move your fingers, you should see the levels for each channel change. 
 
 [ ![](./img/HH-ControlSoftware-LevelsChange.jpg)](img/HH-ControlSoftware-
 LevelsChange.jpg)
@@ -176,7 +176,7 @@ Calibrate.jpg)
   * We're hooking up to the forearm, but not everybody who needs a hand has a forearm they can use. Can you control the hand with muscles farther up your arm? Biceps? Shoulder muscles? 
 
 _Note1_ _ Gracias to [Italo Ahumada
-Morasky](http_//www.italoahumada.cl/about/), a Chilean artist who illustrated
+Morasky](https://www.italoahumada.cl/about/), a Chilean artist who illustrated
 this experiment with us.
 
 _Note2_ _ Thanks to Professor DJ Brasier and his students at Carnegie Mellon
@@ -193,32 +193,32 @@ for providing a easily-understandable and hackable control Arduino Sketch
 > "BYB HackerHand Control" is our software that talks to the EMG SpikerShield,
 > controls the Hacker Hand, and does the signal classification.
 >
-> [Arduino Software](http_//arduino.cc/en/main/software#.Uxd6XYWhZMk)
+> [Arduino Software](https://arduino.cc/en/main/software#.Uxd6XYWhZMk)
 >
 > Download our Arduino(.ino) sketches and Control Software
 >
 > [Human Control Arduino
-> Sketch](https_//backyardbrains.com/products/files/HackerHand_Arduino_v2.7.ino.zip)
+> Sketch](https://backyardbrains.com/products/files/HackerHand_Arduino_v2.7.ino.zip)
 >
 > [BYB HackerHand Control (beta)
-> (MacOS)](https_//backyardbrains.com/products/files/BYB_HackerHand_Control_v2.7.zip)
+> (MacOS)](https://backyardbrains.com/products/files/BYB_HackerHand_Control_v2.7.zip)
 >
 > [BYB HackerHand Control (alpha) (Windows
-> 8)](https_//backyardbrains.com/products/files/BYB_HackerHand_Control_Win8_Installer.EXE.zip)
+> 8)](https://backyardbrains.com/products/files/BYB_HackerHand_Control_Win8_Installer.EXE.zip)
 >
 > [GitHub Source Code Repository (whole
-> project)](https_//github.com/TimByB/HackerHand-Control)
+> project)](https://github.com/TimByB/HackerHand-Control)
 >
 > [GitHub Source Code Repository (Mac
-> Version)](https_//github.com/TimByB/HackerHand-Control/releases/tag/1.2)
+> Version)](https://github.com/TimByB/HackerHand-Control/releases/tag/1.2)
 
 #### Twitter
 
 #### Recent Posts
 
-  * [ It's The Backyard Brains 10-Year Anniversary!](http_//blog.backyardbrains.com/?p=4906)
-  * [ Cincinnati Neuroscience Outreach by BYB Alumna](http_//blog.backyardbrains.com/?p=4870)
-  * [ First Place at Science Fair for Student using BYB Gear](http_//blog.backyardbrains.com/?p=4861)
+  * [ It's The Backyard Brains 10-Year Anniversary!](https://blog.backyardbrains.com/?p=4906)
+  * [ Cincinnati Neuroscience Outreach by BYB Alumna](https://blog.backyardbrains.com/?p=4870)
+  * [ First Place at Science Fair for Student using BYB Gear](https://blog.backyardbrains.com/?p=4861)
 
 #### BYB Information
 
@@ -230,4 +230,4 @@ for providing a easily-understandable and hackable control Arduino Sketch
 
 * * *
 
-Copyright © 2009-2017 [ Backyard Brains](http_//backyardbrains.com) | Protected under the Creative Common License [ ](http_//creativecommons.org/licenses/)[](http_//creativecommons.org/licenses/by-sa/3.0/)
+Copyright © 2009-2017 [ Backyard Brains](https://backyardbrains.com) | Protected under the Creative Common License [ ](https://creativecommons.org/licenses/)[](https://creativecommons.org/licenses/by-sa/3.0/)

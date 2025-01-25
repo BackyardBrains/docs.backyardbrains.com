@@ -1,6 +1,6 @@
 ---
 id: experiment__make_your_own_homunculus
-title: "Experiment_ Make your own Homunculus"
+title: "Experiment: Make your own Homunculus"
 slug: /retired/experiments/make_your_own_homunculus
 ---
 
@@ -67,7 +67,7 @@ only for the left cerebral hemisphere.
 
   1. The data you collected in the first [Skin Senstivity Experiment](skin)
   2. Access to the Internet 
-  3. This Website_ <http_//www.maxplanckflorida.org/fitzpatricklab/homunculus></http>
+  3. This Website_ <http://www.maxplanckflorida.org/fitzpatricklab/homunculus></http>
 
 ## Procedure
 
@@ -83,7 +83,7 @@ according to your nervous system.
 
 #### Experiment Steps_
 
-  1. Go to [this website](http_//www.maxplanckflorida.org/fitzpatricklab/homunculus/) and choose a model that looks most like you or you like best_ 
+  1. Go to [this website](http://www.maxplanckflorida.org/fitzpatricklab/homunculus/) and choose a model that looks most like you or you like best_ 
 
 ![Homunculus Choose Person](./img/HomunculusPeople.jpg)
 
@@ -98,23 +98,3 @@ according to your nervous system.
   1. Why isn't your skin's sensitivity in proportion to the size of the body part? Is it reversed?
   2. How different is your Homunculus from your partner's? Where are they different and where are they the same?
   3. What would happen if your skin sensitivity in your hands stopped working?
-
-#### Twitter
-
-#### Recent Posts
-
-  * [ It's The Backyard Brains 10-Year Anniversary!](http_//blog.backyardbrains.com/?p=4906)
-  * [ Cincinnati Neuroscience Outreach by BYB Alumna](http_//blog.backyardbrains.com/?p=4870)
-  * [ First Place at Science Fair for Student using BYB Gear](http_//blog.backyardbrains.com/?p=4861)
-
-#### BYB Information
-
-  * [Spike Counter](/About/SpikeCounter)
-  * [Contact](/About/Contact)
-  * [FAQ](/About/FAQ)
-  * [Our Finances](/About/Finance)
-  * [Privacy Policy](/About/Privacy)
-
-* * *
-
-Copyright © 2009-2017 [ Backyard Brains](http_//backyardbrains.com) | Protected under the Creative Common License [ ](http_//creativecommons.org/licenses/)[](http_//creativecommons.org/licenses/by-sa/3.0/)

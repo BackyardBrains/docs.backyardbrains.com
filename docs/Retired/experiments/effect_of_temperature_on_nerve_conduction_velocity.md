@@ -1,6 +1,6 @@
 ---
 id: experiment__effect_of_temperature_on_nerve_conduction_velocity
-title: "Experiment_ Effect of Temperature on Nerve Conduction Velocity"
+title: "Experiment: Effect of Temperature on Nerve Conduction Velocity"
 slug: /retired/experiments/effect_of_temperature_on_nerve_conduction_velocity
 ---
 
@@ -32,7 +32,7 @@ different temperature conditions
 
 [Laptop Cable](/products/laptopcable)
 
-[USB 2-Channel Adaptor](http_//www.amazon.com/Griffin-Technology-iMic-Audio-
+[USB 2-Channel Adaptor](https://www.amazon.com/Griffin-Technology-iMic-Audio-
 Device/dp/B000BVV2IC)
 
 * * *
@@ -61,7 +61,7 @@ alternatively, design your own easy way to place the worm over ice.
 
 The materials required for this lab are exactly the same as the experiment
 ["Introduction to Conduction
-Velocity"](http_//backyardbrains.com/experiments/speed#Materials), save for a
+Velocity"](https://backyardbrains.com/experiments/speed#Materials), save for a
 couple extra items_
 
   1. The WormTray with solid ice inside, or an alternative icy arrangement 

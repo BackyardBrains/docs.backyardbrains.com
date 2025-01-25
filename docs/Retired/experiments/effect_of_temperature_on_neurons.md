@@ -1,6 +1,6 @@
 ---
 id: experiment__effect_of_temperature_on_neurons
-title: "Experiment_ Effect of Temperature on Neurons"
+title: "Experiment: Effect of Temperature on Neurons"
 slug: /retired/experiments/effect_of_temperature_on_neurons
 ---
 
@@ -64,7 +64,7 @@ Video explanation of experiment.
 
 We can observe these two processes indirectly with the cockroach leg prep you
 have [previously
-learned](http_//www.backyardbrains.com/experiments/spikerbox). Take your
+learned](https://www.backyardbrains.com/experiments/spikerbox). Take your
 SpikerBox and place it in the freezer of a household refrigerator. Make sure
 the cable from your laptop/smartphone/tablet stays connected to the SpikerBox
 you placed inside. Also place a digital thermometer inside the freezer, and
@@ -78,7 +78,7 @@ of the freezer, how long does it take for the spikes to come back?
 
 Note_ depending on your freezer model, you may find a lot of electrical noise
 occurring when you put the SpikerBox in it. You can use a [Faraday
-cage](http_//www.backyardbrains.com/experiments/faraday), but if you live in
+cage](https://www.backyardbrains.com/experiments/faraday), but if you live in
 cold land like Michigan, you can simply take your SpikerBox outside in deep
 winter. Otherwise, if you have access to dry ice (solid carbon dioxide,
 usually available at ice cream stores), you can put dry ice and the SpikerBox
@@ -100,7 +100,7 @@ Place the SpikerBox on top of the box, and have the electrode with the
 cockroach leg attached hanging out "in space" 5 to 6 inches over the top of
 the candle. Position the wire of your digital thermometer such that you can
 measure the precise temperature where the leg is. Now, to quote hero [Alan
-Shephard](http_//en.wikipedia.org/wiki/Alan_Shepard), "light this candle!" As
+Shephard](https://en.wikipedia.org/wiki/Alan_Shepard), "light this candle!" As
 the temperature slowly rises, you should hear the neurons responding, and at a
 certain temperature, you will hear a very low "scream" of spikes as all the
 neurons discharge. Record the temperature at which this happens, and exhaust
@@ -118,9 +118,9 @@ different legs of different species!
 
 #### Recent Posts
 
-  * [ It's The Backyard Brains 10-Year Anniversary!](http_//blog.backyardbrains.com/?p=4906)
-  * [ Cincinnati Neuroscience Outreach by BYB Alumna](http_//blog.backyardbrains.com/?p=4870)
-  * [ First Place at Science Fair for Student using BYB Gear](http_//blog.backyardbrains.com/?p=4861)
+  * [ It's The Backyard Brains 10-Year Anniversary!](https://blog.backyardbrains.com/?p=4906)
+  * [ Cincinnati Neuroscience Outreach by BYB Alumna](https://blog.backyardbrains.com/?p=4870)
+  * [ First Place at Science Fair for Student using BYB Gear](https://blog.backyardbrains.com/?p=4861)
 
 #### BYB Information
 
@@ -132,4 +132,4 @@ different legs of different species!
 
 * * *
 
-Copyright © 2009-2017 [ Backyard Brains](http_//backyardbrains.com) | Protected under the Creative Common License [ ](http_//creativecommons.org/licenses/)[](http_//creativecommons.org/licenses/by-sa/3.0/)
+Copyright © 2009-2017 [ Backyard Brains](https://backyardbrains.com) | Protected under the Creative Common License [ ](https://creativecommons.org/licenses/)[](https://creativecommons.org/licenses/by-sa/3.0/)

@@ -1,96 +1,114 @@
 ---
 id: experiment__octopus_fighting
-title: "Experiment_ Octopus Fighting"
+title: "Experiment: Octopus Fighting"
 slug: /retired/experiments/octopus_fighting
 ---
 
-# Experiment_ Octopus Fighting
+# Experiment: Octopus Fighting
 
 The octopus is a rather strange-looking animal that exhibits amazingly complex
 behaviors. And that's no wonder... they have the most impressive nervous
-system in the entire invertebrate world! Two-Thirds of the neurons are
-actually in the legs. The 8 smart legs and a large brain give rise to
-excellent vision, delicate object manipulation and foremost the ability to
-learn rapidly. Mix this in with camouflaging cells, jet propulsion and razor
-sharp beak and you have all the makings of a formidable predator. And then,
-throw in the fact that the octopus is a solitary creature and suddenly we have
-ourselves a real cephalopod fight. This experiment was prepared by Ilya
-Chugunov, a freshman from UC Berkeley, during our Summer Fellowship Program.
+system in the entire invertebrate world! Two-thirds of the neurons are actually
+in the legs. The 8 smart legs and a large brain give rise to excellent vision,
+delicate object manipulation, and the ability to learn rapidly. Mix this in
+with camouflaging cells, jet propulsion, and a razor-sharp beak, and you have
+all the makings of a formidable predator. And then, throw in the fact that the
+octopus is a solitary creature and suddenly we have ourselves a real
+cephalopod fight. This experiment was prepared by Ilya Chugunov, a freshman
+from UC Berkeley, during our Summer Fellowship Program.
 
-Time  50 Minutes
+**Time:** 50 Minutes  
+**Difficulty:** Advanced
 
-Difficulty  Advanced
+---
 
 #### What will you learn?
 
-You will learn how to use [python code](https_//www.python.org/) and the
-[OpenCV library](https_//opencv.org/) to extract useful features and data
-(angle and speed of approach to a fight for our octopus specimens) out of
-simple video recordings of octopuses. This is an introduction to how advanced
-computational techniques can be used to analyze a wide net of problems.
+You will learn how to use [Python](https://www.python.org/) and the
+[OpenCV library](https://opencv.org/) to extract useful features and data
+(e.g., angle and speed of approach) from simple video recordings of octopuses.
+This is an introduction to how advanced computational techniques can be used
+to analyze a wide range of problems.
+
+---
 
 ##### Prerequisite Labs
 
 None
 
+---
+
 ##### Equipment
 
-GoPro Camera
+- GoPro Camera
+- Small Container
+- Computer
 
-Small Container
+---
 
-Computer
+![Octopus Fighting](./img/octopusFighting.png)
 
-* * *
-
-[ ![](./img/octopusFighting.png)](img/octopusFighting.png)
+---
 
 ## Background
 
-Octopuses, or _Octopodes_ , are some of the sea's most fascinating creatures.
-Just like cuttlefish and squid, they are Cephalopods, which is a surprisingly
-good descriptor for them as "Cephalopod" is a combination of the Greek
-"kephale" meaning head, and â€œpodâ€ meaning feet; they are heads on feet
-with no body in the middle to speak of.
+Octopuses (or _Octopodes_) are some of the sea's most fascinating creatures.
+Just like cuttlefish and squid, they are cephalopods — “cephalo” means head,
+and “pod” means foot — basically “head on feet.” They have no large “body”
+in-between, making them appear to be all head and legs.
 
-Though undoubtedly anti-social animals, doing their best to live as far from
-their brothers as possible and going as far as to eat ones that come too
-close, this doesn't meant that they are completely devoid of inter-octopus
-interaction. Quite the opposite is true, they exhibit fascinating behaviours
-when put in close quarters with one another. They dance around each other,
-flash colouration, poke at one another with their outstretched arms, and given
-a good opportunity they will begin a friendly match of octopus wrestling!
+Though largely antisocial, they sometimes engage in close-quarters interaction
+with fellow octopuses. They dance around each other, flash colors, poke at
+each other with outstretched arms, and—if given the chance—engage in a
+friendly match of octopus wrestling!
 
-[ ![](./img/octopusFighting-PennedOctopus.png)](img/octopusFighting-
-PennedOctopus.png)
+![Penned Octopus](./img/octopusFighting-PennedOctopus.png)
 
-The octopus of interest for this experiment is the California two-spot
-(_Octopus bimaculoides_), named after the two blue spots found on the sides of
-it's head. (Read more info [here](https_//www.tonmo.com/pages/bimac-care-
-sheet/)) They're a great candidate for experimentation since they are an
-extremely hardy and easy to keep animal, living comfortably in temperatures
-all the way from 60-80Â°F. They're diurnal (they sleep at night), which makes
-for very convenient testing since they'll actually be awake during the same
-hours as you.
-
-The most difficult problem with them is their pickiness when it comes to food;
-these octopuses aren't opportunistic hunters so if the food doesn't move they
-don't want it (but that's fine, just keep a bucket of live crabs to throw them
-occasionally).
+One commonly studied species is the California two-spot (_Octopus bimaculoides_),
+named for the two blue spots on its head. (Read more info [here](https://www.tonmo.com/pages/bimac-care-sheet/).)
+They are hardy and can live comfortably in a range of 60-80°F. They are diurnal,
+which makes them more convenient for daytime experiments.
 
 ## DIY Neuroscience Episode of Experiment
 
-> [How Octopuses Battle Each
-> Other](https_//www.facebook.com/DIYNeuro/videos/232576497312859/)
->
-> These are the 3 rules of an octopus duel_
->
-> Posted by [DIY Neuroscience](https_//www.facebook.com/DIYNeuro/) on Monday,
-> March 19, 2018
+[Watch on YouTube](https://www.youtube.com/watch?v=f7MghGrscVA&ab_channel=TED)
+
+---
 
 ## Materials
 
-For this experiment you will need_
+You will need:
+
+- Octopus chamber (laser cut and assembled). Source File: [Octopus_Chamber.ai](files/Octopus_Chamber.ai)
+- GoPro camera
+- Mini-USB cable
+- Laptop
+- Aquarium with sea water
+- Two California two-spot octopuses
+- Empty, cleaned-out milk jug for sea water
+- Lamp with a diffusive filter/cover
+- Paper towels (lots)
+- Small plastic cup to carry the octopus
+
+---
+
+## Hardware Setup
+
+Assemble the laser-cut octopus chamber using non-toxic glues (hot glue/silicone).
+Ensure the bottom is watertight. Place paper towels beneath it.
+
+![Lasercut Container](./img/octopusFighting-LasercutContainer.png)
+
+Alternatively, use your own container, ensuring a stable overhead camera view.
+
+---
+
+## Software Setup
+
+All referenced software is on our
+[GitHub](https://github.com/General-Ilya/Computer_Vision_for_Cephalopods).
+
+You will need:
 
   * Octopus chamber (Laser cut and assembled) - Source File_ [Octopus_Chamber.ai](files/Octopus_Chamber.ai)
   * Go Pro camera 
@@ -109,8 +127,7 @@ You can assemble our laser cut octopus chamber using preferably non-toxic
 glues. Use hot glue and silicon to seal. Make sure the bottom is as watertight
 as possible, but still keep some paper towels under it.
 
-[ ![](./img/octopusFighting-LasercutContainer.png)](img/octopusFighting-
-LasercutContainer.png)
+[ ![](./img/octopusFighting-LasercutContainer.png)](img/octopusFighting-LasercutContainer.png)
 
 You can also use your own container, but just be sure the camera is steady
 above the small "arena".
@@ -118,7 +135,7 @@ above the small "arena".
 ## Software Setup
 
 You can find the software referenced on our
-[Github](https_//github.com/General-Ilya/Computer_Vision_for_Cephalopods).
+[Github](https://github.com/General-Ilya/Computer_Vision_for_Cephalopods).
 
 You are going to need quite a lot of software to be able to run the provided
 Jupyter notebook; and you will very likely run into bugs. Don't panic... this
@@ -126,15 +143,14 @@ kind of problem-solving is an essential experience for anyone looking to delve
 into computer science.
 
 If you are on a Windows machine, we highly recommend Git Bash as a pseudo-bash
-console_ [Git](https_//git-scm.com/downloads)
+console: [Git](https://git-scm.com/downloads)
 
 You will need, first and foremost, PIP, the Jupyter notebook itself, and
-OpenCV_
+OpenCV:
 
-PIP_ <https_//packaging.python.org/tutorials/installing-packages></https>
+PIP: <https://packaging.python.org/tutorials/installing-packages></https>
 
-Jupyter_ <http_//jupyter.readthedocs.io/en/latest/install.html> (We recommend
-Anaconda)
+Jupyter: <http://jupyter.readthedocs.io/en/latest/install.html> (We recommendbAnaconda)
 
 OpenCV_ If all goes well all you need to do is "pip install opencv-contrib-
 python" Remember to install opencv-contrib specifically as it contains
@@ -145,19 +161,16 @@ packages that we need.
   1. Fill jug about a quarter of the way with sea water and shake it to aerate.
   2. Fill the octopus chamber until there's at least an inch of water.
 
-[ ![](./img/octopusFighting-fightStep2.png)](img/octopusFighting-
-fightStep2.png)
+[ ![](./img/octopusFighting-fightStep2.png)](img/octopusFighting-fightStep2.png)
 
   3. Set up Go Pro on top of the chamber.
 
-[ ![](./img/octopusFighting-fightStep3.png)](img/octopusFighting-
-fightStep3.png)
+[ ![](./img/octopusFighting-fightStep3.png)](img/octopusFighting-fightStep3.png)
 
   4. Set up lamp so that the chamber is lit as evenly as possibly, meaning the walls don't cast major shadows, but also such that the lamp is not facing directly downwards causing reflection in the water. (Take Go Pro footage and check multiple times to see that the lighting looks good)
   5. Scoop up one octopus with the plastic cup, be careful not to hurt their arms.
 
-[ ![](./img/octopusFighting-fightStep5.png)](img/octopusFighting-
-fightStep5.png)
+[ ![](./img/octopusFighting-fightStep5.png)](img/octopusFighting-fightStep5.png)
 
   6. Gently let the octopus leave the cup into the chamber.
   7. Scoop up second octopus.
@@ -169,18 +182,15 @@ fightStep5.png)
   13. Press Shift and Tab at the same time to run a cell of the Optical Flow notebook. Start by running the cell with all the import statements.
   14. Change the filepath to match that of the videoclip you want to analyse 
 
-[ ![](./img/octopusFighting-fightStep14.png)](img/octopusFighting-
-fightStep14.png)
+[ ![](./img/octopusFighting-fightStep14.png)](img/octopusFighting-fightStep14.png)
 
   15. Leave one of the two options uncommented_ top is full-colour, bottom is black and white with the mask applied, exactly what the computer sees_ 
 
-[ ![](./img/octopusFighting-fightStep15.png)](img/octopusFighting-
-fightStep15.png)
+[ ![](./img/octopusFighting-fightStep15.png)](img/octopusFighting-fightStep15.png)
 
   16. Run the optical flow codeblock. A GUI will pop up if the video is loaded correctly. Since the corners will be selected manually the only important settings are in the top half of the GUI_ 
 
-[ ![](./img/octopusFighting-fightStep16.png)](img/octopusFighting-
-fightStep16.png)
+[ ![](./img/octopusFighting-fightStep16.png)](img/octopusFighting-fightStep16.png)
 
 The top switch is to start the corner selection, flip this when finished with
 the four settings below it.
@@ -194,40 +204,33 @@ Best way to really figure out what these do is via trial and error.
 
   17. After the switch is flipped, select two points for tracking on one octopus (the eyes are recommended) by clicking on them. 
 
-[ ![](./img/octopusFighting-fightStep17.png)](img/octopusFighting-
-fightStep17.png)
+[ ![](./img/octopusFighting-fightStep17.png)](img/octopusFighting-fightStep17.png)
 
 Press escape to run the algorithm.
 
   18. The code will now run and trace paths of the octopus, if one of the points loses contact with the octopus, terminate the code by pressing escape and try again. Try changing settings or clicking different points on the octopus. 
 
-[ ![](./img/octopusFighting-fightStep18.png)](img/octopusFighting-
-fightStep18.png)
+[ ![](./img/octopusFighting-fightStep18.png)](img/octopusFighting-fightStep18.png)
 
   19. Upon completion, the codeblock will print out an image like this, this is the traced path_ 
 
-[ ![](./img/octopusFighting-fightStep19.png)](img/octopusFighting-
-fightStep19.png)
+[ ![](./img/octopusFighting-fightStep19.png)](img/octopusFighting-fightStep19.png)
 
   20. Run first pointcopy block_ 
 
-[ ![](./img/octopusFighting-fightStep20.png)](img/octopusFighting-
-fightStep20.png)
+[ ![](./img/octopusFighting-fightStep20.png)](img/octopusFighting-fightStep20.png)
 
   21. Run steps 17-19 for second octopus. Save by running only pointcopy2 block. Don't run the first pointcopy block again, this will overwrite the data. 
 
-[ ![](./img/octopusFighting-fightStep21.png)](img/octopusFighting-
-fightStep21.png)
+[ ![](./img/octopusFighting-fightStep21.png)](img/octopusFighting-fightStep21.png)
 
   22. Change number to be a name you'll remember (probably the current videoclip name) 
 
-[ ![](./img/octopusFighting-fightStep22.png)](img/octopusFighting-
-fightStep22.png)
+[ ![](./img/octopusFighting-fightStep22.png)](img/octopusFighting-fightStep22.png)
 
   23. Save the data. This will create two files, a for the first octopus and b for the second. 
 
-[ ![](./img/octopusFighting-fightStep23.png)](img/octopusFighting-
-fightStep23.png)
+[ ![](./img/octopusFighting-fightStep23.png)](img/octopusFighting-fightStep23.png)
 
   24. Repeat steps 14-23 for as many videoclips as needed.
 
@@ -235,54 +238,44 @@ fightStep23.png)
 
   1. First in Octopus_Optical_Flow load the a and b point data saved from the videoclips analyzed in the methods. To do this define number as the name of the saved points (the .npy file without the a or b at the end)_ 
 
-[ ![](./img/octopusFighting-AngleStep1.png)](img/octopusFighting-
-AngleStep1.png)
+[ ![](./img/octopusFighting-AngleStep1.png)](img/octopusFighting-AngleStep1.png)
 
   2. Run the two np.load codeblocks to load and display the a and b paths. 
 
-[ ![](./img/octopusFighting-AngleStep2.png)](img/octopusFighting-
-AngleStep2.png)
+[ ![](./img/octopusFighting-AngleStep2.png)](img/octopusFighting-AngleStep2.png)
 
   3. Run the next codeblock to make sure both arrows go from the octopus' mantle to its head. If it is incorrect such as this_ 
 
-[ ![](./img/octopusFighting-AngleStep3a.png)](img/octopusFighting-
-AngleStep3a.png)
+[ ![](./img/octopusFighting-AngleStep3a.png)](img/octopusFighting-AngleStep3a.png)
 
 Use the codeblocks below to flip the points_
 
-[ ![](./img/octopusFighting-AngleStep3b.png)](img/octopusFighting-
-AngleStep3b.png)
+[ ![](./img/octopusFighting-AngleStep3b.png)](img/octopusFighting-AngleStep3b.png)
 
 Until both arrow look like this_
 
-[ ![](./img/octopusFighting-AngleStep3c.png)](img/octopusFighting-
-AngleStep3c.png)
+[ ![](./img/octopusFighting-AngleStep3c.png)](img/octopusFighting-AngleStep3c.png)
 
   4. Run the last 2 codeblocks to calculate and save the distance and angle data_ 
 
-[ ![](./img/octopusFighting-AngleStep4.png)](img/octopusFighting-
-AngleStep4.png)
+[ ![](./img/octopusFighting-AngleStep4.png)](img/octopusFighting-AngleStep4.png)
 
   5. For all the videoclips analyzed for distance/angle data it is now necessary to find contour gradient data so that all the points of contact can be aligned. Open up Octopus_Contact and change the filename for the desired videoclip_ 
 
-[ ![](./img/octopusFighting-AngleStep5.png)](img/octopusFighting-
-AngleStep5.png)
+[ ![](./img/octopusFighting-AngleStep5.png)](img/octopusFighting-AngleStep5.png)
 
   6. Run the codeblock and adjust the sliders (mostly v-high) until the green lines draw a nice contour of the octopus_ 
 
-[ ![](./img/octopusFighting-AngleStep6.png)](img/octopusFighting-
-AngleStep6.png)
+[ ![](./img/octopusFighting-AngleStep6.png)](img/octopusFighting-AngleStep6.png)
 
   7. Flip the Off-On switch and let the video run.
   8. Upon completion of videoclip, run the codeblock below it_ 
 
-[ ![](./img/octopusFighting-AngleStep8.png)](img/octopusFighting-
-AngleStep8.png)
+[ ![](./img/octopusFighting-AngleStep8.png)](img/octopusFighting-AngleStep8.png)
 
   9. Save the data and repeat the procedure for the rest of the videoclips_ 
 
-[ ![](./img/octopusFighting-AngleStep9.png)](img/octopusFighting-
-AngleStep9.png)
+[ ![](./img/octopusFighting-AngleStep9.png)](img/octopusFighting-AngleStep9.png)
 
   10. Now it's time to write some code. Create a new Jupyter notebook and write a sequence of codeblocks that will_ 
     1. Load all the distance, angle, and gradient files.
@@ -292,8 +285,7 @@ AngleStep9.png)
     5. Add some extra features like labels, lines of best fit, coloration!
 The end result shoud look like this_
 
-[ ![](./img/octopusFighting-AngleStep10.png)](img/octopusFighting-
-AngleStep10.png)
+[ ![](./img/octopusFighting-AngleStep10.png)](img/octopusFighting-AngleStep10.png)
 
 ## Science Fair Project Ideas
 

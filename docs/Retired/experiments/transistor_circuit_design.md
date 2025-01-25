@@ -1,6 +1,6 @@
 ---
 id: experiment__transistor_circuit_design
-title: "Experiment_ Transistor Circuit Design"
+title: "Experiment: Transistor Circuit Design"
 slug: /retired/experiments/transistor_circuit_design
 ---
 
@@ -18,13 +18,13 @@ Difficulty  Advanced
 #### What will you learn?
 
 In the [previous Transistor lesson
-plan](http_//www.backyardbrains.com/experiments/transistorTheory), you learned
+plan](https://www.backyardbrains.com/experiments/transistorTheory), you learned
 the theory. Now you will apply it and build your own simple amplifier circuit
 from scratch using two transistors and some various resistors/capacitors.
 
 ##### Prerequisite Labs
 
-  * [Transistor Theory](http_//www.backyardbrains.com/experiments/transistorTheory) \- Read how a transistor works before proceeding
+  * [Transistor Theory](https://www.backyardbrains.com/experiments/transistorTheory) \- Read how a transistor works before proceeding
   * [SpikerBox](spikerbox) \- A familiarity with spikes will make this activity more meaningful
 
 ##### Equipment
@@ -46,7 +46,7 @@ resources permit, but note that the circuit still works (can amplify spikes)._
 
 In order to build an amplifier, all you need are a transistor, a power source,
 some resistors, and some capacitors. There are many ways to mix these
-together, which is an art ([Steve Jobs](http_//www.vimeo.com/31813340) often
+together, which is an art ([Steve Jobs](https://www.vimeo.com/31813340) often
 called laying out circuits "digital art"), but we will give you some basic
 conditions and assumptions to work with and then walk you through the design
 of your very first simple bio-amp!
@@ -75,31 +75,31 @@ Thus, we have two requirements
 
 Now back to the art of electronics design. We base our amp heavily from the
 very excellent book ["Practical Electronics for
-Inventors"](http_//www.amazon.com/Practical-Electronics-Inventors-Third-
+Inventors"](https://www.amazon.com/Practical-Electronics-Inventors-Third-
 Edition/dp/0071771336/ref=dp_ob_title_bk) by Paul Scherz.
 
 ##### Parts
 
 In addition to the
-[cockroaches](http_//www.backyardbrains.com/products/cockroaches), the
-[cable](http_//www.backyardbrains.com/products/stimulationcable), and the
-[electrode](http_//www.backyardbrains.com/products/recordingelectrode)
+[cockroaches](https://www.backyardbrains.com/products/cockroaches), the
+[cable](https://www.backyardbrains.com/products/stimulationcable), and the
+[electrode](https://www.backyardbrains.com/products/recordingelectrode)
 mentioned above, you need to visit your local friendly
-[RadioShack](http_//www.radioshack.com/storeLocator3/index.jsp?clickid=rsk_header_storeLocator)
+[RadioShack](https://www.radioshack.com/storeLocator3/index.jsp?clickid=rsk_header_storeLocator)
 to obtain_
 
-  1. two NPN transistors (2N4401) -from [transistor sample pack](http_//www.radioshack.com/product/index.jsp?productId=2062586)
-  2. four 4.7 kΩ Resistors -from [resistor sample pack](http_//www.radioshack.com/product/index.jsp?productId=2994585)
+  1. two NPN transistors (2N4401) -from [transistor sample pack](https://www.radioshack.com/product/index.jsp?productId=2062586)
+  2. four 4.7 kΩ Resistors -from [resistor sample pack](https://www.radioshack.com/product/index.jsp?productId=2994585)
   3. four 1 kΩ Resistors from same sample pack 
   4. one 50 Ω Resistor from same sample pack 
-  5. two [1 µF capacitors](http_//www.radioshack.com/product/index.jsp?productId=12401431&filterName=Type&filterValue=Ceramic+disc+capacitors)
-  6. four [10 µF capacitors](http_//www.radioshack.com/product/index.jsp?productId=2102481)
-  7. some [jumper wire](http_//www.radioshack.com/product/index.jsp?productId=2103801)
-  8. a [solderless breadboard](http_//www.radioshack.com/product/index.jsp?productId=12165713)
-  9. a [9V battery connector](http_//www.radioshack.com/product/index.jsp?productId=2062218)
-  10. a [9V battery](http_//www.radioshack.com/product/index.jsp?productId=3897297)
-  11. an [RCA plug](http_//www.radioshack.com/product/index.jsp?productId=2103224&filterName=Category&numProdsPerPage=60)
-  12. a [RadioShack Speaker](http_//www.radioshack.com/product/index.jsp?productId=2062620) (we love these things) 
+  5. two [1 µF capacitors](https://www.radioshack.com/product/index.jsp?productId=12401431&filterName=Type&filterValue=Ceramic+disc+capacitors)
+  6. four [10 µF capacitors](https://www.radioshack.com/product/index.jsp?productId=2102481)
+  7. some [jumper wire](https://www.radioshack.com/product/index.jsp?productId=2103801)
+  8. a [solderless breadboard](https://www.radioshack.com/product/index.jsp?productId=12165713)
+  9. a [9V battery connector](https://www.radioshack.com/product/index.jsp?productId=2062218)
+  10. a [9V battery](https://www.radioshack.com/product/index.jsp?productId=3897297)
+  11. an [RCA plug](https://www.radioshack.com/product/index.jsp?productId=2103224&filterName=Category&numProdsPerPage=60)
+  12. a [RadioShack Speaker](https://www.radioshack.com/product/index.jsp?productId=2062620) (we love these things) 
 
 You also need a small piece of cork or styrofoam to lay the cockroach leg on.
 
@@ -123,7 +123,7 @@ which we can rewrite as_
 
 Ic is the current through the collector and function of the transistor (you
 use the [data
-sheet](http_//edge.rit.edu/content/P12005/public/Part%20DataSheets/2N4401NPN.pdf)
+sheet](https://edge.rit.edu/content/P12005/public/Part%20DataSheets/2N4401NPN.pdf)
 of the transistor to calculate it). We will use a value of 1 mA for Ic.
 
 [ ![](./img/RcCalc_2.jpg)](img/RcCalc_2.jpg)
@@ -152,7 +152,7 @@ We can calculate the gain as thus_
 
 However, the transresistance can be unstable in the transistor, so we need to
 add our own R in addition to the transresistance.
-[Scherz](http_//www.amazon.com/Practical-Electronics-Inventors-Third-
+[Scherz](https://www.amazon.com/Practical-Electronics-Inventors-Third-
 Edition/dp/0071771336/ref=dp_ob_title_bk) recommends a Ve of 1 V to stabilize
 the transresistance instability, so via Ohm's law_
 
@@ -191,7 +191,7 @@ signal and keep our circuit stable. Let's just set it to 1 uF.
 ##### Setting the Bias Voltages
 
 Remember from our [transistor
-theory](http_//www.backyardbrains.com/experiments/transistorTheory) that the
+theory](https://www.backyardbrains.com/experiments/transistorTheory) that the
 transistor will not switch on without a lower limit voltage push, and this is
 approximately 0.6 V for silicon-based circuits. We need to add bias resistors.
 
@@ -241,7 +241,7 @@ A closer look at the circuit on the breadboard_
 [ ![](./img/1StageSmall.jpg)](img/1StageSmall.jpg)
 
 Insert the electrodes into a cockroach leg like you have done in [previous
-experiments](http_//www.backyardbrains.com/experiments/spikerbox) and hook up
+experiments](https://www.backyardbrains.com/experiments/spikerbox) and hook up
 your speaker to the circuit. Turn the speaker up all the way, and brush the
 cockroach leg with a toothpick. You may hear a very faint response, but it
 will be buried in the noise. Let's amplify the spikes some more. You can
@@ -275,4 +275,4 @@ world beyond the ability of our naked senses. Now begin discovering.
 
 ## Discussion Questions
 
-  1. Why are the spikes from our simple two-transistor bioamp "noisier" than the SpikerBox? What does the SpikerBox do? Hint_ the SpikerBox has many more transistors and uses them to build [operational amplifiers](http_//en.wikipedia.org/wiki/Operational_amplifier), which are then further mixed into [instrumentation amplifiers](http_//en.wikipedia.org/wiki/Instrumentation_amp). Welcome to the Art of Electronics!
+  1. Why are the spikes from our simple two-transistor bioamp "noisier" than the SpikerBox? What does the SpikerBox do? Hint_ the SpikerBox has many more transistors and uses them to build [operational amplifiers](https://en.wikipedia.org/wiki/Operational_amplifier), which are then further mixed into [instrumentation amplifiers](https://en.wikipedia.org/wiki/Instrumentation_amp). Welcome to the Art of Electronics!

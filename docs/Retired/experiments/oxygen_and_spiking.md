@@ -4,12 +4,9 @@ title: "Experiment: Oxygen and Spiking"
 slug: /retired/experiments/oxygen_and_spiking
 ---
 
-# Experiment:Oxygen and Spiking
+# Experiment: Oxygen and Spiking
 
-Have you ever wondered what exactly happens to the oxygen you breath after it
-has entered your lungs and goes into your bloodstream? In this experiment, we
-will show you how neurons make use of oxygen, our most needed resource. We
-will also examine what happens to neurons when they are deprived of oxygen.
+Have you ever wondered what exactly happens to the oxygen you breath after it has entered your lungs and goes into your bloodstream? In this experiment, we will show you how neurons make use of oxygen, our most needed resource. We will also examine what happens to neurons when they are deprived of oxygen.
 
 Time  1 hour
 
@@ -23,18 +20,16 @@ deprivation on a cockroach leg's neurons.
 
 ##### Prerequisite Labs
 
-  * [SpikerBox](spikerbox) \- You should become familiar with how to use your SpikerBox.
+You should become familiar with how to use your SpikerBox.
 
 ##### Equipment
 
 * [SpikerBox](/https://backyardbrains.com/products/spikerbox)
-
 * [Extra Electrode](/https://backyardbrains.com/products/recordingelectrode)
 
 ## Background
 
-Let's recall a [former
-experiment](https://wiki.backyardbrains.com/Experiment%3A_Power_Consumption),
+Let's recall a [former experiment](https://wiki.backyardbrains.com/Experiment%3A_Power_Consumption),
 where we talked about the energy neurons need to continue generating spikes
 and specifically the energy needed to operate the sodium-potassium pump. This
 energy is provided by adenosine triphostate, or ATP. ATP is made from the
@@ -111,9 +106,7 @@ spiking activity in the cockroach leg.
 ##### B. The Easy Way
 
 Since the leg of the cockroach gets all its oxygen through the open wound (see
-our discovery of this when [we visited our friendly local electron
-microscopist](https://blog.backyardbrains.com/2010/11/byb-visits-a-scanning-
-electron-microscope/)), we can "starve" the leg of oxygen by simply liberally
+our discovery of this when [we visited our friendly local electron microscopist](https://blog.backyardbrains.com/2010/11/byb-visits-a-scanning-electron-microscope/)), we can "starve" the leg of oxygen by simply liberally
 coating the leg with petroleum jelly (vaseline).
 
 [ ![](./img/Exp10_Easyway1.jpeg)](img/Exp10_Easyway1.jpeg)

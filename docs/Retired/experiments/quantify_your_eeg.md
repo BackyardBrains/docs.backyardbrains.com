@@ -1,6 +1,6 @@
 ---
 id: Experiment_quantify_your_eeg
-title: "Experiment:Quantify Your EEG"
+title: "Experiment: Quantify Your EEG"
 slug: /retired/experiments/quantify_your_eeg
 ---
 
@@ -30,8 +30,7 @@ EEG.
 
 ## Background
 
-_Designed and written by Natalia Díaz Acevedo, student of Mathematical
-Engineering at the University of Santiago, Chile._
+_Designed and written by Natalia Díaz Acevedo, student of Mathematical Engineering at the University of Santiago, Chile._
 
 Analyzing electroencephalograms (EEGs) is trickier than analyzing the action
 potentials from human muscles (using our Muscle SpikerBox or

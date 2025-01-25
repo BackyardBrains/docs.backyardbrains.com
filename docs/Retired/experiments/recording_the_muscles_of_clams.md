@@ -10,9 +10,9 @@ Clams have strong muscles to keep their shells closed when they want to avoid
 predators. You can measure this muscle activity and see just how responsive
 and strong the clam is!
 
-Time  1 hour
+**Time**  1 hour
 
-Difficulty  Intermediate
+**Difficulty**  Intermediate
 
 #### What will you learn?
 
@@ -21,7 +21,7 @@ record the electromyograms of its lateral muscles.
 
 ##### Prerequisite Labs
 
-  * [Experiment:Record Electricity from your Muscles](https://backyardbrains.com/experiments/muscleSpikerBox) \- This will introduce you to the concept of electromyography.
+* [Experiment:Record Electricity from your Muscles](https://backyardbrains.com/experiments/muscleSpikerBox) - This will introduce you to the concept of electromyography.
 
 ##### Equipment
 
@@ -30,8 +30,7 @@ record the electromyograms of its lateral muscles.
 
 ## Background
 
-_A student intern project by Eduardo Isla, biochemistry student at the
-University of Santiago_
+_A student intern project by Eduardo Isla, biochemistry student at the University of Santiago_
 
 Have you ever tried to open a clam by hand? It's very difficult because the
 clam has two powerful lateral muscles called "adductor muscles" that allow the
@@ -49,8 +48,7 @@ friend the cockroach. Cockroaches are in the arthropod phylum, whereas clams
 are in the mollusk phylum (phylum is a division of the kingdom of types of
 animals). The clams are bivalve mollusks, as are oysters and mussels, with two
 shells that close to protect the soft tissue of the animal. Some types of
-bivalves, like scallops, can even "flap" their shells to [swim through the
-ocean water for brief periods](https://www.youtube.com/watch?v=NBH3UvlZo90).
+bivalves, like scallops, can even "flap" their shells to [swim through the ocean water for brief periods](https://www.youtube.com/watch?v=NBH3UvlZo90).
 Note that not all mollusks have shells though, like squids, octopuses, and
 slugs.
 
@@ -148,12 +146,9 @@ when you are done with the experiments.
 
 ## Abandoned Project_ the Clam Electrocardiogram
 
-Hi friends, Eduardo here. Astute followers of Backyard Brains, who [read our
-blog](https://blog.backyardbrains.com/2019/02/backyard-brains-
+Hi friends, Eduardo here. Astute followers of Backyard Brains, who [read our blog](https://blog.backyardbrains.com/2019/02/backyard-brains-
 welcomes-2019-university-of-santiago-interns/), may remember_ "Hey wasn't
-there some electrocardiogram (EKG) project that was trying to replicate [Henry
-Dale's famous acetylcholine
-experiment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2591841/pdf/yjbm00162-0034.pdf),
+there some electrocardiogram (EKG) project that was trying to replicate [Henry Dale's famous acetylcholine experiment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2591841/pdf/yjbm00162-0034.pdf),
 but using clam hearts instead of frog hearts?" You are correct, for 6 weeks of
 my 8 week internship, I tried to record the EKG of the clam. The results,
 however, were confusing. Sometimes we would see what looked like an EKG (see

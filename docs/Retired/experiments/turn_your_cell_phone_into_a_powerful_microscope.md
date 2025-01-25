@@ -108,11 +108,11 @@ High Powered Scope!
   7. Zoom in on your phone! 
   8. If you can't see them already, search for some cells! To help find cells, carefully adjust the glass slide to hunt down your epithelial cells. To help focus you can tap on your screen (most smartphones have this feature) and make slight adjustments to the height of the RoachScope's magnifying platform. (we like to loosen the set screw, then make fine adjustments with the platform's height adjusting knob to find the focus, tightening the set screw once you like your image) 
 
-![Epithelial cells](./img/epithelia_cells.jpg)
+![Epithelial cells](./img/epithelial_cells.jpg)
 
 Also, be sure not to mistake air bubbles for your cells!
 
-![Epithelial annot](./img/epithelia_annot.jpg)
+![Epithelial annot](./img/epithelial_annot.jpg)
 
 ### Prep 2: Onion
 

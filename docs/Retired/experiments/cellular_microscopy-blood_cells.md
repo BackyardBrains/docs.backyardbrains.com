@@ -28,23 +28,12 @@ works!
 
 ##### Equipment
 
-[RoachScope](/products/RoachScope)
-
-[Glass Slides](https://www.amazon.com/Blank-Microscope-Slides-Square-
-Cover/dp/B002OS6D9I)
-
-[Slide Covers](https://www.amazon.com/Blank-Microscope-Slides-Square-
-Cover/dp/B002OS6D9I)
-
-[Toothpick](https://www.amazon.com/Farberware-5080422-Classic-
-Toothpicks-300-Count/dp/B005D6G7U8/ref=sr_1_6?ie=UTF8&qid=1397592626&sr=8-6&keywords=toothpick)
-
-[Lancets](https://www.amazon.com/BD-Ultra-Fine-33-Gauge-
-Lancets/dp/B0000DD8VM/ref=sr_1_1?ie=UTF8&qid=1399907387&sr=8-1&keywords=lancets)
-
-Syringe/Hypodermic Needle
-
-* * *
+*[RoachScope](/products/RoachScope)
+*[Glass Slides](https://www.amazon.com/Blank-Microscope-Slides-Square-Cover/dp/B002OS6D9I)
+*[Slide Covers](https://www.amazon.com/Blank-Microscope-Slides-Square-Cover/dp/B002OS6D9I)
+*[Toothpick](https://www.amazon.com/Farberware-5080422-Classic-Toothpicks-300-Count/dp/B005D6G7U8/ref=sr_1_6?ie=UTF8&qid=1397592626&sr=8-6&keywords=toothpick)
+*[Lancets](https://www.amazon.com/BD-Ultra-Fine-33-Gauge-Lancets/dp/B0000DD8VM/ref=sr_1_1?ie=UTF8&qid=1399907387&sr=8-1&keywords=lancets)
+*Syringe/Hypodermic Needle
 
 ## Background
 

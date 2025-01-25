@@ -28,11 +28,11 @@ specific movement) and how the two combined allow us to perform all sorts of
 amazing motions with precision and balance. You will also learn the difference
 between flexor and extensor muscles.
 
-##### __Prerequisite Labs
+##### Prerequisite Labs
 
   * [Getting Started with the Muscle SpikerBox](emgspikerbox) \- You should read this experiment first to learn about electromyography (EMG) and motor units. 
 
-##### __Equipment
+##### Equipment
 
 * [Muscle SpikerBox Pro and Included Cables](/products/MuscleSpikerBoxPro)
 * [BYB Spike Recorder](/products/spikerecorder)

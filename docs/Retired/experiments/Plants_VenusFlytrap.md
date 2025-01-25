@@ -21,11 +21,11 @@ called "one of the most wonderful in the world:" the Venus Flytrap.
 In this experiment, featured on the [TED Main Stage](https://www.ted.com/talks/greg_gage_electrical_experiments_with_plants_that_count_and_communicate?utm_campaign=tedspread--a&utm_medium=referral&utm_source=tedcomshare), you will learn about plant
 electrophysiology and record the Action Potential of the Venus Flytrap.
 
-##### __Prerequisite Labs
+##### Prerequisite Labs
 
   * None
 
-##### __Equipment
+##### Equipment
 
 * [Plant SpikerBox](/products/plantspikerbox)
 * [Venus Flytrap](http://www.californiacarnivores.com/dionaeamuscipulab52smalldeluxepotted.aspx)

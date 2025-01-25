@@ -30,11 +30,11 @@ electromyograms (EMGs). You will have an understanding of neuron/muscle
 communication, and you will listen to the electrical impulses of muscles at
 rest and during contraction.
 
-##### __Prerequisite Labs
+##### Prerequisite Labs
 
   * None
 
-##### __Equipment
+##### Equipment
 
 * [Muscle SpikerBox](/products/emgspikerbox)
 * [Cable: Laptop](/products/laptopcable) 

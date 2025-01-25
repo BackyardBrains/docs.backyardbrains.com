@@ -22,11 +22,11 @@ hundreds of millions of neurons, and you will observe this through the alpha
 rhythm of your visual cortex in the presence or absence of light. You will
 glimpse the electrical activity of your brain.
 
-##### __Prerequisite Labs
+##### Prerequisite Labs
 
   * [Heart Action Potentials](heartrate) \- You should have a basic understanding of the arduino platform and how to use the Heart & Brain SpikerBox to record your heartbeat before moving on to this more challenging experiment of recording your own EEG brain rhythms.
 
-##### __Equipment
+##### Equipment
 
 * [Heart & Brain SpikerBox](/products/heartAndBrainSpikerBox)
 

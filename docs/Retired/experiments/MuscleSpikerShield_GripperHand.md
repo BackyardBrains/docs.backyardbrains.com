@@ -21,11 +21,11 @@ of the signal you make when contracting the muscles of your hand; you can
 perform this experiment to impress your friends, for a school science fair, or
 just to dive into the study of Neuroprosthetics!
 
-##### __Prerequisite Labs
+##### Prerequisite Labs
 
   * [Getting to know the Muscle SpikerShield](https://backyardbrains.com/experiments/muscleSpikerShield)
 
-##### __Equipment
+##### Equipment
 
 * [Claw Bundle](https://backyardbrains.com/products/clawBundle)
 

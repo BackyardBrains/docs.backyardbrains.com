@@ -4,7 +4,7 @@ title: "Experiment: Effect of Nerve Stretch on Conduction Velocity"
 slug: /retired/experiments/effect_of_nerve_stretch_on_conduction_velocity
 ---
 
-# Experiment_ Effect of Nerve Stretch on Conduction Velocity
+# Experiment:Effect of Nerve Stretch on Conduction Velocity
 
 A worm moves by extending and compressing its body. Perhaps this affects the
 diameter of the nerves, and thus the speed of impulse conduction. Here we

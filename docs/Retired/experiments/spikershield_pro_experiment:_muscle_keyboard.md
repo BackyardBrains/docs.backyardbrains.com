@@ -4,7 +4,7 @@ title: "SpikerShield Pro Experiment: Muscle Keyboard"
 slug: /retired/experiments/spikershield_pro_experiment__muscle_keyboard
 ---
 
-#  SpikerShield Pro Experiment_ Muscle Keyboard
+#  SpikerShield Pro Experiment:Muscle Keyboard
 
 Use the Muscle SpikerShield Pro to control up to six independent outputs. In
 this case, it will be musical tones. Time to generate music by moving your

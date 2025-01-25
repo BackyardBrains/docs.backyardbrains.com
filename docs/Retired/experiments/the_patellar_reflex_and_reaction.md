@@ -4,7 +4,7 @@ title: "Experiment: The Patellar Reflex and Reaction"
 slug: /retired/experiments/the_patellar_reflex_and_reaction
 ---
 
-# Experiment_ The Patellar Reflex and Reaction
+# Experiment:The Patellar Reflex and Reaction
 
 Time  30 Minutes
 

@@ -4,7 +4,7 @@ title: "Experiment: Eye Potentials (The EOG)"
 slug: /retired/experiments/eye_potentials_(the_eog)
 ---
 
-# Experiment_ Eye Potentials (The EOG)
+# Experiment:Eye Potentials (The EOG)
 
 We've shown the electrical signals from your heart and brain, now it is time
 for another symbolically powerful organ_ the eye.

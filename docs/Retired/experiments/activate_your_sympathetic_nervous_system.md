@@ -4,7 +4,7 @@ title: "Experiment: Activate your Sympathetic Nervous System"
 slug: /retired/experiments/activate_your_sympathetic_nervous_system
 ---
 
-# Experiment_ Activate your Sympathetic Nervous System
+# Experiment:Activate your Sympathetic Nervous System
 
 We will learn about your involuntary nervous system and manipulate it! Welcome
 to the autonomic nervous system, its division into the sympathetic and

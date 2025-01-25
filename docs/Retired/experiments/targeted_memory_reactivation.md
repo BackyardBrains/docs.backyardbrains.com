@@ -4,7 +4,7 @@ title: "Experiment: Targeted Memory Reactivation"
 slug: /retired/experiments/targeted_memory_reactivation
 ---
 
-# Experiment_ Targeted Memory Reactivation
+# Experiment:Targeted Memory Reactivation
 
 It can be so hard to remember things! Facts, names, where you placed your
 keys. We could all use some help. But could EEG come to the rescue? Maybe! It

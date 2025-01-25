@@ -4,7 +4,7 @@ title: "Experiment: The Auditory Brainstem Response"
 slug: /retired/experiments/the_auditory_brainstem_response
 ---
 
-# Experiment_ The Auditory Brainstem Response
+# Experiment:The Auditory Brainstem Response
 
 By listening to many and many clicks, and recording the electrical response of
 your brain, we can observe the auditory system in action!
@@ -20,8 +20,8 @@ electrical responses from your own ear, brainstem, and cerebral cortex.
 
 ##### Prerequisite Labs
 
-  * [Experiment_ EEG - Recording from the human brain](https://backyardbrains.com/experiments/eeg) \- This will introduce you to the concept of recording from large neural populations (you only need to read)
-  * [Experiment_ The P300 Surprise Signal](https://backyardbrains.com/experiments/p300) \- This will introduce you to concept of averaging potentials (also only need to read)
+  * [Experiment:EEG - Recording from the human brain](https://backyardbrains.com/experiments/eeg) \- This will introduce you to the concept of recording from large neural populations (you only need to read)
+  * [Experiment:The P300 Surprise Signal](https://backyardbrains.com/experiments/p300) \- This will introduce you to concept of averaging potentials (also only need to read)
 
 ##### Equipment
 

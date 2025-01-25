@@ -4,7 +4,7 @@ title: "Experiment: Sensory and Neural Adaptation"
 slug: /retired/experiments/sensory_and_neural_adaptation
 ---
 
-# Experiment_ Sensory and Neural Adaptation
+# Experiment:Sensory and Neural Adaptation
 
 Neurons learn, and you will gain a first look at this by examining a sensory
 neuron's adaptation to a constant stimulus.

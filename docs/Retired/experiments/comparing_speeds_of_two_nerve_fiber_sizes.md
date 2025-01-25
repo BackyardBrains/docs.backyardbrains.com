@@ -4,7 +4,7 @@ title: "Experiment: Comparing Speeds of Two Nerve Fiber Sizes"
 slug: /retired/experiments/comparing_speeds_of_two_nerve_fiber_sizes
 ---
 
-# Experiment_ Comparing Speeds of Two Nerve Fiber Sizes
+# Experiment:Comparing Speeds of Two Nerve Fiber Sizes
 
 Are you curious how the telephone pole lines in your neighborhood are similar
 to neurons in your own body? Find out in this lesson plan and learn about
@@ -286,7 +286,7 @@ here](https://www.youtube.com/watch?feature=player_embedded&v=qZFTuOxUVok).
 ## Procedure
 
 ##### The Materials Required For This Lab Are Exactly The Same As The
-Experiment_ [Introduction to Conduction Velocity (Neural
+Experiment:[Introduction to Conduction Velocity (Neural
 Speed)](https://backyardbrains.com/experiments/speed#Materials)
 
   1. Anesthetize and take a recording of the posterior end of the worm as you did in the previous experiment. 

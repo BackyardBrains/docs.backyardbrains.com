@@ -4,7 +4,7 @@ title: "Experiment: Controlling a Stepper Motor with Your Muscles"
 slug: /retired/experiments/controlling_a_stepper_motor_with_your_muscles
 ---
 
-# Experiment_ Controlling a Stepper Motor with Your Muscles
+# Experiment:Controlling a Stepper Motor with Your Muscles
 
 What biology beyond flagella has never achieved_ Rotary Motion with Axles.
 Here you will learn to make an interface with a Stepper Motor and enjoy making

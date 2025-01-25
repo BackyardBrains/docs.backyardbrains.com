@@ -4,7 +4,7 @@ title: "Experiment: Recording the Muscles of Clams"
 slug: /retired/experiments/recording_the_muscles_of_clams
 ---
 
-# Experiment_ Recording the Muscles of Clams
+# Experiment:Recording the Muscles of Clams
 
 Clams have strong muscles to keep their shells closed when they want to avoid
 predators. You can measure this muscle activity and see just how responsive
@@ -21,7 +21,7 @@ record the electromyograms of its lateral muscles.
 
 ##### Prerequisite Labs
 
-  * [Experiment_ Record Electricity from your Muscles](https://backyardbrains.com/experiments/muscleSpikerBox) \- This will introduce you to the concept of electromyography.
+  * [Experiment:Record Electricity from your Muscles](https://backyardbrains.com/experiments/muscleSpikerBox) \- This will introduce you to the concept of electromyography.
 
 ##### Equipment
 

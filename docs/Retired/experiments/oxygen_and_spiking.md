@@ -4,7 +4,7 @@ title: "Experiment: Oxygen and Spiking"
 slug: /retired/experiments/oxygen_and_spiking
 ---
 
-# Experiment_ Oxygen and Spiking
+# Experiment:Oxygen and Spiking
 
 Have you ever wondered what exactly happens to the oxygen you breath after it
 has entered your lungs and goes into your bloodstream? In this experiment, we

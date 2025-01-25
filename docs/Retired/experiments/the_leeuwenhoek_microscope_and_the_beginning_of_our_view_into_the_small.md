@@ -4,7 +4,7 @@ title: "Experiment: The Leeuwenhoek Microscope and the Beginning of Our View int
 slug: /retired/experiments/the_leeuwenhoek_microscope_and_the_beginning_of_our_view_into_the_small
 ---
 
-# Experiment_ The Leeuwenhoek Microscope and the Beginning of Our View into the Small
+# Experiment:The Leeuwenhoek Microscope and the Beginning of Our View into the Small
 
 You see glass everywhere. Your windows, your drinking vessels, your
 smartphone. Now you can too can manipulate this material to make a microscope

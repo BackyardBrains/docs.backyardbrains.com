@@ -4,7 +4,7 @@ title: "Experiment: Muscle Action Potentials"
 slug: /retired/experiments/muscle_action_potentials
 ---
 
-# Experiment_ Muscle Action Potentials
+# Experiment:Muscle Action Potentials
 
 In this experiment we will look at EMG activity more closely. The muscle
 activity we saw in our previous experiment was the result of many muscle

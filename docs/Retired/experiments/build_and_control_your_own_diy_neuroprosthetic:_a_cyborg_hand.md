@@ -4,7 +4,7 @@ title: "Experiment: Build and Control your own DIY Neuroprosthetic_ a Cyborg Han
 slug: /retired/experiments/build_and_control_your_own_diy_neuroprosthetic__a_cyborg_hand!
 ---
 
-# Experiment_ Build and Control your own DIY Neuroprosthetic_ a Cyborg Hand!
+# Experiment:Build and Control your own DIY Neuroprosthetic_ a Cyborg Hand!
 
 Participate in the cutting-edge of biomedical engineering! Build your own DIY
 prosthetic hand with articulating fingers, then use the Muscle SpikerShield to

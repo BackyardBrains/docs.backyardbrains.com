@@ -4,7 +4,7 @@ title: "Experiment: Investigating Grasshopper Vision"
 slug: /retired/experiments/investigating_grasshopper_vision
 ---
 
-# Experiment_ Investigating Grasshopper Vision
+# Experiment:Investigating Grasshopper Vision
 
 Grasshopper's have a fast reaction time! You reach out and try to catch one,
 you'll find yourself empty-handed. They hop-hop-hop away! In this experiment,

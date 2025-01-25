@@ -4,7 +4,7 @@ title: "Experiment: Muscle Recruitment in your Jaw!"
 slug: /retired/experiments/muscle_recruitment_in_your_jaw!
 ---
 
-# Experiment_ Muscle Recruitment in your Jaw!
+# Experiment:Muscle Recruitment in your Jaw!
 
 Everybody chews. You will use the Muscle SpikerBox to record EMG's of the
 masseter and temporalis muscles, the two jaw closing muscles, while chewing

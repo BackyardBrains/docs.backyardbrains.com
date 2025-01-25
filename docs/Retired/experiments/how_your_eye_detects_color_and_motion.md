@@ -4,7 +4,7 @@ title: "Experiment: How Your Eye Detects Color and Motion"
 slug: /retired/experiments/how_your_eye_detects_color_and_motion
 ---
 
-# Experiment_ How Your Eye Detects Color and Motion
+# Experiment:How Your Eye Detects Color and Motion
 
 Everyday your eyes and brain work together to create vision. But how does this
 all really happen? What role does your brain and eyes play in the creation of

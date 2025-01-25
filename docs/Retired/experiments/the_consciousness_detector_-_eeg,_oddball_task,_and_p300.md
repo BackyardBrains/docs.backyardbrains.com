@@ -4,7 +4,7 @@ title: "Experiment: The Consciousness Detector - EEG, Oddball Task, and P300"
 slug: /retired/experiments/the_consciousness_detector_-_eeg,_oddball_task,_and_p300
 ---
 
-# Experiment_ The Consciousness Detector - EEG, Oddball Task, and P300
+# Experiment:The Consciousness Detector - EEG, Oddball Task, and P300
 
 Now that you've seen the rhythmic activity of the brain, you can look at
 coordinated surges in brain activity associated with specific sensory events.

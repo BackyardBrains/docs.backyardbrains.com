@@ -50,7 +50,7 @@ neurotransmitter called acetylcholine is released which leads to the
 generation of an action potential in the muscle fiber. Upon receiving this
 excitatory signal, the muscles fibers contract. Movement!
 
-[ ![](./img/emg_superhero_web.jpg)](./img/emg_superhero_web.jpg)
+![EMG Superhero](./img/emg_superhero_web.jpg)
 
 Your body uses this cascade of electrical and chemical signaling to control
 motion, but it's important to point out that each movement doesn't rely on

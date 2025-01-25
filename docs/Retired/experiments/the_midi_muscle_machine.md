@@ -149,16 +149,11 @@ flow!
 ![](./img/Plugged_In_MIDI_Shield.jpg)
 
   4. Plug an audio cable from the synthesizer to a speaker so you can blast your jam to the world. 
-  
   5. Note that you will have to add a MIDI library into your Arduino Program. To do this, download the MIDI library from above (we obtained it from [a sparse online resource](https://arduinomidilib.sourceforge.net/a00001.html)). In the Arduino program, you will go to the Menu Item "Sketch"--->"Library"--->"add .zip library." Find the downloaded .zip file you just downloaded on your computer, and add it. If you do not do this, you will not be able to upload our MIDI control code to your arduino. 
   6. After that we will upload the actual MIDI control arduino code we wrote. The default code we wrote is for a Roland TR-8, but you can use any synthesizer (just look up the MIDI key numbers that came with the device -- you will have to change the code). 
   7. Now it is time to place the electrodes. We have 6 pairs of electrodes plus a ground for a total of 13 electrodes. We often put the pairs on both the hands near the thumb, on the biceps, and on the calves. The ground we place on the back of one of the hands. This is the Pablo Pardo system, an electrode configuration designed for our previous [Muscle SpikerShield Pro](https://backyardbrains.com/experiments/spikershieldpro) experiment. 
   8. Hook up the electrode cables to the electrodes (using video above as reference), and power on the Muscle SpikerShield Pro with a battery or the USB cable port. 
   9. Now it is time to dive in and make your body a musical instrument. Turn the synthesizer on, hit instrument play on the Roland T-8 or your personal synthesizer, and you are ready to begin writing music with your muscle contraction. 
-
-  
-![](img/Pablo-Schematic.jpg)
-
   10. The code can certainly be optimized, and you can see the commented version below. Feel to modify! [Let us know](mailto_tim@backyardbrains.com) if you discover or compose something. Happy creating! 
 
     

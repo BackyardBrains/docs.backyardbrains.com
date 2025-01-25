@@ -67,12 +67,11 @@ only for the left cerebral hemisphere.
 
   1. The data you collected in the first [Skin Senstivity Experiment](skin)
   2. Access to the Internet 
-  3. This Website_ <http://www.maxplanckflorida.org/fitzpatricklab/homunculus></http>
+  3. [This Website](http://www.maxplanckflorida.org/fitzpatricklab/homunculus)
 
 ## Procedure
 
-Now that you have taken the measurements from the [Skin Senstivity
-Experiment](skin)_
+Now that you have taken the measurements from the [Skin Senstivity Experiment](skin)
 
 [ ![](./img/BYB_Exp2_Pic7.png)](img/BYB_Exp2_Pic7.png)
 

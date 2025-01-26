@@ -42,7 +42,7 @@ the Muscle SpikerShield to accommodate all types of muscles.
 
 ### The Claw Interface in Action!
 
-![ClawBundle](./img/clawbundle_gif.gif)
+![ClawBundle](./img/clawbundle.gif)
 
 ### Kit Contains
 

@@ -86,15 +86,11 @@ When you begin to fall asleep, there is a stage called "pre-sleep" where there
 is a reduction in physiological activity. Your consciousness of the
 environment, cortical activity, and internal thoughts are at very low levels
 but still occurring. During this epoch, you are awake but relaxed with your
-eyes closed. Alpha waves of around 8-13 Hz dominate. These are the same [alpha
-rhythms](https://backyardbrains.com/experiments/eeg) we recorded previously.
+eyes closed. Alpha waves of around 8-13 Hz dominate. These are the same [alpha rhythms](https://backyardbrains.com/experiments/eeg) we recorded previously.
 When we eventually fall asleep, sleep is then classified into the four stages
-mentioned above. This sleep scoring was first described in detail in [a 1957
-paper](Dement-Kleitman-1957-first-sleep-scoring.pdf) by graduate student
+mentioned above. This sleep scoring was first described in detail in [a 1957 paper](./files/Dement-Kleitman-1957-first-sleep-scoring.pdf) by graduate student
 [William “Bill” Dement](https://en.wikipedia.org/wiki/William_C._Dement) and
-his advisor, noted sleep researcher [Nathaniel
-Kleitman](https://en.wikipedia.org/wiki/Nathaniel_Kleitman), at the University
-of Chicago.
+his advisor, noted sleep researcher [Nathaniel Kleitman](https://en.wikipedia.org/wiki/Nathaniel_Kleitman), at the University of Chicago.
 
 **N1 (Stage 1) sleep_**
 

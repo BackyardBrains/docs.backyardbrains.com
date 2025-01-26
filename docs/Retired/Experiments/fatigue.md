@@ -93,8 +93,7 @@ must be initiated again by the muscle firing an action potential to cause
 another twitch. The summing together of many of these incredibly tiny "pulling
 events" produces a twitch (a very tiny, very fast force). When many twitches
 occur in a row, the twitches sum together and produce a larger force. ATP is
-continually provided in the muscle by breaking down glucose (see our ["Oxygen
-Experiment"](oxygen#Oxidative) for an explanation of this metabolism. If
+continually provided in the muscle by breaking down glucose (see our ["Oxygen Experiment"](./oxygen.md#Oxidative) for an explanation of this metabolism. If
 glucose isn't available, fatty acids can be used to make pyruvate and keep the
 Krebs cycle and the oxidative phosphorylation pathway operating. As long as
 oxygen (O2) is present and can be readily transported to the muscle cell, the

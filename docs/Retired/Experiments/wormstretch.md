@@ -269,7 +269,7 @@ permit slight changes in length constant?
     1. It is worth a trip to the your university library to spend a couple hours browsing Theodore Bullock's tome, [The Structure and Function of the Nervous System in Invertebrates](https://www.worldcat.org/title/structure-and-function-in-the-nervous-systems-of-invertebrates/oclc/558128) and marvel on the scale of the unknown that exists in the world of the invertebrates. 
     2. Thanks go to the [Dunalastair Colegio](https://www.dunalastair.cl/LasCondes/Pages/Index.aspx), a high school in Santiago, Chile, where we first observed this effect during a teacher training workshop, and to Alejandra Riveros Campos, a Chilean Colleague who then helped with the systematic experiments verifying the time difference. 
     3. What would happen if the nerve were cooled, as [in a previous experiment](./WormTemperature), and then the stretched vs. unstretched time difference measured? 
-    4. We have left out the pesky detail that [earthworm axons are actually myelinated](files/Hartline_Colman_2007_MyelinReview.pdf) and that saltatory conduction is occurring. How does this affect the interpretation of the results and our hypotheses? 
+    4. We have left out the pesky detail that [earthworm axons are actually myelinated](./files/Hartline_Colman_2007_MyelinReview.pdf) and that saltatory conduction is occurring. How does this affect the interpretation of the results and our hypotheses? 
 
 _Note_ _ Gracias to [Italo Ahumada
 Morasky](https://www.italoahumada.cl/about/), a Chilean artist who illustrated

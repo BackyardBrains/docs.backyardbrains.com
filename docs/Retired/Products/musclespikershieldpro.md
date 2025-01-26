@@ -11,10 +11,10 @@ slug: /products/musclespikershieldpro
 #### $399.99
 
 
-![Muscle SpikerShield Pro](./img/SpikerShieldPro.jpg)
-![Signals!](./img/SpikerShieldPro_Signals.png)
-![Details!](./img/SpikerShieldPro_Details.jpg)
-![Flexing!](./img/6chBoy.jpg)
+![Muscle SpikerShield Pro](./img/musclespikershieldpro.jpg)
+![Signals!](./img/musclespikershieldpro_signals.png)
+![Details!](./img/musclespikershieldpro_details.jpg)
+![Flexing!](./img/musclespikershieldpro_6chboy.jpg)
 
 
   * [__Schematics v1](./files/Schematics-Muscle-spikerShield-Pro-V1.pdf)

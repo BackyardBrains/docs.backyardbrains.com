@@ -8,11 +8,11 @@ slug: /products/clawbundle
 
 #### $189.99
 
-![The Claw Bundle with the Muscle SpikerShield](./img/ClawBundle_product.jpg) 
-![See your muscles spike in real time when closing your fist!](./img/ClawBundle_ipadClose_small.jpg)
-![See your muscles spike in real time when relaxing your fist!](./img/ClawBundle_ipadOpen_small.jpg) 
-![The Claw closes when you close your fist!](./img/ClawBundle_HandClose_small.jpg)
-![The Claw opens when you relax your fist!](./img/ClawBundle_HandOpen_small.jpg)
+![The Claw Bundle with the Muscle SpikerShield](./img/clawbundle.jpg) 
+![See your muscles spike in real time when closing your fist!](./img/clawbundle_ipadclose_small.jpg)
+![See your muscles spike in real time when relaxing your fist!](./img/clawbundle_ipadopen_small.jpg) 
+![The Claw closes when you close your fist!](./img/clawbundle_handclose_small.jpg)
+![The Claw opens when you relax your fist!](./img/clawbundle_handopen_small.jpg)
 
   * [__Default Arduino Code for Muscle-Based Claw Control](https://raw.githubusercontent.com/BackyardBrains/SpikerShield/master/Muscle/Arduino%20Code/Gripper/MuscleSpikerShieldWithGripper_V1_0.ino)
   * [__Test Code that loops Claw between Open and Closed](https://raw.githubusercontent.com/BackyardBrains/SpikerShield/master/Muscle/Arduino%20Code/Gripper/MuscleSpikerShield_GripperLoop.ino)
@@ -42,7 +42,7 @@ the Muscle SpikerShield to accommodate all types of muscles.
 
 ### The Claw Interface in Action!
 
-![ClawBundle](./img/ClawBundle_gif.gif)
+![ClawBundle](./img/clawbundle_gif.gif)
 
 ### Kit Contains
 

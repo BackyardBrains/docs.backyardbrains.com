@@ -8,9 +8,9 @@ slug: /products/brainmachineinterfaceclassroombundle
 
 #### $999.99
 
-![ReactionTimer](./img/DIYBMIClassroomKitThumb.png)
-![DIYNeuroprosthetic](./img/DIY_Hand_Built_Small.jpg)
-![The Claw!](./img/ClawBundle_gif.gif)
+![ReactionTimer](./img/diybmiclassroomkitlarge.png)
+![DIYNeuroprosthetic](./img/diy_hand_built_large.jpg)
+![The Claw!](./img/clawbundle_gif.gif)
 
 ### A Starter Bundle to Bring Brain-Machine Interfaces to your Classroom!
 
@@ -27,9 +27,9 @@ example ](https://blog.backyardbrains.com/2019/09/8th-grade-classroom-
 showcase-students-develop-neuroprosthetics-designed-to-assist-senior-citizens-
 win-state-wide-awards/)from a Middle School classroom in Riverview, MI.
 
-![FarkasDIYHand2.jpg](././img/FarkasDIYHand2.jpg)
+![FarkasDIYHand2.jpg](./img/farkasdiyhand2.jpg)
 
-![FarkasDIYHand1.jpg](././img/FarkasDIYHand1.jpg)
+![FarkasDIYHand1.jpg](./img/farkasdiyhand1.jpg)
 
 ### Kit Contents:
 

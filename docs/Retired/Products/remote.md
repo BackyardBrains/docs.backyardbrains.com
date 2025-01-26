@@ -9,7 +9,7 @@ slug: /products/remote
 #### $99.99
 
 ![The Bluetooth Remote Signal Generator](./img/remote.png) 
-![Testing out the signal function on an oscilliscope](./img/remoteInAction.png)
+![Testing out the signal function on an oscilliscope](./img/remote_in_action.png)
 
   * [__Apple iOS App](https://itunes.apple.com/us/app/byb-remote/id792968848?ls=1&mt=8)
   * [ __Android App](./files/RoboRoach.apk)

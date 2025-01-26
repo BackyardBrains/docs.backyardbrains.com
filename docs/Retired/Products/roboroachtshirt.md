@@ -10,7 +10,7 @@ slug: /products/roboroachtshirt
 #### $16.00
 
 
-![T-Shirt](./img/RoboRoachTshirt.jpg)
+![T-Shirt](./img/roboroachtshirt.jpg)
 
   * [How to Fold a T-Shirt in 2 sec](http://www.youtube.com/watch?v=dZRd5ulBna4)
 

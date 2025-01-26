@@ -114,8 +114,7 @@ we've studied before, and the earthworm contains three large axons that run
 its length, the "medial giant" fiber and the two "lateral giant" fibers. The
 medial giant fiber transmits information about the front of the worm (the part
 closest to the clitellum), and the lateral giant fibers transmit information
-from the skin cells of the posterior end of the worm ([Kladt et. al
-2010](/retired/experiments/files/kladt_2010_earthworm.pdf)).
+from the skin cells of the posterior end of the worm ([Kladt et. al 2010](./files/kladt_2010_earthworm.pdf)).
 
 [ ![](./img/Exp11fig8_cross.jpeg)](./img/Exp11fig8_cross.jpeg)
 

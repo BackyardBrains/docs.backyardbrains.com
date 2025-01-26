@@ -108,7 +108,7 @@ sending the stimulation signal from the dirt...
 
   15. Look for the red "Enable!" button near the front facing side of the Plant SpikerBox. Press the button and look for the red LED beside it. The LED should begin blinking. The blinking indicates that the experiment is armed and ready to go! 
 
-[ ![](./img/ppcenablebutton.jpg)](./img/ppcEnableButton.jpg)
+[Enable Button](./img/ppcenablebutton.jpg)
 
   16. Finally, carefully stimulate just one of the trigger hairs in the Venus Flytrap and behold! The stimulation cable should carry the Action Potential across from the Venus Flytrap and the Sensitive Mimosa will dramatically react, drooping and appearing to wither up! This is the beauty of the Interspecies Plant-Plant-Communicator! 
 

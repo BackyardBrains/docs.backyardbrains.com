@@ -177,7 +177,7 @@ spike? Does it change from earthworm to earthworm? Are smaller earthworms
 faster or slower than large earthworms? Is this speed sensitive to depth of
 anesthesia? These are all questions we would like to know, and you do too! Let
 us know what new discoveries you make. To help you learn how to identify
-Earthworm Spikes, here is an example [Earthworm Recoding](./files/Earthworm_Double_Recording.mp3)
+Earthworm Spikes, here is an example [Earthworm Recoding](./files/recordings/Earthworm_Double_Recording.mp3)
 you can analyze.
 
 ## Next Steps

@@ -1,9 +1,8 @@
 ---
 id: brainmachineinterfaceclassroombundle
 title: "Brain Machine Interface Classroom"
-slug: /products/brainmachineinterfaceclassroombundle
+slug: /retired/products/brainmachineinterfaceclassroombundle
 ---
-
 ## Brain-Machine Interface Classroom Bundle
 
 ![ReactionTimer](./img/diybmiclassroomkitlarge.png)

@@ -1,7 +1,7 @@
 ---
 id: roboroachtshirt
 title: "Roboroach T-Shirt"
-slug: /products/roboroachtshirt
+slug: /retired/products/roboroachtshirt
 ---
 
 

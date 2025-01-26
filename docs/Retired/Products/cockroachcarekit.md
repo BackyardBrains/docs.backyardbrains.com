@@ -1,7 +1,7 @@
 ---
 id: cockroachcarekit
 title: "Cockroach Care Kit"
-slug: /products/cockroachcarekit
+slug: /retired/products/cockroachcarekit
 ---
 
 ## Cockroach Care Kit

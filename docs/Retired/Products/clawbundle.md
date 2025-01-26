@@ -1,7 +1,7 @@
 ---
 id: clawbundle
 title: "Claw"
-slug: /products/clawbundle
+slug: /retired/products/clawbundle
 ---
 
 ## The Claw

@@ -10,7 +10,7 @@ slug: /products/musclespikershieldbundle
 #### $149.99
 
 
-![The Muscle SpikerShield Bundle](./iimg/musclespikershieldbundle.jpg)
+![The Muscle SpikerShield Bundle](./img/musclespikershieldbundle.jpg)
 ![Whats In The Box](./img/MuscleSpikershield_Bundle_WhatsInTheBox.jpg)
 ![Whats In The Box](./img/MuscleSpikerShield.jpg)
 

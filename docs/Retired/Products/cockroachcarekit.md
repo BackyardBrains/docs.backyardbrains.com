@@ -8,8 +8,8 @@ slug: /products/cockroachcarekit
 
 #### $25.00
 
-![The Terrarium](./img/CockroachCareKit1.jpg)
-![Substrate, Food, Water](./img/cockroachcareingredients.jpg)
+![The Terrarium](./img/CockroachCareKit1.JPG)
+![Substrate, Food, Water](./img/cockroachcareingredients.JPG)
 
 Pet ownership is a responsibility that builds character and confidence! And
 what better pet to own then your very own cockroach? If you've decided to take

@@ -1,10 +1,11 @@
-## Getting Started with the Plant SpikerBox: Venus Flytrap Electrophysiology
-
 ---
 id: "getting_started_with_the_plant_spikerbox:_venus_flytrap_electrophysiology"
 title: "Getting Started with the Plant SpikerBox: Venus Flytrap Electrophysiology"
 slug: "/retired/experiments/Plants_VenusFlytrap"
 ---
+
+## Getting Started with the Plant SpikerBox: Venus Flytrap Electrophysiology
+
 
 Electrical impulses are not only relegated to the hearts, muscles, and brains
 of animals. Plants use them too to! In this plant electricity experiment, we

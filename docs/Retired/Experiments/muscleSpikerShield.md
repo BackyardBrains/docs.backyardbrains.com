@@ -1,10 +1,11 @@
-## Experiment:Control Machines with your Brain
-
 ---
 id: "experiment__control_machines_with_your_brain"
 title: "Experiment: Control Machines with your Brain"
 slug: "/retired/experiments/muscleSpikerShield"
 ---
+
+## Experiment:Control Machines with your Brain
+
 
 Now that you have your EMG Signal, can you use it to drive another system?
 Neural Engineering continues, using the popular Arduino microcontroller.

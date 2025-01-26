@@ -1,10 +1,11 @@
-## Experiment:Recording the Muscles of Clams
-
 ---
 id: "experiment__recording_the_muscles_of_clams"
 title: "Experiment: Recording the Muscles of Clams"
 slug: "/retired/experiments/clams"
 ---
+
+## Experiment:Recording the Muscles of Clams
+
 
 Clams have strong muscles to keep their shells closed when they want to avoid
 predators. You can measure this muscle activity and see just how responsive

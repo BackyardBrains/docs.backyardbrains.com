@@ -1,10 +1,11 @@
-## The MIDI Muscle Machine
-
 ---
 id: "_the_midi_muscle_machine"
 title: " The MIDI Muscle Machine"
 slug: "/retired/experiments/MIDI"
 ---
+
+## The MIDI Muscle Machine
+
 
 We have previously developed experiments generating simple pure tones with
 your muscle contraction. Now the prophecy is fulfilled, we will control a real

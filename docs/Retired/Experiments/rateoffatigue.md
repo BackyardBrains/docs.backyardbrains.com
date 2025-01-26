@@ -1,10 +1,11 @@
-## Experiment:Exploring Rates of Fatigue
-
 ---
 id: "experiment__exploring_rates_of_fatigue"
 title: "Experiment: Exploring Rates of Fatigue"
 slug: "/retired/experiments/rateoffatigue"
 ---
+
+## Experiment:Exploring Rates of Fatigue
+
 
 Now that you've learned a bit about [how your muscles
 fatigue](fatigue), let's quantify it to

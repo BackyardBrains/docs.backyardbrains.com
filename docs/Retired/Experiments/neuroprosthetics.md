@@ -1,10 +1,11 @@
-## Experiment:NeuroProsthetics
-
 ---
 id: "experiment__neuroprosthetics"
 title: "Experiment: NeuroProsthetics"
 slug: "/retired/experiments/neuroprosthetics"
 ---
+
+## Experiment:NeuroProsthetics
+
 
 Ever wondered if you could connect the neural output of one cockroach leg into
 another leg? Neural Engineering 101 now in session.

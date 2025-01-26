@@ -1,10 +1,11 @@
-## Experiment: Record and Manipulate Live Neurons!
-
 ---
 id: "record_and_manipulate_live_neurons!"
 title: "Record and Manipulate Live Neurons!"
 slug: "/retired/experiments/spikerbox"
 ---
+
+## Experiment: Record and Manipulate Live Neurons!
+
 
 Did you just get a SpikerBox, and are wondering how to use it? In this lesson,
 you will listen to action potentials and view "spikes" in real time. This is

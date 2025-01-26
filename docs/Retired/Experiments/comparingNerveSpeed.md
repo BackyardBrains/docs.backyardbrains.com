@@ -1,10 +1,11 @@
-## Experiment:Comparing Speeds of Two Nerve Fiber Sizes
-
 ---
 id: "experiment__comparing_speeds_of_two_nerve_fiber_sizes"
 title: "Experiment: Comparing Speeds of Two Nerve Fiber Sizes"
 slug: "/retired/experiments/comparingNerveSpeed"
 ---
+
+## Experiment:Comparing Speeds of Two Nerve Fiber Sizes
+
 
 Are you curious how the telephone pole lines in your neighborhood are similar
 to neurons in your own body? Find out in this lesson plan and learn about

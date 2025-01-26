@@ -1,10 +1,11 @@
-## Experiment:Sensitive Mimosa Pudica Electrophysiology
-
 ---
 id: "experiment__sensitive_mimosa_pudica_electrophysiology"
 title: "Experiment: Sensitive Mimosa Pudica Electrophysiology"
 slug: "/retired/experiments/Plants_SensitiveMimosaPudica"
 ---
+
+## Experiment:Sensitive Mimosa Pudica Electrophysiology
+
 
 With the Venus Flytrap experiment, we previously introduced you to plant
 electrophysiology, showing that plants can generate electrical impulses too!

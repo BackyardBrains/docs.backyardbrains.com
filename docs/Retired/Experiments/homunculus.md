@@ -1,10 +1,11 @@
-## Experiment: Make your own Homunculus
-
 ---
 id: "Experiment_make_your_own_homunculus"
 title: "Experiment: Make your own Homunculus"
 slug: "/retired/experiments/homunculus"
 ---
+
+## Experiment: Make your own Homunculus
+
 
 While you know what you look like, do you know what your nervous system thinks
 you look like? Read further and learn how your skin's sensitivity changes how

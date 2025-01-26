@@ -1,10 +1,11 @@
-## Experiment:Debunking the P-value with Statistics
-
 ---
 id: "experiment__debunking_the_p-value_with_statistics"
 title: "Experiment: Debunking the P-value with Statistics"
 slug: "/retired/experiments/p-value"
 ---
+
+## Experiment:Debunking the P-value with Statistics
+
 
 Many of our experiments here at Backyard Brains will have you collecting data.
 You may be wondering, "well what can I do with all of this data?" Welcome to

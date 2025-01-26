@@ -1,10 +1,11 @@
-## Anuradha Rao Memorial Experiment: Neuropharmacology-Effect of Nicotine and MSG on Neurons
-
 ---
 id: "anuradha_rao_memorial_experiment:_neuropharmacology-effect_of_nicotine_and_msg_on_neurons"
 title: "Anuradha Rao Memorial Experiment: Neuropharmacology-Effect of Nicotine and MSG on Neurons"
 slug: "/retired/experiments/neuropharmacology"
 ---
+
+## Anuradha Rao Memorial Experiment: Neuropharmacology-Effect of Nicotine and MSG on Neurons
+
 
 It's 2 AM, your linear algebra final is in 6 hours, and you gulp down another
 espresso. You start thinking: "I wonder how this espresso and other drugs

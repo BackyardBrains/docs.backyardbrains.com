@@ -1,10 +1,11 @@
-## Experiment: Signal Classification
-
 ---
 id: "experiment__signal_classification"
 title: "Experiment: Signal Classification"
 slug: "/retired/experiments/RobotHand"
 ---
+
+## Experiment: Signal Classification
+
 
 Here we will teach how to isolate activity of individual finger muscles of
 your forearm and use them to control a robotic hand. You will be introduced to

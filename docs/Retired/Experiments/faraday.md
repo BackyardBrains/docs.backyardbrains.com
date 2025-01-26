@@ -1,10 +1,11 @@
-## Experiment: DIY Faraday Cage
-
 ---
 id: "experiment___diy_faraday_cage"
 title: "Experiment:  DIY Faraday Cage"
 slug: "/retired/experiments/faraday"
 ---
+
+## Experiment: DIY Faraday Cage
+
 
 Even the best amplifiers in the world (and ours is not) can be susceptible to
 electromagnetic noise. You've got your killer experiment designed, your

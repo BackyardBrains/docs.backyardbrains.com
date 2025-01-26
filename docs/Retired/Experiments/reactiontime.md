@@ -1,10 +1,11 @@
-## Experiment: How Fast Your Brain Reacts To Stimuli
-
 ---
 id: "how_fast_your_brain_reacts_to_stimuli"
 title: "How Fast Your Brain Reacts To Stimuli"
 slug: "/retired/experiments/reactiontime"
 ---
+
+## Experiment: How Fast Your Brain Reacts To Stimuli
+
 
 How fast do you think you are? Do you know what a reflex and a reaction are?
 This lesson plan tells all about the quickness of your nervous system and the

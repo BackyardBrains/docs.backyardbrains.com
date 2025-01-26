@@ -1,10 +1,11 @@
-## Experiment: Transistor Circuit Design
-
 ---
 id: "experiment__transistor_circuit_design"
 title: "Experiment: Transistor Circuit Design"
 slug: "/retired/experiments/transistorDesign"
 ---
+
+## Experiment: Transistor Circuit Design
+
 
 You can now explain with confidence what p-doping, n-doping, and depletion
 layers mean. Now you will put that knowledge to use. You have the transistor

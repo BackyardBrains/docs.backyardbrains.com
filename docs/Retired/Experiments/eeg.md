@@ -1,10 +1,11 @@
-## Experiment: EEG-Record from the Human Brain
-
 ---
 id: "eeg-record_from_the_human_brain"
 title: "EEG-Record from the Human Brain"
 slug: "/retired/experiments/eeg"
 ---
+
+## Experiment: EEG-Record from the Human Brain
+
 
 You've seen spikes from individual neurons, your heart, your muscles, and even
 plants. Here, finally, we tackle the much sought after, often misunderstood,

@@ -1,10 +1,11 @@
-## Experiment:How Your Skin Senses
-
 ---
 id: "experiment__how_your_skin_senses"
 title: "Experiment: How Your Skin Senses"
 slug: "/retired/experiments/skin"
 ---
+
+## Experiment:How Your Skin Senses
+
 
 Have you ever wondered how you can feel great detail with your fingers, but
 not with your elbow? Follow along below and we will show you how to perform a

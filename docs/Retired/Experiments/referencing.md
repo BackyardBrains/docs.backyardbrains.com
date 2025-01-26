@@ -1,10 +1,11 @@
-## Experiment: Referencing your Spikes
-
 ---
 id: "referencing_your_spikes"
 title: "Referencing your Spikes"
 slug: "/retired/experiments/referencing"
 ---
+
+## Experiment: Referencing your Spikes
+
 
 You might have asked: why do we need more than one electrode? Can't we simply
 take a measurement with one electrode and get a reading to hear and see

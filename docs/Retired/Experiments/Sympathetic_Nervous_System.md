@@ -1,10 +1,11 @@
-## Experiment:Activate your Sympathetic Nervous System
-
 ---
 id: "experiment__activate_your_sympathetic_nervous_system"
 title: "Experiment: Activate your Sympathetic Nervous System"
 slug: "/retired/experiments/Sympathetic_Nervous_System"
 ---
+
+## Experiment:Activate your Sympathetic Nervous System
+
 
 We will learn about your involuntary nervous system and manipulate it! Welcome
 to the autonomic nervous system, its division into the sympathetic and

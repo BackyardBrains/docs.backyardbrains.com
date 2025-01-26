@@ -1,10 +1,11 @@
-## Experiment: Advanced NeuroProsthetics: Take Someone's Free Will
-
 ---
 id: "advanced_neuroprosthetics:_take_someone's_free_will"
 title: "Advanced NeuroProsthetics: Take Someone's Free Will"
 slug: "/retired/experiments/humanhumaninterface"
 ---
+
+## Experiment: Advanced NeuroProsthetics: Take Someone's Free Will
+
 
 Have you ever had the desire to lose your free will? Or, alternatively, have
 you ever had the desire to take someone's free will? Now you can with our new

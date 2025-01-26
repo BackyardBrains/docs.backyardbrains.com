@@ -1,10 +1,11 @@
-## Experiment: Quantify Your EEG
-
 ---
 id: "Experiment_quantify_your_eeg"
 title: "Experiment: Quantify Your EEG"
 slug: "/retired/experiments/quantifyyoureeg"
 ---
+
+## Experiment: Quantify Your EEG
+
 
 Many students and teachers have enjoyed measuring their own brain activity
 with our Heart and Brain SpikerBox, but quantifying the brain signal has been

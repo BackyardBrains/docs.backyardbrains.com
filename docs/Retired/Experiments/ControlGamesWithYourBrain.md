@@ -1,10 +1,11 @@
-## Experiment:Control Games with your Brain
-
 ---
 id: "experiment__control_games_with_your_brain"
 title: "Experiment: Control Games with your Brain"
 slug: "/retired/experiments/ControlGamesWithYourBrain"
 ---
+
+## Experiment:Control Games with your Brain
+
 
 Video games are a preferred form of entertainment for many. For those who love
 interactive stories, challenges, or competitive environments, video games

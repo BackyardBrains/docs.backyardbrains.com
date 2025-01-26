@@ -1,10 +1,11 @@
-## Experiment:Effect of Temperature on Neurons
-
 ---
 id: "experiment__effect_of_temperature_on_neurons"
 title: "Experiment: Effect of Temperature on Neurons"
 slug: "/retired/experiments/temperature"
 ---
+
+## Experiment:Effect of Temperature on Neurons
+
 
 Have you ever wondered how your neurons respond to hot and cold temperatures?
 Exposing a cockroach leg's neurons to these environments will act as a perfect

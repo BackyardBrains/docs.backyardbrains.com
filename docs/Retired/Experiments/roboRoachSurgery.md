@@ -1,10 +1,11 @@
-## Experiment: Wirelessly Control a Cyborg Cockroach
-
 ---
 id: "wirelessly_control_a_cyborg_cockroach"
 title: "Wirelessly Control a Cyborg Cockroach"
 slug: "/retired/experiments/roboRoachSurgery"
 ---
+
+## Experiment: Wirelessly Control a Cyborg Cockroach
+
 
 Are you a teacher or parent that wants to teach a student about advanced
 neurotechnologies? You are in luck! After 3 long years of R&D, the RoboRoach

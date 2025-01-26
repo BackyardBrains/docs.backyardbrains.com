@@ -1,10 +1,11 @@
-## Experiment:Cellular Microscopy-Blood Cells
-
 ---
 id: "experiment__cellular_microscopy-blood_cells"
 title: "Experiment: Cellular Microscopy-Blood Cells"
 slug: "/retired/experiments/bloodcells"
 ---
+
+## Experiment:Cellular Microscopy-Blood Cells
+
 
 With the High Power RoachScope we can get a closer look at the cells that
 compose us.

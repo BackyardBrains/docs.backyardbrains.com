@@ -1,10 +1,11 @@
-## Experiment: Heart Action Potentials
-
 ---
 id: "heart_action_potentials"
 title: "Heart Action Potentials"
 slug: "/retired/experiments/heartrate"
 ---
+
+## Experiment: Heart Action Potentials
+
 
 You've seen spikes from voluntary muscle contractions, what could _beat_ that?
 How about getting down with your own internal rhythm: your heart rate! It's

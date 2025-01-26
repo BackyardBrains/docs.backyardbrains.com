@@ -1,10 +1,11 @@
-## Experiment:Sensory and Neural Adaptation
-
 ---
 id: "experiment__sensory_and_neural_adaptation"
 title: "Experiment: Sensory and Neural Adaptation"
 slug: "/retired/experiments/somatotopy"
 ---
+
+## Experiment:Sensory and Neural Adaptation
+
 
 Neurons learn, and you will gain a first look at this by examining a sensory neuron's adaptation to a constant stimulus.
 

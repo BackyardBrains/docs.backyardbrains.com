@@ -1,10 +1,11 @@
-## Experiment: Controlling the Claw
-
 ---
 id: "controlling_the_claw"
 title: "Controlling the Claw"
 slug: "/retired/experiments/MuscleSpikerShield_GripperHand"
 ---
+
+## Experiment: Controlling the Claw
+
 
 Make your first anthropomorphic Neuroprosthetic, in which you control a
 robotic claw with the signal of your muscles.

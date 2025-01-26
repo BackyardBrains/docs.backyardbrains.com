@@ -1,10 +1,11 @@
-## Experiment:Bistable Perception
-
 ---
 id: "experiment__bistable_perception"
 title: "Experiment: Bistable Perception"
 slug: "/retired/experiments/Phenomenogram"
 ---
+
+## Experiment:Bistable Perception
+
 
 Build the "Phenomenogram"_ a device capable of continuously measuring a
 person's perception in [bistability](https://en.wikipedia.org/wiki/Bistability)

@@ -1,10 +1,11 @@
-## Experiment: EMGs during Muscle Fatigue
-
 ---
 id: "emgs_during_muscle_fatigue"
 title: "EMGs during Muscle Fatigue"
 slug: "/retired/experiments/fatigue"
 ---
+
+## Experiment: EMGs during Muscle Fatigue
+
 
 You're at your local gym, getting your pump on and lifting dumbbells. You're
 feeling strong and decide to try a 30 lb curl. 1 rep, 2 rep, 3 rep....Ugh...

@@ -25,7 +25,7 @@ const config = {
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
-  onBrokenImages: 'warn',     // If this exists, ensure it is set to 'warn'
+  onBrokenAnchors: 'warn',     // If this exists, ensure it is set to 'warn'
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you

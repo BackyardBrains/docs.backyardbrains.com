@@ -8,12 +8,9 @@ slug: /products/musclespikerboxpro
 
 #### $249.99
 
-![Muscle SpikerBox Pro on Forearm.jpg](././img/musclespikerboxpro_forearm.jpg)
-![Muscle SpikerBox Pro](././img/musclespikerboxpro_main.jpg)
-![Muscle SpikerBox Pro Bundle](././img/musclespikerboxpro_bundle.jpg)
-![Muscle SpikerBox Pro on Forearm.jpg](././img/musclespikerboxpro_forearm.jpg)
-![Muscle SpikerBox Pro](././img/musclespikerboxpro_main.jpg)
-![Muscle SpikerBox Pro Bundle](././img/musclespikerboxpro_bundle.jpg)
+![Muscle SpikerBox Pro on Forearm.jpg](././img/musclespikerboxpro-forearm.jpg)
+![Muscle SpikerBox Pro](././img/musclespikerboxpro-main.jpg)
+![Muscle SpikerBox Pro Bundle](././img/musclespikerboxpro-bundle.jpg)
 
 
 Reveal and record the electrical activity hidden within your muscles! This

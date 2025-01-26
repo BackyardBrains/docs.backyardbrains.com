@@ -76,7 +76,7 @@ the "Dance Bar!")
 The Muscle SpikerShield Pro also reroutes the six digital I/O pins, VCC, and
 ground from the Arduino to output pins on the edge of the board, allowing you
 to write code to control external electronics and robotics with your muscles!
-![Follow the Rainbow!](./img/SpikerShieldPro_RainbowOutput.jpg)
+![Follow the Rainbow!](./img/spikershieldpro_rainbowoutput.jpg)
 
 If you don't already have an Arduino Uno or Arduino Leonardo, you'll need to
 get one. If that's the case, we recommend you purchase and experiment with

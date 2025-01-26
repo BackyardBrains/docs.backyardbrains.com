@@ -4,7 +4,7 @@ title: "Experiment: Quantify Your EEG"
 slug: "/retired/experiments/quantifyyoureeg"
 ---
 
-## Experiment: Quantify Your EEG
+## Experiment:  Quantify Your EEG
 
 
 Many students and teachers have enjoyed measuring their own brain activity

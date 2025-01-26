@@ -4,7 +4,7 @@ title: "Experiment:  Advanced Plant Electrophysiology_ Control the Behavior of O
 slug: "/retired/experiments/Plants_plantplantcommunicator"
 ---
 
-## Experiment: Advanced Plant Electrophysiology: Control the Behavior of One Plant with Another's
+## Experiment:  Advanced Plant Electrophysiology: Control the Behavior of One Plant with Another's
 
 
 **Time:**  1 hour

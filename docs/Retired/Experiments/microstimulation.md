@@ -4,7 +4,7 @@ title: "The Dancing Cockroach Leg-Microstimulation of Neurons and Muscles"
 slug: "/retired/experiments/microstimulation"
 ---
 
-## Experiment:The Dancing Cockroach Leg-Microstimulation of Neurons and
+## Experiment: The Dancing Cockroach Leg-Microstimulation of Neurons and
 
 
 Muscles

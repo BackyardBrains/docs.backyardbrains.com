@@ -4,7 +4,7 @@ title: "EMGs during Muscle Fatigue"
 slug: "/retired/experiments/fatigue"
 ---
 
-## Experiment: EMGs during Muscle Fatigue
+## Experiment:  EMGs during Muscle Fatigue
 
 
 You're at your local gym, getting your pump on and lifting dumbbells. You're

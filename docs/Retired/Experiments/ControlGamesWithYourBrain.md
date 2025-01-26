@@ -4,7 +4,7 @@ title: "Experiment: Control Games with your Brain"
 slug: "/retired/experiments/ControlGamesWithYourBrain"
 ---
 
-## Experiment:Control Games with your Brain
+## Experiment: Control Games with your Brain
 
 
 Video games are a preferred form of entertainment for many. For those who love

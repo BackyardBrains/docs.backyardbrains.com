@@ -4,7 +4,7 @@ title: "Experiment: The Beginning of Modern Neuroscience - The Galvani/Volta"
 slug: "/retired/experiments/Galvani_Volta"
 ---
 
-## Experiment:The Beginning of Modern Neuroscience - The Galvani/Volta
+## Experiment: The Beginning of Modern Neuroscience - The Galvani/Volta
 
 
 Debate

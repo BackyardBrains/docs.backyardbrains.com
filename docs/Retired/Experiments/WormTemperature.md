@@ -4,7 +4,7 @@ title: "Experiment: Effect of Temperature on Nerve Conduction Velocity"
 slug: "/retired/experiments/WormTemperature"
 ---
 
-## Experiment:Effect of Temperature on Nerve Conduction Velocity
+## Experiment: Effect of Temperature on Nerve Conduction Velocity
 
 
 Can you slow down the speed of action potential propagation? Here you will use

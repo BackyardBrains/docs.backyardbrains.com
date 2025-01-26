@@ -4,7 +4,7 @@ title: "Record Electricity from Your Muscles"
 slug: "/retired/experiments/muscleSpikerBox"
 ---
 
-## Experiment: Record Electricity from Your Muscles!
+## Experiment:  Record Electricity from Your Muscles!
 
 
 You may have heard and seen spikes from invertebrates. But what about

@@ -4,7 +4,7 @@ title: "Experiment: Octopus Fighting"
 slug: "/retired/experiments/OctopusFighting"
 ---
 
-## Experiment: Octopus Fighting
+## Experiment:  Octopus Fighting
 
 
 The octopus is a rather strange-looking animal that exhibits amazingly complex
@@ -232,7 +232,7 @@ Press escape to run the algorithm.
 
   24. Repeat steps 14-23 for as many videoclips as needed.
 
-## Experiment: Angle and Distance after Contact
+## Experiment:  Angle and Distance after Contact
 
 1. First in Octopus_Optical_Flow load the a and b point data saved from the videoclips analyzed in the methods. To do this define number as the name of the saved points (the .npy file without the a or b at the end)_ 
 

@@ -4,7 +4,7 @@ title: "Experiment: Investigating Grasshopper Vision"
 slug: "/retired/experiments/grasshoppervision"
 ---
 
-## Experiment:Investigating Grasshopper Vision
+## Experiment: Investigating Grasshopper Vision
 
 
 Grasshopper's have a fast reaction time! You reach out and try to catch one,

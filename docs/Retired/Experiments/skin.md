@@ -4,7 +4,7 @@ title: "Experiment: How Your Skin Senses"
 slug: "/retired/experiments/skin"
 ---
 
-## Experiment:How Your Skin Senses
+## Experiment: How Your Skin Senses
 
 
 Have you ever wondered how you can feel great detail with your fingers, but

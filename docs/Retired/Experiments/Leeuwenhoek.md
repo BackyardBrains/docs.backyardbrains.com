@@ -4,7 +4,7 @@ title: "Experiment: The Leeuwenhoek Microscope and the Beginning of Our View int
 slug: "/retired/experiments/Leeuwenhoek"
 ---
 
-## Experiment:The Leeuwenhoek Microscope and the Beginning of Our View into the Small
+## Experiment: The Leeuwenhoek Microscope and the Beginning of Our View into the Small
 
 
 You see glass everywhere. Your windows, your drinking vessels, your

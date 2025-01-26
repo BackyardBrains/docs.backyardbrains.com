@@ -4,7 +4,7 @@ title: "Controlling the Claw"
 slug: "/retired/experiments/MuscleSpikerShield_GripperHand"
 ---
 
-## Experiment: Controlling the Claw
+## Experiment:  Controlling the Claw
 
 
 Make your first anthropomorphic Neuroprosthetic, in which you control a

@@ -4,7 +4,7 @@ title: "Experiment:  DIY Faraday Cage"
 slug: "/retired/experiments/faraday"
 ---
 
-## Experiment: DIY Faraday Cage
+## Experiment:  DIY Faraday Cage
 
 
 Even the best amplifiers in the world (and ours is not) can be susceptible to

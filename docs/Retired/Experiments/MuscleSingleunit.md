@@ -4,7 +4,7 @@ title: "Experiment: Hunt for a Single Motor Unit"
 slug: "/retired/experiments/ngleunit"
 ---
 
-## Experiment:Hunt for a Single Motor Unit
+## Experiment: Hunt for a Single Motor Unit
 
 
 **Time:**  30 Minutes

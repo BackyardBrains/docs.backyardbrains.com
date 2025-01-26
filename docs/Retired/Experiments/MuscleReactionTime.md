@@ -4,7 +4,7 @@ title: "Experiment:  Clock the Inner Workings of the Brain"
 slug: "/retired/experiments/MuscleReactionTime"
 ---
 
-## Experiment: Clock the Inner Workings of the Brain
+## Experiment:  Clock the Inner Workings of the Brain
 
 
 How fast do you think you are? Do you know what a reflex and a reaction are?

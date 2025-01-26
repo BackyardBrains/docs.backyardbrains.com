@@ -4,7 +4,7 @@ title: "Referencing your Spikes"
 slug: "/retired/experiments/referencing"
 ---
 
-## Experiment: Referencing your Spikes
+## Experiment:  Referencing your Spikes
 
 
 You might have asked: why do we need more than one electrode? Can't we simply

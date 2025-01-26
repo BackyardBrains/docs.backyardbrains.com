@@ -4,7 +4,6 @@ title: " Background: Transistor Theory"
 slug: "/retired/experiments/transistorTheory"
 ---
 
-## Background: Transistor Theory
 
 
 Ahh yes, the transistor. We all owe you so much. The transistor is the reason

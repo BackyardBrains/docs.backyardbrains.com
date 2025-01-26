@@ -4,7 +4,6 @@ title: "Getting Started with the Muscle SpikerBox Pro - Antagonist Muscle Pairs"
 slug: "/retired/experiments/muscleSpikerBoxPro"
 ---
 
-## Getting Started with the Muscle SpikerBox Pro: Agonist/Antagonist Muscle Pairs
 
 
 Now that you've completed the ["Getting Started with the Muscle Spikerbox"](./muscleSpikerBox.md) experiment,

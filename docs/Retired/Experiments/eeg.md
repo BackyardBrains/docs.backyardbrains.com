@@ -4,7 +4,6 @@ title: "EEG-Record from the Human Brain"
 slug: "/retired/experiments/eeg"
 ---
 
-## Experiment:  EEG-Record from the Human Brain
 
 
 You've seen spikes from individual neurons, your heart, your muscles, and even

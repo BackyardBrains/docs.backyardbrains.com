@@ -4,7 +4,6 @@ title: "Experiment: Signal Classification"
 slug: "/retired/experiments/RobotHand"
 ---
 
-## Experiment:  Signal Classification
 
 
 Here we will teach how to isolate activity of individual finger muscles of

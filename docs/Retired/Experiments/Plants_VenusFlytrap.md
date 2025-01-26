@@ -4,7 +4,6 @@ title: "Getting Started with the Plant SpikerBox: Venus Flytrap Electrophysiolog
 slug: "/retired/experiments/Plants_VenusFlytrap"
 ---
 
-## Getting Started with the Plant SpikerBox: Venus Flytrap Electrophysiology
 
 
 Electrical impulses are not only relegated to the hearts, muscles, and brains

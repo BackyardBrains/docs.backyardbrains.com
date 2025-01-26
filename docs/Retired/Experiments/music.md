@@ -4,7 +4,6 @@ title: "Experiment: Make Music with your Muscles"
 slug: "/retired/experiments/music"
 ---
 
-## Experiment:  Make Music with your Muscles
 
 
 Flex your muscles to create different frequencies and play music.

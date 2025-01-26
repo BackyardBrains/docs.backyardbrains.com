@@ -4,7 +4,6 @@ title: "Experiment: Exploring Rates of Fatigue"
 slug: "/retired/experiments/rateoffatigue"
 ---
 
-## Experiment: Exploring Rates of Fatigue
 
 
 Now that you've learned a bit about [how your muscles

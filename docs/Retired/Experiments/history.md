@@ -4,7 +4,6 @@ title: " History: In Search of the Spike"
 slug: "/retired/experiments/history"
 ---
 
-## History: In Search of the Spike
 
 
 While not an experiment, this gives you the historical context behind the

@@ -4,7 +4,6 @@ title: " The MIDI Muscle Machine"
 slug: "/retired/experiments/MIDI"
 ---
 
-## The MIDI Muscle Machine
 
 
 We have previously developed experiments generating simple pure tones with

@@ -4,7 +4,6 @@ title: "Conduction Velocity-How Fast is a Neuron?"
 slug: "/retired/experiments/speed"
 ---
 
-## Experiment:  Conduction Velocity-How Fast is a Neuron?
 
 
 You have probably spent some time wondering just how fast those spikes that

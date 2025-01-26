@@ -4,7 +4,6 @@ title: "Experiment: Targeted Memory Reactivation"
 slug: "/retired/experiments/targetedmemoryreactivation"
 ---
 
-## Experiment: Targeted Memory Reactivation
 
 
 It can be so hard to remember things! Facts, names, where you placed your

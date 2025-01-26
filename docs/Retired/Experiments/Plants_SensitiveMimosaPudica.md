@@ -4,7 +4,6 @@ title: "Experiment: Sensitive Mimosa Pudica Electrophysiology"
 slug: "/retired/experiments/Plants_SensitiveMimosaPudica"
 ---
 
-## Experiment: Sensitive Mimosa Pudica Electrophysiology
 
 
 With the Venus Flytrap experiment, we previously introduced you to plant

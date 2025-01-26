@@ -4,7 +4,6 @@ title: "Experiment: Comparing Speeds of Two Nerve Fiber Sizes"
 slug: "/retired/experiments/comparingNerveSpeed"
 ---
 
-## Experiment: Comparing Speeds of Two Nerve Fiber Sizes
 
 
 Are you curious how the telephone pole lines in your neighborhood are similar

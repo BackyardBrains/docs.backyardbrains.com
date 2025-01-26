@@ -4,7 +4,6 @@ title: "SpikerShield Pro Experiment: Muscle Keyboard"
 slug: "/retired/experiments/spikershieldpro"
 ---
 
-## SpikerShield Pro Experiment: Muscle Keyboard
 
 
 Use the Muscle SpikerShield Pro to control up to six independent outputs. In

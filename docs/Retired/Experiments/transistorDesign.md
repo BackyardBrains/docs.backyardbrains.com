@@ -4,7 +4,6 @@ title: "Experiment: Transistor Circuit Design"
 slug: "/retired/experiments/transistorDesign"
 ---
 
-## Experiment:  Transistor Circuit Design
 
 
 You can now explain with confidence what p-doping, n-doping, and depletion

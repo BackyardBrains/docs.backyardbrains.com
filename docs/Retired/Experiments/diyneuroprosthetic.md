@@ -4,7 +4,6 @@ title: "Experiment: Build and Control your own DIY Neuroprosthetic: a Cyborg Han
 slug: "/retired/experiments/diyneuroprosthetic"
 ---
 
-## Experiment: Build and Control your own DIY Neuroprosthetic: a Cyborg Hand!
 
 
 Participate in the cutting-edge of biomedical engineering! Build your own DIY

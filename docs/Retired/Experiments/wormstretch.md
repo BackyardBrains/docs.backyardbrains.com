@@ -4,7 +4,6 @@ title: "Experiment: Effect of Nerve Stretch on Conduction Velocity"
 slug: "/retired/experiments/wormstretch"
 ---
 
-## Experiment: Effect of Nerve Stretch on Conduction Velocity
 
 
 A worm moves by extending and compressing its body. Perhaps this affects the

@@ -4,7 +4,6 @@ title: "Experiment: Octopus Fighting"
 slug: "/retired/experiments/OctopusFighting"
 ---
 
-## Experiment:  Octopus Fighting
 
 
 The octopus is a rather strange-looking animal that exhibits amazingly complex

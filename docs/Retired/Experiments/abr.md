@@ -4,7 +4,6 @@ title: "Experiment: The Auditory Brainstem Response"
 slug: "/retired/experiments/abr"
 ---
 
-## Experiment: The Auditory Brainstem Response
 
 
 By listening to many and many clicks, and recording the electrical response of

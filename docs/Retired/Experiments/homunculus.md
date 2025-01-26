@@ -4,7 +4,6 @@ title: "Experiment: Make your own Homunculus"
 slug: "/retired/experiments/homunculus"
 ---
 
-## Experiment:  Make your own Homunculus
 
 
 While you know what you look like, do you know what your nervous system thinks

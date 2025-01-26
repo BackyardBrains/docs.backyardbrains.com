@@ -4,7 +4,6 @@ title: " Background: Life, Animals, and Nervous System Theory"
 slug: "/retired/experiments/Life_Animal_Neuron_Theory"
 ---
 
-## Background: Life, Animals, and Nervous System Theory
 
 
 Earth is filled with Life, Yes. But what exactly is "Life?" And what forms of

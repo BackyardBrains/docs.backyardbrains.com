@@ -4,7 +4,6 @@ title: "Experiment: Turn your Cell Phone into a Powerful Microscope"
 slug: "/retired/experiments/RoachScopeHighPower"
 ---
 
-## Experiment: Turn your Cell Phone into a Powerful Microscope
 
 
 With the High Power RoachScope we can get a closer look at the cells that

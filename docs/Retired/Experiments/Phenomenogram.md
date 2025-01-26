@@ -4,7 +4,6 @@ title: "Experiment: Bistable Perception"
 slug: "/retired/experiments/Phenomenogram"
 ---
 
-## Experiment: Bistable Perception
 
 
 Build the "Phenomenogram"_ a device capable of continuously measuring a

@@ -4,7 +4,6 @@ title: "Experiment: The Patellar Reflex and Reaction"
 slug: "/retired/experiments/Musclekneejerk"
 ---
 
-## Experiment: The Patellar Reflex and Reaction
 
 
 **Time:**  30 Minutes

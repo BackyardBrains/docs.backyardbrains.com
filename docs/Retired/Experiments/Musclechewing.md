@@ -4,7 +4,6 @@ title: "Experiment: Muscle Recruitment in your Jaw!"
 slug: "/retired/experiments/Musclechewing"
 ---
 
-## Experiment: Muscle Recruitment in your Jaw!
 
 
 Everybody chews. You will use the Muscle SpikerBox to record EMG's of the

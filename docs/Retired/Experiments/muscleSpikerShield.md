@@ -4,7 +4,6 @@ title: "Experiment: Control Machines with your Brain"
 slug: "/retired/experiments/muscleSpikerShield"
 ---
 
-## Experiment: Control Machines with your Brain
 
 
 Now that you have your EMG Signal, can you use it to drive another system?

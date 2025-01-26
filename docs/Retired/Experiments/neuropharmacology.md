@@ -4,7 +4,6 @@ title: "Anuradha Rao Memorial Experiment: Neuropharmacology-Effect of Nicotine a
 slug: "/retired/experiments/neuropharmacology"
 ---
 
-## Anuradha Rao Memorial Experiment: Neuropharmacology-Effect of Nicotine and MSG on Neurons
 
 
 It's 2 AM, your linear algebra final is in 6 hours, and you gulp down another

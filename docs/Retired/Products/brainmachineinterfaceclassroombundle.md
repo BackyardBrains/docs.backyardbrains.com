@@ -8,9 +8,9 @@ slug: /products/brainmachineinterfaceclassroombundle
 
 #### $999.99
 
-![ReactionTimer](./img/DIYBMIClassroomKitLarge.png)
-![DIYNeuroprosthetic](./img/DIY_Hand_Built_large.jpg)
-![The Claw!](./img/ClawBundle_ipadClose.jpg)
+![ReactionTimer](./img/DIYBMIClassroomKitThumb.png)
+![DIYNeuroprosthetic](./img/DIY_Hand_Built_Small.jpg)
+![The Claw!](./img/ClawBundle_gif.gif)
 
 ### A Starter Bundle to Bring Brain-Machine Interfaces to your Classroom!
 

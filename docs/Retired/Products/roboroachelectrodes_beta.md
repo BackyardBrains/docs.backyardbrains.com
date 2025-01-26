@@ -1,13 +1,11 @@
 ---
 id: roboroachelectrodes_beta
-title: "roboroachelectrodes_beta"
+title: "Roboroach Electrodes (Beta)"
 slug: /products/roboroachelectrodes-beta
 ---
 
 
 ## RoboRoach(beta) Electrodes
-
-#### $18.00
 
 ![Roboroach Electrodes](./img/roboroachelectrodes.png) 
 ![Roboroach Electrodes](./img/roboroachelectrodes.png)

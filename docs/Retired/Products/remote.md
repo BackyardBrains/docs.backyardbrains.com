@@ -1,12 +1,10 @@
 ---
 id: remote
-title: "remote"
+title: "Remote Signal Generator"
 slug: /products/remote
 ---
 
 ## Remote Signal Generator
-
-#### $99.99
 
 ![The Bluetooth Remote Signal Generator](./img/remote.png) 
 ![Testing out the signal function on an oscilliscope](./img/remote_in_action.png)

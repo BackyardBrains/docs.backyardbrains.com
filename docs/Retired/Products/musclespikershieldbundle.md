@@ -1,6 +1,6 @@
 ---
 id: musclespikershieldbundle
-title: "muscleSpikershieldbundle"
+title: "Muscle SpikerShield"
 slug: /products/musclespikershieldbundle
 ---
 

@@ -1,12 +1,10 @@
 ---
 id: brainmachineinterfaceclassroombundle
-title: "BrainMachineInterfaceClassroomBundle"
+title: "Brain Machine Interface Classroom"
 slug: /products/brainmachineinterfaceclassroombundle
 ---
 
 ## Brain-Machine Interface Classroom Bundle
-
-#### $999.99
 
 ![ReactionTimer](./img/diybmiclassroomkitlarge.png)
 ![DIYNeuroprosthetic](./img/diy_hand_built_large.jpg)

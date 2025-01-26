@@ -1,12 +1,11 @@
 ---
 id: cockroachcarekit
-title: "cockroachcarekit"
+title: "Cockroach Care Kit"
 slug: /products/cockroachcarekit
 ---
 
 ## Cockroach Care Kit
 
-#### $25.00
 
 ![The Terrarium](./img/cockroachcarekit1.jpg)
 ![Substrate, Food, Water](./img/cockroachcareingredients.jpg)

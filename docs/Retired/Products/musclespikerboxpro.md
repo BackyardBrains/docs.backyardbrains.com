@@ -1,12 +1,10 @@
 ---
 id: musclespikerboxpro
-title: "MuscleSpikerboxPro"
+title: "Muscle Spikerbox Pro"
 slug: /products/musclespikerboxpro
 ---
 
 ## Muscle SpikerBox Pro
-
-#### $249.99
 
 ![Muscle SpikerBox Pro on Forearm.jpg](././img/musclespikerboxpro-forearm.jpg)
 ![Muscle SpikerBox Pro](././img/musclespikerboxpro-main.jpg)

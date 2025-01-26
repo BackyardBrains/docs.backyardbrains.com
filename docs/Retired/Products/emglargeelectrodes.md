@@ -1,12 +1,11 @@
 ---
 id: emglargeelectrodes
-title: "emglargeelectrodes"
+title: "Emg Large Electrodes"
 slug: /products/emglargeelectrodes
 ---
 
 ## Large Muscle Electrodes
 
-#### $34.99
 
 ![Muscle Electrodes](./img/largemuscleelectrodeswitharm.jpg)
 ![What ships? 2x packages of 50 EMG Electrodes \(100 total\)](./img/largemuscleelectrodesbags.jpg)

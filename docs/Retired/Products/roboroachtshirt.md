@@ -1,13 +1,11 @@
 ---
 id: roboroachtshirt
-title: "roboroachtshirt"
+title: "Roboroach T-Shirt"
 slug: /products/roboroachtshirt
 ---
 
 
 ## RoboRoach T-Shirt
-
-#### $16.00
 
 
 ![T-Shirt](./img/roboroachtshirt.jpg)

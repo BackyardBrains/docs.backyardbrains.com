@@ -1,14 +1,10 @@
 ---
 id: musclespikershieldpro
-title: "MuscleSpikerShieldPro"
+title: "Muscle SpikerShield Pro"
 slug: /products/musclespikershieldpro
 ---
 
-
-
 ## Muscle SpikerShield Pro
-
-#### $399.99
 
 ![SpikerShield Pro ](./img/spikershieldpro.jpg)
 ![SpikerShield Pro Signals ](./img/spikershieldpro_signals.png)

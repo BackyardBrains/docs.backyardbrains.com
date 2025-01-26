@@ -11,7 +11,7 @@ slug: /products/musclespikershieldbundle
 
 
 ![The Muscle SpikerShield Bundle](./img/musclespikershieldbundle.jpg)
-![Whats In The Box](./img/musclespikershieldbundle_whatsin_the_box.jpg)
+![Whats In The Box](./img/musclespikershield_bundle_whatsinthebox.jpg)
 
 
   * [__PCB Schematics (v0.1)](./files/EMGSpikerShield.v.0.1a.pdf)

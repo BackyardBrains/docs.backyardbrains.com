@@ -10,7 +10,8 @@ slug: /products/musclespikershieldpro
 
 #### $399.99
 
-
+![SpikerShield Pro ](./img/spikershieldpro.jpg)
+![SpikerShield Pro Signals ](./img/spikershieldpro_signals.png)
 
   * [__Schematics v1](./files/Schematics-Muscle-spikerShield-Pro-V1.pdf)
   * [__Muscle SpikerShield Pro Default Uno Code](./files/MuscleSpikerShieldProDefaultCode.zip)
@@ -70,7 +71,7 @@ controlled. Record in raw or with envelope, adjust channel gains, and use the
 LEDs to quickly reference the signal strength. (We lovingly refer to this as
 the "Dance Bar!") 
 
-![Dance!](./img/SpikerShieldPro_Dance.jpg)
+![Dance!](./img/spikershieldpro_dance.jpg)
 
 The Muscle SpikerShield Pro also reroutes the six digital I/O pins, VCC, and
 ground from the Arduino to output pins on the edge of the board, allowing you

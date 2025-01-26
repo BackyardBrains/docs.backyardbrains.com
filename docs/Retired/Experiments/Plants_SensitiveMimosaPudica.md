@@ -24,7 +24,7 @@ rapidly through cells, plant morphology, and the ion channels used by plants.
 
 ##### Prerequisite Labs
 
-  * [ Venus Flytrap Electrophysiology](plants) - Our Venus Flytrap experiment is easier and serves as a good start to plant electrophysiology before moving to the more challenging Mimosa preparation.
+  * [ Venus Flytrap Electrophysiology](./Plants_VenusFlytrap.md) - Our Venus Flytrap experiment is easier and serves as a good start to plant electrophysiology before moving to the more challenging Mimosa preparation.
 
 ##### Equipment
 
@@ -181,10 +181,8 @@ stem/petiole joint of Mimosa plants.
 
 We have been growing Mimosa plants in various attempts for the last three
 years, and below we summarize our efforts to ensure generation. A surprise to
-us was our observation that the Mimosas have [very deep
-roots](./img/Mimosa_Roots_web.jpg), notable while the seedlings are still small.
-We present our growing recommendations, and [let us
-know](mailto:tim@backyardbrains.com) if you have any insider tips.
+us was our observation that the Mimosas have [very deep roots](./img/Mimosa_Roots_web.jpg), notable while the seedlings are still small.
+We present our growing recommendations, and [let us know](mailto:tim@backyardbrains.com) if you have any insider tips.
 
   1. The seeds are fairly easy to obtain, you can purchase them on [Amazon](https://www.amazon.com/Package-Sensitive-Compact-Seed-Needs/dp/B00323LXCG/ref=sr_1_1?ie=UTF8&qid=1448571799&sr=8-1&keywords=Mimosa+seeds), but the germination rate is not high. We have only observed that only 10-20% of the seeds will germinate, and of, these, only 1/3 will survive the seedling phase. 
   2. With a pair of pliers, lightly compress a seed to cause the hard outer shell to "crack." This will allow water to diffuse into the seed more readily and cause germination. 

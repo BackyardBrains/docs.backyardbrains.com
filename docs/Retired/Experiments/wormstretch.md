@@ -45,8 +45,7 @@ hydraulically, which the worm uses to crawl underground. Unlike we humans, the
 worm does not have rigid structures like bones with which to move muscles
 around on pivot points. Random fact_ if you brush a worm carefully down its
 length with your finger, you may detect with your fingers, yet not see with
-your eyes, bristles going in one vs. another direction. These
-[bristles](./img/estiramiento_bristles_web.jpg) allow a worm to grip the earth
+your eyes, bristles going in one vs. another direction. These [bristles](./img/estiramiento_bristles_web.jpg) allow a worm to grip the earth
 as it moves.
 
 [

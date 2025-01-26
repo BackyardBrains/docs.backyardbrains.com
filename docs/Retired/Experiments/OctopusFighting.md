@@ -79,7 +79,7 @@ which makes them more convenient for daytime experiments.
 
 You will need:
 
-- Octopus chamber (laser cut and assembled). Source File: [Octopus_Chamber.ai](files/Octopus_Chamber.ai)
+- Octopus chamber (laser cut and assembled). Source File: [Octopus Chamber.ai](./files/OctopusChamber.ai)
 - GoPro camera
 - Mini-USB cable
 - Laptop

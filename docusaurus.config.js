@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'BYB documentation',
-  tagline: 'Neuroscience for everyone',
+  tagline: 'Neuroscience for Everyone!',
   favicon: 'https://blog.backyardbrains.com/wp-content/uploads/2017/06/Icon-60@3x-150x150.png',
 
   // Set the production url of your site here

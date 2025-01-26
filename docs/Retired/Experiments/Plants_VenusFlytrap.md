@@ -18,7 +18,7 @@ called "one of the most wonderful in the world:" the Venus Flytrap.
 
 #### What will you learn?
 
-In this experiment, featured on the [TED Main Stage](https://www.ted.com/talks/greg_gage_electrical_experiments_with_plants_that_count_and_communicate?utm_campaign=tedspread--a&utm_medium=referral&utm_source=tedcomshare), you will learn about plant
+In this experiment, featured on the [TED Main Stage](https://www.ted.com/talks/greg_gage_electrical_experiments_with_plants_that_count_and_communicate), you will learn about plant
 electrophysiology and record the Action Potential of the Venus Flytrap.
 
 ##### Prerequisite Labs
@@ -53,7 +53,7 @@ molecules).
 If you look closely at the Venus Flytrap, you will notice it has very tiny
 "Trigger Hairs" inside its trap leaves.
 
-[ ![](./img/triggerhairs_web.jpg)](./img/triggerhairs_web.jpg)
+![trigger hairs](./img/triggerhairs_web.jpg)
 
 If a wayward, unsuspecting insect touches a trigger hair, an Action Potential
 occurs in the leaves. This is a different Action Potential than what we are

@@ -8,9 +8,9 @@ slug: /products/emglargeelectrodes
 
 #### $34.99
 
-![Muscle Electrodes](./img/large_muscle_electrodes_with_arm.jpg)
-![What ships? 2x packages of 50 EMG Electrodes \(100 total\)](./img/large_muscle_electrodes_bags.jpg)
-![2x packages of 50 EMG Electrodes](./img/large_muscle_electrodes.jpg)
+![Muscle Electrodes](./img/largemuscleelectrodeswitharm.jpg)
+![What ships? 2x packages of 50 EMG Electrodes \(100 total\)](./img/largemuscleelectrodesbags.jpg)
+![2x packages of 50 EMG Electrodes](./img/largemuscleelectrodes.jpg)
 
 
   * [__Getting Started with Electromyograms (EMGs)](/experiments/emgspikerbox)

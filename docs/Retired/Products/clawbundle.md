@@ -8,7 +8,7 @@ slug: /products/clawbundle
 
 #### $189.99
 
-![The Claw Bundle with the Muscle SpikerShield](./img/clawbundle.jpg) 
+![The Claw Bundle with the Muscle SpikerShield](./img/clawbundle.gif) 
 ![See your muscles spike in real time when closing your fist!](./img/clawbundle_ipadclose_small.jpg)
 ![See your muscles spike in real time when relaxing your fist!](./img/clawbundle_ipadopen_small.jpg) 
 ![The Claw closes when you close your fist!](./img/clawbundle_handclose_small.jpg)

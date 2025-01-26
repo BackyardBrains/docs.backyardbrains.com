@@ -10,7 +10,7 @@ slug: /products/brainmachineinterfaceclassroombundle
 
 ![ReactionTimer](./img/diybmiclassroomkitlarge.png)
 ![DIYNeuroprosthetic](./img/diy_hand_built_large.jpg)
-![The Claw!](./img/clawbundle_gif.gif)
+![The Claw!](./img/clawbundle.gif)
 
 ### A Starter Bundle to Bring Brain-Machine Interfaces to your Classroom!
 

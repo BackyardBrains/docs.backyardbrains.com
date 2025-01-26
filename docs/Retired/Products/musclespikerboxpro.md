@@ -107,7 +107,7 @@ icon](./img/arduino.svg)](https://raw.githubusercontent.com/BackyardBrains/Spike
 
 #### Linux
 
-![Muscle SpikerBox Pro Wild](././img/Muscle-SpikerBox-Pro-Wild2.jpg)
+![Muscle SpikerBox Pro Wild](././img/muscle-spikerbox-pro-wild.jpg)
 
 ###
 

@@ -1,10 +1,10 @@
----
-id: Experiment_octopus_fighting
-title: "Experiment: Octopus Fighting"
-slug: /retired/experiments/OctopusFighting
----
+## Experiment: Octopus Fighting
 
-# Experiment: Octopus Fighting
+---
+id: "Experiment_octopus_fighting"
+title: "Experiment: Octopus Fighting"
+slug: "/retired/experiments/OctopusFighting"
+---
 
 The octopus is a rather strange-looking animal that exhibits amazingly complex
 behaviors. And that's no wonder... they have the most impressive nervous
@@ -155,7 +155,7 @@ OpenCV: If all goes well all you need to do is "pip install opencv-contrib-pytho
 
 ## Octopus Filming
 
-  1. Fill jug about a quarter of the way with sea water and shake it to aerate.
+1. Fill jug about a quarter of the way with sea water and shake it to aerate.
   2. Fill the octopus chamber until there's at least an inch of water.
 
 [ ![](./img/octopusFighting-fightStep2.png)](./img/octopusFighting-fightStep2.png)
@@ -233,7 +233,7 @@ Press escape to run the algorithm.
 
 ## Experiment: Angle and Distance after Contact
 
-  1. First in Octopus_Optical_Flow load the a and b point data saved from the videoclips analyzed in the methods. To do this define number as the name of the saved points (the .npy file without the a or b at the end)_ 
+1. First in Octopus_Optical_Flow load the a and b point data saved from the videoclips analyzed in the methods. To do this define number as the name of the saved points (the .npy file without the a or b at the end)_ 
 
 [ ![](./img/octopusFighting-AngleStep1.png)](./img/octopusFighting-AngleStep1.png)
 
@@ -286,6 +286,6 @@ The end result shoud look like this_
 
 ## Science Fair Project Ideas
 
-  * Is there a heirarchy formed amungst octopodes?
+* Is there a heirarchy formed amungst octopodes?
   * What other patterns do you observe in their behaviours?
   * Do the octopodes always approach on the same side? Can you write code to determine this?

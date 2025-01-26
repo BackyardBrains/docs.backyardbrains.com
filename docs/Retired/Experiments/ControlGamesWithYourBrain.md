@@ -1,10 +1,10 @@
----
-id: experiment__control_games_with_your_brain
-title: "Experiment: Control Games with your Brain"
-slug: /retired/experiments/ControlGamesWithYourBrain
----
+## Experiment:Control Games with your Brain
 
-# Experiment:Control Games with your Brain
+---
+id: "experiment__control_games_with_your_brain"
+title: "Experiment: Control Games with your Brain"
+slug: "/retired/experiments/ControlGamesWithYourBrain"
+---
 
 Video games are a preferred form of entertainment for many. For those who love
 interactive stories, challenges, or competitive environments, video games
@@ -27,7 +27,7 @@ signals from your nervous system.
 
 ##### Prerequisite Labs
 
-  * [Experiment:Control Machines with Your Brain](https://backyardbrains.com/experiments/MuscleSpikerShield) - This will introduce you to the concept of digitizing body signals for control applications.
+* [Experiment:Control Machines with Your Brain](https://backyardbrains.com/experiments/MuscleSpikerShield) - This will introduce you to the concept of digitizing body signals for control applications.
   * [Experiment:Eye Potentials (EOG)](https://backyardbrains.com/experiments/EOG) - This will introduce to the voltage changes you can measure when the eye blinks and moves.
 
 ##### Equipment

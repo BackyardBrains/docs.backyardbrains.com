@@ -1,10 +1,10 @@
----
-id: experiment__comparing_speeds_of_two_nerve_fiber_sizes
-title: "Experiment: Comparing Speeds of Two Nerve Fiber Sizes"
-slug: /retired/experiments/comparingNerveSpeed
----
+## Experiment:Comparing Speeds of Two Nerve Fiber Sizes
 
-# Experiment:Comparing Speeds of Two Nerve Fiber Sizes
+---
+id: "experiment__comparing_speeds_of_two_nerve_fiber_sizes"
+title: "Experiment: Comparing Speeds of Two Nerve Fiber Sizes"
+slug: "/retired/experiments/comparingNerveSpeed"
+---
 
 Are you curious how the telephone pole lines in your neighborhood are similar
 to neurons in your own body? Find out in this lesson plan and learn about
@@ -24,7 +24,7 @@ axons.
 
 ##### Prerequisite Labs
 
-  * [Introduction to Conduction Velocity](speed) - We recommend completing this experiment first, as it will teach you how to set up earthworm experiments and use your Neuron SpikerBox Pro.
+* [Introduction to Conduction Velocity](speed) - We recommend completing this experiment first, as it will teach you how to set up earthworm experiments and use your Neuron SpikerBox Pro.
   * [Faraday Cage](faraday) - Noise can sometimes be a problem when recording, and a Faraday Cage helps you eliminate it. You may need to use one for this experiment.
 
 ##### Equipment
@@ -283,10 +283,11 @@ here](https://www.youtube.com/watch?feature=player_embedded&v=qZFTuOxUVok).
 ## Procedure
 
 ##### The Materials Required For This Lab Are Exactly The Same As The
+
 Experiment:[Introduction to Conduction Velocity (Neural
 Speed)](https://backyardbrains.com/experiments/speed#Materials)
 
-  1. Anesthetize and take a recording of the posterior end of the worm as you did in the previous experiment. 
+1. Anesthetize and take a recording of the posterior end of the worm as you did in the previous experiment. 
 
 [ ![](./img/Byb_mgnlgn_pic18.png)](./img/Byb_mgnlgn_pic18.png)
 
@@ -340,7 +341,7 @@ constant increases conduction velocity, let us know that as well.
 
 ## Questions to Consider
 
-  1. Does the anesthetic have an effect on the conduction velocities of the MGN and LGN? 
+1. Does the anesthetic have an effect on the conduction velocities of the MGN and LGN? 
   2. Does a worm's general size have an effect on conduction velocity? 
   3. You can also anesthetize the worm in a 40% - 60% carbonated water solution for 5-9 minutes as an alternative anesthetic. Will this change the conduction velocity measurements. 
   4. The worm _Lumbriculus variegatus_ (California Blackworm) actually has a larger LGN than MGN, so we would expect our results to be the opposite of what we observed here with our _Lumbricus terrestris_ nightcrawlers. Do this experiment and [let us know](mailto:info@backyardbrains.com) what you find! 

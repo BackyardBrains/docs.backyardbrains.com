@@ -1,10 +1,10 @@
----
-id: experiment__turn_your_cell_phone_into_a_powerful_microscope
-title: "Experiment: Turn your Cell Phone into a Powerful Microscope"
-slug: /retired/experiments/RoachScopeHighPower
----
+## Experiment:Turn your Cell Phone into a Powerful Microscope
 
-# Experiment:Turn your Cell Phone into a Powerful Microscope
+---
+id: "experiment__turn_your_cell_phone_into_a_powerful_microscope"
+title: "Experiment: Turn your Cell Phone into a Powerful Microscope"
+slug: "/retired/experiments/RoachScopeHighPower"
+---
 
 With the High Power RoachScope we can get a closer look at the cells that
 compose us.
@@ -20,7 +20,7 @@ magnification using two biology preps!
 
 ##### Prerequisite Labs
 
-  * None
+* None
 
 ##### Equipment
 
@@ -93,13 +93,12 @@ High Powered Scope!
 
 ### Prep 1: Human Cheek
 
-  1. Prepare your glass slide and slide cover by cleaning them with glass cleaning solution and a special glass cleaning cloth. If you have a camera or wear glasses, you can use the glass cleaning cloth that came with those. Otherwise, you can order special, disposable cleaning paper online - [here is an inexpensive option](https://www.amazon.com/OMAX-Sheets-Microscope-Camera-Cleaning/dp/B00A84NJ1U/ref=sr_1_3?ie=UTF8&qid=1399309334&sr=8-3&keywords=microscope+cleaning+kit)! 
+1. Prepare your glass slide and slide cover by cleaning them with glass cleaning solution and a special glass cleaning cloth. If you have a camera or wear glasses, you can use the glass cleaning cloth that came with those. Otherwise, you can order special, disposable cleaning paper online - [here is an inexpensive option](https://www.amazon.com/OMAX-Sheets-Microscope-Camera-Cleaning/dp/B00A84NJ1U/ref=sr_1_3?ie=UTF8&qid=1399309334&sr=8-3&keywords=microscope+cleaning+kit)! 
   2. Place a drop of water on the slide. 
   3. Take your toothpick and rub it against the inside of your cheek. Then take the toothpick and roll it through the drop of water. 
   4. Angle your slide cover over it, with one edge of the square touching the slide, then let the cover fall onto the drop of water. Run the flat side of your fingernail across the cover to remove any air from beneath it. Use a tissue paper to blot up water that escapes from beneath the slide cover. 
   5. Place the slide under the High-Power magnifying lense on the RoachScope and turn on the backlight. 
   6. Set your cellphone's camera lens on top of the RoachScope's magnifying lens, centering the view of the microscope in the center of your screen. It should look something like this_ 
-
 
 ![RoachScope1](./img/RoachScope1.jpg)
 

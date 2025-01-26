@@ -1,10 +1,10 @@
----
-id: experiment__effect_of_nerve_stretch_on_conduction_velocity
-title: "Experiment: Effect of Nerve Stretch on Conduction Velocity"
-slug: /retired/experiments/wormstretch
----
+## Experiment:Effect of Nerve Stretch on Conduction Velocity
 
-# Experiment:Effect of Nerve Stretch on Conduction Velocity
+---
+id: "experiment__effect_of_nerve_stretch_on_conduction_velocity"
+title: "Experiment: Effect of Nerve Stretch on Conduction Velocity"
+slug: "/retired/experiments/wormstretch"
+---
 
 A worm moves by extending and compressing its body. Perhaps this affects the
 diameter of the nerves, and thus the speed of impulse conduction. Here we
@@ -22,7 +22,7 @@ time an impulse takes to travel along an axon.
 
 ##### Prerequisite Labs
 
-  * [Introduction to Conduction Velocity](speed) - You will find this experiment helpful to get a general idea of conduction velocity and how it is measured. 
+* [Introduction to Conduction Velocity](speed) - You will find this experiment helpful to get a general idea of conduction velocity and how it is measured. 
 
 ##### Equipment
 
@@ -145,6 +145,7 @@ Now we go to our lab and investigate!!!
 The materials required for this lab are exactly the same as the experiment
 ["Introduction to Conduction
 Velocity"](https://backyardbrains.com/experiments/speed#Materials), save for
+
 one-two extra items_
 
   1. Digital Vernier Calipers (available at [Auto parts stores](https://www.autozone.com/clamps-and-measuring-tools/vernier-caliper/oem-6-in-electronic-digital-caliper/864649_0_0/), [hardware stores](https://www.acehardware.com/product/index.jsp?productId=2278941), [Amazon](https://www.amazon.com/60%25-OFF-Digital-Stainless-Precision/dp/B00TL1A4E6/ref=sr_1_3?s=industrial&ie=UTF8&qid=1433982876&sr=1-3&keywords=digital+vernier)) 
@@ -265,7 +266,7 @@ permit slight changes in length constant?
 
 ## Notes / Further Work
 
-    1. It is worth a trip to the your university library to spend a couple hours browsing Theodore Bullock's tome, [The Structure and Function of the Nervous System in Invertebrates](https://www.worldcat.org/title/structure-and-function-in-the-nervous-systems-of-invertebrates/oclc/558128) and marvel on the scale of the unknown that exists in the world of the invertebrates. 
+1. It is worth a trip to the your university library to spend a couple hours browsing Theodore Bullock's tome, [The Structure and Function of the Nervous System in Invertebrates](https://www.worldcat.org/title/structure-and-function-in-the-nervous-systems-of-invertebrates/oclc/558128) and marvel on the scale of the unknown that exists in the world of the invertebrates. 
     2. Thanks go to the [Dunalastair Colegio](https://www.dunalastair.cl/LasCondes/Pages/Index.aspx), a high school in Santiago, Chile, where we first observed this effect during a teacher training workshop, and to Alejandra Riveros Campos, a Chilean Colleague who then helped with the systematic experiments verifying the time difference. 
     3. What would happen if the nerve were cooled, as [in a previous experiment](./WormTemperature), and then the stretched vs. unstretched time difference measured? 
     4. We have left out the pesky detail that [earthworm axons are actually myelinated](./files/Hartline_Colman_2007_MyelinReview.pdf) and that saltatory conduction is occurring. How does this affect the interpretation of the results and our hypotheses? 

@@ -1,10 +1,10 @@
----
-id: advanced_neuroprosthetics:_take_someone's_free_will
-title: "Advanced NeuroProsthetics: Take Someone's Free Will"
-slug: /retired/experiments/humanhumaninterface
----
+## Experiment: Advanced NeuroProsthetics: Take Someone's Free Will
 
-# Experiment: Advanced NeuroProsthetics: Take Someone's Free Will
+---
+id: "advanced_neuroprosthetics:_take_someone's_free_will"
+title: "Advanced NeuroProsthetics: Take Someone's Free Will"
+slug: "/retired/experiments/humanhumaninterface"
+---
 
 Have you ever had the desire to lose your free will? Or, alternatively, have
 you ever had the desire to take someone's free will? Now you can with our new
@@ -23,7 +23,7 @@ contract the muscle of another human.
 
 ##### Prerequisite Labs
 
-  * [Muscle SpikerShield](muscleSpikerShield.md) - You should become familiar with how to use your Muscle SpikerShield and an Arduino
+* [Muscle SpikerShield](muscleSpikerShield.md) - You should become familiar with how to use your Muscle SpikerShield and an Arduino
 
 ##### Equipment
 
@@ -88,6 +88,7 @@ If you like who is controlling you, the feeling can be quite nice.
 > learn how to upload code, check out [this helpful guide](http://arduino.cc/en/Guide/HomePage)
 >
 > [Arduino Software](http://arduino.cc/en/main/software#.Uxd6XYWhZMk)
+
 >
 > Download our Arduino(.ino) Human-Human-Interface Sketch. Check out the comments for some insight into how it works! (You can also use this code for [the Claw Experiment!)](./MuscleSpikerShield_GripperHand.md) 
 >

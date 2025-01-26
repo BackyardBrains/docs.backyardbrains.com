@@ -1,10 +1,10 @@
----
-id: _the_midi_muscle_machine
-title: " The MIDI Muscle Machine"
-slug: /retired/experiments/MIDI
----
+## The MIDI Muscle Machine
 
-#  The MIDI Muscle Machine
+---
+id: "_the_midi_muscle_machine"
+title: " The MIDI Muscle Machine"
+slug: "/retired/experiments/MIDI"
+---
 
 We have previously developed experiments generating simple pure tones with
 your muscle contraction. Now the prophecy is fulfilled, we will control a real
@@ -23,13 +23,12 @@ synthesizer through a MIDI interface. Music will never look back.
 
 ##### Prerequisite Labs
 
-  * [ Music with Muscles ](./music.md) - This previous experiment introduces you to basic music theory and control with our simpler one-channel device. 
+* [ Music with Muscles ](./music.md) - This previous experiment introduces you to basic music theory and control with our simpler one-channel device. 
   * [ Muscle SpikerShield Pro ](./muscleactionpotential.md) - This experiment introduces you to our more advanced multichannel device and how to generate musical sequences. 
 
 ##### Equipment
 
 * [ Muscle SpikerShield Pro](https://backyardbrains.com/products/MuscleSpikerShieldPro)
-
 
 ## Background
 
@@ -116,10 +115,13 @@ flow!
 > Arduino Platform and you know how to upload code to your board. If you are
 > new to Arduino, or need a refresher, check out [Getting Started with Arduino
 > on Windows](https://arduino.cc/en/guide/windows#.UyIUTYW3t4x) or [Getting
+
 > Started with Arduino on Mac OS X
 > ](https://arduino.cc/en/guide/macOSX#.UyIU2IW3t4w).
+
 >
 > [Arduino Software](https://arduino.cc/en/main/software#.Uxd6XYWhZMk)
+
 >
 > [MIDI library for
 > Arduino](./files/MIDI.zip)
@@ -132,7 +134,7 @@ flow!
 
 ### Procedure
 
-  1. We will use, again, the Muscle SpikerShield Pro for this experiment.   
+1. We will use, again, the Muscle SpikerShield Pro for this experiment.   
 
   
 ![](./img/SpikerShield-MIDI-photo.jpg)
@@ -158,10 +160,14 @@ flow!
     
 ```cpp
     #include 
-    #include 
-    #define MAX 150     //maximum posible reading. TWEAK THIS VALUE!!
-    #define EMG AO
-    int reading[10];
+
+#include 
+
+#define MAX 150     //maximum posible reading. TWEAK THIS VALUE!!
+
+#define EMG AO
+
+int reading[10];
     int finalReading;
     int interBeatTime = 130; // to prevent repeat drum hits with a single contraction. You can TWEAK this as well.
     byte multiplier = 1;
@@ -329,17 +335,17 @@ flow!
 
 ### Discussion
 
-  1. If you want to know more about how MIDI channels work, you can go [ down the rabbit hole.](https://www.indiana.edu/~emusic/361/midi.htm)
+1. If you want to know more about how MIDI channels work, you can go [ down the rabbit hole.](https://www.indiana.edu/~emusic/361/midi.htm)
   2. This is a MIDI Instrument! You are obviously not limited to connecting your body to one synthesizer. You could have the output of the Roland TR-8 Control a [Korg Volca Bass](https://www.korg.com/us/products/dj/volca_bass/), as we do in the advanced section of the video above. 
   3. A wireless version, where someone could freely dance and generate music, would certainly be compelling and truly be [the mother of all demos](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos). What do you think are the technical challenges for achieving this? 
 
 ### Troubleshooting
 
-  1. Since we have six wires going to different muscles, we have to be careful about the organization of the wires to make sure we have a full range of movement. 
+1. Since we have six wires going to different muscles, we have to be careful about the organization of the wires to make sure we have a full range of movement. 
   2. If you are not causing a tone to activate, you can look at the serial monitor to see the values your muscle contracting is causing, and change the gain by increasing it (clockwise) or decreasing it (counter-clockwise) on the corresponding white knobs on the SpikerShield Pro board. With our MIDI control Arduino code, unfortunately you cannot open the Serial Monitor on the Arduino Program (you will just see a bunch of weird symbols). However, you can use a [Serial Test Reader](./files/SpikerShield_Pro_Serial_Read.zip) (also downloadable above) that Pablo Pardo, a high school intern, wrote for us. Upload this code to check your values, and then you can re-upload the MIDI sketch again. 
 
 ### Acknowledgements
 
-  1. We thank [Florencia Edwards](mailto:flo@backyardbrains.com) for investigating and diagramming the MIDI-Arduino connection for us, which was fundamental to getting the experiment working. 
+1. We thank [Florencia Edwards](mailto:flo@backyardbrains.com) for investigating and diagramming the MIDI-Arduino connection for us, which was fundamental to getting the experiment working. 
   2. We also want to thank longtime collaborator [Pablo Guerra](https://www.polwor.cl) for helping us with the pilot MIDI experiments and for loaning us his Roland TR-8 for two months. He is also the actor on the video above. We additionally thank Belén Richard for her impromptu acting services. 
   3. We also thank Almudena Cerrudos of the Spanish Television show "El Hormiguero" for [inviting us](https://www.youtube.com/watch?v=NlWiHZfd70A) to present the first prototype of this project on their program. A well known invited celebrity had the chance to see it...

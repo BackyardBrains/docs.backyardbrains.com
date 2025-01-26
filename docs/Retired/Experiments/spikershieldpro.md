@@ -1,10 +1,10 @@
----
-id: _spikershield_pro_experiment_muscle_keyboard
-title: "SpikerShield Pro Experiment: Muscle Keyboard"
-slug: /retired/experiments/spikershieldpro
----
+## SpikerShield Pro Experiment: Muscle Keyboard
 
-#  SpikerShield Pro Experiment: Muscle Keyboard
+---
+id: "_spikershield_pro_experiment_muscle_keyboard"
+title: "SpikerShield Pro Experiment: Muscle Keyboard"
+slug: "/retired/experiments/spikershieldpro"
+---
 
 Use the Muscle SpikerShield Pro to control up to six independent outputs. In
 this case, it will be musical tones. Time to generate music by moving your
@@ -22,7 +22,7 @@ of multiple muscles and use that information to generate multiple outputs
 
 ##### Prerequisite Labs
 
-  * [ Muscle SpikerShield ](muscleSpikerShield.md) - You should be familiar with the Muscle SpikerShield and how it generally works. 
+* [ Muscle SpikerShield ](muscleSpikerShield.md) - You should be familiar with the Muscle SpikerShield and how it generally works. 
   * [ Music with Muscles ](music) - This previous experiment introduces you to basic music theory and control with our simpler one-channel device. 
 
 ##### Equipment
@@ -99,10 +99,13 @@ scales.
 > Arduino Platform and you know how to upload code to your board. If you are
 > new to arduino, or need a refresher, check out [Getting Started with Arduino
 > on Windows](https://arduino.cc/en/guide/windows#.UyIUTYW3t4x) or [Getting
+
 > Started with Arduino on Mac OS X
 > ](https://arduino.cc/en/guide/macOSX#.UyIU2IW3t4w).
+
 >
 > [Arduino Software](https://arduino.cc/en/main/software#.Uxd6XYWhZMk)
+
 >
 > You can download the muscle keyboard sketch here. Check out the comments for
 > some insight into how it works!
@@ -113,7 +116,7 @@ scales.
 
 ### Procedure
 
-  1. Your set up is easy_ Plug your orange recording cables in (color coded by channel) and then plug in a battery to power up your Muscle SpikerShield Pro. 
+1. Your set up is easy_ Plug your orange recording cables in (color coded by channel) and then plug in a battery to power up your Muscle SpikerShield Pro. 
 
   
 ![](./img/SSProMusicSetup.jpg)
@@ -197,10 +200,12 @@ scales.
     
     ```cpp
     #include "reference.h"
-    #define NUM_OUT 6
-    #define NUM_SONG 6 //Current number of songs
-    
-    int readings[6];
+
+#define NUM_OUT 6
+
+#define NUM_SONG 6 //Current number of songs
+
+int readings[6];
     int musclePin[6] = {A0, A1, A2, A3, A4, A5};
     int maxINPUT = 800;
     
@@ -329,103 +334,191 @@ scales.
     //This is it, all 88 keys of a piano, from lowest to highest. The S stands for Sharp
     
     #define NOTE_A0  27
-    #define NOTE_AS0  29
-    #define NOTE_B0  31
-    #define NOTE_C1  33
-    #define NOTE_CS1 35
-    #define NOTE_D1  37
-    #define NOTE_DS1 39
-    #define NOTE_E1  41
-    #define NOTE_F1  44
-    #define NOTE_FS1 46
-    #define NOTE_G1  49
-    #define NOTE_GS1 52
-    #define NOTE_A1  55
-    #define NOTE_AS1 58
-    #define NOTE_B1  62
-    #define NOTE_C2  65
-    #define NOTE_CS2 69
-    #define NOTE_D2  73
-    #define NOTE_DS2 78
-    #define NOTE_E2  82
-    #define NOTE_F2  87
-    #define NOTE_FS2 93
-    #define NOTE_G2  98
-    #define NOTE_GS2 104
-    #define NOTE_A2  110
-    #define NOTE_AS2 117
-    #define NOTE_B2  123
-    #define NOTE_C3  131
-    #define NOTE_CS3 139
-    #define NOTE_D3  147
-    #define NOTE_DS3 156
-    #define NOTE_E3  165
-    #define NOTE_F3  175
-    #define NOTE_FS3 185
-    #define NOTE_G3  196
-    #define NOTE_GS3 208
-    #define NOTE_A3  220
-    #define NOTE_AS3 233
-    #define NOTE_B3  247
-    #define NOTE_C4  262
-    #define NOTE_CS4 277
-    #define NOTE_D4  294
-    #define NOTE_DS4 311
-    #define NOTE_E4  330
-    #define NOTE_F4  349
-    #define NOTE_FS4 370
-    #define NOTE_G4  392
-    #define NOTE_GS4 415
-    #define NOTE_A4  440
-    #define NOTE_AS4 466
-    #define NOTE_B4  494
-    #define NOTE_C5  523
-    #define NOTE_CS5 554
-    #define NOTE_D5  587
-    #define NOTE_DS5 622
-    #define NOTE_E5  659
-    #define NOTE_F5  698
-    #define NOTE_FS5 740
-    #define NOTE_G5  784
-    #define NOTE_GS5 831
-    #define NOTE_A5  880
-    #define NOTE_AS5 932
-    #define NOTE_B5  988
-    #define NOTE_C6  1047
-    #define NOTE_CS6 1109
-    #define NOTE_D6  1175
-    #define NOTE_DS6 1245
-    #define NOTE_E6  1319
-    #define NOTE_F6  1397
-    #define NOTE_FS6 1480
-    #define NOTE_G6  1568
-    #define NOTE_GS6 1661
-    #define NOTE_A6  1760
-    #define NOTE_AS6 1865
-    #define NOTE_B6  1976
-    #define NOTE_C7  2093
-    #define NOTE_CS7 2217
-    #define NOTE_D7  2349
-    #define NOTE_DS7 2489
-    #define NOTE_E7  2637
-    #define NOTE_F7  2794
-    #define NOTE_FS7 2960
-    #define NOTE_G7  3136
-    #define NOTE_GS7 3322
-    #define NOTE_A7  3520
-    #define NOTE_AS7 3729
-    #define NOTE_B7  3951
-    #define NOTE_C8  4186 
-    ```
+
+#define NOTE_AS0  29
+
+#define NOTE_B0  31
+
+#define NOTE_C1  33
+
+#define NOTE_CS1 35
+
+#define NOTE_D1  37
+
+#define NOTE_DS1 39
+
+#define NOTE_E1  41
+
+#define NOTE_F1  44
+
+#define NOTE_FS1 46
+
+#define NOTE_G1  49
+
+#define NOTE_GS1 52
+
+#define NOTE_A1  55
+
+#define NOTE_AS1 58
+
+#define NOTE_B1  62
+
+#define NOTE_C2  65
+
+#define NOTE_CS2 69
+
+#define NOTE_D2  73
+
+#define NOTE_DS2 78
+
+#define NOTE_E2  82
+
+#define NOTE_F2  87
+
+#define NOTE_FS2 93
+
+#define NOTE_G2  98
+
+#define NOTE_GS2 104
+
+#define NOTE_A2  110
+
+#define NOTE_AS2 117
+
+#define NOTE_B2  123
+
+#define NOTE_C3  131
+
+#define NOTE_CS3 139
+
+#define NOTE_D3  147
+
+#define NOTE_DS3 156
+
+#define NOTE_E3  165
+
+#define NOTE_F3  175
+
+#define NOTE_FS3 185
+
+#define NOTE_G3  196
+
+#define NOTE_GS3 208
+
+#define NOTE_A3  220
+
+#define NOTE_AS3 233
+
+#define NOTE_B3  247
+
+#define NOTE_C4  262
+
+#define NOTE_CS4 277
+
+#define NOTE_D4  294
+
+#define NOTE_DS4 311
+
+#define NOTE_E4  330
+
+#define NOTE_F4  349
+
+#define NOTE_FS4 370
+
+#define NOTE_G4  392
+
+#define NOTE_GS4 415
+
+#define NOTE_A4  440
+
+#define NOTE_AS4 466
+
+#define NOTE_B4  494
+
+#define NOTE_C5  523
+
+#define NOTE_CS5 554
+
+#define NOTE_D5  587
+
+#define NOTE_DS5 622
+
+#define NOTE_E5  659
+
+#define NOTE_F5  698
+
+#define NOTE_FS5 740
+
+#define NOTE_G5  784
+
+#define NOTE_GS5 831
+
+#define NOTE_A5  880
+
+#define NOTE_AS5 932
+
+#define NOTE_B5  988
+
+#define NOTE_C6  1047
+
+#define NOTE_CS6 1109
+
+#define NOTE_D6  1175
+
+#define NOTE_DS6 1245
+
+#define NOTE_E6  1319
+
+#define NOTE_F6  1397
+
+#define NOTE_FS6 1480
+
+#define NOTE_G6  1568
+
+#define NOTE_GS6 1661
+
+#define NOTE_A6  1760
+
+#define NOTE_AS6 1865
+
+#define NOTE_B6  1976
+
+#define NOTE_C7  2093
+
+#define NOTE_CS7 2217
+
+#define NOTE_D7  2349
+
+#define NOTE_DS7 2489
+
+#define NOTE_E7  2637
+
+#define NOTE_F7  2794
+
+#define NOTE_FS7 2960
+
+#define NOTE_G7  3136
+
+#define NOTE_GS7 3322
+
+#define NOTE_A7  3520
+
+#define NOTE_AS7 3729
+
+#define NOTE_B7  3951
+
+#define NOTE_C8  4186 
+
+```
 
 ### Troubleshooting
 
-  1. Since we have six wires going to different muscles, we have to be careful about the organization of the wires to make sure we have a full range of movement. See video above. 
+1. Since we have six wires going to different muscles, we have to be careful about the organization of the wires to make sure we have a full range of movement. See video above. 
   2. If you are not causing a tone to activate, you can look at the serial monitor to see the values your muscle contracting is causing, and change the gain by increasing it (clockwise) or decreasing it (counter-clockwise) on the corresponding white knobs on the SpikerShield Pro board. 
 
 ### Discussion
 
-  1. While generating pure tones one at a time still allows for interesting music, it would be great to be to play chords but contracting multiple muscles at the same time. The Arduino Uno cannot do this, but perhaps more powerful Arduino boards can. 
+1. While generating pure tones one at a time still allows for interesting music, it would be great to be to play chords but contracting multiple muscles at the same time. The Arduino Uno cannot do this, but perhaps more powerful Arduino boards can. 
   2. It has not escaped our notice that it would be more interesting to connect the Muscle Spikershield Pro to a drum machine or Roland synthesizer to generate more complex sounds and loops. We are investigating how to do this. 
   3. While we programmed our preferred scales into the Arduino, you are free and encouraged to modify the program. 
   4. While we stated above that we only have six tones, if you use the white pitch doubling button on the SpikerShield Pro, you actually have a total of 12 tones. Take that bag pipes! 

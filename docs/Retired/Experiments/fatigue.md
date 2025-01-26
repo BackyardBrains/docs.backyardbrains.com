@@ -1,10 +1,10 @@
----
-id: emgs_during_muscle_fatigue
-title: "EMGs during Muscle Fatigue"
-slug: /retired/experiments/fatigue
----
+## Experiment: EMGs during Muscle Fatigue
 
-# Experiment: EMGs during Muscle Fatigue
+---
+id: "emgs_during_muscle_fatigue"
+title: "EMGs during Muscle Fatigue"
+slug: "/retired/experiments/fatigue"
+---
 
 You're at your local gym, getting your pump on and lifting dumbbells. You're
 feeling strong and decide to try a 30 lb curl. 1 rep, 2 rep, 3 rep....Ugh...
@@ -25,7 +25,7 @@ in muscle cells and neural signals during fatigue.
 
 #### Prerequisite Labs
 
-  * [Muscle SpikerBox](./muscleSpikerBox.md) - You should read the "Introduction to EMG's" experiment for you to understand what motor units are.
+* [Muscle SpikerBox](./muscleSpikerBox.md) - You should read the "Introduction to EMG's" experiment for you to understand what motor units are.
   * [Oxygen and Spiking](./oxygen.md ) - You should also read our experiment on Oxygen and Neuronal Spiking to learn some basic metabolism and biochemistry. 
 
 #### Equipment
@@ -182,7 +182,7 @@ fashion.]
 
 ## Science Fair Project Ideas
 
-  * Sometimes, when hiking in your favorite park (like the [Wonderland Trail](http://en.wikipedia.org/wiki/Wonderland_Trail) or [Torres del Paine](http://en.wikipedia.org/wiki/Torres_del_Paine_National_Park)), you find, even if you are not very fit, you can hike for 6-10 hours. However, if you tried to lift a 100 pound (45 kg) barbells repeatedly, you would rapidly get tired within 5-30 reps over a couple minutes depending on your athletic ability. Why is the time scale of fatigue so different in these two activities?
+* Sometimes, when hiking in your favorite park (like the [Wonderland Trail](http://en.wikipedia.org/wiki/Wonderland_Trail) or [Torres del Paine](http://en.wikipedia.org/wiki/Torres_del_Paine_National_Park)), you find, even if you are not very fit, you can hike for 6-10 hours. However, if you tried to lift a 100 pound (45 kg) barbells repeatedly, you would rapidly get tired within 5-30 reps over a couple minutes depending on your athletic ability. Why is the time scale of fatigue so different in these two activities?
   * Try the biceps and forearms fatigue tests on both arms and hands to see if you observe anything different. As you know, you have a dominant arm/hand (left-handed vs right-handed). Is your dominant arm/hand stronger or more fatigue resistant than the other?
   * How can two muscles that are about the same size be so different in their fatigue properties? We didn't cover it here, but you can begin reading about [slow twitch and fast twitch](http://en.wikipedia.org/wiki/Skeletal_striated_muscle) muscle fibers to learn more. 
   * Are there muscles that are very fatigue resistant? Can you give us some examples? 

@@ -1,10 +1,10 @@
----
-id: eeg-record_from_the_human_brain
-title: "EEG-Record from the Human Brain"
-slug: /retired/experiments/eeg
----
+## Experiment: EEG-Record from the Human Brain
 
-# Experiment: EEG-Record from the Human Brain
+---
+id: "eeg-record_from_the_human_brain"
+title: "EEG-Record from the Human Brain"
+slug: "/retired/experiments/eeg"
+---
 
 You've seen spikes from individual neurons, your heart, your muscles, and even
 plants. Here, finally, we tackle the much sought after, often misunderstood,
@@ -24,7 +24,7 @@ glimpse the electrical activity of your brain.
 
 ##### Prerequisite Labs
 
-  * [Heart Action Potentials](heartrate) - You should have a basic understanding of the arduino platform and how to use the Heart & Brain SpikerBox to record your heartbeat before moving on to this more challenging experiment of recording your own EEG brain rhythms.
+* [Heart Action Potentials](heartrate) - You should have a basic understanding of the arduino platform and how to use the Heart & Brain SpikerBox to record your heartbeat before moving on to this more challenging experiment of recording your own EEG brain rhythms.
 
 ##### Equipment
 
@@ -141,6 +141,7 @@ you as best our poor ability enables.
 
 > Before you begin, make sure you have the [Backyard Brains Spike Recorder](https://backyardbrains.com/products/spikerecorder) and
 > [Arduino](http://arduino.cc/en/main/software#.Uxd6XYWhZMk) Programs installed on your computer. The Arduino "Sketch" is what you install on your
+
 > Arduino circuit board using the Arduino laptop software (your board comes
 > preinstalled if you bought the Arduino from us), and Backyard Brains Spike
 > Recorder program allows you to visualize and save the data on your computer
@@ -185,7 +186,7 @@ the changes you make.
 
 ## Discussion / Further Work
 
-  1. Problems isolating your EEG alpha rhythm. See our [troubleshooting guide](https://backyardbrains.com/products/files/EEG_Troubleshooting_Guide.pdf) for tips. 
+1. Problems isolating your EEG alpha rhythm. See our [troubleshooting guide](https://backyardbrains.com/products/files/EEG_Troubleshooting_Guide.pdf) for tips. 
   2. Here is a [reference recording](./files/EEG_Alpha_SampleData.zip) we made of eyes closed versus eyes open while recording EEG over visual cortex, to help you learn what eyes closed versus eyes open looks like. In the .zip file is a .wav file containing the recording and a .txt file containing the eyes open and eyes closed times. Place both files in your SpikeRecorder recordings folder and open the .wav file within SpikeRecorder to examine this data with embedded markers. 
   3. Try this experiment without opening and closing your eyes, but turning the lights on and off in your room. Also, when the lights are off, try to actively "look" for something in the darkness. Do the alpha rhythms appear, disappear, etc? You can look at our second [sample recording](./files/EEG_Alpha_ActiveSearching_SampleData.zip) where we do this, but perhaps your data will be different. 
   4. Is this alpha really generated in the visual cortex? Try moving the headband around your head to see where the rhythm is the strongest. 
@@ -213,7 +214,7 @@ closely with us on illustrating this challenging write-up.
 
 ## Science Fair Project Ideas
 
-  * We say here that the alpha rhythms really don't reflect what someone is thinking, but is that really true? Try recording alpha rhythms from a person while they're thinking different thoughts. Does it have any effect? Why or why not? 
+* We say here that the alpha rhythms really don't reflect what someone is thinking, but is that really true? Try recording alpha rhythms from a person while they're thinking different thoughts. Does it have any effect? Why or why not? 
   * What effect do certain conditions have on aspects of the alpha wave? For example, age, male vs female, how much sleep they've had, whether they've had caffeine recently. Why do you think these do/don't have an effect? 
   * Try recording from different parts of someone's occipital region. Is there an optimal placement for seeing alpha rhythms? How far from this placement do you still see them? 
   * Try recording from different parts of someone's scalp. Do you see any other kinds of waves? Are there changes in activity in other parts of the brain during the eyes open or eyes closed conditions? 

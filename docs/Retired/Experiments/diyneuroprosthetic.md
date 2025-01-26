@@ -1,10 +1,10 @@
----
-id: experiment__build_and_control_your_own_diy_neuroprosthetic__a_cyborg_hand!
-title: "Experiment: Build and Control your own DIY Neuroprosthetic: a Cyborg Hand!"
-slug: /retired/experiments/diyneuroprosthetic
----
+## Experiment:Build and Control your own DIY Neuroprosthetic: a Cyborg Hand!
 
-# Experiment:Build and Control your own DIY Neuroprosthetic: a Cyborg Hand!
+---
+id: "experiment__build_and_control_your_own_diy_neuroprosthetic__a_cyborg_hand!"
+title: "Experiment: Build and Control your own DIY Neuroprosthetic: a Cyborg Hand!"
+slug: "/retired/experiments/diyneuroprosthetic"
+---
 
 Participate in the cutting-edge of biomedical engineering! Build your own DIY
 prosthetic hand with articulating fingers, then use the Muscle SpikerShield to
@@ -21,7 +21,7 @@ Neuroprosthetic - a "Cyborg Hand!"
 
 ##### Prerequisite Labs
 
-  * None
+* None
 
 ##### Equipment
 

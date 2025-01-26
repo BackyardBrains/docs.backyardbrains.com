@@ -1,10 +1,10 @@
----
-id: experiment__control_machines_with_your_brain
-title: "Experiment: Control Machines with your Brain"
-slug: /retired/experiments/muscleSpikerShield
----
+## Experiment:Control Machines with your Brain
 
-# Experiment:Control Machines with your Brain
+---
+id: "experiment__control_machines_with_your_brain"
+title: "Experiment: Control Machines with your Brain"
+slug: "/retired/experiments/muscleSpikerShield"
+---
 
 Now that you have your EMG Signal, can you use it to drive another system?
 Neural Engineering continues, using the popular Arduino microcontroller.
@@ -24,12 +24,11 @@ Arduino interface!.
 
 ##### Prerequisite Labs
 
-  * [Muscle SpikerBox](./muscleSpikerBox.md) - You should become familiar with what an EMG signal is.
+* [Muscle SpikerBox](./muscleSpikerBox.md) - You should become familiar with what an EMG signal is.
 
 ##### Equipment
 
 *[Muscle SpikerShield Bundle](https://backyardbrains.com/products/muscleSpikershieldBundle)
-
 
 ## Background
 
@@ -86,10 +85,12 @@ we're about to see... LEDs!
 > This experiment assumes you have a basic understanding of how to use the
 > Arduino Platform and you know how to upload code to your board. If you are
 > new to arduino, or need a refresher, check out [Getting Started with Arduino on Windows](https://arduino.cc/en/guide/windows#.UyIUTYW3t4x) or [Getting Started with Arduino on Mac OS X ](https://arduino.cc/en/guide/macOSX#.UyIU2IW3t4w). Note_ If you bought our
+
 > [Muscle SpikerShield Bundle](https://backyardbrains.com/products/emgspikershieldbundle), the
 > Human-Human-Interface and Claw Combined code is already uploaded.
 >
 > [Arduino Software](https://arduino.cc/en/main/software#.Uxd6XYWhZMk)
+
 >
 > This lab has you begin with different code, allowing you to see the
 > digitized signal in the serial monitor. Then, at the end of the lab, you
@@ -107,7 +108,7 @@ we're about to see... LEDs!
 
 ### Procedure
 
-  1. Let's get started! If you purchased the SpikerShield Bundle, everything is ready to go out of the box! But, for the sake of learning, let's say you're starting from scratch. This experiment will guide you through setting up and programming the arduino. 
+1. Let's get started! If you purchased the SpikerShield Bundle, everything is ready to go out of the box! But, for the sake of learning, let's say you're starting from scratch. This experiment will guide you through setting up and programming the arduino. 
 
 [ ![](./img/SpikerShieldImg1.jpg)](./img/SpikerShieldImg1.jpg)
 
@@ -131,8 +132,10 @@ we're about to see... LEDs!
     
     
     #define NUM_LED 6  //sets the maximum numbers of LEDs
-    **#define MAX 150     //maximum posible reading. TWEAK THIS VALUE!!**
-    int reading[10];
+
+**#define MAX 150     //maximum posible reading. TWEAK THIS VALUE!!**
+
+int reading[10];
     int finalReading;
     
 

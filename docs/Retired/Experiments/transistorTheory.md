@@ -1,10 +1,10 @@
----
-id: _Background:_transistor_theory
-title: " Background: Transistor Theory"
-slug: /retired/experiments/transistorTheory
----
+## Background: Transistor Theory
 
-#  Background: Transistor Theory
+---
+id: "_Background:_transistor_theory"
+title: " Background: Transistor Theory"
+slug: "/retired/experiments/transistorTheory"
+---
 
 Ahh yes, the transistor. We all owe you so much. The transistor is the reason
 why your cell phone fits inside your pocket and why your SpikerBox can measure
@@ -25,7 +25,7 @@ breadboard.
 
 ##### Prerequisite Labs
 
-  * [SpikerBox](spikerbox) - A familiarity with spikes will make this theory writeup more meaningful
+* [SpikerBox](spikerbox) - A familiarity with spikes will make this theory writeup more meaningful
 
 ##### Equipment
 
@@ -221,7 +221,7 @@ your circuit...
 
 ## Discussion Questions
 
-  1. Why are the Group IV elements called "semi"-conductors? Do they conduct at all times? If not, what must be done to them to make them conduct? 
+1. Why are the Group IV elements called "semi"-conductors? Do they conduct at all times? If not, what must be done to them to make them conduct? 
   2. What happens when Group III atoms are added into a block of Group IV material? What about when Group V atoms are added to Group IV instead? What do you think would happen if you just mixed Group III and Group V atoms? Do you think the resultant mix would be conductive? 
   3. In our [temperature experiment](./temperature) we learned about the electro-chemical interactions that occur at the cellular membrane. How is a p-n junction similar to the lipid bilayer of a cell? How is it different? 
   4. How do diodes relate to transistors?

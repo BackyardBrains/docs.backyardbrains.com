@@ -1,10 +1,10 @@
----
-id: experiment__sleep
-title: "Experiment: Sleep"
-slug: /retired/experiments/sleep
----
+## Experiment: Sleep
 
-# Experiment: Sleep
+---
+id: "experiment__sleep"
+title: "Experiment: Sleep"
+slug: "/retired/experiments/sleep"
+---
 
 "To sleep, perchance to dream." W. Shakespeare. Poets and Scientists have long
 wondered and written about this strange phenomenon that plays such a profound
@@ -26,7 +26,7 @@ take a nap!
 
 ##### Prerequisite Labs
 
-  * [EEG](eeg) - You should have an understanding of how to use the Heart & Brain SpikerBox to record the alpha waves of your visual cortex before moving on to this more challenging experiment of recording the EEG during different stages of sleep.
+* [EEG](eeg) - You should have an understanding of how to use the Heart & Brain SpikerBox to record the alpha waves of your visual cortex before moving on to this more challenging experiment of recording the EEG during different stages of sleep.
 
 ##### Equipment
 
@@ -219,7 +219,7 @@ for yourself!
 
 ## Discussion / Further Work
 
-  1. The documented record of most days without sleep was made by high school student [Randy Gardner](https://en.wikipedia.org/wiki/Randy_Gardner_\(record_holder\)) when he went for 11 days without sleep in San Diego in 1964. But this is a dangerous record to try to break, so don't try it (and Guinness no longer keeps track). 
+1. The documented record of most days without sleep was made by high school student [Randy Gardner](https://en.wikipedia.org/wiki/Randy_Gardner_\(record_holder\)) when he went for 11 days without sleep in San Diego in 1964. But this is a dangerous record to try to break, so don't try it (and Guinness no longer keeps track). 
   2. You may have noticed the EEG during is much stronger and more obvious in the delta waves of sleep than during awake EEG. Why do you think that is? 
   3. Ever wondered how coffee works? We feel tired after being awake for a while, as the build-up of adenosine produced by neurons in our brain indicates the need for us to sleep. Caffeine blocks the adenosine receptors in your brain. 
   4. We have found that our EEG headband works best for naps, but doesn’t stay situated correctly overnight. Most overnight sleep involves body movement that shifts the headband and and releases the electrode connection. Perhaps you could design a better way to keep the headband in place during the night with hair clips and a modification of the electrodes. 
@@ -229,14 +229,14 @@ for yourself!
 
 ## Science Fair Project Ideas
 
-  * You can notice REM sleep in your dog. When, during sleep, your dog's eyes and mouth are twitching, with an occasional twitch of a leg, your dog is in REM sleep. This of course leaves any curious mind to wonder what it is that dogs even dream about. Maybe you can repeat Robert Lawson's famous train ride experiment and simply observe your dog when it begins sleeping and write down the time and duration when its eyes start twitching versus not twitching. One of our colleagues, Ivonne Beltran, sent us a video of her dog in obvious REM sleep. 
+* You can notice REM sleep in your dog. When, during sleep, your dog's eyes and mouth are twitching, with an occasional twitch of a leg, your dog is in REM sleep. This of course leaves any curious mind to wonder what it is that dogs even dream about. Maybe you can repeat Robert Lawson's famous train ride experiment and simply observe your dog when it begins sleeping and write down the time and duration when its eyes start twitching versus not twitching. One of our colleagues, Ivonne Beltran, sent us a video of her dog in obvious REM sleep. 
 
   * Is there a way to calculate how much energy you save while sleeping? There are movement trackers like the [Fitbit](https://www.fitbit.com/cl/home), [Apple Watch](https://www.apple.com/lae/watch/), and Misfit. You may be able to also "back of the envelope" calculate it using some physics. 
   * Which hypothesis on why we sleep do you find the most compelling from above (Protection, Energy Conservation, Body Repair, and Strengthen Learning)? Why? Can you design an experiment testing your reasons? 
 
 ## References
 
-  * [Sleepy Head - Narcolepsy , Neuroscience, and the Search for a Good Night](https://www.amazon.com/Sleepyhead-Narcolepsy-Neuroscience-Search-Night-ebook/dp/B074V4TQ9R) by Henry Nicholls. A new book released in 2018 that goes over the state of the art in sleep research. Many of our historial references on the discovery of REM came from this book. 
+* [Sleepy Head - Narcolepsy , Neuroscience, and the Search for a Good Night](https://www.amazon.com/Sleepyhead-Narcolepsy-Neuroscience-Search-Night-ebook/dp/B074V4TQ9R) by Henry Nicholls. A new book released in 2018 that goes over the state of the art in sleep research. Many of our historial references on the discovery of REM came from this book. 
   * [National Institutes of Health Guide to Healthy Sleep](https://www.nhlbi.nih.gov/files/docs/public/sleep/healthy_sleep.pdf)
   * Society for Neuroscience [Brain Facts](https://www.brainfacts.org/thinking-sensing-and-behaving/sleep)
   * [Smithsonian Magazine article](https://www.smithsonianmag.com/science-nature/the-stubborn-scientist-who-unraveled-a-mystery-of-the-night-91514538/
@@ -251,6 +251,7 @@ as well - our legacy downloads are below.
 Before you begin, make sure you have the [Backyard Brains Spike
 Recorder](https://backyardbrains.com/products/spikerecorder) and
 [Arduino](https://arduino.cc/en/main/software#.Uxd6XYWhZMk) Programs installed
+
 on your computer. The Arduino "Sketch" is what you install on your Arduino
 circuit board using the Arduino laptop software (your board comes preinstalled
 if you bought the Arduino from us), and Backyard Brains Spike Recorder program

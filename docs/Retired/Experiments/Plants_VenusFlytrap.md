@@ -1,10 +1,10 @@
----
-id: getting_started_with_the_plant_spikerbox:_venus_flytrap_electrophysiology
-title: "Getting Started with the Plant SpikerBox: Venus Flytrap Electrophysiology"
-slug: /retired/experiments/Plants_VenusFlytrap
----
+## Getting Started with the Plant SpikerBox: Venus Flytrap Electrophysiology
 
-# Getting Started with the Plant SpikerBox: Venus Flytrap Electrophysiology
+---
+id: "getting_started_with_the_plant_spikerbox:_venus_flytrap_electrophysiology"
+title: "Getting Started with the Plant SpikerBox: Venus Flytrap Electrophysiology"
+slug: "/retired/experiments/Plants_VenusFlytrap"
+---
 
 Electrical impulses are not only relegated to the hearts, muscles, and brains
 of animals. Plants use them too to! In this plant electricity experiment, we
@@ -23,7 +23,7 @@ electrophysiology and record the Action Potential of the Venus Flytrap.
 
 ##### Prerequisite Labs
 
-  * None
+* None
 
 ##### Equipment
 
@@ -145,5 +145,4 @@ plant cells.
 * You have noticed that the Action Potential propagation sometimes doesn't occur. You can measure this as a function of temperature, time of year, etc. Also, how does the shape of the Action Potential vary from plant to plant, from trap to trap? Does the 20s clock change as a function of temperature as well? Does the time course of the Action Potential change as the plant ages? 
 * We prefer Venus Flytrap varieties that have the traps resting on the soil. When you are trying to record from a trap on a long stem, hanging in the air, the touching of the trigger hair will cause the whole trap to sort of "wobble" which can disturb the electrode interface and cause the Action Potential shape to be distorted. The [B-52 variety](http://www.californiacarnivores.com/dionaeamuscipulab-52xginormous.aspx) works well for electrophysiology. 
 * The figures above are normalized so that the baseline is 0 mV, but the plant probably has a resting membrane potential, how would we go about measuring this? 
-
 

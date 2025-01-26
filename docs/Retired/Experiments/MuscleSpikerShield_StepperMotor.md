@@ -1,10 +1,10 @@
----
-id: experiment__controlling_a_stepper_motor_with_your_muscles
-title: "Experiment: Controlling a Stepper Motor with Your Muscles"
-slug: /retired/experiments/MuscleSpikerShield_StepperMotor
----
+## Experiment:Controlling a Stepper Motor with Your Muscles
 
-# Experiment:Controlling a Stepper Motor with Your Muscles
+---
+id: "experiment__controlling_a_stepper_motor_with_your_muscles"
+title: "Experiment: Controlling a Stepper Motor with Your Muscles"
+slug: "/retired/experiments/MuscleSpikerShield_StepperMotor"
+---
 
 What biology beyond flagella has never achieved_ Rotary Motion with Axles.
 Here you will learn to make an interface with a Stepper Motor and enjoy making
@@ -22,7 +22,7 @@ inventions that move things with your muscle signals.
 
 ##### Prerequisite Labs
 
-  * [Getting started with the Muscle SpikerShield](https://backyardbrains.com/experiments/MuscleSpikerShield)
+* [Getting started with the Muscle SpikerShield](https://backyardbrains.com/experiments/MuscleSpikerShield)
 
 ##### Equipment
 
@@ -32,7 +32,6 @@ inventions that move things with your muscle signals.
 * [Breadboard](https://www.amazon.com/Pcs-MCIGICM-Points-Solderless-Breadboard/dp/B07PCJP9DY/ref=sr_1_6?dchild=1&keywords=breadboard&qid=1626130451&s=industrial&sr=1-6)
 * [Jumper Wires](https://www.amazon.com/dp/B01EV47GI4/ref=redir_mobile_desktop?_encoding=UTF8&aaxitk=88cb0c9353a9a208eec99acacc715eb6&hsa_cr_id=4414025220401&pd_rd_plhdr=t&pd_rd_r=f63a3a8f-b5fb-43e0-ba94-21c0a81a1e51&pd_rd_w=8bwoc&pd_rd_wg=1ILZo&ref_=sbx_be_s_sparkle_mcd_asin_2_title)
 * [9 Volt Connectors](https://www.amazon.com/Battery-Connector-I-Type-Plastic-Housing/dp/B07TRKYZCH/ref=sr_1_3?dchild=1&keywords=9+volt+connector&qid=1626130518&s=electronics&sr=1-3)
-
 
 ## Background
 
@@ -106,14 +105,14 @@ control.
 
 ## Procedures
 
-  1. First, upload the Stepper Motor sketch to your Arduino, as you have [previously learned how to do](https://backyardbrains.com/experiments/MuscleSpikerShield). 
+1. First, upload the Stepper Motor sketch to your Arduino, as you have [previously learned how to do](https://backyardbrains.com/experiments/MuscleSpikerShield). 
   2. Now, we will have to add a library from ---
 id: experiment__controlling_a_stepper_motor_with_your_muscles
 title: "Experiment: Controlling a Stepper Motor with Your Muscles"
 slug: /retired/experiments/MuscleSpikerShield_StepperMotor
 ---
 
-# Experiment: Controlling a Stepper Motor with Your Muscles
+## Experiment: Controlling a Stepper Motor with Your Muscles
 
 What biology beyond flagella has never achieved: **Rotary Motion with Axles**.  
 Here you will learn to make an interface with a Stepper Motor and enjoy making precise circular movements.
@@ -167,6 +166,7 @@ A stepper motor converts a train of input pulses (square waves) into precisely d
 Unipolar Stepper motors can have 5, 6, or 8 terminals that connect to [magnetic coils](https://en.wikipedia.org/wiki/Stepper_motor) for positioning. Power and ground wires may also be present.
 
 ### Circuit of Stepper Motor
+
 ![Stepper_Schematic_web.jpg](./img/Stepper_Schematic_web.jpg)
 
 ---
@@ -228,12 +228,15 @@ This code converts your EMG signal into pulses that drive the motor. More muscle
 #include <AccelStepper.h>  // Include AccelStepper library
 
 #define DIR 7                   // DIR pin from A4988 to pin 7
+
 #define STEP 4                  // STEP pin from A4988 to pin 4
+
 #define MOTOR_INTERFACE_TYPE 1  // How many motors are connected (max = 4)
 
 AccelStepper stepper(MOTOR_INTERFACE_TYPE, STEP, DIR);
 
 #define MAX 60
+
 #define MAX_STEPS 10
 
 int readings[10];
@@ -286,6 +289,6 @@ void loop() {
 
 ## Science Fair Project Ideas
 
-     * Try to design some reaction time experiments that could be done with your own body and with the motor. How does the time differ with other kinds of reaction time tests? Does it depend on the sensory stimulus you're reacting to? 
+* Try to design some reaction time experiments that could be done with your own body and with the motor. How does the time differ with other kinds of reaction time tests? Does it depend on the sensory stimulus you're reacting to? 
      * Hook up people of differing levels of athleticism-does this affect the strength or speed of the motor? How about how long they can move the motor for? 
      * What are some other devices you could connect this to? What might be the limit to what or how many you could connect to?

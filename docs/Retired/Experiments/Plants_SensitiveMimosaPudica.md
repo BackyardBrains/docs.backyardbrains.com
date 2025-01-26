@@ -1,10 +1,10 @@
----
-id: experiment__sensitive_mimosa_pudica_electrophysiology
-title: "Experiment: Sensitive Mimosa Pudica Electrophysiology"
-slug: /retired/experiments/Plants_SensitiveMimosaPudica
----
+## Experiment:Sensitive Mimosa Pudica Electrophysiology
 
-# Experiment:Sensitive Mimosa Pudica Electrophysiology
+---
+id: "experiment__sensitive_mimosa_pudica_electrophysiology"
+title: "Experiment: Sensitive Mimosa Pudica Electrophysiology"
+slug: "/retired/experiments/Plants_SensitiveMimosaPudica"
+---
 
 With the Venus Flytrap experiment, we previously introduced you to plant
 electrophysiology, showing that plants can generate electrical impulses too!
@@ -24,14 +24,13 @@ rapidly through cells, plant morphology, and the ion channels used by plants.
 
 ##### Prerequisite Labs
 
-  * [ Venus Flytrap Electrophysiology](./Plants_VenusFlytrap.md) - Our Venus Flytrap experiment is easier and serves as a good start to plant electrophysiology before moving to the more challenging Mimosa preparation.
+* [ Venus Flytrap Electrophysiology](./Plants_VenusFlytrap.md) - Our Venus Flytrap experiment is easier and serves as a good start to plant electrophysiology before moving to the more challenging Mimosa preparation.
 
 ##### Equipment
 
 * [Plant SpikerBox](https://backyardbrains.com/products/plantspikerbox)
 
 *[Mimosa Seeds](https://www.amazon.com/Package-Sensitive-Compact-Seed-Needs/dp/B00323LXCG/ref=sr_1_1?ie=UTF8&qid=1449965936&sr=8-1&keywords=Mimosa+seeds)
-
 
 ## Background
 

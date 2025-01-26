@@ -1,10 +1,10 @@
----
-id: experiment__oxygen_and_spiking
-title: "Experiment: Oxygen and Spiking"
-slug: /retired/experiments/oxygen
----
+## Experiment: Oxygen and Spiking
 
-# Experiment: Oxygen and Spiking
+---
+id: "experiment__oxygen_and_spiking"
+title: "Experiment: Oxygen and Spiking"
+slug: "/retired/experiments/oxygen"
+---
 
 Have you ever wondered what exactly happens to the oxygen you breath after it has entered your lungs and goes into your bloodstream? In this experiment, we will show you how neurons make use of oxygen, our most needed resource. We will also examine what happens to neurons when they are deprived of oxygen.
 
@@ -117,7 +117,7 @@ coating the leg with petroleum jelly (vaseline).
 
 ##### For this experiment you need_
 
-  1. Two cockroach legs from a cockroach 
+1. Two cockroach legs from a cockroach 
   2. Two Recording Electrodes 
   3. One SpikerBox (though you will find this experiment easier with two) 
   4. Petroleum Jelly 
@@ -126,7 +126,7 @@ coating the leg with petroleum jelly (vaseline).
 
 ## Procedure
 
-  1. Anesthesize a cockroach in ice water, cut off two legs, and hook up each leg into your SpikerBox as you did in [Experiment 1](https://backyardbrains.com/experiments/spikerbox) to test if you can hear spiking. Note that you do not need two SpikerBoxes to do this experiment; you can simply swap out the electrodes that are hooked up to each cockroach leg. 
+1. Anesthesize a cockroach in ice water, cut off two legs, and hook up each leg into your SpikerBox as you did in [Experiment 1](https://backyardbrains.com/experiments/spikerbox) to test if you can hear spiking. Note that you do not need two SpikerBoxes to do this experiment; you can simply swap out the electrodes that are hooked up to each cockroach leg. 
   2. Liberally coat one leg (the "experimental leg") with petroleum jelly using a toothpick and start your stopwatch. 
   3. Every 10-15 minutes, manipulate both the control and experimental leg by touching one of the barbs to see if you can evoke spikes. 
   4. After a time, the experimental leg should stop spiking (if it doesn't you may not have put enough petroleum jelly on the leg to create a good seal against the air.) Mark down the time the spikes stopped. 
@@ -138,5 +138,5 @@ coating the leg with petroleum jelly (vaseline).
 
 ## Discussion Questions
 
-  1. It's easy to understand why the spikes eventually go away when you starve the leg of oxygen, but why do the spikes come back? How long can the leg be coated in petroleum jelly before the spikes go away permanently? 
+1. It's easy to understand why the spikes eventually go away when you starve the leg of oxygen, but why do the spikes come back? How long can the leg be coated in petroleum jelly before the spikes go away permanently? 
   2. You've probably figured out that the leg eventually dies from drying out. Is there a way you can keep the leg moist, while also allowing oxygen to pass through? Is there any material that is permeable to air but not water?

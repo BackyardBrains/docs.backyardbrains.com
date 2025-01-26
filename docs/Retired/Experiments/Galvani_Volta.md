@@ -1,10 +1,11 @@
+## Experiment:The Beginning of Modern Neuroscience - The Galvani/Volta
+
 ---
-id: experiment__the_beginning_of_modern_neuroscience_-_the_galvani_-_volta
+id: "experiment__the_beginning_of_modern_neuroscience_-_the_galvani_-_volta"
 title: "Experiment: The Beginning of Modern Neuroscience - The Galvani/Volta"
-slug: /retired/experiments/Galvani_Volta
+slug: "/retired/experiments/Galvani_Volta"
 ---
 
-# Experiment:The Beginning of Modern Neuroscience - The Galvani/Volta
 Debate
 
 One of our first experiments was the "[dancing cockroach
@@ -28,7 +29,7 @@ manifesting.
 
 ##### Prerequisite Labs
 
-  * You are starting from zero. You are beginning the field of neuroscience. There are no previous experiments to do. 
+* You are starting from zero. You are beginning the field of neuroscience. There are no previous experiments to do. 
 
 ##### Equipment
 
@@ -175,6 +176,7 @@ the Royal Society in England in 1800, Volta gained enormous international
 recognition. The use of the battery as a continuous controllable source of
 voltage and current allowed many more experiments by many more scientists,
 such as [Humphrey Davy](https://en.wikipedia.org/wiki/Humphry_Davy#Discovery_of_new_elements) and
+
 [Michael Faraday](https://en.wikipedia.org/wiki/Michael_Faraday) who used the
 battery for electrolysis experiments that led to the discovery of new elements
 (sodium, potassium, chlorine, calcium, etc), and [Georg Ohm](https://en.wikipedia.org/wiki/Georg_Ohm) using the battery to derive the

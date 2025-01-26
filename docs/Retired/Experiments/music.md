@@ -1,10 +1,10 @@
----
-id: Experiment_make_music_with_your_muscles
-title: "Experiment: Make Music with your Muscles"
-slug: /retired/experiments/music
----
+## Experiment: Make Music with your Muscles
 
-# Experiment: Make Music with your Muscles
+---
+id: "Experiment_make_music_with_your_muscles"
+title: "Experiment: Make Music with your Muscles"
+slug: "/retired/experiments/music"
+---
 
 Flex your muscles to create different frequencies and play music.
 
@@ -19,7 +19,7 @@ and notes by reading your muscle's action potentials.
 
 ##### Prerequisite Labs
 
-  * [Muscle SpikerShield](muscleSpikerShield.md) - You should be familiar with the Muscle SpikerShield for Arduino.
+* [Muscle SpikerShield](muscleSpikerShield.md) - You should be familiar with the Muscle SpikerShield for Arduino.
 
 ##### Equipment
 
@@ -142,7 +142,6 @@ You can download the sketch here. Check out the comments for some insight into h
 
 ### Procedure
 
-  
 ![](./img/MuscleMusicSetup.jpg)
 
   1. Your set up is easy! Upload the code to the Arduino, then unplug it from the computer and then plug in a battery to power up your Muscle SpikerShield. 
@@ -160,22 +159,32 @@ You can download the sketch here. Check out the comments for some insight into h
     
 ```cpp
     #include 
-    
-    #define NOTE_C4  262    //These definitions specify the frequency of each note.
-    #define NOTE_D4  294
-    #define NOTE_E4  330
-    #define NOTE_F4  349
-    #define NOTE_G4  392
-    #define NOTE_A4  440
-    #define NOTE_B4  494
-    #define NOTE_C5  523
-    
-    #define BUTTON 4
-    #define NUM_LED 6  
-    #define MAX 1160   //Maximum posible reading. >>>> TWEAK THIS VALUE!! <<<<
-    #define MIN 300    //Minimum posible reading. >>>> TWEAK THIS VALUE!! <<<<
-    
-    int channel = 2;   //Determines what channel the musical box is in.
+
+#define NOTE_C4  262    //These definitions specify the frequency of each note.
+
+#define NOTE_D4  294
+
+#define NOTE_E4  330
+
+#define NOTE_F4  349
+
+#define NOTE_G4  392
+
+#define NOTE_A4  440
+
+#define NOTE_B4  494
+
+#define NOTE_C5  523
+
+#define BUTTON 4
+
+#define NUM_LED 6  
+
+#define MAX 1160   //Maximum posible reading. >>>> TWEAK THIS VALUE!! <<<<
+
+#define MIN 300    //Minimum posible reading. >>>> TWEAK THIS VALUE!! <<<<
+
+int channel = 2;   //Determines what channel the musical box is in.
     
     int c4Note;
     int c4Duration = 600; //Determines the duration of each note in channel 4.
@@ -353,14 +362,22 @@ Got it working? Great! Now it's time to personalize your instrument.
     
 ```cpp
     #define NOTE_C4  262    //These definitions specify the frequency of each note.
-    #define NOTE_D4  294
-    #define NOTE_E4  330
-    #define NOTE_F4  349
-    #define NOTE_G4  392
-    #define NOTE_A4  440
-    #define NOTE_B4  494
-    #define NOTE_C5  523
- ```
+
+#define NOTE_D4  294
+
+#define NOTE_E4  330
+
+#define NOTE_F4  349
+
+#define NOTE_G4  392
+
+#define NOTE_A4  440
+
+#define NOTE_B4  494
+
+#define NOTE_C5  523
+
+```
 
 Here we are defining the notes by the frequency of the sound the Arduino is
 going to generate when that "note" is activated. So, "NOTE_C4" for example, is
@@ -464,12 +481,12 @@ our social medias and mail you a free BYB Sticker Pack!
 
 ### Troubleshooting
 
-    1. Due to timing and delays I used in the two "Mary had a little lamb" sequences (settings 5 and 6), sometimes when you press the button to switch settings, the Arduino won't switch. Just press it again a couple more times until the code gets out of the timing loop it is in. This is our first prototype of the code ;
+1. Due to timing and delays I used in the two "Mary had a little lamb" sequences (settings 5 and 6), sometimes when you press the button to switch settings, the Arduino won't switch. Just press it again a couple more times until the code gets out of the timing loop it is in. This is our first prototype of the code ;
     2. This pictures above show how to connect the SpikerShield to your headphones, and the video shows how to connect the SpikerShield to a portable speaker. The procedure is virtual identical between the two. 
 
 ### Discussion
 
-    1. This technology could potentially be used to make "air" instruments, such as air drums or an air guitar. If you hooked up the electrodes to your wrist extensors, could you create a "drumming" type percussion sound? 
+1. This technology could potentially be used to make "air" instruments, such as air drums or an air guitar. If you hooked up the electrodes to your wrist extensors, could you create a "drumming" type percussion sound? 
     2. We did not implement a [Pythagorean scale](https://charlesames.net/sound/tuning.html) in this code, but we leave it to you to play more with different scale arrangements.    
     3. We dealt with pure frequencies here given the limitations of Arduino, but if we wanted to generate more complex sounds, we need to generate more than 1 frequency at once. This is why an A4 note at 440 Hz sounds different on a flute, piano, and guitar, as it deals with the harmonics of the fundamental frequencies generated. Arduino actually allows you to generate three tones at once, if you hook up to three different digital outputs. We haven't tried this though and, again, leave it to you. 
     4. Music theory is new to us, did we miss something or do you have ideas for other music projects? Let [let us know!](mailto:tim@backyardbrains.com)

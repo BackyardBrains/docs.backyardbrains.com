@@ -1,10 +1,10 @@
----
-id: getting_started_with_the_muscle_spikerbox_pro_-_antagonist_muscle_pairs
-title: "Getting Started with the Muscle SpikerBox Pro - Antagonist Muscle Pairs"
-slug: /retired/experiments/muscleSpikerBoxPro
----
+## Getting Started with the Muscle SpikerBox Pro: Agonist/Antagonist Muscle Pairs
 
-# Getting Started with the Muscle SpikerBox Pro: Agonist/Antagonist Muscle Pairs
+---
+id: "getting_started_with_the_muscle_spikerbox_pro_-_antagonist_muscle_pairs"
+title: "Getting Started with the Muscle SpikerBox Pro - Antagonist Muscle Pairs"
+slug: "/retired/experiments/muscleSpikerBoxPro"
+---
 
 Now that you've completed the ["Getting Started with the Muscle Spikerbox"](./muscleSpikerBox.md) experiment,
 you've learned about muscle physiology through viewing electromyograms (EMGs)
@@ -30,7 +30,7 @@ between flexor and extensor muscles.
 
 ##### Prerequisite Labs
 
-  * [Getting Started with the Muscle SpikerBox](./muscleSpikerBox.md) - You should read this experiment first to learn about electromyography (EMG) and motor units. 
+* [Getting Started with the Muscle SpikerBox](./muscleSpikerBox.md) - You should read this experiment first to learn about electromyography (EMG) and motor units. 
 
 ##### Equipment
 
@@ -209,5 +209,4 @@ spikes up longer!
 Take advantage of these pro featuress and let us know your experimental
 results! Email us your process and findings at
 [hello@backyardbrains.com](mailto:hello@backyardbrains.com)!
-
 

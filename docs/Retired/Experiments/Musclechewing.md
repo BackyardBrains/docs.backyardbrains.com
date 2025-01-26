@@ -1,10 +1,10 @@
----
-id: experiment__muscle_recruitment_in_your_jaw!
-title: "Experiment: Muscle Recruitment in your Jaw!"
-slug: /retired/experiments/Musclechewing
----
+## Experiment:Muscle Recruitment in your Jaw!
 
-# Experiment:Muscle Recruitment in your Jaw!
+---
+id: "experiment__muscle_recruitment_in_your_jaw!"
+title: "Experiment: Muscle Recruitment in your Jaw!"
+slug: "/retired/experiments/Musclechewing"
+---
 
 Everybody chews. You will use the Muscle SpikerBox to record EMG's of the
 masseter and temporalis muscles, the two jaw closing muscles, while chewing
@@ -24,7 +24,7 @@ neurons and muscle fibers to produce different amounts of force.
 
 ##### Prerequisite Labs
 
-  * [Record Electricity from your Muscles](./muscleSpikerBox.md) - You should read this experiment first to learn about electromyography and motor units.
+* [Record Electricity from your Muscles](./muscleSpikerBox.md) - You should read this experiment first to learn about electromyography and motor units.
   * [Muscle Action Potentials](./muscleactionpotential.md) - You should be familiar with using the small popsicle stick electrodes to record muscle action potentials.
 
 ##### Equipment
@@ -32,7 +32,6 @@ neurons and muscle fibers to produce different amounts of force.
 [Muscle SpikerBox Bundle](https://backyardbrains.com/products/muscleSpikerboxBundle)
 
 *[Foods of similar size but differing consistency](https://en.wikipedia.org/wiki/Food)
-
 
 ## Background
 

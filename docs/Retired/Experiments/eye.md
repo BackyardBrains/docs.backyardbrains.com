@@ -1,10 +1,10 @@
----
-id: experiment__how_your_eye_detects_color_and_motion
-title: "Experiment: How Your Eye Detects Color and Motion"
-slug: /retired/experiments/eye
----
+## Experiment:How Your Eye Detects Color and Motion
 
-# Experiment:How Your Eye Detects Color and Motion
+---
+id: "experiment__how_your_eye_detects_color_and_motion"
+title: "Experiment: How Your Eye Detects Color and Motion"
+slug: "/retired/experiments/eye"
+---
 
 Everyday your eyes and brain work together to create vision. But how does this
 all really happen? What role does your brain and eyes play in the creation of
@@ -24,7 +24,7 @@ interprets motion/color.
 
 ##### Prerequisite Labs
 
-  * None 
+* None 
 
 ##### Equipment
 
@@ -102,7 +102,7 @@ along your retina.
 
 #### For this experiment you need_
 
-  1. White Poster board, standard size (28 inches X 22 inches) 
+1. White Poster board, standard size (28 inches X 22 inches) 
   2. Meter stick (yard stick, 3 foot stick) or 12 inch ruler 
   3. Sharpie pen 
   4. Foot long piece of balsa wood or wood stick 
@@ -113,7 +113,7 @@ along your retina.
 
 #### Making the Posterboard
 
-  1. Begin by using a pen and ruler to mark the center of the poster board 0 degrees, and do this near the top. Now use the pen to make a small X in the center below the 0 mark, this is your fixation point. 
+1. Begin by using a pen and ruler to mark the center of the poster board 0 degrees, and do this near the top. Now use the pen to make a small X in the center below the 0 mark, this is your fixation point. 
   2. Draw a line from the 0 degree mark going left and right to the end of the poster board. 
   3. Next, using a ruler, mark 10 degrees then 20 degrees all the way to 120 degrees. Do this both left and right of the 0 degree mark. Make sure you are using a standard poster board (28 inches X 22 inches). That way every 10 degrees = 1 inch, as pictured below.
 
@@ -121,7 +121,7 @@ along your retina.
 
 #### Making the Sticks
 
-  1. Cut out coin (Nickel) sized circles from construction paper, and you want at least 3 colors. 
+1. Cut out coin (Nickel) sized circles from construction paper, and you want at least 3 colors. 
   2. Use tape and attach one circle to the end of one stick, and do this for all three.
 
 [ ![](./img/BYB_Exp1_Pic2.PNG)](./img/BYB_Exp1_Pic2.PNG)
@@ -135,7 +135,7 @@ each role. Below is that chart that you will use for recording_
 
 #### Experiment Steps
 
-  1. The test subject holds the poster board in front of them while bending it around their face, so that the ends meet their ears and rests about a foot away from their face. Your eyes should be level with the fixation point as well. 
+1. The test subject holds the poster board in front of them while bending it around their face, so that the ends meet their ears and rests about a foot away from their face. Your eyes should be level with the fixation point as well. 
 
 [ ![](./img/BYB_Exp1_Pic8.PNG)](./img/BYB_Exp1_Pic8.PNG)
 
@@ -149,5 +149,5 @@ each role. Below is that chart that you will use for recording_
 
 ## Questions to Consider
 
-  1. Why should the stick motion be detected long before the color is detected? 
+1. Why should the stick motion be detected long before the color is detected? 
   2. Why do we generally believe that we see color throughout visual field and not just in a small focused area, if in fact we only see color in our central visual field?

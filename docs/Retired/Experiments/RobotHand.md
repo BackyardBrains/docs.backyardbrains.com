@@ -1,10 +1,10 @@
----
-id: experiment__signal_classification
-title: "Experiment: Signal Classification"
-slug: /retired/experiments/RobotHand
----
+## Experiment: Signal Classification
 
-# Experiment: Signal Classification
+---
+id: "experiment__signal_classification"
+title: "Experiment: Signal Classification"
+slug: "/retired/experiments/RobotHand"
+---
 
 Here we will teach how to isolate activity of individual finger muscles of
 your forearm and use them to control a robotic hand. You will be introduced to
@@ -24,12 +24,11 @@ attempt to control individual fingers on a robotic hand.
 
 ##### Prerequisite Labs
 
-  * [EMG SpikerShield](muscleSpikerShield.md) - You should learn about how we amplify muscle signals and decode them in single channel settings.
+* [EMG SpikerShield](muscleSpikerShield.md) - You should learn about how we amplify muscle signals and decode them in single channel settings.
 
 ##### Equipment
 
 * HackerHand 5-Channel EMG + SpikerShield System (retired for time being)
-
 
 ## Background
 
@@ -100,6 +99,7 @@ fingers of a robotic hand.
 > hand to make a peace sign, and the outer button causes a fist.
 >
 > [Arduino Software](https://arduino.cc/en/main/software#.Uxd6XYWhZMk)
+
 >
 > Download our Arduino(.ino) sketches and Control Software
 >
@@ -116,7 +116,7 @@ below) we hope to redesign._
 
 ### Procedure (Summer 2015)
 
-  1. Your HackerHand System came with a Ribbon Cable with different endings on either side. Insert the Linear End (blue stripe on left) in the connector on the back of the hand. 
+1. Your HackerHand System came with a Ribbon Cable with different endings on either side. Insert the Linear End (blue stripe on left) in the connector on the back of the hand. 
 
 [ ![](./img/HH-RibbonBack.jpg)](./img/HH-RibbonBack.jpg)
 
@@ -169,7 +169,7 @@ Calibrate.jpg)
 
 ## Science Fair Project ideas
 
-  * While we have achieved a level of control here, we would of course like the hand to mimic more complex motions of hands (like more fingers moving at the same time, hands forming a fist, a peace sign, and others). Why are these more difficult to do? 
+* While we have achieved a level of control here, we would of course like the hand to mimic more complex motions of hands (like more fingers moving at the same time, hands forming a fist, a peace sign, and others). Why are these more difficult to do? 
   * If all we want to do is track hand and finger movements, is EMG the best signal for this? Are there other technologies that are advancing very quickly? Computer vision, perhaps.... 
   * Why do we need to go through all this signal classification? What do you think would happen if we didn't? 
   * We're hooking up to the forearm, but not everybody who needs a hand has a forearm they can use. Can you control the hand with muscles farther up your arm? Biceps? Shoulder muscles? 
@@ -193,6 +193,7 @@ for providing a easily-understandable and hackable control Arduino Sketch
 > controls the Hacker Hand, and does the signal classification.
 >
 > [Arduino Software](https://arduino.cc/en/main/software#.Uxd6XYWhZMk)
+
 >
 > Download our Arduino(.ino) sketches and Control Software
 >

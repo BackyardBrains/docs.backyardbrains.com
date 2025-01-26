@@ -1,10 +1,10 @@
----
-id: experiment__exploring_rates_of_fatigue
-title: "Experiment: Exploring Rates of Fatigue"
-slug: /retired/experiments/rateoffatigue
----
+## Experiment:Exploring Rates of Fatigue
 
-# Experiment:Exploring Rates of Fatigue
+---
+id: "experiment__exploring_rates_of_fatigue"
+title: "Experiment: Exploring Rates of Fatigue"
+slug: "/retired/experiments/rateoffatigue"
+---
 
 Now that you've learned a bit about [how your muscles
 fatigue](fatigue), let's quantify it to
@@ -22,7 +22,7 @@ make a mathematical model of fatigue.
 
 ##### Prerequisite Labs
 
-  * [EMGs during Muscle Fatigue](fatigue) - You should read our first fatigue experiment to learn about how to use the Muscle SpikerBox and muscle physiology.
+* [EMGs during Muscle Fatigue](fatigue) - You should read our first fatigue experiment to learn about how to use the Muscle SpikerBox and muscle physiology.
 
 ##### Equipment
 
@@ -329,6 +329,6 @@ to the world's scientific knowledge!
 
 ### Questions to Consider
 
-  1. What can the slope of the trend line teach you about muscle fatigue? 
+1. What can the slope of the trend line teach you about muscle fatigue? 
   2. Think of examples where you encounter muscle fatigue in your daily life. Does it ever serve as a beneficial function? 
   3. If you start hitting the gym, pumping iron, and getting fitter, what will happen to your rate of fatigue?

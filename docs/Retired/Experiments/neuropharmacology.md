@@ -1,10 +1,10 @@
----
-id: anuradha_rao_memorial_experiment:_neuropharmacology-effect_of_nicotine_and_msg_on_neurons
-title: "Anuradha Rao Memorial Experiment: Neuropharmacology-Effect of Nicotine and MSG on Neurons"
-slug: /retired/experiments/neuropharmacology
----
+## Anuradha Rao Memorial Experiment: Neuropharmacology-Effect of Nicotine and MSG on Neurons
 
-# Anuradha Rao Memorial Experiment: Neuropharmacology-Effect of Nicotine and MSG on Neurons
+---
+id: "anuradha_rao_memorial_experiment:_neuropharmacology-effect_of_nicotine_and_msg_on_neurons"
+title: "Anuradha Rao Memorial Experiment: Neuropharmacology-Effect of Nicotine and MSG on Neurons"
+slug: "/retired/experiments/neuropharmacology"
+---
 
 It's 2 AM, your linear algebra final is in 6 hours, and you gulp down another
 espresso. You start thinking: "I wonder how this espresso and other drugs
@@ -24,7 +24,7 @@ how to create a few different chemical solutions.
 
 ##### Prerequisite Labs
 
-  * [SpikerBox](spikerbox) - You should become familiar with how to use your SpikerBox.
+* [SpikerBox](spikerbox) - You should become familiar with how to use your SpikerBox.
 
 ##### Equipment
 
@@ -154,7 +154,7 @@ Society for Neuroscience Conference in San Diego, CA.
 
 ## Science Fair Project Ideas
 
-  * What are some other easily acquired substances that you think would have an effect? What effect(s) do they have? 
+* What are some other easily acquired substances that you think would have an effect? What effect(s) do they have? 
   * Try altering the concentration and amount of substances you inject-how does this change things, if at all? 
   * Why do the neurons need to "warm up" even if we are injecting things that should cause them to spike? 
   * Does the location of the injection change anything? Why or why not? 

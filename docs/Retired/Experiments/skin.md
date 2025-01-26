@@ -1,10 +1,10 @@
----
-id: experiment__how_your_skin_senses
-title: "Experiment: How Your Skin Senses"
-slug: /retired/experiments/skin
----
+## Experiment:How Your Skin Senses
 
-# Experiment:How Your Skin Senses
+---
+id: "experiment__how_your_skin_senses"
+title: "Experiment: How Your Skin Senses"
+slug: "/retired/experiments/skin"
+---
 
 Have you ever wondered how you can feel great detail with your fingers, but
 not with your elbow? Follow along below and we will show you how to perform a
@@ -107,7 +107,7 @@ experiment in [Neural Adaptation](somatotopy).
 
 #### For this experiment you need_
 
-  1. Calipers [Measuring tool purchased at auto part or hardware store] [AutoZone Caliper](https://www.autozone.com/autozone/accessories/Tools-Garage-and-Equipment/Vernier-Caliper/OEM/_/N-26elZ1z141ur)
+1. Calipers [Measuring tool purchased at auto part or hardware store] [AutoZone Caliper](https://www.autozone.com/autozone/accessories/Tools-Garage-and-Equipment/Vernier-Caliper/OEM/_/N-26elZ1z141ur)
   2. Paper 
   3. Writing Utensil 
   4. Eye Shades 
@@ -130,7 +130,7 @@ their eyes closed (use the eye shades to be sure)!
 
 #### Experiment Steps_
 
-  1. Before you start this experiment, be sure that you know how to use the caliper and how to open and close it. Practice touching your arm with it at different millimeter (mm) readings. It is important during the experiment that you touch your partner's skin with both tips at the same time; otherwise, they will easily be able to tell there are two points. Once you have the hang of it you are ready to begin! 
+1. Before you start this experiment, be sure that you know how to use the caliper and how to open and close it. Practice touching your arm with it at different millimeter (mm) readings. It is important during the experiment that you touch your partner's skin with both tips at the same time; otherwise, they will easily be able to tell there are two points. Once you have the hang of it you are ready to begin! 
   2. Have your partner place the eye shades on and sit in a chair with a table in front of them. Then your partner places their arm on the table with their palm facing up. Now you takes the calipers, make sure they read 0 mm, and start with your partner's finger tip. 
   3. Touch the calipers to their finger tip and ask them if they feel one point or two points. They should say one point, as the measurement is 0mm. Remove the calipers and increase the space by 2 mm. Reapply the calipers, be sure to touch both tips at the same time, and ask again. If they still only feel one point, increase by another 2 mm and reapply. 
 
@@ -148,6 +148,6 @@ their eyes closed (use the eye shades to be sure)!
 
 ## Questions to Answer and Consider
 
-  1. Why can your fingertip detect such small distances between points while your arms and legs cannot? 
+1. Why can your fingertip detect such small distances between points while your arms and legs cannot? 
   2. Would you expect to see a difference in males vs. females for the four recorded areas? What about children vs adults? 
   3. Why doesn't your brain have the sensitivity of your fingertips all over your body?

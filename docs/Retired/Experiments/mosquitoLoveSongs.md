@@ -1,10 +1,10 @@
----
-id: experiment__mosquito_love_songs
-title: "Experiment: Mosquito Love Songs"
-slug: /retired/experiments/mosquitoLoveSongs
----
+## Experiment:Mosquito Love Songs
 
-# Experiment:Mosquito Love Songs
+---
+id: "experiment__mosquito_love_songs"
+title: "Experiment: Mosquito Love Songs"
+slug: "/retired/experiments/mosquitoLoveSongs"
+---
 
 We've all heard the annoying sound of a mosquito buzzing in our ear, and our
 first impulse is to slap it away. Did you know that this buzz is actually how
@@ -27,7 +27,6 @@ frequency spectrograms and how record the wing beats of the mosquito.
 ##### Equipment
 
 * [BYB Micromanipulators](https://backyardbrains.com/products/micromanipulator)
-
 
 ## Background
 
@@ -273,7 +272,7 @@ Spectrograms.png)
 
 ## Science Fair Project Ideas
 
-  * When you bring the male and females together? What frequency do they overlap to sing the duet? Why do you think they choose to sing together that frequency?
+* When you bring the male and females together? What frequency do they overlap to sing the duet? Why do you think they choose to sing together that frequency?
   * What do you think would happen if two males came in close proximity? 
   * What about if two females came in close proximity? Do your data match your theories?
   * What would happen if you recorded 2 females of different species? Are their frequencies the same?

@@ -1,10 +1,10 @@
----
-id: experiment___diy_faraday_cage
-title: "Experiment:  DIY Faraday Cage"
-slug: /retired/experiments/faraday
----
+## Experiment: DIY Faraday Cage
 
-# Experiment: DIY Faraday Cage
+---
+id: "experiment___diy_faraday_cage"
+title: "Experiment:  DIY Faraday Cage"
+slug: "/retired/experiments/faraday"
+---
 
 Even the best amplifiers in the world (and ours is not) can be susceptible to
 electromagnetic noise. You've got your killer experiment designed, your
@@ -26,7 +26,7 @@ your very own faraday cage and enlist in the battle against noisy data!
 
 ##### Prerequisite Labs
 
-  * [SpikerBox](spikerbox) - You should become familiar with how to use your SpikerBox.
+* [SpikerBox](spikerbox) - You should become familiar with how to use your SpikerBox.
 
 ##### Equipment
 
@@ -34,7 +34,6 @@ your very own faraday cage and enlist in the battle against noisy data!
 * [Faraday Cage](https://backyardbrains.com/products/faradaycage)
 * [Cable_ Laptop](https://backyardbrains.com/products/laptopcable)
 * [Phone](https://backyardbrains.com/products/smartphonecable)
-
 
 ## Background
 
@@ -132,7 +131,7 @@ to visit the hardware store.
 
 ##### Using the Faraday Cage for Spikes
 
-  1. Set up a standard cockroach leg recording prep as described in [Experiment 1](./spikerbox)
+1. Set up a standard cockroach leg recording prep as described in [Experiment 1](./spikerbox)
   2. Create a noisy environment by hooking up a laptop to wall outlet and turning on a soldering iron or other high power appliance. Place your SpikerBox by these electronics, and also turn on all fluorescent lights in the room. Record your observations on noise level vs. neural signal level. 
   3. Clip an alligator clip to the ground (outside of RCA connector) on the Spikerbox. 
   4. Place your Spikerbox into your Faraday cage, with cage open. Record your observations on noise level vs. neural signal level. 
@@ -155,7 +154,7 @@ neuroscientist).
 
 ## Discussion Questions
 
-  1. What do you think a Faraday cage would do to an electromagnetic signal that comes from within the cage? Would someone outside of the Faraday Cage be able to receive that signal? 
+1. What do you think a Faraday cage would do to an electromagnetic signal that comes from within the cage? Would someone outside of the Faraday Cage be able to receive that signal? 
   2. Where would be the perfect place to do a recording? 
   3. What do you think would happen if you used large hole chicken wire instead of small hole screen metal mesh for your Faraday Cage? 
   4. Why do you think cell phone noise still interferes with the SpikerBox even though the holes in our Faraday Cage are smaller than the 1.4 cm we calculated?

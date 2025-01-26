@@ -1,10 +1,10 @@
----
-id: experiment__cellular_microscopy-blood_cells
-title: "Experiment: Cellular Microscopy-Blood Cells"
-slug: /retired/experiments/bloodcells
----
+## Experiment:Cellular Microscopy-Blood Cells
 
-# Experiment:Cellular Microscopy-Blood Cells
+---
+id: "experiment__cellular_microscopy-blood_cells"
+title: "Experiment: Cellular Microscopy-Blood Cells"
+slug: "/retired/experiments/bloodcells"
+---
 
 With the High Power RoachScope we can get a closer look at the cells that
 compose us.
@@ -24,7 +24,7 @@ works!
 
 ##### Prerequisite Labs
 
-  * [Getting Started with the Roachscope](https://backyardbrains.com/experiments/RoachScopeHighPower)
+* [Getting Started with the Roachscope](https://backyardbrains.com/experiments/RoachScopeHighPower)
 
 ##### Equipment
 
@@ -135,7 +135,7 @@ they can be disposed of there.
 
 ### Prep 1_ Human Blood
 
-  1. Begin by preparing your RoachScope for high powered magnification like you did in the [Getting Started with the RoachScope experiment](https://backyardbrains.com/experiments/roachscopehighpower)! 
+1. Begin by preparing your RoachScope for high powered magnification like you did in the [Getting Started with the RoachScope experiment](https://backyardbrains.com/experiments/roachscopehighpower)! 
   2. Prepare your glass slide and slide cover by cleaning them with glass cleaning solution and a special glass cleaning cloth. If you have a camera or wear glasses, you can use the glass cleaning cloth that came with those. Otherwise, you can order special, disposable cleaning paper online - [here is an inexpensive option](https://www.amazon.com/OMAX-Sheets-Microscope-Camera-Cleaning/dp/B00A84NJ1U/ref=sr_1_3?ie=UTF8&qid=1399309334&sr=8-3&keywords=microscope+cleaning+kit)! 
   3. Thoroughly scrub the skin of one fingertip with a cotton swab and rubbing alcohol. 
   4. Open a lancet to expose the sharp point (about 3 mm long). Quickly puncture the cleaned fingertip, put the lancet down, and gently squeeze the finger until a small drop of blood forms on the fingertip. 
@@ -186,7 +186,7 @@ of the toothpick depression should make the cells flow through the plasma!
 
 ### Prep 2_ Cockroach Hemolymph
 
-  1. Begin by anesthetizing a cockroach in ice water. Leave it in the ice water until you are ready to perform the procedure. 
+1. Begin by anesthetizing a cockroach in ice water. Leave it in the ice water until you are ready to perform the procedure. 
   2. Prepare your RoachScope and a clean microscope slide. 
   3. Take the protective ends off of your hypodermic insulin syringes. 
   4. Draw some water up into the syringe. It doesn't have to be a lot, just enough to be visible in the chamber, then press down on the plunger to force it out. **This step is necessary! This helps to just slightly water down the Cockroach blood sample, making it easier to see individual elements** 

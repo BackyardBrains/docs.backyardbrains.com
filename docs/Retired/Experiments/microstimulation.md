@@ -1,10 +1,11 @@
+## Experiment:The Dancing Cockroach Leg-Microstimulation of Neurons and
+
 ---
-id: the_dancing_cockroach_leg-microstimulation_of_neurons_and_muscles
+id: "the_dancing_cockroach_leg-microstimulation_of_neurons_and_muscles"
 title: "The Dancing Cockroach Leg-Microstimulation of Neurons and Muscles"
-slug: /retired/experiments/microstimulation
+slug: "/retired/experiments/microstimulation"
 ---
 
-# Experiment:The Dancing Cockroach Leg-Microstimulation of Neurons and
 Muscles
 
 Electricity plays a critical role in how our nervous and muscle systems work.
@@ -23,13 +24,12 @@ on the electrical excitability of cockroach nerves.
 
 ##### Prerequisite Labs
 
-  * [SpikerBox](spikerbox) - You should do the SpikerBox basic experiment first to learn about neurons before doing this lab.
+* [SpikerBox](spikerbox) - You should do the SpikerBox basic experiment first to learn about neurons before doing this lab.
 
 ##### Equipment
 
 * [Stimulation Cable](https://backyardbrains.com/products/stimulationcable)
 * [Cockroaches](https://backyardbrains.com/products/cockroaches)
-
 
 ## Background
 

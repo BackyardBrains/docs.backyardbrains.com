@@ -1,10 +1,10 @@
----
-id: wirelessly_control_a_cyborg_cockroach
-title: "Wirelessly Control a Cyborg Cockroach"
-slug: /retired/experiments/roboRoachSurgery
----
+## Experiment: Wirelessly Control a Cyborg Cockroach
 
-# Experiment: Wirelessly Control a Cyborg Cockroach
+---
+id: "wirelessly_control_a_cyborg_cockroach"
+title: "Wirelessly Control a Cyborg Cockroach"
+slug: "/retired/experiments/roboRoachSurgery"
+---
 
 Are you a teacher or parent that wants to teach a student about advanced
 neurotechnologies? You are in luck! After 3 long years of R&D, the RoboRoach
@@ -29,7 +29,7 @@ microstimulation.
 
 ##### Prerequisite Labs
 
-  * [SpikerBox](spikerbox) - You should become familiar with how to use a SpikerBox
+* [SpikerBox](spikerbox) - You should become familiar with how to use a SpikerBox
 
 ##### Equipment
 
@@ -130,6 +130,7 @@ Unless you name is Gregor Samsa, your central nervous system looks like the
 one on the left.
 
 #### But how does it
+
 work[?!](https://backyardbrains.com/files/ButHowDoesItWorkQ.wma)
 
 Cockroaches have two antennae on their anterior end. These antennae assist to
@@ -210,7 +211,7 @@ our [ethics guideline and discussion](https://backyardbrains.com/about/ethics)
 
 #### What you'll need:
 
-  * The "RoboRoach Surgery Procedure" (below). This is also available as a(n):
+* The "RoboRoach Surgery Procedure" (below). This is also available as a(n):
     1. Downloadable [PDF](https://backyardbrains.com/files/RoboRoachExperiment-NeuralInterfaceSurgery.pdf).
     2. Instructional [video](https://www.youtube.com/watch?v=EsrorUT_Svc).
   * A printed ["RoboRoach Surgery Worksheet"](https://backyardbrains.com/files/RoboRoach Surgery Worksheet.pdf)
@@ -242,6 +243,7 @@ our [ethics guideline and discussion](https://backyardbrains.com/about/ethics)
 ## Procedure
 
 #### [Step 1](http://youtu.be/EsrorUT_Svc?t=3m54s): Prepare your workspace.
+
 Choose your cockroach. Document!
 
 Lay out all the necessary supplies and tools listed above. Plug in your hot
@@ -253,6 +255,7 @@ Surgery Worksheet.pdf).
 ![](./img/rrSurgeryTable.jpg)
 
 #### [Step 2](http://youtu.be/EsrorUT_Svc?t=5m2s): Attaching the electrode
+
 array to the roach
 
 2.1) Anesthetize your cockroach by submerging it in the ice water. Note the
@@ -304,6 +307,7 @@ continually anesthetize (or until no response to stimuli is observed).
   
 
 #### [Step 3](http://youtu.be/EsrorUT_Svc?t=7m13s): Implanting “Ground”
+
 electrode in Thorax
 
 3.1) Take the cockroach out of water, place on table belly down, and carefully
@@ -356,8 +360,8 @@ glue has set, a light tug can test if the ground electrode is secure.
 3.5) Place cockroach back in ice bath for 1-2 minutes to maintain
 anesthetization.
 
-
 #### [Step 4](http://youtu.be/EsrorUT_Svc?t=8m51s): Implanting right antenna
+
 electrode
 
 4.1) Take the cockroach out of the ice water and lay it dorsal side down (turn
@@ -390,6 +394,7 @@ because it will stick to you!
 anesthetization.
 
 #### [Step 5](http://youtu.be/EsrorUT_Svc?t=9m55s): Implanting left antenna
+
 electrode
 
 Repeat Step 4, but replace “right” with “left”.
@@ -401,6 +406,7 @@ Repeat Step 4, but replace “right” with “left”.
 ![](./img/rrStep5c.jpg)
 
 #### [Step 6](http://youtu.be/EsrorUT_Svc?t=10m48s): Tidying up the slack in
+
 the wire
 
 6.1) It is important that the “wire slack” be cleaned up. Using your fingers
@@ -435,6 +441,7 @@ Make sure the wires are all tidy on the header, sometimes adding a bit of
 extra super glue to secure loose portions of the wires must be done.
 
 #### [Step 7](http://youtu.be/EsrorUT_Svc?t=11m58s): Surgery is complete!
+
 Clean-up time
 
 7.1) Put roach back in its terrarium and provide food and water. Recovery can
@@ -477,20 +484,21 @@ failed, I have just found 10000 ways that don't work.”
 
 ##### Check out the other RoboRoach Experiments!
 
-  * Learn how to [make your own RoboRoach electrodes.](https://backyardbrains.com/diy/roboroachelectrodes)
+* Learn how to [make your own RoboRoach electrodes.](https://backyardbrains.com/diy/roboroachelectrodes)
 
 ##### Share your Surgery Experiment experience with us.
 
-  * Send us your results and Surgery Worksheet to [info@backyardbrains.com](mailto:info@backyardbrains.com?subject=RoboRoach Results)
+* Send us your results and Surgery Worksheet to [info@backyardbrains.com](mailto:info@backyardbrains.com?subject=RoboRoach Results)
   * Tell us any tricks and/or tips you found helpful.
   * Let us know if you have any trouble, we are more than happy to help!
 
 ##### Show and share your new neuroscience knowledge with your friends and
+
 family!
 
 ## Tips & Tricks
 
-    * Keep a dry piece of paper towel handy and separate from the one you use to dry off the roach after removing from the ice bath. 
+* Keep a dry piece of paper towel handy and separate from the one you use to dry off the roach after removing from the ice bath. 
     * Keep your glue hole clean so you can be precise with the superglue.
   
 
@@ -498,23 +506,23 @@ family!
 
 ##### Failure: GND electrode came loose
 
-    * Fix: Verify that your roach is still anesthetized. Trim the tip of the wire to remove any glue or crumpled portion. Next take a lighter to the tip to burn off ~1-2mm of the insulation (will take a steady hand and careful eye). Then with your scissor trim off the bead of silver that forms on the tip of the electrode. Now, poke another hole, preferably away (opposite side of thorax) from the failed insertion point and redo step 3. 
+* Fix: Verify that your roach is still anesthetized. Trim the tip of the wire to remove any glue or crumpled portion. Next take a lighter to the tip to burn off ~1-2mm of the insulation (will take a steady hand and careful eye). Then with your scissor trim off the bead of silver that forms on the tip of the electrode. Now, poke another hole, preferably away (opposite side of thorax) from the failed insertion point and redo step 3. 
 
 ##### Failure: Antenna electrode came out
 
-    * Fix: Verify that your roach is still anesthetized. Trim the tip of the wire to remove any glue or crumpled portion. Next take a lighter to the tip to burn off ~1-2mm of the insulation (will take a steady hand and careful eye). Then with your scissor trim off the tiny bead of silver that forms on the tip of the electrode. Now, trim off any glue on the antenna and try again.
+* Fix: Verify that your roach is still anesthetized. Trim the tip of the wire to remove any glue or crumpled portion. Next take a lighter to the tip to burn off ~1-2mm of the insulation (will take a steady hand and careful eye). Then with your scissor trim off the tiny bead of silver that forms on the tip of the electrode. Now, trim off any glue on the antenna and try again.
 
 ##### Failure: Connector broke loose from pronotum
 
-    * Fix: If the wires haven’t been damaged, a dab of super glue can fix this, otherwise, you will have to start over. To prevent this from happening next time, make sure the connector is sanded and cleaned of dust or water so the glue sticks well.
+* Fix: If the wires haven’t been damaged, a dab of super glue can fix this, otherwise, you will have to start over. To prevent this from happening next time, make sure the connector is sanded and cleaned of dust or water so the glue sticks well.
 
 ##### Failure: Hot glue broke loose from the top of connector
 
-    * Fix: If the wires haven’t been damaged, a dab of super glue can fix this, otherwise, you will have to start over. To prevent this from happening, make sure the connector is sanded so the glue sticks. Also, be sure to clean and dry the top of the connector before applying the glue. Additionally, since hot glue dries quickly, pack it down with the popsicle stick (with flour on the end) immediately after applying the glue.
+* Fix: If the wires haven’t been damaged, a dab of super glue can fix this, otherwise, you will have to start over. To prevent this from happening, make sure the connector is sanded so the glue sticks. Also, be sure to clean and dry the top of the connector before applying the glue. Additionally, since hot glue dries quickly, pack it down with the popsicle stick (with flour on the end) immediately after applying the glue.
 
 ##### Failure: Cockroach moves slightly during procedure
 
-    * Fix: Add more ice to your ice bath and allow the cockroach a few more minutes in it for full anesthesia. Also, prepare the tools you need for the next step while the cockroach is in the ice bath so that you can be as quick and efficient as possible on each step. 
+* Fix: Add more ice to your ice bath and allow the cockroach a few more minutes in it for full anesthesia. Also, prepare the tools you need for the next step while the cockroach is in the ice bath so that you can be as quick and efficient as possible on each step. 
   
 
 ## FAQs
@@ -558,7 +566,7 @@ nervous system works and to pursue neuroscience and/or fields in STEM.
 
 ##### What can you learn with the RoboRoach?
 
-    * Neural control of Behavior: First and foremost you will see in real-time how the brain responds to sensory stimuli.
+* Neural control of Behavior: First and foremost you will see in real-time how the brain responds to sensory stimuli.
     * Learning and Memory: After a few minutes the cockroach will stop responding to the RoboRoach microstimulation. Why? The brain learns and adapts. That is what brains are designed to do. You can measure the time to adaptation for various stimulation frequencies.
     * Adaptation and Habituation: After placing the cockroach back in its terrarium, how long does it take for him to respond again? Does he adapt to the stimuli more quickly? 
     * Stimuli Selection: What range of frequencies works for causing neurons to fire? With this tool, you will be able to select the range of stimulation to see what works best for your prep. Is it the same that is used by medical doctors stimulating human neurons? You will find out.
@@ -576,6 +584,7 @@ micro stimulation in a few minutes, and ignore it completely, something that
 cannot be done with painful stimuli.
 
 ##### Can I use the RoboRoach to make my
+
 brother/sister/mom/dad/dog/cat/hamster into a cyborg?
 
 No. In the US there are rules, regulations and protocols for neural
@@ -586,7 +595,7 @@ is much easier and simpler than navigational systems in other animals.
 
 ##### What are the specifications of the RoboRoach?
 
-    * Total Weight: Less than 4.5g 
+* Total Weight: Less than 4.5g 
     * Stimulation Frequencies: 1Hz-150Hz 
     * Stimulation Pulse Widths: 1ms-500ms (Max pulse width is dependent on the Frequency) 
     * Stimulation Gain: 0 to 100%
@@ -598,7 +607,7 @@ is much easier and simpler than navigational systems in other animals.
 
 ## Science Fair Project Ideas
 
-    * What's the impact of increasing or decreasing the stimulation gain on the cockroach's behavior? On how quickly or slowly it adapts to the stimulus? Try changing some of the other variables around, like the frequency, pulse width, and duration, and see what effect those have as well. 
+* What's the impact of increasing or decreasing the stimulation gain on the cockroach's behavior? On how quickly or slowly it adapts to the stimulus? Try changing some of the other variables around, like the frequency, pulse width, and duration, and see what effect those have as well. 
     * Why do you think the cockroach stops responding when it does? How do you think you could increase that time? 
     * How many days does it take for roaches to stop responding altogether? What do you think causes or affects that? 
     * Why does the cockroach have this behavior? What are some experiments you could run to show that the behavior we induce is the same as the natural one? 
@@ -606,7 +615,7 @@ is much easier and simpler than navigational systems in other animals.
 
 ### References
 
-    1. D. S. Halacy, Cyborg: Evolution of the Superman (New York: Harper and Row Publishers, 1965), 7.
+1. D. S. Halacy, Cyborg: Evolution of the Superman (New York: Harper and Row Publishers, 1965), 7.
     2. Vidal, JJ (1973). "Toward direct brain-computer communication". Annual review of biophysics and bioengineering 2: 157–80.doi:10.1146/annurev.bb.02.060173.001105.PMID 4583653.
     3. NIH Publication No. 11-4798 (1 March 2011). "Cochlear Implants". National Institute on Deafness and Other Communication Disorders.
     4. R. Holzer and I. Shimoyama, “Locomotion Control of a Bio-Robotic System via Electric Stimulation,” IROS’97, 1997 
@@ -618,5 +627,4 @@ is much easier and simpler than navigational systems in other animals.
     10. Wigglesworth, V.B. 1980. Do insects feel pain. Antenna 4, 8-9.
     11. World Health Organization (2006) Neurological disorders: public health challenges. World Health Press. (http://www.who.int/mental_health/neurology/neurodiso/en/)
     12. National Institute of Health, Office of Laboratory Animal Welfare. (http://grants.nih.gov/grants/olaw/olaw.htm)
-
 

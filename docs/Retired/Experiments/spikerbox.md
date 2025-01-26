@@ -1,17 +1,16 @@
----
-id: record_and_manipulate_live_neurons!
-title: "Record and Manipulate Live Neurons!"
-slug: /retired/experiments/spikerbox
----
+## Experiment: Record and Manipulate Live Neurons!
 
-# Experiment: Record and Manipulate Live Neurons!
+---
+id: "record_and_manipulate_live_neurons!"
+title: "Record and Manipulate Live Neurons!"
+slug: "/retired/experiments/spikerbox"
+---
 
 Did you just get a SpikerBox, and are wondering how to use it? In this lesson,
 you will listen to action potentials and view "spikes" in real time. This is
 an excellent starting point for your SpikerBox as well as a great nervous
 system lab for students as young as middle school! See live action potentials
 in an engaging lab activity!
-
 
 **Time**  30 Minutes
 
@@ -25,13 +24,12 @@ the principle of rate coding, and how to record spikes using a SpikerBox!
 
 ##### Prerequisite Labs
 
-  * [Caring for Cockroaches](https://backyardbrains.com/products/cockroaches) - If you are new to insect husbandry, the bottom of our cockroach product page has tips for maintaining a healthy colony.
+* [Caring for Cockroaches](https://backyardbrains.com/products/cockroaches) - If you are new to insect husbandry, the bottom of our cockroach product page has tips for maintaining a healthy colony.
 
 ##### Equipment
 
 * [Neuron SpikerBox](https://backyardbrains.com/products/neuronspikerboxpro)
 * [Cockroaches](https://backyardbrains.com/products/cockroaches)
-
 
 ## Introduction
 
@@ -151,7 +149,7 @@ Now let's see this spike for real!
 
 ## Procedures
 
-  1. Take a cockroach and put it in a jar of ice water. Wait a few minutes until it stops moving. 
+1. Take a cockroach and put it in a jar of ice water. Wait a few minutes until it stops moving. 
 
 [
 ![](./img/Exp1_exp01_cockroachhoodie.jpg)](./img/Exp1_exp01_cockroachhoodie.jpg)
@@ -184,7 +182,7 @@ neurons, causing this rapid change in voltage we call the spike.
 
 ### Method 1: Manual Probing with Toothpick
 
-  1. Using our downloadable form above as a guide, draw a picture of the cockroach leg. 
+1. Using our downloadable form above as a guide, draw a picture of the cockroach leg. 
   2. With a toothpick or plastic probe (coffee stirrers work great), begin touching different thorns of the leg. You should notice touching some thorns causes a more robust response than other barbs, specifically, that moving the barbs near the tibia-tarsus joint cause much more robust spiking activity than that caused by manipulating the thorns near the femur-tibia joint. 
   3. But, let's quantity it. Press the Record Button on Spike Recorder. Tap the number "1" to signify we are on the first part of the experiment. Touch a highly responsive thorn for a second, release, wait two seconds, then touch the barb again. Do this so you have a total of 10 "touches." 
   4. Now tap the number "2" on your keyboard, and begin touching a less responsive thorn with the same procedure (1 second on, 2 seconds off, repeat for a total of 10 times, and stop the recording. 
@@ -199,6 +197,7 @@ stimulation affect the cockroach leg. You will use the compressed air on your
 lab bench in your school to stimulate the cockroach leg for this experiment.
 
 > ### Note: No Compressed Air? No Problem!
+
 >
 > If you don't have compressed air in your laboratory, home, classroom,
 > backyard, or wherever you choose to study neuroscience, there are still

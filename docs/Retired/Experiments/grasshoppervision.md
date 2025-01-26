@@ -1,10 +1,10 @@
----
-id: experiment__investigating_grasshopper_vision
-title: "Experiment: Investigating Grasshopper Vision"
-slug: /retired/experiments/grasshoppervision
----
+## Experiment:Investigating Grasshopper Vision
 
-# Experiment:Investigating Grasshopper Vision
+---
+id: "experiment__investigating_grasshopper_vision"
+title: "Experiment: Investigating Grasshopper Vision"
+slug: "/retired/experiments/grasshoppervision"
+---
 
 Grasshopper's have a fast reaction time! You reach out and try to catch one,
 you'll find yourself empty-handed. They hop-hop-hop away! In this experiment,
@@ -24,14 +24,13 @@ stimuli.
 
 ##### Prerequisite Labs
 
-  * [SpikerBox](spikerbox) - You should become familiar with recording neurons.
+* [SpikerBox](spikerbox) - You should become familiar with recording neurons.
 
 ##### Equipment
 
 * [Neuron SpikerBox Bundle](https://backyardbrains.com/products/SpikerBoxBundle)
 * [Manipulator](https://backyardbrains.com/products/micromanipulator)
 * [RoachScope](https://backyardbrains.com/products/RoachScope)
-
 
 ## Background
 

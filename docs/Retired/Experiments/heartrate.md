@@ -1,10 +1,10 @@
----
-id: heart_action_potentials
-title: "Heart Action Potentials"
-slug: /retired/experiments/heartrate
----
+## Experiment: Heart Action Potentials
 
-# Experiment: Heart Action Potentials
+---
+id: "heart_action_potentials"
+title: "Heart Action Potentials"
+slug: "/retired/experiments/heartrate"
+---
 
 You've seen spikes from voluntary muscle contractions, what could _beat_ that?
 How about getting down with your own internal rhythm: your heart rate! It's
@@ -26,7 +26,6 @@ and listen to the contractions of your heart.
 ##### Equipment
 
 * [Heart & Brain SpikerBox](https://backyardbrains.com/products/heartAndBrainSpikerBox)
-
 
 ## Background
 
@@ -134,12 +133,12 @@ in it caused by our brain's cardiovascular center.
 
 ## Discussion / Further Work
 
-  1. Are we recording Cardiac Action Potentials from the Pacemaker Cells, or are we recording the muscle contractions of the heart. Why or why not? 
+1. Are we recording Cardiac Action Potentials from the Pacemaker Cells, or are we recording the muscle contractions of the heart. Why or why not? 
   2. Our SpikeRecorder Software is designed to be easy to use, but if you want to hack an interface, you can modify our legacy processing sketch that also saves and displays the data. [Download it here](files/BYB_Heart_Rate_Monitor_Processing_SaveData.pde.zip). To do this, you need to use a different Arduino Sketch, [that you can find in this link](files/BYB_Heart_Monitor_Arduino_Sketch_timer.ino.zip). 
 
 ## Science Fair Project Ideas
 
-  * There are lots of different places you can put the electrodes for this experiment-what effect(s) do the different placements have on the signal you see? Is the signal different if you move the electrodes closer to one another? Closer to the heart? 
+* There are lots of different places you can put the electrodes for this experiment-what effect(s) do the different placements have on the signal you see? Is the signal different if you move the electrodes closer to one another? Closer to the heart? 
   * Look at the effects of certain states on the amplitude and rate of heart action potentials-Recently run, recently drank caffeine, holding your breath, deep slow breaths vs rapid ones, sitting vs standing, age, general athleticism, etc. 
   * If it's cold or hot outside, try comparing heart rates when you're inside vs when you're exposed to the weather. Stay safe though! 
   * What about before and after you're eating? Why might that be? What, if anything, does the movement of your blood have to do with eating? 

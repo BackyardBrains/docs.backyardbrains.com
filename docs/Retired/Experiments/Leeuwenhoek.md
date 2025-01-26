@@ -1,10 +1,10 @@
----
-id: experiment__the_leeuwenhoek_microscope_and_the_beginning_of_our_view_into_the_small
-title: "Experiment: The Leeuwenhoek Microscope and the Beginning of Our View into the Small"
-slug: /retired/experiments/Leeuwenhoek
----
+## Experiment:The Leeuwenhoek Microscope and the Beginning of Our View into the Small
 
-# Experiment:The Leeuwenhoek Microscope and the Beginning of Our View into the Small
+---
+id: "experiment__the_leeuwenhoek_microscope_and_the_beginning_of_our_view_into_the_small"
+title: "Experiment: The Leeuwenhoek Microscope and the Beginning of Our View into the Small"
+slug: "/retired/experiments/Leeuwenhoek"
+---
 
 You see glass everywhere. Your windows, your drinking vessels, your
 smartphone. Now you can too can manipulate this material to make a microscope
@@ -25,7 +25,7 @@ magnifying lens, but a ball of diamond does not.
 
 ##### Prerequisite Labs
 
-  * You are starting from zero. You are beginning the field of microscopy. There are no previous experiments to do. 
+* You are starting from zero. You are beginning the field of microscopy. There are no previous experiments to do. 
 
 ##### Equipment
 
@@ -223,7 +223,8 @@ basic form, you will need_
 
   1. A high temperature flame - it can be a [camping torch](https://www.amazon.com/Etekcity-Ultralight-Portable-Backpacking-Ignition/dp/B00B4FY8YO/ref=pd_bxgy_468_img_2?_encoding=UTF8&psc=1&refRID=2685X0QM77XANZYY5KQ3) or a [crème broûlèe torch.](https://www.amazon.com/Culinary-Torch-Brulee-Kitchen-Cooking/dp/B013MQ0ELS)
   2. Solid Glass Filament, we use [McMaster-Carr borosilicate glass filament](https://www.mcmaster.com/#8496k1/=19wzfco) but you can try with your own different glass filament, such as crystal glass (higher index of refraction, lower melting point) or soda lime glass (same index of refraction, lower melting point, more susceptible to fracture). 
-  3. Basic Metal Probe tools - we have found [dental picks](https://www.amazon.com/Moody-Tools-55-1292-Anodized-Precision/dp/B001VXUI3O/ref=sr_1_3?ie=UTF8&qid=1508638501&sr=8-3&keywords=dental+straight+pick) work the best. 
+
+3. Basic Metal Probe tools - we have found [dental picks](https://www.amazon.com/Moody-Tools-55-1292-Anodized-Precision/dp/B001VXUI3O/ref=sr_1_3?ie=UTF8&qid=1508638501&sr=8-3&keywords=dental+straight+pick) work the best. 
   4. Basic [Needle Noise Pliers](https://www.amazon.com/Stanley-84-101-Basic-Cutting-Plier/dp/B000B8FRQ8/ref=sr_1_3?s=hi&ie=UTF8&qid=1508639033&sr=1-3&keywords=stanley+needle+nose+pliers), forceps, or a [jewelry toolset](https://www.amazon.com/Wisehands-Professional-Jewelry-Crafting-Storage/dp/B01N1RV9HZ/ref=sr_1_1_sspa?s=power-hand-tools&ie=UTF8&qid=1508638759&sr=1-1-spons&keywords=jewelry+pliers&psc=1). 
   5. [Support](https://backyardbrains.com/products/files/2mm_1mm_diameter_holes_2x.stl.zip) for the sphere lens 
   6. [Plain Glass Slide](https://www.amazon.com/AmScope-BS-72P-100S-22-Pre-Cleaned-Microscope-Coverslips/dp/B00L1S93PS/ref=sr_1_1?ie=UTF8&qid=1510109128&sr=8-1&keywords=glass+slide+microscopy)

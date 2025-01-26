@@ -1,10 +1,10 @@
----
-id: Experiment_quantify_your_eeg
-title: "Experiment: Quantify Your EEG"
-slug: /retired/experiments/quantifyyoureeg
----
+## Experiment: Quantify Your EEG
 
-# Experiment: Quantify Your EEG
+---
+id: "Experiment_quantify_your_eeg"
+title: "Experiment: Quantify Your EEG"
+slug: "/retired/experiments/quantifyyoureeg"
+---
 
 Many students and teachers have enjoyed measuring their own brain activity
 with our Heart and Brain SpikerBox, but quantifying the brain signal has been
@@ -22,7 +22,7 @@ EEG.
 
 ##### Prerequisite Labs
 
-  * [EEG-Record from the Human Brain](eeg) - You should have know how to successfully record the alpha waves of the visual cortex before moving on to this data analysis project
+* [EEG-Record from the Human Brain](eeg) - You should have know how to successfully record the alpha waves of the visual cortex before moving on to this data analysis project
 
 ##### Equipment
 
@@ -188,7 +188,6 @@ Now let's get our hands dirty with some code!
     df.to_csv("Frequencies.csv", index=False)
     ```
 
-
   14. A file named "Frequencies" will be saved in the same location as your python script. You can open it in excel or any text editor. Note that in excel you will have to select "import text file." 
   15. As you can see in the following image, the frequency matrix has 129 data points. In python, the positions start from the number 0, so, we are going to choose the ones close to the Alpha waves which will be the positions 4 (7,81 Hz), 5 (9,77 Hz) and 6 (11,7 Hz). (Note that in the figure the positions start from 1, this is because we are seeing it in an excel table). We can do it "by hand" but if it were a lot of data it would be a lot of work, so we will do it in python. 
 
@@ -219,14 +218,16 @@ Now let's get our hands dirty with some code!
     
     ```python  
     def smoothTriangle(data, degree)_
-        triangle=np.concatenate((np.arange(degree + 1), np.arange(degree)[__-1])) # up then down
-        smoothed=[]
+        triangle=np.concatenate((np.arange(degree + 1), np.arange(degree)[-1])) # up then down
+
+smoothed=[]
     
         for i in range(degree, len(data) - degree * 2)_
             point=data[i_i + len(triangle)] * triangle
             smoothed.append(np.sum(point)/np.sum(triangle))
         # Handle boundaries
-        smoothed=[smoothed[0]]*int(degree + degree/2) + smoothed
+
+smoothed=[smoothed[0]]*int(degree + degree/2) + smoothed
         while len(smoothed) < len(data)_
             smoothed.append(smoothed[-1])
         return smoothed
@@ -295,8 +296,10 @@ Now let's get our hands dirty with some code!
     eyesclosed=[]
     eyesopen=[]
     j=0  #initial variable to traverse tg
-    l=0  #initial variable to loop through the "y" data
-    for i in range(0, l_row_t)_
+
+l=0  #initial variable to loop through the "y" data
+
+for i in range(0, l_row_t)_
         if t[i]>=tg[j]_
             
             if j%2==0_
@@ -340,7 +343,8 @@ Now let's get our hands dirty with some code!
 
     ```python  
     # -*- coding_ utf-8 -*-
-    """
+
+"""
     Created on Feb 2021
     
     @author_ Natalia
@@ -390,14 +394,16 @@ Now let's get our hands dirty with some code!
     
     
     def smoothTriangle(data, degree)_
-        triangle=np.concatenate((np.arange(degree + 1), np.arange(degree)[__-1])) # up then down
-        smoothed=[]
+        triangle=np.concatenate((np.arange(degree + 1), np.arange(degree)[-1])) # up then down
+
+smoothed=[]
     
         for i in range(degree, len(data) - degree * 2)_
             point=data[i_i + len(triangle)] * triangle
             smoothed.append(np.sum(point)/np.sum(triangle))
         # Handle boundaries
-        smoothed=[smoothed[0]]*int(degree + degree/2) + smoothed
+
+smoothed=[smoothed[0]]*int(degree + degree/2) + smoothed
         while len(smoothed) < len(data)_
             smoothed.append(smoothed[-1])
         return smoothed
@@ -432,8 +438,10 @@ Now let's get our hands dirty with some code!
     eyesclosed=[]
     eyesopen=[]
     j=0  #initial variable to traverse tg
-    l=0  #initial variable to loop through the "y" data
-    for i in range(0, l_row_t)_
+
+l=0  #initial variable to loop through the "y" data
+
+for i in range(0, l_row_t)_
         if t[i]>=tg[j]_
             
             if j%2==0_
@@ -462,13 +470,13 @@ Now let's get our hands dirty with some code!
 
 ## Discussion / Further Work
 
-  1. In the motor cortex there is a 20 Hz Beta wave "event related desynchronization" when you initiate movement. Perhaps you can see this in your motor cortex EEG with this described spectrogram method. 
+1. In the motor cortex there is a 20 Hz Beta wave "event related desynchronization" when you initiate movement. Perhaps you can see this in your motor cortex EEG with this described spectrogram method. 
   2. Finally, EEG is wonderful to measure, but novices may find the low signal strength surprising. EEG is one of the weaker electrophysiological signals, and it is important to remain still (don't move any muscle of the head) and reduce noise as much as possible. See figure below that illustrates the EEG signal strength compared to other signals we can measure with the heart and brain SpikerBox. 
 
 [ ![](./img/Signal_Comparison.jpg)](./img/Signal_Comparison.jpg)
 
 ## Notes
 
-  * In 2017 we had the opportunity to visit Paris, and of course we stopped by the famous Père Lachaise cementary. We said hello to Professor Fourier and thanked him for his important work. 
+* In 2017 we had the opportunity to visit Paris, and of course we stopped by the famous Père Lachaise cementary. We said hello to Professor Fourier and thanked him for his important work. 
 
 [ ![](./img/JosephFourier-Rests.jpg)](./img/JosephFourier-Rests.jpg)

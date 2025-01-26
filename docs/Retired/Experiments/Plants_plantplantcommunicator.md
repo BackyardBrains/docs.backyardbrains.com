@@ -1,10 +1,10 @@
----
-id: experiment___advanced_plant_electrophysiology__control_the_behavior_of_one_plant_with_another's
-title: "Experiment:  Advanced Plant Electrophysiology_ Control the Behavior of One Plant with Another's"
-slug: /retired/experiments/Plants_plantplantcommunicator
----
+## Experiment: Advanced Plant Electrophysiology: Control the Behavior of One Plant with Another's
 
-# Experiment: Advanced Plant Electrophysiology: Control the Behavior of One Plant with Another's
+---
+id: "experiment___advanced_plant_electrophysiology__control_the_behavior_of_one_plant_with_another's"
+title: "Experiment:  Advanced Plant Electrophysiology_ Control the Behavior of One Plant with Another's"
+slug: "/retired/experiments/Plants_plantplantcommunicator"
+---
 
 **Time:**  1 hour
 
@@ -16,7 +16,7 @@ In this experiment, featured on the [TED Main Stage](https://www.ted.com/talksgr
 
 ##### Prerequisite Labs
 
-  * None
+* None
 
 ##### Equipment
 
@@ -74,7 +74,7 @@ react to the stimulus and drop its branch.
 
 #### Venus Flytrap
 
-  2. Organize your Flytrap cables_ Yellow RCA Jack with electrode clips, one short black wire with grounding pin, one orange stake recording electrode. 
+2. Organize your Flytrap cables_ Yellow RCA Jack with electrode clips, one short black wire with grounding pin, one orange stake recording electrode. 
   3. Take the orange electrode stake and plant it firmly into the ground so that the silver electrode wire is touching, or is nearly touching, the side of the Venus Flytrap. 
   4. Apply conductive gel where the electrode meets the plant wall to complete the connection. 
   5. Take the short, black grounding pin with wire and ground the ground in the ground (stick the pin in the dirt...) 
@@ -86,7 +86,7 @@ react to the stimulus and drop its branch.
 
 #### Sensitive Mimosa
 
-  8. Organize your Mimosa cables_ Stim Cable (long red cable with clips), one long black wire with grounding pin, one long red wire with silver wire tip. 
+8. Organize your Mimosa cables_ Stim Cable (long red cable with clips), one long black wire with grounding pin, one long red wire with silver wire tip. 
   9. Take the black wire grounding pin and stick it in the dirt near the Mimosa's stem. 
   10. Take the red wire with the silver tip and carefully, and tightly, wrap the silver tip once around a large Mimosa branch. Try to wrap it close to the stem. This will probably cause the branch to "fall" as you fumble to wrap the electrode. That's okay, you just have to wait 10-20m for it to reset before performing the experiment. 
 

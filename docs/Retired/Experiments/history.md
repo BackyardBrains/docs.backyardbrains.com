@@ -1,10 +1,10 @@
----
-id: _history__in_search_of_the_spike
-title: " History: In Search of the Spike"
-slug: /retired/experiments/history
----
+## History: In Search of the Spike
 
-#  History: In Search of the Spike
+---
+id: "_history__in_search_of_the_spike"
+title: " History: In Search of the Spike"
+slug: "/retired/experiments/history"
+---
 
 While not an experiment, this gives you the historical context behind the
 efforts of scientists to amplify the neural signals that you regularly observe
@@ -192,6 +192,7 @@ But, to see the individual, un-averaged action potential, live and direct, it
 took the invention of vacuum tubes, and their subsequent transformation into
 [vacuum-phosphene
 tubes](https://en.wikipedia.org/wiki/Vacuum_tube#Cathode_ray_tubes), to allow
+
 us to finally visualize the action potential. Done famously for the first time
 [by Herbert Gasser and Joseph
 Erlanger](files/GasserErlanger1922_firstAPoscilloscope.pdf) in 1922 on a
@@ -276,7 +277,7 @@ Now invent the future!
 
 ##  Sources / Notes
 
-  1. [Galvani's Spark_ The Story for the Nerve Impulse](https://www.amazon.com/Galvanis-Spark-Story-Nerve-Impulse/dp/0199751757/ref=sr_1_1?ie=UTF8&qid=1430943886&sr=8-1&keywords=Galvani%27s+Spark), by Alan McComas 
+1. [Galvani's Spark_ The Story for the Nerve Impulse](https://www.amazon.com/Galvanis-Spark-Story-Nerve-Impulse/dp/0199751757/ref=sr_1_1?ie=UTF8&qid=1430943886&sr=8-1&keywords=Galvani%27s+Spark), by Alan McComas 
   2. [The Spark of Life_ Electricity in the Human Body](https://www.amazon.com/Spark-Life-Electricity-Human-Body/dp/039334679X/ref=sr_1_1?ie=UTF8&qid=1430943988&sr=8-1&keywords=Spark+of+Life) by Frances Ashcroft 
   3. [Practical Electronics for Inventors](https://www.amazon.com/Practical-Electronics-Inventors-Paul-Scherz/dp/0071771336/ref=sr_1_1?ie=UTF8&qid=1430944078&sr=8-1&keywords=practical+electronics+for+inventors) by Paul Scherz and Simon Monk
   4. [Hackers_ Heroes of the Computer Revolution](https://www.amazon.com/Hackers-Computer-Revolution-Anniversary-Edition/dp/1449388396) by Steven Levy 

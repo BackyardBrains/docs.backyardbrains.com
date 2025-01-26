@@ -1,10 +1,10 @@
----
-id: experiment__muscle_action_potentials
-title: "Experiment: Muscle Action Potentials"
-slug: /retired/experiments/muscleactionpotential
----
+## Experiment:Muscle Action Potentials
 
-# Experiment:Muscle Action Potentials
+---
+id: "experiment__muscle_action_potentials"
+title: "Experiment: Muscle Action Potentials"
+slug: "/retired/experiments/muscleactionpotential"
+---
 
 In this experiment we will look at EMG activity more closely. The muscle
 activity we saw in our previous experiment was the result of many muscle
@@ -25,7 +25,7 @@ hand. Can you find other small muscles to record from?
 
 ##### Prerequisite Labs
 
-  * [Muscle SpikerBox](./muscleSpikerBox.md) - You should become familiar with how to use your Muscle SpikerBox and Smartphone, iPad, or Computer. 
+* [Muscle SpikerBox](./muscleSpikerBox.md) - You should become familiar with how to use your Muscle SpikerBox and Smartphone, iPad, or Computer. 
 
 ##### Equipment
 
@@ -73,7 +73,7 @@ up and down vs left or right? Let's see!
 
 ## Experiment
 
-  1. Using your orange electrode cable, attach the red alligator clips to each of the brass fasteners in our "popsicle stick electrode" that came with your SpikerBox. Attach the black alligator clip to the ground screw. See images below as a guide. 
+1. Using your orange electrode cable, attach the red alligator clips to each of the brass fasteners in our "popsicle stick electrode" that came with your SpikerBox. Attach the black alligator clip to the ground screw. See images below as a guide. 
 
 [ ![](./img/combopic.jpg)](./img/combopic.jpg)
 
@@ -102,7 +102,7 @@ up and down vs left or right? Let's see!
 
 ## Science Fair Project Ideas
 
-  * What do muscle Action Potentials look like on different muscles or different parts of the body? Why do you think they're different (or the same?) 
+* What do muscle Action Potentials look like on different muscles or different parts of the body? Why do you think they're different (or the same?) 
   * Does anything impact the amplitude of the muscle action potentials? Perhaps fatigue? Athleticism? 
   * Can you use this technique to pick up any neuronal action potentials? Why or why not? 
   * Try to see what the difference is (if there is one) between an action potential coming from a reflex (like the patellar reflex) and the same motion happening voluntarily. Why might there be or not be a difference? 

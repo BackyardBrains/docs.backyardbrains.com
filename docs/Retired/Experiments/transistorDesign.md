@@ -1,10 +1,10 @@
----
-id: experiment__transistor_circuit_design
-title: "Experiment: Transistor Circuit Design"
-slug: /retired/experiments/transistorDesign
----
+## Experiment: Transistor Circuit Design
 
-# Experiment: Transistor Circuit Design
+---
+id: "experiment__transistor_circuit_design"
+title: "Experiment: Transistor Circuit Design"
+slug: "/retired/experiments/transistorDesign"
+---
 
 You can now explain with confidence what p-doping, n-doping, and depletion
 layers mean. Now you will put that knowledge to use. You have the transistor
@@ -23,7 +23,7 @@ from scratch using two transistors and some various resistors/capacitors.
 
 ##### Prerequisite Labs
 
-  * [Transistor Theory](./transistorTheory) - Read how a transistor works before proceeding
+* [Transistor Theory](./transistorTheory) - Read how a transistor works before proceeding
   * [SpikerBox](spikerbox) - A familiarity with spikes will make this activity more meaningful
 
 ##### Equipment
@@ -31,7 +31,6 @@ from scratch using two transistors and some various resistors/capacitors.
 * [Stimulation Cable](https://backyardbrains.com/products/stimulationcable)
 * [Cockroaches](https://backyardbrains.com/products/cockroaches)
 * [Electrode](https://backyardbrains.com/products/recordingelectrode)
-
 
 ## Procedure
 
@@ -271,4 +270,4 @@ world beyond the ability of our naked senses. Now begin discovering.
 
 ## Discussion Questions
 
-  1. Why are the spikes from our simple two-transistor bioamp "noisier" than the SpikerBox? What does the SpikerBox do? Hint_ the SpikerBox has many more transistors and uses them to build [operational amplifiers](https://en.wikipedia.org/wiki/Operational_amplifier), which are then further mixed into [instrumentation amplifiers](https://en.wikipedia.org/wiki/Instrumentation_amp). Welcome to the Art of Electronics!
+1. Why are the spikes from our simple two-transistor bioamp "noisier" than the SpikerBox? What does the SpikerBox do? Hint_ the SpikerBox has many more transistors and uses them to build [operational amplifiers](https://en.wikipedia.org/wiki/Operational_amplifier), which are then further mixed into [instrumentation amplifiers](https://en.wikipedia.org/wiki/Instrumentation_amp). Welcome to the Art of Electronics!

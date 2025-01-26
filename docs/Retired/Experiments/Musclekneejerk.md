@@ -1,10 +1,10 @@
----
-id: experiment__the_patellar_reflex_and_reaction
-title: "Experiment: The Patellar Reflex and Reaction"
-slug: /retired/experiments/Musclekneejerk
----
+## Experiment:The Patellar Reflex and Reaction
 
-# Experiment:The Patellar Reflex and Reaction
+---
+id: "experiment__the_patellar_reflex_and_reaction"
+title: "Experiment: The Patellar Reflex and Reaction"
+slug: "/retired/experiments/Musclekneejerk"
+---
 
 **Time:**  30 Minutes
 
@@ -19,7 +19,7 @@ move without their control! (again)
 
 ##### Prerequisite Labs
 
-  * [Record Electricity from your Muscles](./muscleSpikerBox.md) - You should read this experiment first to learn about electromyography and motor units.
+* [Record Electricity from your Muscles](./muscleSpikerBox.md) - You should read this experiment first to learn about electromyography and motor units.
   * [Reaction Time](reactiontime) - This experiment also explains the difference between reactions and reflexes.
 
 ##### Equipment
@@ -74,6 +74,7 @@ too!
 > your data.
 >
 > ### Updated Firmware
+
 >
 > If you purchased your [Muscle SpikerBox Pro](https://backyardbrains.com/MuscleSpikerBoxPro)
 > before Feb 2019, you will need to follow the [Firmware Update Instructions](https://backyardbrains.com/products/files/UpdateMuscleSpikerBoxProFirmware.pdf)
@@ -132,7 +133,7 @@ diseases).
 
 **Measure Reflex time**
 
-  1. Yes! We can measure the reflex time with the Backyard Brains [Reflex Hammer](https://backyardbrains.com/products/reflexhammer) - an expansion kit for the [Muscle SpikerBox Pro](https://backyardbrains.com/products/musclespikerboxpro). 
+1. Yes! We can measure the reflex time with the Backyard Brains [Reflex Hammer](https://backyardbrains.com/products/reflexhammer) - an expansion kit for the [Muscle SpikerBox Pro](https://backyardbrains.com/products/musclespikerboxpro). 
 
 [ ![](./img/Hammer_Large.jpg)](./img/Hammer_Large.jpg)
 

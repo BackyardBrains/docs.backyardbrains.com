@@ -1,10 +1,10 @@
----
-id: Experiment_make_your_own_homunculus
-title: "Experiment: Make your own Homunculus"
-slug: /retired/experiments/homunculus
----
+## Experiment: Make your own Homunculus
 
-# Experiment: Make your own Homunculus
+---
+id: "Experiment_make_your_own_homunculus"
+title: "Experiment: Make your own Homunculus"
+slug: "/retired/experiments/homunculus"
+---
 
 While you know what you look like, do you know what your nervous system thinks
 you look like? Read further and learn how your skin's sensitivity changes how
@@ -21,7 +21,7 @@ sensitivity varies over certain areas of your body.
 
 ##### Prerequisite Labs
 
-  * [Experiment: How Your Skin Senses](skin) - You should become familiar with how to your skin senses, and how to collect the data required for this lesson.
+* [Experiment: How Your Skin Senses](skin) - You should become familiar with how to your skin senses, and how to collect the data required for this lesson.
 
 ##### Equipment
 
@@ -63,7 +63,7 @@ only for the left cerebral hemisphere.
 
 #### For this experiment you need_
 
-  1. The data you collected in the first [Skin Senstivity Experiment](skin)
+1. The data you collected in the first [Skin Senstivity Experiment](skin)
   2. Access to the Internet 
   3. [This Website](http://www.maxplanckflorida.org/fitzpatricklab/homunculus)
 
@@ -80,7 +80,7 @@ according to your nervous system.
 
 #### Experiment Steps:
 
-  1. Go to [this website](http://www.maxplanckflorida.org/fitzpatricklab/homunculus/) and choose a model that looks most like you or you like best: 
+1. Go to [this website](http://www.maxplanckflorida.org/fitzpatricklab/homunculus/) and choose a model that looks most like you or you like best: 
 
 ![Homunculus Choose Person](./img/HomunculusPeople.jpg)
 
@@ -92,6 +92,6 @@ according to your nervous system.
 
 ## Questions to Answer and Consider
 
-  1. Why isn't your skin's sensitivity in proportion to the size of the body part? Is it reversed?
+1. Why isn't your skin's sensitivity in proportion to the size of the body part? Is it reversed?
   2. How different is your Homunculus from your partner's? Where are they different and where are they the same?
   3. What would happen if your skin sensitivity in your hands stopped working?

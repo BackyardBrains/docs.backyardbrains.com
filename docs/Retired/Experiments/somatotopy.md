@@ -1,10 +1,10 @@
----
-id: experiment__sensory_and_neural_adaptation
-title: "Experiment: Sensory and Neural Adaptation"
-slug: /retired/experiments/somatotopy
----
+## Experiment:Sensory and Neural Adaptation
 
-# Experiment:Sensory and Neural Adaptation
+---
+id: "experiment__sensory_and_neural_adaptation"
+title: "Experiment: Sensory and Neural Adaptation"
+slug: "/retired/experiments/somatotopy"
+---
 
 Neurons learn, and you will gain a first look at this by examining a sensory neuron's adaptation to a constant stimulus.
 
@@ -20,7 +20,7 @@ constantly change their response properties.
 
 ##### Prerequisite Labs
 
-  * [SpikerBox](spikerbox) - You should become familiar with how to use your SpikerBox.
+* [SpikerBox](spikerbox) - You should become familiar with how to use your SpikerBox.
 
 ##### Equipment
 
@@ -120,7 +120,7 @@ it back on the barb again. Is the adaptation time quicker or slower?
 
 ## Questions/Further Work
 
-  1. Do you think certain drugs will lengthen the adaptation time? 
+1. Do you think certain drugs will lengthen the adaptation time? 
   2. It's not only the barbs that are sensitive to touch, but also the exoskeleton of the leg itself. Try probing different parts of the leg and measuring if the adaptation times are different. 
   3. We can't we do those experiment by hand? Try very precisely positioning the toothpick with your hand, and measuring the adaptation time. It should appear to take much longer. Do you have any ideas as to why this might be so? 
 

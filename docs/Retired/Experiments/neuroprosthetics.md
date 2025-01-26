@@ -1,10 +1,10 @@
----
-id: experiment__neuroprosthetics
-title: "Experiment: NeuroProsthetics"
-slug: /retired/experiments/neuroprosthetics
----
+## Experiment:NeuroProsthetics
 
-# Experiment:NeuroProsthetics
+---
+id: "experiment__neuroprosthetics"
+title: "Experiment: NeuroProsthetics"
+slug: "/retired/experiments/neuroprosthetics"
+---
 
 Ever wondered if you could connect the neural output of one cockroach leg into
 another leg? Neural Engineering 101 now in session.
@@ -20,7 +20,7 @@ combining neuroscience, engineering, robotics, and physics.
 
 ##### Prerequisite Labs
 
-  * [SpikerBox](spikerbox) - You should become familiar with how to use your SpikerBox
+* [SpikerBox](spikerbox) - You should become familiar with how to use your SpikerBox
 
 ##### Equipment
 

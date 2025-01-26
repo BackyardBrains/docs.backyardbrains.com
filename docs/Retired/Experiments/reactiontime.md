@@ -1,10 +1,10 @@
----
-id: how_fast_your_brain_reacts_to_stimuli
-title: "How Fast Your Brain Reacts To Stimuli"
-slug: /retired/experiments/reactiontime
----
+## Experiment: How Fast Your Brain Reacts To Stimuli
 
-# Experiment: How Fast Your Brain Reacts To Stimuli
+---
+id: "how_fast_your_brain_reacts_to_stimuli"
+title: "How Fast Your Brain Reacts To Stimuli"
+slug: "/retired/experiments/reactiontime"
+---
 
 How fast do you think you are? Do you know what a reflex and a reaction are?
 This lesson plan tells all about the quickness of your nervous system and the
@@ -218,7 +218,7 @@ condensed down into one page! Thanks Virginia for Sharing it with us!
 
 ## Science Fair Project Ideas
 
-  * Why do you think touch and audio stimuli have a faster reaction time on average? How much faster is it? Do your results match the averages mentioned above? 
+* Why do you think touch and audio stimuli have a faster reaction time on average? How much faster is it? Do your results match the averages mentioned above? 
   * Would you expect a difference in the average reaction times between a male and female? What about a more athletic person compared to a more sedentary person? 
   * Why not test the "tactile" reaction time in the choice task? How could you redesign the experimental setup to test tactile reaction times in the choice task? 
   * As you know, you have a dominant vs. a non-dominant hand. With only four trials, it is too hard to see a difference. Perhaps you should repeat the experiment 10-20 times and with right and left dominant people to see if there is any difference between dominant and non-dominant hands. 

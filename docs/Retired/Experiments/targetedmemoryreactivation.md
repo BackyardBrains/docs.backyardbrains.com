@@ -1,10 +1,10 @@
----
-id: experiment__targeted_memory_reactivation
-title: "Experiment: Targeted Memory Reactivation"
-slug: /retired/experiments/targetedmemoryreactivation
----
+## Experiment:Targeted Memory Reactivation
 
-# Experiment:Targeted Memory Reactivation
+---
+id: "experiment__targeted_memory_reactivation"
+title: "Experiment: Targeted Memory Reactivation"
+slug: "/retired/experiments/targetedmemoryreactivation"
+---
 
 It can be so hard to remember things! Facts, names, where you placed your
 keys. We could all use some help. But could EEG come to the rescue? Maybe! It
@@ -33,7 +33,6 @@ None
 * [Heart and Brain SpikerBox](https://backyardbrains.com/products/heartAndBrainSpikerBox)
 * Laptop
 * [SpikeRecorder](https://backyardbrains.com/products/spikerecorder)
-
 
 ## Background
 
@@ -166,7 +165,7 @@ software package of choice.
 
 ## Science Fair Project Ideas
 
-  * What would happen if we did multiple cycles of cueing during slow wave sleep? Does the intervals between them matter? 
+* What would happen if we did multiple cycles of cueing during slow wave sleep? Does the intervals between them matter? 
   * What would happen if we cued the sounds during other stages of sleep? 
   * What would happen if we changed the cueing percentage to 0%, 25%, 75%, or 100%? 
   * How can we use TMR for real life applications? 

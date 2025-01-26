@@ -1,10 +1,10 @@
----
-id: controlling_the_claw
-title: "Controlling the Claw"
-slug: /retired/experiments/MuscleSpikerShield_GripperHand
----
+## Experiment: Controlling the Claw
 
-# Experiment: Controlling the Claw
+---
+id: "controlling_the_claw"
+title: "Controlling the Claw"
+slug: "/retired/experiments/MuscleSpikerShield_GripperHand"
+---
 
 Make your first anthropomorphic Neuroprosthetic, in which you control a
 robotic claw with the signal of your muscles.
@@ -23,7 +23,7 @@ just to dive into the study of Neuroprosthetics!
 
 ##### Prerequisite Labs
 
-  * [Getting to know the Muscle SpikerShield](https://backyardbrains.com/experiments/MuscleSpikerShield)
+* [Getting to know the Muscle SpikerShield](https://backyardbrains.com/experiments/MuscleSpikerShield)
 
 ##### Equipment
 
@@ -112,7 +112,7 @@ draws of the servo).
 
 ## Procedure
 
-  1. Your Robotic Claw has a three wire servomotor cable that you plug into your Muscle SpikerShield. The Cable has a black, red, and a yellow wire. The yellow is the control wire, red is power (9V), and black is ground. 
+1. Your Robotic Claw has a three wire servomotor cable that you plug into your Muscle SpikerShield. The Cable has a black, red, and a yellow wire. The yellow is the control wire, red is power (9V), and black is ground. 
   2. Plug the Servomotor cable into the three pin header on your Muscle SpikerShield. Order is important! The yellow side goes toward the center of the board. 
 
 [ ![](./img/claw_muscleSpikerShield2.jpg)](./img/claw_muscleSpikerShield2.jpg)
@@ -148,18 +148,26 @@ or in the links above.
     */
     
     #include &ltServo.h>
-    #define GRIPPER_STATE_BUTTON_PIN 4          //pin for button that switches defult state
-                                                //of the gripper (opened/closed)
+
+#define GRIPPER_STATE_BUTTON_PIN 4          //pin for button that switches defult state
+
+//of the gripper (opened/closed)
     #define SERVO_PIN 2                         //pin for servo motor
-    #define SENSITIVITY_BUTTON_PIN 7            //pin for button that selects sesitivity
-    #define NUM_LED 6                           //number of LEDs in LED bar
-    #define GRIPPER_MINIMUM_STEP 5              //5 degree dead zone (used to avoid
-                                                //aiming oscilation)
+
+#define SENSITIVITY_BUTTON_PIN 7            //pin for button that selects sesitivity
+
+#define NUM_LED 6                           //number of LEDs in LED bar
+
+#define GRIPPER_MINIMUM_STEP 5              //5 degree dead zone (used to avoid
+
+//aiming oscilation)
     #define OPEN_MODE 1                         //default gripper state is opened
-    #define CLOSED_MODE 2                       //default gripper state is closed
-    #define MINIMUM_SERVO_UPDATE_TIME 100       //update servo position every 100ms
-    
-    Servo Gripper;                              //servo for gripper
+
+#define CLOSED_MODE 2                       //default gripper state is closed
+
+#define MINIMUM_SERVO_UPDATE_TIME 100       //update servo position every 100ms
+
+Servo Gripper;                              //servo for gripper
     byte ledPins[] = {8, 9, 10, 11, 12, 13};    //pins for LEDs in LED bar
     
     //EMG saturation values (when EMG reaches this value
@@ -345,8 +353,7 @@ maybe we can start a friendship!
 
 ## Science Fair Project Ideas
 
-     * Try to design some reaction time experiments that could be done with your own body and with the Claw. How does the time differ? Does it depend on the sensory stimulus you're reacting to? 
+* Try to design some reaction time experiments that could be done with your own body and with the Claw. How does the time differ? Does it depend on the sensory stimulus you're reacting to? 
      * Hook up people of differing levels of athleticism-does this affect the strength of the Claw? How about how long they can the grip? 
      * What are some other devices you could connect this to? What might be the limit to what or how many you could connect to? 
-
 

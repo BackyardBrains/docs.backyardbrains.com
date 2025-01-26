@@ -1,10 +1,10 @@
----
-id: record_electricity_from_your_muscles
-title: "Record Electricity from Your Muscles"
-slug: /retired/experiments/muscleSpikerBox
----
+## Experiment: Record Electricity from Your Muscles!
 
-# Experiment: Record Electricity from Your Muscles!
+---
+id: "record_electricity_from_your_muscles"
+title: "Record Electricity from Your Muscles"
+slug: "/retired/experiments/muscleSpikerBox"
+---
 
 You may have heard and seen spikes from invertebrates. But what about
 yourself? Your body uses electricity to communicate and control parts of the
@@ -32,7 +32,7 @@ rest and during contraction.
 
 ##### Prerequisite Labs
 
-  * None
+* None
 
 ##### Equipment
 
@@ -112,5 +112,4 @@ If you have our original Muscle SpikerBox with 3 separate leads (not a single
 orange cable), the colors of the alligator clips are different. The Red and
 Black clips should go around the muscle of interest, while the white is used
 as the ground electrode.
-
 

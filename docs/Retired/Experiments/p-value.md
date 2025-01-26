@@ -1,10 +1,10 @@
----
-id: experiment__debunking_the_p-value_with_statistics
-title: "Experiment: Debunking the P-value with Statistics"
-slug: /retired/experiments/p-value
----
+## Experiment:Debunking the P-value with Statistics
 
-# Experiment:Debunking the P-value with Statistics
+---
+id: "experiment__debunking_the_p-value_with_statistics"
+title: "Experiment: Debunking the P-value with Statistics"
+slug: "/retired/experiments/p-value"
+---
 
 Many of our experiments here at Backyard Brains will have you collecting data.
 You may be wondering, "well what can I do with all of this data?" Welcome to
@@ -91,6 +91,7 @@ Before we begin to collect data, we are going to form some hypotheses.
 ## The Raw Data, Graphs & Distributions
 
 Below is a data set we collected from performing Cognitive Experiment #3
+
 Reaction Time. Here we show the reaction times for both left and right hands
 for the visual cue. We gathered 20 college age volunteers, 10 left-handed and
 10 right-handed. Reaction time is displayed in seconds.
@@ -107,6 +108,7 @@ here.
 Next, we want to organize the data specifically for both our hypothesis_
 
 #### Hypothesis 1_ Right handed people are faster with their right, dominant,
+
 hand.
 
 [ ![](./img/BYB_exp4_pic7.png)](./img/BYB_exp4_pic7.png)
@@ -336,6 +338,7 @@ left hand if you are right-handed. Now let's take a look at our second
 hypothesis_
 
 ##### Are left-handed people faster with their left hand than right-handed
+
 people are with their right hand?
 
 By "let's" we really mean "you." Now it's your turn, and you can run a T-test
@@ -364,7 +367,7 @@ does not mean evidence of absence."
 
 ## Questions to Consider
 
-  1. In our experimental group we used volunteers instead of a random sampling for 10 subjects. How does seeking random subjects differ from asking for volunteers to step forward? Does this bias the data at all? Does this choice in data acquisition strengthen, weaken, or have no affect on our final inference? 
+1. In our experimental group we used volunteers instead of a random sampling for 10 subjects. How does seeking random subjects differ from asking for volunteers to step forward? Does this bias the data at all? Does this choice in data acquisition strengthen, weaken, or have no affect on our final inference? 
   2. Do you ever think a study is done? What does the 95% confidence (alpha value =0.05) mean for extracting the "truth"? 
   3. Do you notice anything strange about the distribution graphs from our collected data? 
   4. We only compared right-handed people's reaction time with respect to their right and left hand. What would you expect to see with left-handed people regarding their left and right hands? You can do that analysis yourself! 

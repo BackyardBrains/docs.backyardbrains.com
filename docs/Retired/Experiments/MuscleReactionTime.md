@@ -1,10 +1,10 @@
----
-id: experiment___clock_the_inner_workings_of_the_brain
-title: "Experiment:  Clock the Inner Workings of the Brain"
-slug: /retired/experiments/MuscleReactionTime
----
+## Experiment: Clock the Inner Workings of the Brain
 
-# Experiment: Clock the Inner Workings of the Brain
+---
+id: "experiment___clock_the_inner_workings_of_the_brain"
+title: "Experiment:  Clock the Inner Workings of the Brain"
+slug: "/retired/experiments/MuscleReactionTime"
+---
 
 How fast do you think you are? Do you know what a reflex and a reaction are?
 This experiments reveals the speed of your nervous system and the muscular
@@ -24,7 +24,7 @@ combination!
 
 ##### Prerequisite Labs
 
-  * [Intro to The Muscle SpikerBox Pro_ Agonist and Antagonist Pairs](https://backyardbrains.com/experiments/muscleSpikerBoxPro)
+* [Intro to The Muscle SpikerBox Pro_ Agonist and Antagonist Pairs](https://backyardbrains.com/experiments/muscleSpikerBoxPro)
   * [How Fast Your Brain Reacts to Stimuli](reactiontime)
 
 ##### Equipment
@@ -33,7 +33,6 @@ combination!
 * [Reaction Timer](https://backyardbrains.com/products/reactiontimer)
 * Mac / PC
 * Android Smartphone / Tablet
-
 
 ### Updated Experiment:
 
@@ -136,7 +135,7 @@ react with no distractions or instructions?
 
 #### Quantifying Your Data
 
-  1. Open up your recording in the app. 
+1. Open up your recording in the app. 
   2. Search for the tick marks. For each tick mark, click and drag from the tick mark to the beginning of the subject's muscle activity to measure the reaction time. For Smartphones, do this by long-pressing on the screen at the tick mark, then dragging to the beginning of the flex! 
 
 [
@@ -209,7 +208,7 @@ device.)
 
 #### Questions to Consider
 
-  1. Why do you think touch and audio stimuli have a faster reaction time on average? 
+1. Why do you think touch and audio stimuli have a faster reaction time on average? 
   2. What do you think could explain differences in reaction time between different types of stimuli? 
   3. Would you expect a difference in the average reaction times between a male and female? What about a more athletic person compared to a more sedentary person? 
   4. Could you redesign the experimental setup to test tactile reaction times?

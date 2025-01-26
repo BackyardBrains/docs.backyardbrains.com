@@ -1,10 +1,10 @@
----
-id: conduction_velocity-how_fast_is_a_neuron?
-title: "Conduction Velocity-How Fast is a Neuron?"
-slug: /retired/experiments/speed
----
+## Experiment: Conduction Velocity-How Fast is a Neuron?
 
-# Experiment: Conduction Velocity-How Fast is a Neuron?
+---
+id: "conduction_velocity-how_fast_is_a_neuron?"
+title: "Conduction Velocity-How Fast is a Neuron?"
+slug: "/retired/experiments/speed"
+---
 
 You have probably spent some time wondering just how fast those spikes that
 you have been studying are? Now you can find out with our Neuron SpikerBox Pro
@@ -34,7 +34,6 @@ beginner and intermediate labs:
 
 * [Neuron SpikerBox Pro](https://backyardbrains.com/products/neuronspikerboxpro)
 * [Faraday Cage](https://backyardbrains.com/products/faradaycage)
-
 
 ## Background
 
@@ -143,7 +142,7 @@ the spikes.
 
 ##### Materials Required
 
-  1. [Neuron SpikerBox Pro](http://www.backyardbrains.com/products/NeuronSpikerboxPro)
+1. [Neuron SpikerBox Pro](http://www.backyardbrains.com/products/NeuronSpikerboxPro)
   2. Earthworm 
   3. [A Faraday Cage](http://www.backyardbrains.com/products/faradaycage)
   4. Laptop with USB input 
@@ -156,7 +155,7 @@ the spikes.
 
 ## Procedure
 
-    1. Go to your nearest pet store, sporting goods store, or gas station and purchase a box of earthworms (they are typically used to feed lizards, turtles, and fish. Fishermen use them as bait). They should be around $3-$4 for 12 worms. The Earthworm box should stay in the refrigerator (not the freezer) when not being used. The worms can last approximately 1-2 months. 
+1. Go to your nearest pet store, sporting goods store, or gas station and purchase a box of earthworms (they are typically used to feed lizards, turtles, and fish. Fishermen use them as bait). They should be around $3-$4 for 12 worms. The Earthworm box should stay in the refrigerator (not the freezer) when not being used. The worms can last approximately 1-2 months. 
     2. Prepare a 10% ethanol solution. The easiest way to do this is to use vodka (which is normally 80 proof, or 40% ethanol). Since Vodka is not much more than watered down pure ethanol, dilute it further to 1 part vodka, 3 parts water. For example, we mix 10 milliliters of alcohol with 30 milliliters of tap water. Ask your teacher to prepare this for you. **Note:** You can also use sugar-free carbonated water (also called club soda or sparkling water) as an anesthetic if ethanol is not available. The CO2 in the water serves as an anesthetic agent. 
     3. Place a healthy earthworm in the alcohol alcohol mixture and wait one to two minutes, or until the worm stops moving completely. Do not wait too long; as with human anesthesia, the delicate balance between too little anesthesia and too much is tricky. Too little anesthesia, the earthworm will move around during the experiment, and the resulting muscle electrical activity (electromyogram) will drown out the small neural electrical signals you are interested in. Too much anesthesia and the nerves will not fire. We've found 1-2 minutes is a good range. 
     4. Place the Earthworm on a piece of balsa wood or thick cork, and put your three electrodes of your two-channel SpikerBox in the posterior end of the worm (see picture above). 
@@ -193,7 +192,7 @@ experiment: - [Comparing Speeds of Two Different Fibers.](comparingNerveSpeed)
 
 ## Troubleshooting
 
-    1. If your earthworm is not healthy (not moving around in the soil and not resisting/squirming when you try to pick it up), you will not get good recordings. 
+1. If your earthworm is not healthy (not moving around in the soil and not resisting/squirming when you try to pick it up), you will not get good recordings. 
 
 ## Science Fair Project Ideas
 
@@ -201,8 +200,4 @@ experiment: - [Comparing Speeds of Two Different Fibers.](comparingNerveSpeed)
 * What happens if you reverse the ground and recording electrode 1? 
 * What happens if you touch the anterior part of the worm (the mouth). 
 * What are some advantages and disadvantages of sparse coding vs rate coding?
-
-
-
-
 

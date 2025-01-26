@@ -1,10 +1,10 @@
----
-id: experiment__eye_potentials_(the_eog)
-title: "Experiment: Eye Potentials (The EOG)"
-slug: /retired/experiments/EOG
----
+## Experiment:Eye Potentials (The EOG)
 
-# Experiment:Eye Potentials (The EOG)
+---
+id: "experiment__eye_potentials_(the_eog)"
+title: "Experiment: Eye Potentials (The EOG)"
+slug: "/retired/experiments/EOG"
+---
 
 We've shown the electrical signals from your heart and brain, now it is time
 for another symbolically powerful organ_ the eye.
@@ -20,7 +20,7 @@ how to measure it.
 
 ##### Prerequisite Labs
 
-  * None Necessary
+* None Necessary
 
 ##### Equipment
 
@@ -67,6 +67,7 @@ Now let's observe and measure the signal!
 > mobile device](https://backyardbrains.com/products/spikerecorder)
 >
 > ## Procedure
+
 >
 > In this "Eye Potential" experiment, we are going to measure the change in
 > eyeball potentials as we move our eyes.
@@ -109,6 +110,7 @@ Now let's observe and measure the signal!
 
 >
 > ## Discussion / Further Work
+
 >
 >   1. Could you use this interface to control a video game? Where would be
 > the main problem with this?
@@ -122,11 +124,13 @@ Now let's observe and measure the signal!
 
 >
 > ##  Notes
+
 >
 > Gracias goes to [Italo Ahumada Morasky](https://www.italoahumada.cl/about/),
 > a Chilean artist who illustrated our Serbian Hero at the request of Jose.
 >
 > ## Science Fair Project Ideas
+
 >
 >   * Do the potentials look different when your eyes are open or closed? Why
 > or why not?

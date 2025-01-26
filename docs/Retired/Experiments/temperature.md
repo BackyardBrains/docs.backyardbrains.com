@@ -1,10 +1,10 @@
----
-id: experiment__effect_of_temperature_on_neurons
-title: "Experiment: Effect of Temperature on Neurons"
-slug: /retired/experiments/temperature
----
+## Experiment:Effect of Temperature on Neurons
 
-# Experiment:Effect of Temperature on Neurons
+---
+id: "experiment__effect_of_temperature_on_neurons"
+title: "Experiment: Effect of Temperature on Neurons"
+slug: "/retired/experiments/temperature"
+---
 
 Have you ever wondered how your neurons respond to hot and cold temperatures?
 Exposing a cockroach leg's neurons to these environments will act as a perfect
@@ -21,7 +21,7 @@ firing patterns of neurons changes with temperature.
 
 ##### Prerequisite Labs
 
-  * [SpikerBox](spikerbox) - You should become familiar with how to use your SpikerBox
+* [SpikerBox](spikerbox) - You should become familiar with how to use your SpikerBox
 
 ##### Equipment
 

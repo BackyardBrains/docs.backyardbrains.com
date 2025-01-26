@@ -1,10 +1,10 @@
----
-id: experiment__recording_the_muscles_of_clams
-title: "Experiment: Recording the Muscles of Clams"
-slug: /retired/experiments/clams
----
+## Experiment:Recording the Muscles of Clams
 
-# Experiment:Recording the Muscles of Clams
+---
+id: "experiment__recording_the_muscles_of_clams"
+title: "Experiment: Recording the Muscles of Clams"
+slug: "/retired/experiments/clams"
+---
 
 Clams have strong muscles to keep their shells closed when they want to avoid
 predators. You can measure this muscle activity and see just how responsive
@@ -26,7 +26,6 @@ record the electromyograms of its lateral muscles.
 ##### Equipment
 
 *[Muscle SpikerBox](https://backyardbrains.com/products/muscleSpikerboxBundle)
-
 
 ## Background
 
@@ -96,7 +95,7 @@ muscle! Let's try to record the EMG of the adductors now!
 
 ## Experimental Procedure
 
-  1. Find clams - this is the fun part. The ideal would be to find a local supermarket that keeps the clams in saltwater aquariums. Try to choose those clams that are completely closed or those that are slightly open with the filters outside. This tells us that the clams are healthy and alive. A clam with its filters outside looks like this. 
+1. Find clams - this is the fun part. The ideal would be to find a local supermarket that keeps the clams in saltwater aquariums. Try to choose those clams that are completely closed or those that are slightly open with the filters outside. This tells us that the clams are healthy and alive. A clam with its filters outside looks like this. 
 
 ![](./img/Clam_Filters_Out.jpeg)
 
@@ -105,7 +104,7 @@ muscle! Let's try to record the EMG of the adductors now!
 
 ## Recording the Electromyogram
 
-    1. Keep the clams (_Venus antiqua_ , Chilean clam, or _Venus mercenaria_ , USA Northeast clam) in fake sea solution between 4-8 degrees Celsius before being used. You can buy sea salt for preparing fake sea water from aquarium stores. if you cannot prepare this solution, keep the clams refrigerated in a cold and damp cloth (fake beach). 
+1. Keep the clams (_Venus antiqua_ , Chilean clam, or _Venus mercenaria_ , USA Northeast clam) in fake sea solution between 4-8 degrees Celsius before being used. You can buy sea salt for preparing fake sea water from aquarium stores. if you cannot prepare this solution, keep the clams refrigerated in a cold and damp cloth (fake beach). 
     2. With a hobby hammer, lightly crack open the shell. See video above for reference. 
     3. Clean up the shards with forceps. 
     4. Take the Muscle SpikerBox Electrode cables with alligator clips, and attach map pins to them. It's best to match colors and have red map pins in the red alligator clips and black map pins in the black alligator clip. You will bend one red map pin into a hook that you will wrap around the adductor muscle. 
@@ -119,7 +118,7 @@ muscle! Let's try to record the EMG of the adductors now!
 
 ## Discussion
 
-    1. Another favorite animal of ours, the [mantis shrimp](https://blog.backyardbrains.com/2018/06/mantis-shrimp-do-me-a-favor/), is a [predator of clams](https://www.youtube.com/watch?v=i-ahuZEvWH8). 
+1. Another favorite animal of ours, the [mantis shrimp](https://blog.backyardbrains.com/2018/06/mantis-shrimp-do-me-a-favor/), is a [predator of clams](https://www.youtube.com/watch?v=i-ahuZEvWH8). 
     2. Working with mollusk electrophysiology is new to us. Our only other experiments on the mollusk animal phylum were an exploratory [demonstration in squid](https://blog.backyardbrains.com/2012/08/insane-in-the-chromatophores/) and and two intern projects on [squid hatchling phototaxis](https://blog.backyardbrains.com/?s=Squid+Hatchlings) and [octopus adult aggression](https://backyardbrains.com/experiments/OctopusFighting) behavior. Do you have a request or a suggestion? E-mail us to [let us know](mailto:tim@backyardbrains.com)! It would also be interesting to work on experiments from [echinoderms](https://en.wikipedia.org/wiki/Echinoderm), another animal phylum distinct from mollusks and arthropods. 
     3. Using [adhesive patch electrodes](https://backyardbrains.com/products/emglargeelectrodes), you can also record your own adductor muscles. In humans, these muscles bring your legs together. Gym patrons exercise them to shape their thighs.
     4. Try to record the EMG of the adductor muscles in clams of various sizes. One would suspect that the larger the clam, the larger the EMG amplitude, due to the muscle being larger. 

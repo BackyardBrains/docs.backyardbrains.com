@@ -1,10 +1,10 @@
----
-id: experiment__the_auditory_brainstem_response
-title: "Experiment: The Auditory Brainstem Response"
-slug: /retired/experiments/abr
----
+## Experiment:The Auditory Brainstem Response
 
-# Experiment:The Auditory Brainstem Response
+---
+id: "experiment__the_auditory_brainstem_response"
+title: "Experiment: The Auditory Brainstem Response"
+slug: "/retired/experiments/abr"
+---
 
 By listening to many and many clicks, and recording the electrical response of
 your brain, we can observe the auditory system in action!
@@ -20,7 +20,7 @@ electrical responses from your own ear, brainstem, and cerebral cortex.
 
 ##### Prerequisite Labs
 
-  * [Experiment:EEG - Recording from the human brain](https://backyardbrains.com/experiments/eeg) - This will introduce you to the concept of recording from large neural populations (you only need to read)
+* [Experiment:EEG - Recording from the human brain](https://backyardbrains.com/experiments/eeg) - This will introduce you to the concept of recording from large neural populations (you only need to read)
   * [Experiment:The P300 Surprise Signal](https://backyardbrains.com/experiments/p300) - This will introduce you to concept of averaging potentials (also only need to read)
 
 ##### Equipment
@@ -95,6 +95,7 @@ potential that correspond to different parts of the auditory anatomy. For
 example, there is a wave around ~1 ms that consists in the cochlear response,
 called peak I. There is a wave ~3 ms that corresponds to the [lateral olivary
 nucleus](https://en.wikipedia.org/wiki/Superior_olivary_complex#Lateral_superior_olive_\(LSO\))
+
 of the brainstem called peak III. There is a wave at 5 ms that corresponds to
 the [inferior colliculus](https://en.wikipedia.org/wiki/Inferior_colliculus)
 (part of the midbrain) that is named, unsurprisingly, peak V, and so on.
@@ -142,7 +143,7 @@ experiment!
 
 ## Experimental Procedure
 
-  1. Place the electrodes. One goes on the mastoid process behind the ear you want to test. It is the bony projection that you can easily feel. This may be confusing, as in our [previous EEG](https://backyardbrains.com/experiments/eeg) experiments, this location was the ground location, and in this experiment, it is the signal location. As we have [stated before](https://backyardbrains.com/experiments/referencing) there is no such thing as a perfect ground in electrophysiology, and where you place your ground depends on the signal you are trying to measure. Since we are measuring the auditory system, it makes sense that our signal electrode goes as close to the cochlea as possible. The second electrode goes on the Cz and is directly on top of your head between your ears. We are going to use our [EEG headband](https://backyardbrains.com/products/EEGheadband) for the Cz location. Slide the headband under the chin and over your head so that the electrode is located directly at the top of your head in between your two ears. You will need to apply some [conductive gel](https://backyardbrains.com/products/emgelectrodegel) to the space in between the electrode and the top of your head. The last electrode, the ground electrode, is nothing more than an electrode patch you put in the middle of your forehead, called Fz. 
+1. Place the electrodes. One goes on the mastoid process behind the ear you want to test. It is the bony projection that you can easily feel. This may be confusing, as in our [previous EEG](https://backyardbrains.com/experiments/eeg) experiments, this location was the ground location, and in this experiment, it is the signal location. As we have [stated before](https://backyardbrains.com/experiments/referencing) there is no such thing as a perfect ground in electrophysiology, and where you place your ground depends on the signal you are trying to measure. Since we are measuring the auditory system, it makes sense that our signal electrode goes as close to the cochlea as possible. The second electrode goes on the Cz and is directly on top of your head between your ears. We are going to use our [EEG headband](https://backyardbrains.com/products/EEGheadband) for the Cz location. Slide the headband under the chin and over your head so that the electrode is located directly at the top of your head in between your two ears. You will need to apply some [conductive gel](https://backyardbrains.com/products/emgelectrodegel) to the space in between the electrode and the top of your head. The last electrode, the ground electrode, is nothing more than an electrode patch you put in the middle of your forehead, called Fz. 
   2. Download the sound file above, open in Audacity, and put it on repeat play. You can also open it in any other audio program. 
   3. Put an audio splitter in your computer output port. Plug headphones into one port and a male-male audio cable in the other port (our [Backyard Brains audio cable](https://backyardbrains.com/products/laptopcable), for example). 
   4. Put headphones in the ear you are testing. Adjust the volume so the sound is loud but not uncomfortable. 
@@ -159,18 +160,18 @@ experiment!
 
 ## Troubleshooting
 
-    1. You may find this signal hard to record in some individuals. You can increase the click presentation to 4000 clicks (16 minutes and 40 seconds). 
+1. You may find this signal hard to record in some individuals. You can increase the click presentation to 4000 clicks (16 minutes and 40 seconds). 
     2. In some of us with hearing damage, the signal will not be easy to record (which is why the signal is medically useful - it can be used in newborn auditory screening). 
     3. For a reference you can download [this recording](files/Oct-4-Flo-4000-clicks.wav) which was a presentation of 4000 clicks we did with BYBer Florencia at the Backyard Brains Office. 
     4. If the signal looks "upside down" you can flip it by uncommenting the line "%Hearing = 0 - Hearing" in the code. This will flip the signal. It has to due with which signal electrode was on the mastoid process and which signal electrode was on point Cz on the top of the head. 
 
 ## Discussion
 
-    1. Though our protocol is much more garagy, this is a legitimate test used in hospitals. What do you think are the differences between our equipment and protocol and that which a hospital uses? What do you think are the differences between FDA-certified medical devices and our simpler science instruments used for investigation. 
+1. Though our protocol is much more garagy, this is a legitimate test used in hospitals. What do you think are the differences between our equipment and protocol and that which a hospital uses? What do you think are the differences between FDA-certified medical devices and our simpler science instruments used for investigation. 
     2. Making Backyard Brains versions of clinical neurophysiology tools is new to us. Do you have a request or a suggestion? E-mail us to [let us know!](mailto:tim@backyardbrains.com)! 
 
 ## Questions to Consider
 
-    1. Do your think your left ear and right ear are different? Test them. 
+1. Do your think your left ear and right ear are different? Test them. 
     2. Oh fortune, how you mock us, we know hearing declines with age. You can test the same volume on someone in their teenage years, someone in their 20s, someone in their 30s, someone in their 40s, and so on. 
     3. You can create your own sound files with noise added, and see what you find. As the noise increases, the ABR response should diminish.

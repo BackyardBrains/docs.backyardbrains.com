@@ -1,10 +1,10 @@
----
-id: referencing_your_spikes
-title: "Referencing your Spikes"
-slug: /retired/experiments/referencing
----
+## Experiment: Referencing your Spikes
 
-# Experiment: Referencing your Spikes
+---
+id: "referencing_your_spikes"
+title: "Referencing your Spikes"
+slug: "/retired/experiments/referencing"
+---
 
 You might have asked: why do we need more than one electrode? Can't we simply
 take a measurement with one electrode and get a reading to hear and see
@@ -23,7 +23,7 @@ one to measure neural activity when using the SpikerBox.
 
 ##### Prerequisite Labs
 
-  * [SpikerBox](spikerbox) - You should become familiar with how to use your SpikerBox
+* [SpikerBox](spikerbox) - You should become familiar with how to use your SpikerBox
 
 ##### Equipment
 
@@ -31,7 +31,6 @@ one to measure neural activity when using the SpikerBox.
 * [Cable: Laptop](https://backyardbrains.com/products/laptopcable)
 * [Cable: Phone](https://backyardbrains.com/products/smartphonecable)
 * [Cockroaches](https://backyardbrains.com/products/cockroaches)
-
 
 ## Background
 
@@ -143,7 +142,7 @@ That's it!
 
 #### Steps
 
-  1. Set up your computer/mobile device for recording and prepare a cockroach leg as [previously learned](http://www.backyardbrains.com/experiments/spikerbox). 
+1. Set up your computer/mobile device for recording and prepare a cockroach leg as [previously learned](http://www.backyardbrains.com/experiments/spikerbox). 
   2. Put your recording electrode in the femur, and your ground (reference) electrode in the coxa as shown below. 
 
 [ ![](./img/Pinsinleg1.jpeg)](./img/Pinsinleg1.jpeg)
@@ -166,7 +165,7 @@ from 1954 that can help.
 
 ## Discussion Questions
 
-    1. What is voltage? When voltage is reported, is it an absolute number or is it a differential value? 
+1. What is voltage? When voltage is reported, is it an absolute number or is it a differential value? 
     2. In this experiment, you learned about what happens when you move your ground and recording electrodes to a new location. What do you think would happen if you simply reversed your 'ground' and 'recording' electrodes in the first configuration, moving the 'ground' to the femur and the 'recording electrode' to the coxa? 
     3. With one electrode in both the coxa and the femur, there is generally a lot of "background activity." How does that change when you put both electrodes into the femur? vs. both electrodes in the coxa?
 

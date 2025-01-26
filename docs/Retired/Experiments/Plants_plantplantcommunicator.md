@@ -12,7 +12,7 @@ slug: /retired/experiments/Plants_plantplantcommunicator
 
 #### What will you learn?
 
-In this experiment, featured on the [TED Main Stage](https://www.ted.com/talks greg_gage_electrical_experiments_with_plants_that_count_and_communicate?utm_campaign=tedspread--a&utm_medium=referral&utm_source=tedcomshare), you will learn about plant electrophysiology and record the action potential of the Venus fly trap.
+In this experiment, featured on the [TED Main Stage](https://www.ted.com/talksgreg_gage_electrical_experiments_with_plants_that_count_and_communicate?utm_campaign=tedspread--a&utm_medium=referral&utm_source=tedcomshare), you will learn about plant electrophysiology and record the action potential of the Venus fly trap.
 
 ##### Prerequisite Labs
 
@@ -29,9 +29,7 @@ In this experiment, featured on the [TED Main Stage](https://www.ted.com/talks g
 ### Interspecies Plant-Plant-Communicator
 
 The Interspecies Plant-Plant-Communicator is an experiment unlike any other.
-Before you begin, we recommend familiarizing yourself with the [Venus
-Flytrap](/experiments/plantspikerbox_VenusFlytrap) and [Sensitive
-Mimosa](/experiments/plantspikerbox_SensitiveMimosa) experiments. These two
+Before you begin, we recommend familiarizing yourself with the [Venus Flytrap](./Plants_VenusFlytrap.md) and [Sensitive Mimosa](./Plants_SensitiveMimosaPudica.md) experiments. These two
 plants exhibit very striking and quick behaviors that begin to blur the lines
 between "thinking" and "unthinking" life, and it can be an uncanny experience
 when you see the movements of these plants for the first time.

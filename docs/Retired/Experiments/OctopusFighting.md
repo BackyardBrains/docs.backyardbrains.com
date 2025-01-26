@@ -110,7 +110,7 @@ All referenced software is on our
 
 You will need:
 
-  * Octopus chamber (Laser cut and assembled) - Source File_ [Octopus_Chamber.ai](files/Octopus_Chamber.ai)
+  * Octopus chamber (Laser cut and assembled) - Source File_ [Octopus Chamber.ai](files/OctopusChamber.ai)
   * Go Pro camera 
   * Mini-USB cable 
   * Laptop 

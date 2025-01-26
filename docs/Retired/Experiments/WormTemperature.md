@@ -54,8 +54,7 @@ alternatively, design your own easy way to place the worm over ice.
 ## Materials
 
 The materials required for this lab are exactly the same as the experiment
-["Introduction to Conduction
-Velocity"](https://backyardbrains.com/experiments/speed#Materials), save for a
+["Introduction to Conduction Velocity"](./speed.md), save for a
 couple extra items_
 
   1. The WormTray with solid ice inside, or an alternative icy arrangement 
@@ -64,12 +63,12 @@ couple extra items_
 ## Procedure
 
   1. Take a worm tray, add water, and let it freeze overnight. 
-  2. Once you are ready, prepare your worm for an experiment as [you previously have by anesthetizing it](speed#sleep) in either 10% ethanol solution or carbonated water. 
+  2. Once you are ready, prepare your worm for an experiment as [you previously have by anesthetizing it](speed.md) in either 10% ethanol solution or carbonated water. 
   3. Place the worm on the three wooden islands, with the red (channel 1) on the left island and the white (channel 2) and ground electrode on the right island, as indicated below_ 
 
 [ ![](./img/Worm-RoomTemp.jpg)](./img/Worm-RoomTemp.jpg)
 
-  4. Record the worm's Medial Giant Nerve (MGN) conduction velocity in response to a light head tap, [as you have done before.](comparingNerveSpeed)
+  4. Record the worm's Medial Giant Nerve (MGN) conduction velocity in response to a light head tap, [as you have done before.](./comparingNerveSpeed.md)
   5. Now, place the worm over the frozen worm tray so that its middle length is resting directly on top of the ice. Try your best to not disturb the electrode position, as you want the distance between the electrodes to be the same as your room temperature measurement. Small cut wooden Kabob sticks can help keep the worm firmly on the ice. 
 
 [ ![](./img/Worm-IceTemp.jpg)](./img/Worm-IceTemp.jpg)
@@ -92,7 +91,7 @@ and ~5 m/s on ice.
 ## Questions to Consider
 
   1. We hypothesize that using warm water of approximately 98° F / 37° C should increase the conduction velocity from the room temperature measurement. Using a thermometer, you can heat up some water and test this by filling an empty worm tray with the heated solution. We leave it to you to do this experiment. Be careful the water does not go above 98° F / 37° or you can overheat and damage the worm. 
-  2. You can measure the effect of temperature on the speed of both the MGN and LGN nerves in the same worm, [similar to our previous experiments](comparingNerveSpeed), but you will have to be expeditious with your time management, as this temperature experiment takes ~15 minutes if you measure both nerves. The worm may start moving at the end of the experiment, causing EMG's (electromyograms, or muscle electrical activity) to swamp out the small neural action potentials. 
+  2. You can measure the effect of temperature on the speed of both the MGN and LGN nerves in the same worm, [similar to our previous experiments](./comparingNerveSpeed.md), but you will have to be expeditious with your time management, as this temperature experiment takes ~15 minutes if you measure both nerves. The worm may start moving at the end of the experiment, causing EMG's (electromyograms, or muscle electrical activity) to swamp out the small neural action potentials. 
 
 ## Troubleshooting
 

@@ -29,7 +29,7 @@ Here are just a few of the **additional experiments** you can run with the Compl
 
 - Record muscle potentials from fruit flies  
 - Carefully position electrodes on earthworm nerves  
-- Measure [adaptation rates](../experiments/somatotopy.md) in cockroach sensory neurons  
+- Measure [adaptation rates](../Experiments/somatotopy.md) in cockroach sensory neurons  
 - Record from the amazing grasshopper visual system, as shown below:
 
 <iframe 

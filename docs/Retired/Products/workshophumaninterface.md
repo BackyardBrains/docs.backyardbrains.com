@@ -22,10 +22,10 @@ slug: /retired/products/workshophumaninterface
 
 ### Experiments
 
-- [Human-Human-Interface](../experiments/humanhumaninterface.md)
-- [Getting Started with the Muscle SpikerBox](../experiments/musclespikerbox.md)
-- [Muscle Action Potentials](../experiments/muscleactionpotential.md)
-- [Muscle Contraction and Fatigue](../experiments/fatigue.md)
+- [Human-Human-Interface](../Experiments/humanhumaninterface.md)
+- [Getting Started with the Muscle SpikerBox](../Experiments/musclespikerbox.md)
+- [Muscle Action Potentials](../Experiments/muscleactionpotential.md)
+- [Muscle Contraction and Fatigue](../Experiments/fatigue.md)
 
 ---
 

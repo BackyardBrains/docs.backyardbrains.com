@@ -22,7 +22,7 @@ slug: /retired/products/workshoproboroach
 
 ### Experiments
 
-- [Getting Started with the RoboRoach](../experiments/roboroachsurgery.md)
+- [Getting Started with the RoboRoach](../Experiments/roboroachsurgery.md)
 
 ---
 

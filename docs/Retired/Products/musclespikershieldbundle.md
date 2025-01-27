@@ -30,15 +30,15 @@ slug: /retired/products/musclespikershieldbundle
 
 ### Experiments
 
-  * [Using the Muscle SpikerShield](../experiments/emgspikerShield.md)
-  * [Controlling a Light Bar in an LCD](../experiments/MuscleSpikerShield_LCD.md)
-  * [Controlling a Stepper Motor](../experiments/MuscleSpikerShield_StepperMotor.md)
-  * [Controlling a Gripper Hand](../experiments/MuscleSpikerShield_GripperHand.md)
-  * [Human-Human-Interface](../experiments/humanhumaninterface.md)
-  * [Getting Started with Electromyograms (EMGs)](../experiments/emgspikerbox.md)
-  * [Muscle Action Potentials](../experiments/muscleactionpotential.md)
-  * [Muscle Contraction and Fatigue](../experiments/fatigue.md)
-  * [Modeling Muscle Fatigue](../experiments/rateoffatigue.md)
+  * [Using the Muscle SpikerShield](../Experiments/emgspikerShield.md)
+  * [Controlling a Light Bar in an LCD](../Experiments/MuscleSpikerShield_LCD.md)
+  * [Controlling a Stepper Motor](../Experiments/MuscleSpikerShield_StepperMotor.md)
+  * [Controlling a Gripper Hand](../Experiments/MuscleSpikerShield_GripperHand.md)
+  * [Human-Human-Interface](../Experiments/humanhumaninterface.md)
+  * [Getting Started with Electromyograms (EMGs)](../Experiments/emgspikerbox.md)
+  * [Muscle Action Potentials](../Experiments/muscleactionpotential.md)
+  * [Muscle Contraction and Fatigue](../Experiments/fatigue.md)
+  * [Modeling Muscle Fatigue](../Experiments/rateoffatigue.md)
 
 Are you an artist or engineer that has a killer idea for a new interface? With
 the Muscle SpikerShield bundle, you have everything you need to start your

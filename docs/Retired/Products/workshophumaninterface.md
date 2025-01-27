@@ -64,9 +64,7 @@ Your arm receives gentle electrical pulses that your nerves interpret as a signa
 
 Together, these let you run fun and educational neuroscience experiments for students, kids, and adults—seeing real muscle and nerve signals in action.
 
-[**Add My Reservation for the Human Interface Workshop**](/cart)
-
----
+--
 
 ### Workshop Process
 

@@ -15,16 +15,16 @@ slug: /retired/products/musclespikershieldpro
   * [__Simple Arduino Serial Monitor for Testing](./files/SpikerShield_Pro_Serial_Read.zip)
 
 
-  * [__The Muscle Keyboard](/experiments/spikershieldpro)
-  * [__The MIDI Muscle Machine](/experiments/midi)
-  * [__Using the Muscle SpikerShield](/experiments/emgspikershield)
-  * [__Controlling a Light Bar in an LCD](/experiments/MuscleSpikerShield_LCD)
-  * [__Controlling a Stepper Motor](/experiments/MuscleSpikerShield_StepperMotor)
-  * [__Controlling a Gripper Hand](/experiments/MuscleSpikerShield_GripperHand)
-  * [__More things with the EMG SpikerShield](/experiments/EMGSpikerShield_MoreExps)
-  * [__Getting Started with Electromyograms (EMGs)](/experiments/emgspikerbox)
-  * [__Muscle Action Potentials](/experiments/muscleActionPotential)
-  * [__Muscle Contraction and Fatigue](/experiments/fatigue)
+  * [__The Muscle Keyboard](../Experiments/spikershieldpro)
+  * [__The MIDI Muscle Machine](../Experiments/midi)
+  * [__Using the Muscle SpikerShield](../Experiments/emgspikershield)
+  * [__Controlling a Light Bar in an LCD](../Experiments/MuscleSpikerShield_LCD)
+  * [__Controlling a Stepper Motor](../Experiments/MuscleSpikerShield_StepperMotor)
+  * [__Controlling a Gripper Hand](../Experiments/MuscleSpikerShield_GripperHand)
+  * [__More things with the EMG SpikerShield](../Experiments/EMGSpikerShield_MoreExps)
+  * [__Getting Started with Electromyograms (EMGs)](../Experiments/emgspikerbox)
+  * [__Muscle Action Potentials](../Experiments/muscleActionPotential)
+  * [__Muscle Contraction and Fatigue](../Experiments/fatigue)
 
 The[ Muscle SpikerShield](./muscleSpikershieldBundle)
 was a hit, but there was one problem: only one channel! We heard your

@@ -30,7 +30,7 @@ slug: /retired/products/musclespikershieldbundle
 
 ### Experiments
 
-  * [Using the Muscle SpikerShield](../Experiments/emgspikerShield.md)
+  * [Using the Muscle SpikerShield](../Experiments/muscleSpikerShield.md)
   * [Controlling a Light Bar in an LCD](../Experiments/MuscleSpikerShield_LCD.md)
   * [Controlling a Stepper Motor](../Experiments/MuscleSpikerShield_StepperMotor.md)
   * [Controlling a Gripper Hand](../Experiments/MuscleSpikerShield_GripperHand.md)

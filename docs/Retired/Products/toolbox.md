@@ -19,7 +19,7 @@ slug: /retired/products/toolbox
 
 ### Experiments
 
-- [Almost Every Experiment We Have](/experiments/)
+- [Almost Every Experiment We Have](../Experiments/)
 
 ---
 

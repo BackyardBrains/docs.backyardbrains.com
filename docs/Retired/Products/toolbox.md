@@ -35,11 +35,11 @@ A Neuron SpikerBox Pro, a Muscle SpikerBox Pro, a Human-Human Interface, a RoboR
 
 #### Kit Contents:
 
-- 1× [Human-Human Interface](HHI)  
-- 1× [Muscle SpikerBox Pro](muscleSpikerboxPro)  
-- 1× [Neuron SpikerBox Pro](NeuronSpikerboxPro)  
-- 1× [Heart and Brain SpikerBox](heartAndBrainSpikerBox)  
-- 1× [RoboRoach Bundle](RoboRoach)  
+- 1× [Human-Human Interface](hhi)  
+- 1× [Muscle SpikerBox Pro](musclespikerboxpro)  
+- 1× [Neuron SpikerBox Pro](neuronspikerboxpro)  
+- 1× [Heart and Brain SpikerBox](heartandbrainspikerbox)  
+- 1× [RoboRoach Bundle](roboroach)  
 - 100× [Large Muscle Electrodes](emglargeelectrodes)  
 - 1× T.O.O.L.B.O.X (Transport Organized Operationals Lacking Big Ostentatious eXpenses)
 

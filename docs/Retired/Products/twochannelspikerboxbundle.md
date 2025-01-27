@@ -12,7 +12,7 @@ slug: /retired/products/twochannelspikerboxbundle
 ![Two-channel SpikerBox (included)](./img/twochannelspikerbox.jpg)  
 ![Faraday Cage (included)](./img/faradaycage.jpg)  
 ![Laptop Cable (included)](./img/laptopcable_1.jpg)  
-![Smartphone Cable (included)](./img/smartphonecable.jpg)
+![Smartphone Cable (included)](./img/smartphonecable.png)
 
 ---
 

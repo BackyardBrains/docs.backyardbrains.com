@@ -29,7 +29,7 @@ microstimulation.
 
 ##### Prerequisite Labs
 
-* [SpikerBox](ratecoding) - You should become familiar with how to use a SpikerBox
+* [SpikerBox](./ratecoding.md) - You should become familiar with how to use a SpikerBox
 
 ##### Equipment
 

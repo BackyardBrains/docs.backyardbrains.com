@@ -25,7 +25,7 @@ breadboard.
 
 ##### Prerequisite Labs
 
-* [SpikerBox](ratecoding) - A familiarity with spikes will make this theory writeup more meaningful
+* [SpikerBox](./ratecoding.md) - A familiarity with spikes will make this theory writeup more meaningful
 
 ##### Equipment
 

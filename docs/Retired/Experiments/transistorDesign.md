@@ -24,7 +24,7 @@ from scratch using two transistors and some various resistors/capacitors.
 ##### Prerequisite Labs
 
 * [Transistor Theory](./transistorTheory) - Read how a transistor works before proceeding
-  * [SpikerBox](ratecoding) - A familiarity with spikes will make this activity more meaningful
+  * [SpikerBox](./ratecoding.md) - A familiarity with spikes will make this activity more meaningful
 
 ##### Equipment
 

@@ -26,7 +26,7 @@ your very own faraday cage and enlist in the battle against noisy data!
 
 ##### Prerequisite Labs
 
-* [SpikerBox](ratecoding) - You should become familiar with how to use your SpikerBox.
+* [SpikerBox](./ratecoding.md) - You should become familiar with how to use your SpikerBox.
 
 ##### Equipment
 

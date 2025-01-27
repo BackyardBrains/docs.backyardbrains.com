@@ -24,7 +24,7 @@ on the electrical excitability of cockroach nerves.
 
 ##### Prerequisite Labs
 
-* [SpikerBox](ratecoding) - You should do the SpikerBox basic experiment first to learn about neurons before doing this lab.
+* [SpikerBox](./ratecoding.md) - You should do the SpikerBox basic experiment first to learn about neurons before doing this lab.
 
 ##### Equipment
 

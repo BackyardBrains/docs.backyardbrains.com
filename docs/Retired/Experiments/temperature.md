@@ -21,7 +21,7 @@ firing patterns of neurons changes with temperature.
 
 ##### Prerequisite Labs
 
-* [SpikerBox](ratecoding) - You should become familiar with how to use your SpikerBox
+* [SpikerBox](./ratecoding.md) - You should become familiar with how to use your SpikerBox
 
 ##### Equipment
 

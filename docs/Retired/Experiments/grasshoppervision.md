@@ -24,7 +24,7 @@ stimuli.
 
 ##### Prerequisite Labs
 
-* [SpikerBox](ratecoding) - You should become familiar with recording neurons.
+* [SpikerBox](./ratecoding.md) - You should become familiar with recording neurons.
 
 ##### Equipment
 

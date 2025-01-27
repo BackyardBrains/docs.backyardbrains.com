@@ -7,6 +7,7 @@ slug: /retired/products/completo
 ## The Completo
 
 ![The Completo](./img/completolaser_product.png)
+
 ![The Completo Laser 2](./img/completolaser2.png)
 ![The Completo Illustrated Layout](./img/completolaseroverview.png)
 
@@ -14,7 +15,7 @@ slug: /retired/products/completo
 
 ### Description
 
-You’ve seen the many and varied experiments you can do with the SpikerBox, but maybe you’re the kind of person who craves more advanced capabilities. Lucky you—Backyard Brains has the product to complete your dreams: **The Completo**, a fully portable advanced electrophysiology rig!
+You’ve seen the many and varied experiments you can do with our tools, but maybe you’re the kind of person who craves more advanced capabilities. Lucky you—Backyard Brains has the product to complete your dreams: **The Completo**, a fully portable advanced electrophysiology rig!
 
 This complete kit is perfect for students, budding researchers, educators, and kids wanting to safely experiment with neuroscience. It’s also a great gift for that special scientist in your life—a gift that says, _“You Completo me.”_
 
@@ -22,9 +23,9 @@ This complete kit is perfect for students, budding researchers, educators, and k
 
 ### Product Details
 
-The Completo comes with a **SpikerBox**, **RoachScope**, **Micromanipulator** for precise electrode placement, and a **magnetic surface** to keep it all stable. Combined, these tools let you run a wide range of sophisticated neuroscience experiments.
+The Completo comes with advanced tools for precise electrode placement and a **magnetic surface** to keep it all stable. Combined, these tools let you run a wide range of sophisticated neuroscience experiments.
 
-Here are just a few of the **additional SpikerBox experiments** you can run with the Completo:
+Here are just a few of the **additional experiments** you can run with the Completo:
 
 - Record muscle potentials from fruit flies  
 - Carefully position electrodes on earthworm nerves  
@@ -42,7 +43,7 @@ Here are just a few of the **additional SpikerBox experiments** you can run with
 
 This experiment uses all the components of the Completo, letting you examine the relationship between sensory stimulation and behavioral responses.
 
-The Scope and Manipulator have rare-earth magnets built into their bases to stay firmly attached to metal tables—we provide one for you, but any magnetic surface works. 
+The Scope has rare-earth magnets built into its base to stay firmly attached to metal tables—we provide one for you, but any magnetic surface works. 
 
 > **Why is it called “The Completo”?** It’s our homage to a [famous Chilean hot dog](http://en.wikipedia.org/wiki/Completo).
 
@@ -61,13 +62,7 @@ The Scope and Manipulator have rare-earth magnets built into their bases to stay
 
 ### Kit Contents
 
-- 1× [SpikerBox](spikerbox.md) (9v battery included)
-- 1× [Recording Electrode](recordingelectrode.md)
-- 1× [RoachScope](roachscope.md)
-- 1× [Micromanipulator](micromanipulator.md)
-- 1× Manipulator Electrode
-- 1× [Smartphone Data Cable](smartphonecable.md) to see/record spikes on your mobile devices
-- 1× Magnetic Adaptor for securing SpikerBox to Completo Table
+- 1× Magnetic Adaptor for securing components to Completo Table
 - 1× **Poplar Wood Steel Magnetic Table**
 - 0× Smartphone (_not_ included; works with any smartphone that has a camera)
 
@@ -75,8 +70,6 @@ The Scope and Manipulator have rare-earth magnets built into their bases to stay
 
 ### Documents & Downloads
 
-- [Annotated PCB Schematics](./files/spikerbox.v.1.3c.annotated.schematics.pdf)
-- [.stl file of Manipulator](./files/searcher.stl.zip)
 - [Smartphone Cable Schematics](./files/smartphonecable.v.0.1a.pdf)
 
 ---

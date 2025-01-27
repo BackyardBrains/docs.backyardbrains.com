@@ -6,10 +6,10 @@ slug: /retired/products/completo
 
 ## The Completo
 
-![The Completo](./img/CompletoLaser_Product.png)
+![The Completo](./img/completolaser_product.png)
 
-[![The Completo Laser 2](./img/CompletoLaser2_small.png)](./img/CompletoLaser2.png)
-[![The Completo Illustrated Layout](./img/CompletoLaserOverview_small.png)](./img/CompletoLaserOverview.png)
+![The Completo Laser 2](./img/completolaser2.png)
+![The Completo Illustrated Layout](./img/completolaseroverview.png)
 
 ---
 
@@ -56,14 +56,13 @@ The Scope and Manipulator have rare-earth magnets built into their bases to stay
 <iframe 
   width="100%" height="350" 
   src="https://www.youtube.com/embed/jphY4DnzGmU" 
-  frameborder="0" allowfullscreen>
-</iframe>
+  frameborder="0" allowfullscreen></iframe>
 
 ---
 
 ### Kit Contents
 
-- 1× [SpikerBox](spikerbox.md) (9V battery included)
+- 1× [SpikerBox](spikerbox.md) (9v battery included)
 - 1× [Recording Electrode](recordingelectrode.md)
 - 1× [RoachScope](roachscope.md)
 - 1× [Micromanipulator](micromanipulator.md)
@@ -77,8 +76,8 @@ The Scope and Manipulator have rare-earth magnets built into their bases to stay
 
 ### Documents & Downloads
 
-- [Annotated PCB Schematics](./files/SpikerBox.v.1.3c.Annotated.Schematics.pdf)
-- [.stl file of Manipulator](./files/Searcher.stl.zip)
+- [Annotated PCB Schematics](./files/spikerbox.v.1.3c.annotated.schematics.pdf)
+- [.stl file of Manipulator](./files/searcher.stl.zip)
 - [Smartphone Cable Schematics](./files/smartphonecable.v.0.1a.pdf)
 
 ---

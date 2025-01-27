@@ -10,7 +10,7 @@ slug: /retired/products/roboroachelectrodes-beta
 ![Roboroach Electrodes](./img/roboroachelectrodes.png) 
 ![Roboroach Electrodes](./img/roboroachelectrodes.png)
 
-  * [__RoboRoach (beta) Surgery Instructions](http://wiki.backyardbrains.com/RoboRoach_Surgery)
+  * [RoboRoach (beta) Surgery Instructions](http://wiki.backyardbrains.com/RoboRoach_Surgery)
 
 
 Have you exhausted your RoboRoach(beta) electrodes and want to do more

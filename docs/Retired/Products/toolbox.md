@@ -1,11 +1,10 @@
 ---
 id: toolbox
-title: "toolbox"
+title: "Toolbox"
 slug: /retired/products/toolbox
 ---
 
 ## BYB Toolbox - Your Complete Portable Neuroscience Lab
-
 
 ---
 
@@ -27,17 +26,12 @@ slug: /retired/products/toolbox
 When we show off our products, toolbox in hand, people often remark:  
 “Wow… You’ve got a full lab in there!” It’s true, and now, you can too!
 
-This lab contains the same gear that we often use when we demonstrate our
-products or research remotely. With this, you’ll have a rather sophisticated
-mobile neuroscience lab.
+This lab contains the same gear that we often use when we demonstrate our products or research remotely. With this, you’ll have a rather sophisticated mobile neuroscience lab.
 
 ### Product Details
 
 This toolbox contains many of our core products in one portable box:
-A Neuron SpikerBox Pro, a Muscle SpikerBox Pro, a Human-Human Interface,
-a RoboRoach, and our Heart and Brain SpikerBox. This ships with 100
-Patch Electrodes and all the cables you need. Now do some outreach, make
-some discoveries, and share your results!
+A Neuron SpikerBox Pro, a Muscle SpikerBox Pro, a Human-Human Interface, a RoboRoach, and our Heart and Brain SpikerBox. This ships with 100 Patch Electrodes and all the cables you need. Now do some outreach, make some discoveries, and share your results!
 
 #### Kit Contents:
 

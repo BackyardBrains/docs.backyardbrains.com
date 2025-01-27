@@ -76,11 +76,11 @@ The Scope has rare-earth magnets built into its base to stay firmly attached to 
 
 ### Related Experiments
 
-- [Getting Started with Spikes](../experiments/spikerbox.md)
-- [Rate Coding](../experiments/ratecoding.md)
-- [Effect of Temperature on Neurons](../experiments/temperature.md)
-- [Neural Adaptation](../experiments/somatotopy.md)
-- [Referencing your Spikes](../experiments/referencing.md)
-- [Effect of Nicotine and MSG on Neurons](../experiments/neuropharmacology.md)
-- [Neuroprosthetics](../experiments/neuroprosthetics.md)
-- [Oxygen and Spiking](../experiments/oxygen.md)
+- [Getting Started with Spikes](../Experiments/spikerbox.md)
+- [Rate Coding](../Experiments/ratecoding.md)
+- [Effect of Temperature on Neurons](../Experiments/temperature.md)
+- [Neural Adaptation](../Experiments/somatotopy.md)
+- [Referencing your Spikes](../Experiments/referencing.md)
+- [Effect of Nicotine and MSG on Neurons](../Experiments/neuropharmacology.md)
+- [Neuroprosthetics](../Experiments/neuroprosthetics.md)
+- [Oxygen and Spiking](../Experiments/oxygen.md)

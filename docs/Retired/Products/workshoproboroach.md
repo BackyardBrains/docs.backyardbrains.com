@@ -1,6 +1,6 @@
 ---
 id: workshoproboroach
-title: "RoboRoach Workshop"
+title: "Workshop: RoboRoach"
 slug: /retired/products/workshoproboroach
 ---
 

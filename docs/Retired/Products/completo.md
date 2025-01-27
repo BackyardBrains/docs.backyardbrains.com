@@ -7,7 +7,6 @@ slug: /retired/products/completo
 ## The Completo
 
 ![The Completo](./img/completolaser_product.png)
-
 ![The Completo Laser 2](./img/completolaser2.png)
 ![The Completo Illustrated Layout](./img/completolaseroverview.png)
 

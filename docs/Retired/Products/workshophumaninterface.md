@@ -1,6 +1,6 @@
 ---
 id: workshophumaninterface
-title: "workshopHumanInterface"
+title: "Workshop: Human Interface Workshop"
 slug: /retired/products/workshophumaninterface
 ---
 

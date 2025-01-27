@@ -12,8 +12,8 @@ slug: /retired/products/emglargeelectrodes
 ![2x packages of 50 EMG Electrodes](./img/largemuscleelectrodes.jpg)
 
 
-  * [__Getting Started with Electromyograms (EMGs)](/experiments/emgspikerbox)
-  * [__Muscle Contraction and Fatigue](/experiments/fatigue)
+  * [Getting Started with Electromyograms (EMGs)](../experiments/emgspikerbox.md)
+  * [Muscle Contraction and Fatigue](../experiments/fatigue.md)
 
 
 When we run neuroscience demo events, we burn through our Large Muscle EMG

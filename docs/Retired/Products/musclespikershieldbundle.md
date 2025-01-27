@@ -13,31 +13,32 @@ slug: /retired/products/musclespikershieldbundle
 ![The Muscle SpikerShield Bundle](./img/musclespikershieldbundle.jpg)
 ![Whats In The Box](./img/musclespikershield_bundle_whatsinthebox.jpg)
 
+### Files
 
-  * [__PCB Schematics (v0.1)](./files/EMGSpikerShield.v.0.1a.pdf)
-  * [__PCB Schematics (v0.2)](./files/EMGSpikerShield.v.0.2a.pdf)
-  * [__PCB Schematics (v1.1)](./files/EMGSpikerShield.v.1.1.pdf)
-  * [__PCB Schematics (v1.2)](./files/EMGSpikerShield.v.1.2.pdf)
-  * [__PCB Schematics (v1.3)](./files/MuscleSpikerShield.v.1.3.pdf)
-  * [__PCB Schematics (v1.3) update](./files/MuscleSpikerShield.v.1.3.updatedValues.pdf)
-  * [__PCB Schematics (v1.7)](./files/MuscleSpikerShield.v.1.7.pdf)
-  * [__PCB Schematics (v2.0)](./files/Muscle SpikerShieldV2.pdf)
-  * [__PCB Schematics (v2.1)](./files/Muscle SpikerShieldV2.1.pdf)
-  * [__PCB Schematics (v2.6)](./files/Muscle SpikerShield.SMD.V2.6.pdf)
-  * [__PCB Schematics SMD (v2.61)](./files/EMGSpikerShield.SMD.V2.61.pdf)
-  * [__Default Arduino code](https://raw.githubusercontent.com/BackyardBrains/Muscle-SpikerShield/master/V2_61/Muscle-SpikerShield/Muscle-
-SpikerShield.ino)
+  * [PCB Schematics (v0.1)](./files/EMGSpikerShield.v.0.1a.pdf)
+  * [PCB Schematics (v0.2)](./files/EMGSpikerShield.v.0.2a.pdf)
+  * [PCB Schematics (v1.1)](./files/EMGSpikerShield.v.1.1.pdf)
+  * [PCB Schematics (v1.2)](./files/EMGSpikerShield.v.1.2.pdf)
+  * [PCB Schematics (v1.3)](./files/MuscleSpikerShield.v.1.3.pdf)
+  * [PCB Schematics (v1.3) update](./files/MuscleSpikerShield.v.1.3.updatedValues.pdf)
+  * [PCB Schematics (v1.7)](./files/MuscleSpikerShield.v.1.7.pdf)
+  * [PCB Schematics (v2.0)](./files/Muscle_SpikerShieldV2.pdf)
+  * [PCB Schematics (v2.1)](./files/Muscle_SpikerShieldV2.1.pdf)
+  * [PCB Schematics (v2.6)](./files/Muscle_SpikerShield.SMD.V2.6.pdf)
+  * [PCB Schematics SMD (v2.61)](./files/EMGSpikerShield.SMD.V2.61.pdf)
+  * [Default Arduino code](https://raw.githubusercontent.com/BackyardBrains/Muscle-SpikerShield/master/V2_61/Muscle-SpikerShield/Muscle-SpikerShield.ino)
 
+### Experiments
 
-  * [__Using the Muscle SpikerShield](/experiments/emgspikershield)
-  * [__Controlling a Light Bar in an LCD](/experiments/MuscleSpikerShield_LCD)
-  * [__Controlling a Stepper Motor](/experiments/MuscleSpikerShield_StepperMotor)
-  * [__Controlling a Gripper Hand](/experiments/MuscleSpikerShield_GripperHand)
-  * [__Human-Human-Interface](/experiments/humanhumaninterface)
-  * [__Getting Started with Electromyograms (EMGs)](/experiments/emgspikerbox)
-  * [__Muscle Action Potentials](/experiments/muscleActionPotential)
-  * [__Muscle Contraction and Fatigue](/experiments/fatigue)
-  * [__Modeling Muscle Fatigue](/experiments/rateoffatigue)
+  * [Using the Muscle SpikerShield](../experiments/emgspikerShield.md)
+  * [Controlling a Light Bar in an LCD](../experiments/MuscleSpikerShield_LCD.md)
+  * [Controlling a Stepper Motor](../experiments/MuscleSpikerShield_StepperMotor.md)
+  * [Controlling a Gripper Hand](../experiments/MuscleSpikerShield_GripperHand.md)
+  * [Human-Human-Interface](../experiments/humanhumaninterface.md)
+  * [Getting Started with Electromyograms (EMGs)](../experiments/emgspikerbox.md)
+  * [Muscle Action Potentials](../experiments/muscleactionpotential.md)
+  * [Muscle Contraction and Fatigue](../experiments/fatigue.md)
+  * [Modeling Muscle Fatigue](../experiments/rateoffatigue.md)
 
 Are you an artist or engineer that has a killer idea for a new interface? With
 the Muscle SpikerShield bundle, you have everything you need to start your
@@ -65,10 +66,10 @@ muscles.
 ### Kit Contents:
 
   * 1x Pre-assembled Muscle SpikerShield 
-  * 1x Orange [Recording Electrode Cables](./emgelectrodes) with Alligator Clips (Red, Red, Black)
+  * 1x Orange [Recording Electrode Cables](./emgelectrodes.md) with Alligator Clips (Red, Red, Black)
   * 1x Arduino MicroController with preloaded code
   * 1x USB cable for powering your Arduino
   * 6x EMG Sticker Patch Electrodes for large muscles
   * 1x Adjustable Wooden Electrode Holder for small muscles
-  * 1x Small bottle of [Electrode Gel](./emgelectrodegel) to be used with the small muscle electrode
+  * 1x Small bottle of [Electrode Gel](./emgelectrodegel.md) to be used with the small muscle electrode
 

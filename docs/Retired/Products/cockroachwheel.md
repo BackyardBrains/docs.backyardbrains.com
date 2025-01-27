@@ -6,11 +6,11 @@ slug: /retired/products/roachwheel
 
 ## RoachWheel
 
-![Cockroach Turbo Wheel](./img/RoachWheel_2016_product.jpg)  
-[![Backside of Roach Wheel](./img/RoachWheel_2016_WhatsInTheBox_small.jpg)](./img/RoachWheel_2016_WhatsInTheBox.jpg)
+![Cockroach Turbo Wheel](./img/roachwheel_2016_product.jpg)  
+![Backside of Roach Wheel](./img/roachwheel_2016_whatsinthebox.jpg)
 
 ---
-
+  
 ### Availability
 
 **Due to production demands, please allow up to two weeks for delivery.**

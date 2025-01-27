@@ -24,7 +24,7 @@ from scratch using two transistors and some various resistors/capacitors.
 ##### Prerequisite Labs
 
 * [Transistor Theory](./transistorTheory) - Read how a transistor works before proceeding
-  * [SpikerBox](spikerbox) - A familiarity with spikes will make this activity more meaningful
+  * [SpikerBox](ratecoding) - A familiarity with spikes will make this activity more meaningful
 
 ##### Equipment
 
@@ -236,7 +236,7 @@ A closer look at the circuit on the breadboard_
 [ ![](./img/1StageSmall.jpg)](./img/1StageSmall.jpg)
 
 Insert the electrodes into a cockroach leg like you have done in [previous
-experiments](./spikerbox) and hook up
+experiments](./ratecoding) and hook up
 your speaker to the circuit. Turn the speaker up all the way, and brush the
 cockroach leg with a toothpick. You may hear a very faint response, but it
 will be buried in the noise. Let's amplify the spikes some more. You can

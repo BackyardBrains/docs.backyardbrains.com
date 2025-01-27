@@ -21,7 +21,7 @@ firing patterns of neurons changes with temperature.
 
 ##### Prerequisite Labs
 
-* [SpikerBox](spikerbox) - You should become familiar with how to use your SpikerBox
+* [SpikerBox](ratecoding) - You should become familiar with how to use your SpikerBox
 
 ##### Equipment
 
@@ -61,7 +61,7 @@ Video explanation of experiment.
 
 We can observe these two processes indirectly with the cockroach leg prep you
 have [previously
-learned](./spikerbox). Take your
+learned](./ratecoding). Take your
 SpikerBox and place it in the freezer of a household refrigerator. Make sure
 the cable from your laptop/smartphone/tablet stays connected to the SpikerBox
 you placed inside. Also place a digital thermometer inside the freezer, and

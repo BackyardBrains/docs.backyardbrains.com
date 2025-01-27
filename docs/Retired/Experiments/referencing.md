@@ -23,7 +23,7 @@ one to measure neural activity when using the SpikerBox.
 
 ##### Prerequisite Labs
 
-* [SpikerBox](spikerbox) - You should become familiar with how to use your SpikerBox
+* [SpikerBox](ratecoding) - You should become familiar with how to use your SpikerBox
 
 ##### Equipment
 

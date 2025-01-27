@@ -4,8 +4,6 @@ title: "Record and Manipulate Live Neurons!"
 slug: "/retired/experiments/spikerbox"
 ---
 
-
-
 Did you just get a SpikerBox, and are wondering how to use it? In this lesson,
 you will listen to action potentials and view "spikes" in real time. This is
 an excellent starting point for your SpikerBox as well as a great nervous

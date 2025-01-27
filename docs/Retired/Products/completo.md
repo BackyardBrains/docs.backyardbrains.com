@@ -76,7 +76,7 @@ The Scope has rare-earth magnets built into its base to stay firmly attached to 
 
 ### Related Experiments
 
-- [Getting Started with Spikes](../Experiments/spikerbox.md)
+- [Getting Started with Spikes](../Experiments/ratecoding.md)
 - [Rate Coding](../Experiments/ratecoding.md)
 - [Effect of Temperature on Neurons](../Experiments/temperature.md)
 - [Neural Adaptation](../Experiments/somatotopy.md)

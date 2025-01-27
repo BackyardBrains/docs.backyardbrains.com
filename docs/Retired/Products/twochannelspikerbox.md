@@ -19,7 +19,7 @@ What can you do with **2 Channels**?
 - **Record from multiple neural sources** simultaneously
 - **Measure conduction velocity** (e.g. with earthworms!) to learn how fast action potentials travel
 
-This expands on our original [SpikerBox](spikerbox.md) design and is just as easy to use. You can connect a [laptop cable](laptopcable.md) or a [smartphone cable](smartphonecable.md) to listen to spikes on an external speaker, or watch them on your smartphone, iPad, or computer.
+This expands on our original [SpikerBox](ratecoding.md) design and is just as easy to use. You can connect a [laptop cable](laptopcable.md) or a [smartphone cable](smartphonecable.md) to listen to spikes on an external speaker, or watch them on your smartphone, iPad, or computer.
 
 All our standard single-channel SpikerBox experiments are still possible, but with the 2-Channel SpikerBox, you can **take two measurements** at once.
 
@@ -57,7 +57,7 @@ If you discover something new or develop a new 2-Channel experiment, we’d love
 
 ### Related Experiments
 
-- [getting started with spikes](../Experiments/spikerbox.md)
+- [getting started with spikes](../Experiments/ratecoding.md)
 - [rate coding](../Experiments/ratecoding.md)
 - [effect of temperature on neural firing rate](../Experiments/temperature.md)
 - [referencing your spikes](../Experiments/referencing.md)

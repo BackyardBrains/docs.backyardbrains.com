@@ -26,7 +26,7 @@ been previously studying.
 This is an advanced lab, and we recommend you go first through several of the
 beginner and intermediate labs:
 
-  * [Neuron SpikerBox](spikerbox)
+  * [Neuron SpikerBox](ratecoding)
   * [Referencing your Spikes](referencing.md)
   * [Faraday Cage](faraday)
 

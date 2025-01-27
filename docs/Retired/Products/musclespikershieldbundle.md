@@ -35,7 +35,7 @@ slug: /retired/products/musclespikershieldbundle
   * [Controlling a Stepper Motor](../Experiments/MuscleSpikerShield_StepperMotor.md)
   * [Controlling a Gripper Hand](../Experiments/MuscleSpikerShield_GripperHand.md)
   * [Human-Human-Interface](../Experiments/humanhumaninterface.md)
-  * [Getting Started with Electromyograms (EMGs)](../Experiments/emgspikerbox.md)
+  * [Getting Started with Electromyograms (EMGs)](../Experiments/emgratecoding.md)
   * [Muscle Action Potentials](../Experiments/muscleactionpotential.md)
   * [Muscle Contraction and Fatigue](../Experiments/fatigue.md)
   * [Modeling Muscle Fatigue](../Experiments/rateoffatigue.md)

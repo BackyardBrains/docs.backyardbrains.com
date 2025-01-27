@@ -20,10 +20,10 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Vikara-Industries', // Usually your GitHub org/user name.
+  organizationName: 'BackyardBrains', // Usually your GitHub org/user name.
   projectName: 'docs.backyardbrains.com', // Usually your repo name.
 
-  onBrokenLinks: 'warn',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   onBrokenAnchors: 'warn',     // If this exists, ensure it is set to 'warn'
 

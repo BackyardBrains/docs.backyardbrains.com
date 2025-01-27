@@ -96,7 +96,7 @@ To decrease strength of stimulation, turn the knob counterclockwise towards the 
 
 ## Troubleshooting ##
 
-Check out the [General Troubleshooting steps](../../index.md#troubleshooting)
+Check out the [General Troubleshooting steps](../../index.md)
 
 When connecting to SpikeRecorder via USB, don't use the "select port" menu, instead just wait up to 30 seconds, and the board will connect automaitcaly.
 

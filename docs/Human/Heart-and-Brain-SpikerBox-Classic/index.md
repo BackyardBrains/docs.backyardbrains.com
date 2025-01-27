@@ -71,7 +71,7 @@ The [firmware](https://github.com/BackyardBrains/Heart-and-Brain-SpikerBox) on t
 
 ## Troubleshooting ##
 
-Check out the [General Troubleshooting steps](../../index.md#troubleshooting)
+Check out the [General Troubleshooting steps](../../index.md)
 
 Upload [This firmware](https://github.com/BackyardBrains/Heart-and-Brain-SpikerBox/blob/master/V0_62/Heart-and-Brain-SpikerBox/Heart-and-Brain-SpikerBox.ino)
 Using the Arduino IDE software.

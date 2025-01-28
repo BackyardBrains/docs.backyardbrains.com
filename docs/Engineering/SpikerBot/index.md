@@ -35,9 +35,9 @@ Equipped with a camera to see, a distance sensor to sense touch, a speaker and l
 
 ## Troubleshooting ##
 
-No Response from Robot: Check that it’s turned on and charged.
-Wi-Fi Connection Issues: Ensure you’re connected to the correct robot’s WiFi network, the robot’s LEDs should change from blue to green when the WiFi connection is established.
-Movement Problems: Check wheels and tires, re-seat if necessary.
-Camera Recognition Issues: Adjust lighting, use a clearer color sample and check the camera view to see what the robot “sees”.
+1. No Response from Robot: Check that it’s turned on and charged.
+2. Wi-Fi Connection Issues: Ensure you’re connected to the correct robot’s Wi-Fi network, the robot’s LEDs should change from blue to green when the WiFi connection is established.
+3. Movement Problems: Check wheels and tires, re-seat if necessary.
+4. Camera Recognition Issues: Adjust lighting, use a clearer color sample and check the camera view to see what the robot “sees”.
 
 If the SpikerBot still doesn't move send us an email at hello@backyardbrains.com or give us a call at  +1 (855) GET-SPIKES (855-438-7745) 

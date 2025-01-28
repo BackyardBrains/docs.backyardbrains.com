@@ -3,9 +3,9 @@ sidebar_position: 2
 sidebar_label: The SpikerBot App
 ---
 # The SpikerBot App #
-The [SpikerBot robot](https://github.com/BackyardBrains/docs.backyardbrains.com/blob/main/docs/Engineering/SpikerBot/index.md) is meant to be used with our [SpikerBot App](https://robot.backyardbrains.com) available for Windows, macOS, iOS, Android and Chrome. The app provides a visual, drag-and-drop interface to create and simulate neural networks. Users can add neurons, define synapses (excitatory or inhibitory), and assign sensory and motor functions.
+The [SpikerBot robot](https://github.com/BackyardBrains/docs.backyardbrains.com/blob/main/docs/Engineering/SpikerBot/index.md) is meant to be used with our SpikerBot App, available for Windows, macOS, iOS, Android and Chrome at [robot.backardbrains.com](https://robot.backyardbrains.com). The app provides a visual, drag-and-drop interface to create and simulate neural networks. Users can add neurons, define synapses (excitatory or inhibitory), and assign sensory and motor functions.
 
-[Here is the manual](https://help.backyardbrains.com/support/solutions/categories/43000367749/folders/43000574694)
+[Here is the curriculum](https://docs.google.com/document/d/1yH6h94hUa3R4xYCxvR1eQLUwc2i9hXfQeMHIHB0ZtTQ/edit)
 
 ## How the app works##
 How the App Works:
@@ -16,5 +16,4 @@ How the App Works:
 - Press play to run the neural network in real time and watch the robot move and react.
 
 ![screenshot](screenshot1.png)
-
 

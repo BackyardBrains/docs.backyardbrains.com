@@ -22,7 +22,7 @@ Equipped with a camera to see, a distance sensor to sense touch, a speaker and l
 3. Wait for the robot’s lights to change from blue to green, indicating its Wi-Fi is connected and ready to use.
 4. Open the SpikerBot app and press play to start controlling the robot with your neural networks.
 
-![robot-app connection](./robot_wifi.png)
+![robot-app connection](./wifi.png)
 
 ## Technical Specifications ##
 

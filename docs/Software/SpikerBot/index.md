@@ -7,8 +7,7 @@ The [SpikerBot robot](https://github.com/BackyardBrains/docs.backyardbrains.com/
 
 [Here is the curriculum](https://docs.google.com/document/d/1yH6h94hUa3R4xYCxvR1eQLUwc2i9hXfQeMHIHB0ZtTQ/edit)
 
-## How the app works##
-How the App Works:
+## How the app works ##
 - Drag and drop neurons to form neural networks.
 - Connect neurons with synapses that excite or inhibit targets.
 - Adjust neuron properties (spike pattern, excitatory/inhibitory) to change robot behavior.

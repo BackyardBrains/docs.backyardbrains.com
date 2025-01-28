@@ -9,7 +9,7 @@ sidebar_label: SpikerBot
 
 The SpikerBot is a neurorobot - a robot controlled by a computer model of a biological brain. These models simulate real biological mechanisms, including neuronal spikes and synaptic inhibition, enabling users to explore how the brain processes sensations and controls actions. Designed for education and research, the SpikerBot provides a hands-on way to develop, test, and refine neural models, bridging neuroscience and robotics in a practical, accessible manner.
 
-Equipped with a camera to see, a distance sensor to sense touch, a speaker and lights to communicate, and motors to move, the SpikerBot brings neuroscience concepts to life. It connects via Wi-Fi to the SpikerBot app, where users can design and run neural networks that control the robot's behavior in real time.
+Equipped with a camera to see, a distance sensor to sense touch, a speaker and lights to communicate, and motors to move, the SpikerBot brings neuroscience concepts to life. It connects via Wi-Fi to the [SpikerBot app](https://github.com/BackyardBrains/docs.backyardbrains.com/blob/main/docs/Engineering/SpikerBot), where users can design and run neural networks that control the robot's behavior in real time.
 
 ## Getting Started ##
 

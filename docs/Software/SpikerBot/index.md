@@ -3,9 +3,9 @@ sidebar_position: 2
 sidebar_label: The SpikerBot App
 ---
 # The SpikerBot App #
-The [SpikerBot robot](https://github.com/BackyardBrains/docs.backyardbrains.com/blob/main/docs/Engineering/SpikerBot/index.md) is meant to be used with our SpikerBot App, available for Windows, macOS, iOS, Android and Chrome at [robot.backardbrains.com](https://robot.backyardbrains.com). The app provides a visual, drag-and-drop interface to create and simulate neural networks. Users can add neurons, define synapses (excitatory or inhibitory), and assign sensory and motor functions.
+The [SpikerBot robot](https://docs.backyardbrains.com/Engineering/SpikerBot/) is meant to be used with our SpikerBot App, available for Windows, macOS, iOS, Android and Chrome at [robot.backardbrains.com](https://robot.backyardbrains.com). The app provides a visual, drag-and-drop interface to create and simulate neural networks. Users can add neurons, define synapses (excitatory or inhibitory), and assign sensory and motor functions.
 
-[Here is the curriculum](https://docs.google.com/document/d/1yH6h94hUa3R4xYCxvR1eQLUwc2i9hXfQeMHIHB0ZtTQ/edit)
+[Here is the curriculum](https://docs.google.com/document/d/1yH6h94hUa3R4xYCxvR1eQLUwc2i9hXfQeMHIHB0ZtTQ)
 
 ## How the app works ##
 - Drag and drop neurons to form neural networks.

@@ -15,7 +15,7 @@ The [SpikerBot robot](https://docs.backyardbrains.com/Engineering/SpikerBot/) is
 ![screenshot](screenshot1.png)
 
 ## Example Brains ##
-The SpikerBot app includes several pre-built brains. Each brain demonstrates how a specific organization of neurons and synapses produce a specific behavior.
+The SpikerBot app includes several pre-built brains.
 
 **Threat Avoidance.** A single neuron is activated by the distance sensor, driving the robot backwards while blinking and beeping.
 

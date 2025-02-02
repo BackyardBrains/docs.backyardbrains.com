@@ -18,27 +18,39 @@ The [SpikerBot robot](https://docs.backyardbrains.com/Engineering/SpikerBot/) is
 The SpikerBot app includes several pre-built brains. Each brain demonstrates how a specific organization of neurons and synapses produce a specific behavior.
 
 Threat Avoidance
+
 ![screenshot](brain1.png)
+
 A single neuron is activated by the distance sensor, driving the robot backwards while blinking and beeping.
 
 Target Tracking
+
 ![screenshot](brain2.png)
+
 Two neurons respond to a visual target appearing on the left or right, driving the wheel on the opposite side forward.
 
 Explore Autonomously
+
 ![screenshot](brain3.png)
+
 Five bursting neurons activate the motors at random intervals. A single quiet distance sensing neuron produces backward movement.
 
 Blink And Beep At People
+
 ![screenshot](brain4.png)
+
 A single quiet neuron responds to seeing people, and activates five light-and-sound producing neurons at random intervals.
 
 Sustained Activity
+
 ![screenshot](brain5.png)
+
 Two neurons strongly activate each other, forming a recurrent excitatory circuit. Both neurons drive the robot forward. A sensory neuron detects green and activates the recurrent circuit. A second, inhibitory sensory neuron detects red and stops the recurrent circuit.
 
 Make Decisions
+
 ![screenshot](brain6.png)
+
 Two recurrent excitatory circuits drive the robot forward and backward, respectively. Two sensory neurons respond to green and red, respectively. The green-detecting neuron activates the forward circuit and inhibits the backward circuit. The red-detecting neuron has the opposite effect.
 
 ## Troubleshooting ##

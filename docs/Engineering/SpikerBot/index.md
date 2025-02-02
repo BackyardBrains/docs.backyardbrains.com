@@ -11,11 +11,7 @@ The SpikerBot is a neurorobot - a robot controlled by a computer model of a biol
 
 Equipped with a camera to see, a distance sensor to sense touch, a speaker and lights to communicate, and motors to move, the SpikerBot brings neuroscience concepts to life. It connects via Wi-Fi to the [SpikerBot app](https://docs.backyardbrains.com/Software/SpikerBot/), where users can design and run neural networks that control the robot's behavior in real time.
 
-## Getting Started ##
-
-[PDF instructions](./sbot_intro.pdf)
-
-### Quick Start ###
+## Getting Started with SpikerBot ##
 
 1. Turn the SpikerBot on using the power switch underneath the robot.
 2. Connect your device to the SpikerBot's Wi-Fi network (the network name is written on the robot).
@@ -40,4 +36,4 @@ Equipped with a camera to see, a distance sensor to sense touch, a speaker and l
 3. Movement Problems: Check wheels and tires, re-seat if necessary.
 4. Camera Recognition Issues: Adjust lighting, use a clearer color sample and check the camera view to see what the robot “sees”.
 
-If the SpikerBot still doesn't move send us an email at hello@backyardbrains.com or give us a call at  +1 (855) GET-SPIKES (855-438-7745) 
+If the SpikerBot still doesn't work as expected, send us an email at hello@backyardbrains.com

@@ -35,5 +35,3 @@ Equipped with a camera to see, a distance sensor to sense touch, a speaker and l
 2. Wi-Fi Connection Issues: Ensure you’re connected to the correct robot’s Wi-Fi network, the robot’s LEDs should change from blue to green when the WiFi connection is established.
 3. Movement Problems: Check wheels and tires, re-seat if necessary.
 4. Camera Recognition Issues: Adjust lighting, use a clearer color sample and check the camera view to see what the robot “sees”.
-
-If the SpikerBot still doesn't work as expected, send us an email at hello@backyardbrains.com

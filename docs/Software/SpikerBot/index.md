@@ -15,31 +15,43 @@ The [SpikerBot robot](https://docs.backyardbrains.com/Engineering/SpikerBot/) is
 ![screenshot](screenshot1.png)
 
 ## Example Brains ##
-The SpikerBot app includes several pre-built brains.
+The SpikerBot app includes several pre-built brains that generate different behaviors.
 
-**Threat Avoidance.** A single neuron is activated by the distance sensor, driving the robot backwards while blinking and beeping.
+### Threat Avoidance ###
+A single neuron is activated by the distance sensor, driving the robot backwards while blinking and beeping.
 
 ![screenshot](brain1.png)
 
-**Target Tracking.** Two neurons respond to a visual target appearing on the left or right, driving the wheel on the opposite side forward.
+
+### Target Tracking ###
+Two neurons respond to a visual target appearing on the left or right, driving the wheel on the opposite side forward.
 
 ![screenshot](brain2.png)
 
-**Explore Autonomously.** Five bursting neurons activate the motors at random intervals. A single quiet distance sensing neuron produces backward movement.
+
+### Explore Autonomously ###
+Five bursting neurons activate the motors at random intervals. A single quiet distance sensing neuron produces backward movement.
 
 ![screenshot](brain3.png)
 
-**Blink And Beep At People.** A single quiet neuron responds to seeing people, and activates five light-and-sound producing neurons at random intervals.
+
+### Blink And Beep At People ###
+A single quiet neuron responds to seeing people, and activates five light-and-sound producing neurons at random intervals.
 
 ![screenshot](brain4.png)
 
-**Sustained Activity.** Two neurons strongly activate each other, forming a recurrent excitatory circuit. Both neurons drive the robot forward. A sensory neuron detects green and activates the recurrent circuit. A second, inhibitory sensory neuron detects red and stops the recurrent circuit.
+
+### Sustained Activity ###
+Two neurons strongly activate each other, forming a recurrent excitatory circuit. Both neurons drive the robot forward. A sensory neuron detects green and activates the recurrent circuit. A second, inhibitory sensory neuron detects red and stops the recurrent circuit.
 
 ![screenshot](brain5.png)
 
-**Make Decisions.** Two recurrent excitatory circuits drive the robot forward and backward, respectively. Two sensory neurons respond to green and red, respectively. The green-detecting neuron activates the forward circuit and inhibits the backward circuit. The red-detecting neuron has the opposite effect.
+
+### Make Decisions ###
+Two recurrent excitatory circuits drive the robot forward and backward, respectively. Two sensory neurons respond to green and red, respectively. The green-detecting neuron activates the forward circuit and inhibits the backward circuit. The red-detecting neuron has the opposite effect.
 
 ![screenshot](brain6.png)
+
 
 ## Troubleshooting ##
 

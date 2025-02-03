@@ -14,6 +14,18 @@ The [SpikerBot robot](https://docs.backyardbrains.com/Engineering/SpikerBot/) is
 
 ![screenshot](screenshot1.png)
 
+## Building Brains ##
+Brains are composed of neurons connected by synapses. To add a neuron in the app, simply drag it from the left panel into the brain area.
+
+Neurons communicate through electrical signals called spikes, and different neuron types generate and respond to spikes uniquely. Adjust a neuron’s spiking behavior by selecting it and modifying its properties.
+
+Spikes travel in a single direction: from the neuron, along the axon, to the synapse, where they either excite or inhibit the target neuron. To create a synapse, select a neuron and drag its axon handle to another neuron.
+
+Neural networks can process visual information by recognizing objects in images. To create a neuron that responds to a specific object, drag a neuron onto the camera to turn it into a sensory neuron, then edit its sensory preferences by selecting the axon extending from the camera to the neuron.
+
+## Neural Network Simulator ##
+The SpikerBot app utilizes the Izhikevich neuron model to simulate neural activity. Excitatory synapses have a weight range of 1-100, while inhibitory synapses also range from 1-100 but are enhanced beyond the original Izhikevich model. This enhancement ensures that a single inhibitory neuron can effectively suppress even highly active postsynaptic neurons, providing more reliable inhibition within neural circuits.
+
 ## Example Brains ##
 The SpikerBot app includes several pre-built brains that generate different behaviors.
 

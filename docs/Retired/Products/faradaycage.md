@@ -1,7 +1,7 @@
 ---
-ID: faraday-cage
-Title: Faraday Cage
-slug: /retired/products/faraday-cage
+id: faradaycage
+title: "Faraday Cage"
+slug: /retired/products/faradaycage
 ---
 ## Faraday Cage
 

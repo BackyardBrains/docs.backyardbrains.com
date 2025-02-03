@@ -31,6 +31,7 @@ Dive into the specifics of each category and discover the right device for your 
 - [The Claw](./Engineering/Claw/)  
 - [RoboRoach](./Engineering/Roboroach/)  
 - [Neuro:Bit](./Engineering/NeuroBit/)  
+- [SpikerBot](./Engineering/SpikerBot/)  
 
 Each device category provides detailed documentation on setup, usage, and troubleshooting, along with scientific background and potential experiments.
 

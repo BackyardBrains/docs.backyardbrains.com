@@ -17,7 +17,9 @@ The [SpikerBot robot](https://docs.backyardbrains.com/Engineering/SpikerBot/) is
 
 ## Neural Circuits ##
 - **Recurrent Excitation** is when two or more neurons excite each other, creating a feedback loop that can maintain activity indefinitely. Recurrent excitation underlies sustained activities like walking, breathing, or holding a thought in memory.
+![screenshot](circuit1.png)
 - **Lateral Inhibition** is when two or more neurons inhibit each other, suppressing activity in all but one. Lateral inhibition clarifies perception and enables decisio-making.
+![screenshot](circuit2.png)
 
 ## Brain Library ##
 The SpikerBot app includes several pre-built brains that generate different behaviors.

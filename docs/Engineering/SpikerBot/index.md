@@ -11,10 +11,10 @@ SpikerBot is a neurorobot - a robot controlled by a computer model of a biologic
 
 ## Getting Started with SpikerBot ##
 
-1. Turn the SpikerBot on using the power switch underneath the robot.
-2. Connect your device to the SpikerBot's Wi-Fi network (the network name is written on the robot).
-3. Wait for the robot’s lights to change from blue to green, indicating its Wi-Fi is connected and ready to use.
-4. Open the SpikerBot app and press play to start controlling the robot with your neural networks.
+1. **Power on**: Flip the switch under the robot.
+2. **Connect via Wi-Fi**: Find the network name (written on the robot).
+3. **Wait for green LEDs**: Indicates successful connection.
+4. **Press Play in the SpikerBot app** to run a brain.
 
 ![robot-app connection](./wifi.png)
 
@@ -28,10 +28,10 @@ SpikerBot features two independently controlled motors, four LED lights, and a s
 
 |||
 |---|---|
-|Step time |	100ms|
-|Power supply |	4xAA batteries|
-|Battery life |	4 hrs|
-|Control Buttons | On/Off|
+|Processor | ESP32 |
+|Power supply |	4xAA batteries |
+|Control Switch | On/Off |
+|||
 
 ## Troubleshooting ##
 

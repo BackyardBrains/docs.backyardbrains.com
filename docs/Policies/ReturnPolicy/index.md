@@ -1,3 +1,8 @@
+---
+id: policies_return_policy
+title: Return Policy
+---
+
 # Return Policy #
 
 You can return unopened products for up to 90 days for a full refund. If you did open it, and still want to return it. That is OK, so long as it is still in working order. We do charge a 15% restocking fee, and we cannot refund consumable items such as electrode pads.

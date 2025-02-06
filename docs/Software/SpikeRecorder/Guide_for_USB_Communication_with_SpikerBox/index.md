@@ -1,4 +1,5 @@
 ---
+id: software_spikerecorder_usb_communication_guide
 sidebar_position: 1
 title: Guide for USB Communication with SpikerBox
 sidebar_label: USB Communication Guide

@@ -1,4 +1,5 @@
 ---
+id: software_spikerecorder
 sidebar_position: 1
 sidebar_label: Spike Recorder
 ---

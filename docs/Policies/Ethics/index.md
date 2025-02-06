@@ -1,4 +1,5 @@
 ---
+id: policies_ethics
 title: Ethics
 ---
 # Ethical Issues Regarding the Use of Invertebrates in Education #

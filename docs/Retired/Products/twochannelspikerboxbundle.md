@@ -18,7 +18,7 @@ slug: /retired/products/twochannelspikerboxbundle
 
 ### Description
 
-This is the kit version of our [2-Channel SpikerBox](twochannelratecoding.md). It includes a [laptop cable](laptopcable.md) so you can record data on your computer and a [faraday cage](faradaycage.md) for noise-free recordings. These are essential components in our **earthworm conduction velocity** experiments.
+This is the kit version of our 2-Channel SpikerBox. It includes a laptop cable so you can record data on your computer and a (faraday cage)[./faradaycage.md] for noise-free recordings. These are essential components in our **earthworm conduction velocity** experiments.
 
 What can you do with **2 Channels**?  
 You can record from multiple neural sources at once, or measure conduction velocity using earthworms—**How fast do action potentials travel?**  
@@ -28,7 +28,7 @@ Now you can find out!
 
 ### Product Details
 
-This expanded version of our original [SpikerBox](ratecoding.md) is just as easy to use. Connect the included [laptop cable](laptopcable.md) or [smartphone cable](smartphonecable.md) to listen to spikes on an external speaker or watch them on your smartphone, iPad, or computer.
+This expanded version of our original SpikerBox is just as easy to use. Connect the included laptop cable or smartphone cable to listen to spikes on an external speaker or watch them on your smartphone, iPad, or computer.
 
 You can do all the same experiments the single-channel SpikerBox can do. However, the **2-Channel SpikerBox** also lets you measure the same spike at **two different points**—perfect for conduction velocity or other dual-recording experiments.
 
@@ -52,13 +52,13 @@ If you discover a new approach or experiment for the 2-Channel SpikerBox, we’d
 
 ### Kit Contents
 
-- 1× [2-Channel SpikerBox](twochannelratecoding.md)  
+- 1× [2-Channel SpikerBox](./twochannelspikerbox.md)  
 - 1× White (electrode 1 & ground) + 1× Red (electrode 2) recording electrode  
-- 1× [Faraday Cage](faradaycage.md)  
-- 1× Alligator clip to ground Faraday Cage to [SpikerBox](ratecoding.md)  
-- 1× [Laptop Cable](laptopcable.md)  
-- 1× [Stimulation Cable](stimulationcable.md)  
-- 1× [Smartphone Cable](smartphonecable.md)  
+- 1× [Faraday Cage](./faradaycage.md)  
+- 1× Alligator clip to ground Faraday Cage to SpikerBox
+- 1× Laptop Cable 
+- 1× Stimulation Cable 
+- 1× Smartphone Cable 
 - 1× 9-Volt battery  
 - [Getting Started Guide](./files/2chan_insert.pdf)
 
@@ -82,6 +82,6 @@ If you discover a new approach or experiment for the 2-Channel SpikerBox, we’d
 - [NeuroProsthetics](../Experiments/neuroprosthetics.md)  
 - [Oxygen and Spiking](../Experiments/oxygen.md)  
 - [Speed of Neurons](../Experiments/speed.md)  
-- [Comparing Nerve Speed](../Experiments/comparingnervespeed.md)  
+- [Comparing Nerve Speed](../Experiments/comparingNerveSpeed.md)  
 - [Effect of Temperature on Neural Speed](../Experiments/wormtemperature.md)  
 - [Effect of Nerve Stretching on Neural Speed](../Experiments/wormstretch.md)

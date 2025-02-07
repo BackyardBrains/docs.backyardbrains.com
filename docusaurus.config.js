@@ -78,11 +78,11 @@ const config = {
              label: 'Documentation',
            },
           
-        //   {
-        //     href: 'https://github.com/BackyardBrains',
-        //     label: 'GitHub',
-        //     position: 'right',
-        //   },
+        {
+           href: 'https://github.com/BackyardBrains/docs.backyardbrains.com',
+           label: 'GitHub',
+           position: 'right',
+        },
        ],
       },
       footer: {

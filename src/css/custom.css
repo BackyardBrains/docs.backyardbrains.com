@@ -846,16 +846,17 @@ tbody {
   bottom: 0;
 }
 
-.theme-doc-sidebar-container:before {
-  content: '';
-  position: absolute;
+.sidebar-logo {
+  text-decoration: none;
   display: block;
-  left: 16px;
-  top: 90px;
-  right: 16px;
-  height: 100px;
-  background: url(https://api.backyardbrains.com/static/images/BYBLogoFull_512.png) no-repeat center center;
-  background-size: contain;
+  padding: 0;
+}
+
+.sidebar-logo__image {
+  display: block;
+  max-width: 100%;
+  width: 200px;
+  margin: 0 auto;
 }
 
 @media only screen and (min-width: 1200px) {
@@ -1089,5 +1090,11 @@ tbody {
 
   .search-form__clear {
     right: 0;
+  }
+}
+
+@media only screen and (min-width: 997px) {
+  .sidebar_src-theme-DocSidebar-Desktop-styles-module {
+    padding-top: 0 !important;
   }
 }

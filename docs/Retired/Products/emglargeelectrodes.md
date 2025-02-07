@@ -12,7 +12,7 @@ slug: /retired/products/emglargeelectrodes
 ![2x packages of 50 EMG Electrodes](./img/largemuscleelectrodes.jpg)
 
 
-  * [Getting Started with Electromyograms (EMGs)](../Experiments/emgratecoding.md)
+  * [Getting Started with Electromyograms (EMGs)](../Experiments/muscleSpikerBox.md)
   * [Muscle Contraction and Fatigue](../Experiments/fatigue.md)
 
 

@@ -12,6 +12,7 @@ The [SpikerBot robot](https://docs.backyardbrains.com/Engineering/SpikerBot/) is
 - Neurons can **excite or inhibit** activity in their targets.
 - Press play to put your network in control of the robot and see what it does.
 <br />
+
 ![screenshot](screenshot1.png)
 
 ## Neural Circuits ##
@@ -58,5 +59,5 @@ Two recurrent excitatory circuits drive the robot forward and backward, respecti
 
 ## Troubleshooting ##
 
-1. No Response from Robot: Check that it’s turned on and charged.
-2. Wi-Fi Connection Issues: Ensure you’re connected to the correct robot’s Wi-Fi network, the robot’s LEDs should change from blue to green when the WiFi connection is established.
+1. No Response from Robot: Check that it's turned on and charged.
+2. Wi-Fi Connection Issues: Ensure you're connected to the correct robot’s Wi-Fi network, the robot’s LEDs should change from blue to green when the WiFi connection is established.

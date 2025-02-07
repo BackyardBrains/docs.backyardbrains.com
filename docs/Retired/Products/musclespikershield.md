@@ -64,7 +64,6 @@ Before you stack the second shield on top of the first one, move the jumper pin 
 Note: The picture is of a DIY Muscle Shield but the same will work for the regular Muscle Shield. 
 However, DIY Muscle spikershields don't come with the motor control components, so you couldn't use them for servo or stepper motors.
 
-
 ## Troubleshooting ##
 
 If the power LED is on, but the EMG LED array isn't responding, Let's try a few things:

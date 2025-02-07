@@ -6,9 +6,9 @@ export default function NavbarWrapper(props) {
   return (
     <>
       {/* <ShopHeader /> */}
-      <div style={{ display: 'none' }}>
+      
         <Navbar {...props} />
-      </div>
+      
     </>
   );
 }

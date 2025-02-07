@@ -27,7 +27,7 @@ Check out our [experiment pages](https://backyardbrains.com/experiments/) for mo
 Try writing your own code and upload it using the Arduino IDE software.
 
 
-You can also record and analize your EMG by connecting to our [Spike Recorder software](../../Software/SpikeRecorder/)
+You can also record and analize your EMG by connecting to our [Spike Recorder software](../../Software/SpikeRecorder/index.md)
 
 
 ## Technical Specifications ##

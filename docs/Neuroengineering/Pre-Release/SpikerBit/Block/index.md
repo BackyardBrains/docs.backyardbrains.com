@@ -1,4 +1,7 @@
 ---
+id: spikerbit-block-coding
+title: Getting Started with Spiker:Bit Block Programming
+slug: /Neuroengineering/Pre-Release/SpikerBit/Block
 sidebar_position: 1
 sidebar_label: Getting Started with Block 
 ---

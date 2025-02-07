@@ -1,5 +1,7 @@
 ---
 id: spikerbit_project_cowboyduel
+title: "Spiker:Bit Project - Cowboy Duel"
+slug: /Neuroengineering/SpikerBit/Projects/CowboyDuel
 sidebar_position: 8
 sidebar_label: Cowboy Duel
 description: It's high noon!  Are you ready for a duel?

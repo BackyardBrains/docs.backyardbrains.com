@@ -66,8 +66,9 @@ const config = {
       navbar: {
         title: 'Backyard Brains',
         logo: {
-           alt: 'My Site Logo',
-           src: 'https://blog.backyardbrains.com/wp-content/uploads/2017/06/Icon-60@3x-150x150.png',
+           alt: 'Backyard Brains Logo',
+           src: 'https://api.backyardbrains.com/static/img/BYBLogoFull_512.png',
+           href: 'https://backyardbrains.com',
         },
         items: [
            {
@@ -91,8 +92,20 @@ const config = {
             title: 'Website',
             items: [
               {
-                label: 'BackyardBrains.com',
+                label: 'Home',
                 to: 'https://backyardbrains.com/',
+              },
+              {
+                label: 'Store',
+                to: 'https://backyardbrains.com/collections/featured?grade=all',
+              },
+              {
+                label: 'Community',
+                to: 'https://forum.backyardbrains.com/',
+              },
+              {
+                label: 'Blog',
+                to: 'https://blog.backyardbrains.com/',
               },
             ],
           },

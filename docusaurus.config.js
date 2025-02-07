@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'BYB documentation',
   tagline: 'Neuroscience for Everyone!',
-  favicon: 'https://blog.backyardbrains.com/wp-content/uploads/2017/06/Icon-60@3x-150x150.png',
+  favicon: 'https://api.backyardbrains.com/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://docs.backyardbrains.com/',
@@ -20,7 +20,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'BackyardBrains', // Usually your GitHub org/user name.
+  organizationName: 'Backyard Brains', // Usually your GitHub org/user name.
   projectName: 'docs.backyardbrains.com', // Usually your repo name.
 
   onBrokenLinks: 'ignore',
@@ -67,7 +67,7 @@ const config = {
         title: 'Backyard Brains',
         logo: {
            alt: 'Backyard Brains Logo',
-           src: 'https://api.backyardbrains.com/static/img/BYBLogoFull_512.png',
+           src: 'https://api.backyardbrains.com/static/images/BYBLogoFull_512.png',
            href: 'https://backyardbrains.com',
         },
         items: [

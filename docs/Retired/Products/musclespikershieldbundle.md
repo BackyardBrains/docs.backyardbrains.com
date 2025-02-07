@@ -66,10 +66,10 @@ muscles.
 ### Kit Contents:
 
   * 1x Pre-assembled Muscle SpikerShield 
-  * 1x Orange [Recording Electrode Cables](./emgelectrodes.md) with Alligator Clips (Red, Red, Black)
+  * 1x Orange Recording Electrode Cables with Alligator Clips (Red, Red, Black)
   * 1x Arduino MicroController with preloaded code
   * 1x USB cable for powering your Arduino
   * 6x EMG Sticker Patch Electrodes for large muscles
   * 1x Adjustable Wooden Electrode Holder for small muscles
-  * 1x Small bottle of [Electrode Gel](./emgelectrodegel.md) to be used with the small muscle electrode
+  * 1x Small bottle of Electrode Gel to be used with the small muscle electrode
 

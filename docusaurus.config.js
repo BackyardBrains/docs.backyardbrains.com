@@ -71,18 +71,17 @@ const config = {
            href: 'https://backyardbrains.com',
         },
         items: [
-           {
-             type: 'docSidebar',
-             sidebarId: 'tutorialSidebar',
-             position: 'left',
-             label: 'Documentation',
-           },
-          
-        {
-           href: 'https://github.com/BackyardBrains/docs.backyardbrains.com',
-           label: 'GitHub',
-           position: 'right',
-        },
+          {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: 'Documentation',
+          },
+          {
+            href: 'https://github.com/BackyardBrains/docs.backyardbrains.com',
+            label: 'GitHub',
+            position: 'right',
+          },
        ],
       },
       footer: {

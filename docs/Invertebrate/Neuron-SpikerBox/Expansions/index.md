@@ -1,11 +1,12 @@
 ---
-sidebar_position: 3
-sidebar_label: Neuropharmacology Kit
+id: "neuropharmacology_kit"
+title: "Neuropharmacology Kit Add-On"
+slug: "/invertebrate/neuron-spikerbox/expansions/neuropharmacology_kit"
 ---
 
 # Neuropharmacology Kit #
 
-![image14 (2)](https://github.com/BackyardBrains/docs.backyardbrains.com/assets/112901487/7ecbbcef-49aa-49c1-9e21-e1f46904826e)
+![Neuropharmacology Kit](./img/Image1.png)
 
 ## Introduction 
 The Neuropharmacology Kit is a practical add-on for the Neuron SpikerBox, designed to enhance students’ understanding of neurotransmission. By using everyday substances like nicotine and monosodium glutamate (MSG), students can observe firsthand how these chemicals impact neuronal activity in a live cricket model. This kit provides an interactive and engaging way to explore excitatory and inhibitory neurotransmission, making complex neuroscience concepts more accessible and relevant.

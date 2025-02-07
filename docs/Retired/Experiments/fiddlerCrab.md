@@ -1,6 +1,7 @@
 ---
-sidebar_position: 3
-sidebar_label: Fiddler Crab
+id: "fiddler_crab"
+title: "Fiddler Crab"
+slug: "/retired/experiments/fiddler_crab"
 ---
 
 # Experiment: Neural Recording from Fiddler Crab

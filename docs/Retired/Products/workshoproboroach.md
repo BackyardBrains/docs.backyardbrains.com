@@ -6,13 +6,13 @@ slug: /retired/products/workshoproboroach
 
 ## RoboRoach Workshop
 
-[![RoboRoach & iPod Beta Testing](./img/roboroachgoright.jpg)](./img/roboroachgoright.jpg)
-[![The RoboRoach Surgery Kit, all packed up!](./img/roboroach_surgerykit_bundle.jpg)](./img/roboroach_surgerykit_bundle.jpg)
-[![RoboRoach Box small](./img/roboroach_box_small.jpg)](./img/roboroach_box.jpg)
-[![What's in that Terrarium?](./img/roboroach_surgerykit_bundle_whatsinside_small.jpg)](./img/roboroach_surgerykit_bundle_whatsinside.jpg)
-[![The RoboRoach gets connected!](./img/roboroach-connectionlights_sm.jpg)](./img/roboroach-connectionlights.jpg)
-[![The RoboRoach goes for a stroll in Valparaiso](./img/roboroachinvalpo_sm.jpg)](./img/roboroachinvalpo.jpg)
-[![The RoboRoach iPod](./img/roboroach_ipod_sm.jpg)](./img/roboroach_ipod.jpg)
+![RoboRoach & iPod Beta Testing](./img/roboroachgoright.jpg)
+![The RoboRoach Surgery Kit, all packed up!](./img/roboroach_surgerykit_bundle.jpg)
+![RoboRoach Box small](./img/roboroach_box.jpg)
+![What's in that Terrarium?](./img/roboroach_surgerykit_bundle_whatsinside.jpg)
+![The RoboRoach gets connected!](./img/roboroach-connectionlights.jpg)
+![The RoboRoach goes for a stroll in Valparaiso](./img/roboroachinvalpo.jpg)
+![The RoboRoach iPod](./img/roboroach_ipod.jpg)
 
 ---
 

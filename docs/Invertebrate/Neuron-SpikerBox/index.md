@@ -1,5 +1,7 @@
 ---
-id: "neuron_spikerbox
+id: "neuron_spikerbox"
+title: "Neuron SpikerBox"
+slug: "/invertebrate/neuron-spikerbox"
 sidebar_position: 1
 sidebar_label: Neuron SpikerBox
 ---

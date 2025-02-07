@@ -59,7 +59,7 @@ However, it's possible to stack up to 6 Muscle SpikerShields (or DIY Muscle Spik
 
 Before you stack the second shield on top of the first one, move the jumper pin one field below, same principle would apply to each subsequent shield.
 
-![stack](stack.png)
+![stack](./img/stack.png)
 
 Note: The picture is of a DIY Muscle Shield but the same will work for the regular Muscle Shield. 
 However, DIY Muscle spikershields don't come with the motor control components, so you couldn't use them for servo or stepper motors.

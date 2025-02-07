@@ -1,4 +1,5 @@
 ---
+id: "neuron_spikerbox_classic"
 sidebar_position: 2
 sidebar_label: Neuron SpikerBox Classic
 ---

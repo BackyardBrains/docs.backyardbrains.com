@@ -1,4 +1,7 @@
 ---
+id: "human_spikerbox"
+title: "Human SpikerBox"
+slug: "/human/human-spikerbox"
 sidebar_position: 1
 sidebar_label: Human SpikerBox
 ---

@@ -1,4 +1,7 @@
 ---
+id: "muscle_spikerbox"
+title: "Muscle SpikerBox"
+slug: "/human/muscle-spikerbox"
 sidebar_position: 6
 sidebar_label: Muscle SpikerBox
 ---

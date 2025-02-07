@@ -1,6 +1,9 @@
 ---
+id: "heart_and_brain_spikerbox_classic"
+title: "Heart and Brain SpikerBox Classic"
+slug: "/human/heart-and-brain-spikerbox-classic"
 sidebar_position: 4
-sidebar_label: Heart and Brain SpikerBox
+sidebar_label: Heart and Brain SpikerBox Classic
 ---
 
 # The Heart and Brain SpikerBox #

@@ -1,6 +1,7 @@
 ---
+id: "neuron_spikerbox
 sidebar_position: 1
-sidebar_label: Neuron SpikerBox Pro
+sidebar_label: Neuron SpikerBox
 ---
 
 # Neuron SpikerBox Pro #
@@ -35,7 +36,7 @@ Open SpikeRecorder on your device.
 
 Stimulate the neurons by poking or blowing. See, hear, and record the live firing of action potentials! What will you discover?
 
-![5](./5.png)
+![5](./img/5.png)
 
 FYI: The black jack next to the smartphone output is audio out, for connecting an external speaker. The digital pins next to the USB port on the back is an [expansion port](../../Engineering/ExpansionPort/). Use an external (rainbow) cable to add channels, event markers, and plug in your own inventions!
 

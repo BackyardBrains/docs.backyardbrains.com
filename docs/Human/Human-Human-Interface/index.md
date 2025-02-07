@@ -1,4 +1,7 @@
 ---
+id: "human_human_interface"
+title: "Human-Human Interface"
+slug: "/human/human-human-interface"
 sidebar_position: 2
 sidebar_label: Human-Human Interface
 ---

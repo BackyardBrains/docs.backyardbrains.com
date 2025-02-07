@@ -83,5 +83,5 @@ If you discover a new approach or experiment for the 2-Channel SpikerBox, we’d
 - [Oxygen and Spiking](../Experiments/oxygen.md)  
 - [Speed of Neurons](../Experiments/speed.md)  
 - [Comparing Nerve Speed](../Experiments/comparingNerveSpeed.md)  
-- [Effect of Temperature on Neural Speed](../Experiments/wormtemperature.md)  
+- [Effect of Temperature on Neural Speed](../Experiments/WormTemperature.md)  
 - [Effect of Nerve Stretching on Neural Speed](../Experiments/wormstretch.md)

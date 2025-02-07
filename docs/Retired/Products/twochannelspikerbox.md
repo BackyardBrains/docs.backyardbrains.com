@@ -66,5 +66,5 @@ If you discover something new or develop a new 2-Channel experiment, we’d love
 - [oxygen and spiking](../Experiments/oxygen.md)
 - [speed of neurons](../Experiments/speed.md)
 - [comparing nerve speed](../Experiments/comparingNerveSpeed.md)
-- [effect of temperature on neural speed](../Experiments/wormTemperature.md)
+- [effect of temperature on neural speed](../Experiments/WormTemperature.md)
 - [effect of nerve stretching on neural speed](../Experiments/wormstretch.md)

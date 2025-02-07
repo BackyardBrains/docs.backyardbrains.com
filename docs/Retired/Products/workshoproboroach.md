@@ -21,7 +21,7 @@ slug: /retired/products/workshoproboroach
 
 ### Experiments
 
-- [Getting Started with the RoboRoach](../Experiments/roboroachSurgery.md)
+- [Getting Started with the RoboRoach](../Experiments/roboRoachSurgery.md)
 
 ---
 

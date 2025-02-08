@@ -7,7 +7,7 @@ sidebar_label: SpikerBot
 
 ![image of robot](./robot.png)
 
-SpikerBot is a neurorobot - a robot controlled by a computer model of a biological brain. It is equipped with a camera, a distance sensor, a speaker, four lights and two motors. It communicates via Wi-Fi with the [SpikerBot app](https://docs.backyardbrains.com/Software/SpikerBot/), which runs its neural networks.
+SpikerBot is a neurorobot - a robot controlled by a computer model of a biological brain. It is equipped with a camera, a distance sensor, a speaker, four lights and two motors. It communicates via Wi-Fi with the [SpikerBot app](https://docs.backyardbrains.com/Software/Pre-Release/SpikerBot/), which runs its neural networks.
 
 ## Getting Started with SpikerBot ##
 

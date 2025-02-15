@@ -3,7 +3,7 @@ sidebar_position: 2
 sidebar_label: The SpikerBot App
 ---
 # The SpikerBot App #
-The [SpikerBot robot](https://docs.backyardbrains.com/Engineering/SpikerBot/) is meant to be used with the **SpikerBot app**, available for Windows, macOS, iOS, Android and Chrome at [robot.backardbrains.com](https://robot.backyardbrains.com). The app is a neural network simulator that receives sensory data from the robot while controlling its behavior.
+The [SpikerBot robot](https://docs.backyardbrains.com/Neuroengineering/Pre-Release/SpikerBot/) is meant to be used with the **SpikerBot app**, available for Windows, macOS, iOS, Android and Chrome at [robot.backardbrains.com](https://robot.backyardbrains.com). The app is a neural network simulator that receives sensory data from the robot while controlling its behavior.
 
 ## How the app works ##
 - Drag and drop **neurons** from the panel on the left into the brain area.

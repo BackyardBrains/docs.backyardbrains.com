@@ -6,7 +6,7 @@ sidebar_position: 1
 sidebar_label: "Neuron SpikerBox"
 ---
 
-# Neuron SpikerBox Pro #
+# Neuron SpikerBox#
 
 ![nsb pro](./img/1.png)
 

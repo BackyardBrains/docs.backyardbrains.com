@@ -138,14 +138,14 @@ react with no distractions or instructions?
 1. Open up your recording in the app. 
   2. Search for the tick marks. For each tick mark, click and drag from the tick mark to the beginning of the subject's muscle activity to measure the reaction time. For Smartphones, do this by long-pressing on the screen at the tick mark, then dragging to the beginning of the flex! 
 
-[
-![](./img/ReactionTimer_SpikeRecorder2_Label.jpg)](./img/ReactionTimer_SpikeRecorder2_Label.jpg)
+
+![](./img/ReactionTimer_SpikeRecorder2_Label.jpg)
 
   3. Record the reaction times and fill in the chart below! 
 
-[ ![](./img/worksheet reaction timer.jpg)](./img/worksheet reaction timer.jpg)
+![worksheet for reaction time](./img/worksheet reaction timer.jpg)
 
-* Average your results! Calculate the [Standard Deviation](https://backyardbrains.com/experiments/p-value). Then perform again and again! Change the variables! Test light, sound, random, ... 
+* Average your results! Calculate the [Standard Deviation](p-value.md). Then perform again and again! Change the variables! Test light, sound, random, ... 
 
 #### Experiment 2_ Recognition Reaction Time (Go/No Go)
 

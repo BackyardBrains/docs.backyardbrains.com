@@ -35,24 +35,36 @@ const config = {
     locales: ['en'],
   },
 
-  presets: [
+  plugins: [
     [
-      'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
-        docs: {
-          path: 'docs', // Path to the documentation files
-          routeBasePath: '/', // Route base for docs
-          sidebarPath: './sidebars.js',
-          exclude: ['.hidden/**'], // Exclude the .hidden folder
-        },
-        blog: false,
-        theme: {
-          customCss: './src/css/custom.css',
-        },
-      }),
+      '@docusaurus/plugin-google-gtag',
+      {
+        trackingID: 'G-QPJFS4Q0CK',
+        anonymizeIP: true,
+      },
     ],
   ],
+
+
+presets: [
+  [
+      docs: {
+        path: 'docs',
+        routeBasePath: '/',
+        sidebarPath: './sidebars.js',
+        exclude: ['.hidden/**'],
+      },
+      blog: false,
+      theme: {
+        customCss: './src/css/custom.css',
+      },
+      gtag: {
+        trackingID: 'G-QPJFS4Q0CK', // Your actual GA4 tracking ID
+        anonymizeIP: true,
+      },
+    },
+  ],
+],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */

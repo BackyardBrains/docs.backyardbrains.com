@@ -1,9 +1,4 @@
 // @ts-check
-// `@type` JSDoc annotations allow editor autocompletion and type checking
-// (when paired with `@ts-check`).
-// There are various equivalent ways to declare your Docusaurus config.
-// See: https://docusaurus.io/docs/api/docusaurus-config
-
 import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
@@ -12,24 +7,16 @@ const config = {
   tagline: 'Neuroscience for Everyone!',
   favicon: 'https://api.backyardbrains.com/favicon.ico',
 
-  // Set the production url of your site here
   url: 'https://docs.backyardbrains.com/',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Backyard Brains', // Usually your GitHub org/user name.
-  projectName: 'docs.backyardbrains.com', // Usually your repo name.
+  organizationName: 'Backyard Brains',
+  projectName: 'docs.backyardbrains.com',
 
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
-  onBrokenAnchors: 'warn',     // If this exists, ensure it is set to 'warn'
+  onBrokenAnchors: 'warn',
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -37,106 +24,82 @@ const config = {
 
   plugins: [
     [
-      '@docusaurus/plugin-google-gtag',
+      '@docusaurus/plugin-google-tag-manager',
       {
-        trackingID: 'G-QPJFS4Q0CK',
-        anonymizeIP: true,
+        containerID: 'GTM-MQ6VGM3W', // Replace with your real GTM ID
       },
     ],
   ],
 
-
-presets: [
-  [
-      docs: {
-        path: 'docs',
-        routeBasePath: '/',
-        sidebarPath: './sidebars.js',
-        exclude: ['.hidden/**'],
-      },
-      blog: false,
-      theme: {
-        customCss: './src/css/custom.css',
-      },
-      gtag: {
-        trackingID: 'G-QPJFS4Q0CK', // Your actual GA4 tracking ID
-        anonymizeIP: true,
-      },
-    },
-  ],
-],
-
-  themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
-      noSSR: false,
-      // Replace with your project's social card
-      colorMode: {
-        defaultMode: 'light',
-        disableSwitch: true,
-      },
-      navbar: {
-        title: 'Backyard Brains',
-        logo: {
-           alt: 'Backyard Brains Logo',
-           src: 'https://api.backyardbrains.com/static/images/BYBLogoFull_512.png',
-           href: 'https://backyardbrains.com',
+  presets: [
+    [
+      '@docusaurus/preset-classic',
+      {
+        docs: {
+          path: 'docs',
+          routeBasePath: '/',
+          sidebarPath: './sidebars.js',
+          exclude: ['.hidden/**'],
         },
-        items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Documentation',
-          },
-          {
-            href: 'https://github.com/BackyardBrains/docs.backyardbrains.com',
-            label: 'GitHub',
-            position: 'right',
-          },
-       ],
+        blog: false,
+        theme: {
+          customCss: './src/css/custom.css',
+        },
       },
-      footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Website',
-            items: [
-              {
-                label: 'Home',
-                to: 'https://backyardbrains.com/',
-              },
-              {
-                label: 'Store',
-                to: 'https://backyardbrains.com/collections/featured?grade=all',
-              },
-              {
-                label: 'Community',
-                to: 'https://forum.backyardbrains.com/',
-              },
-              {
-                label: 'Blog',
-                to: 'https://blog.backyardbrains.com/',
-              },
-            ],
-          },
-          {
-            title: 'Code',
-            items: [
-              {
-                label: 'GitHub',
-                href: 'https://github.com/backyardbrains',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} Backyard Brains.`,
+    ],
+  ],
+
+  themeConfig: {
+    noSSR: false,
+    colorMode: {
+      defaultMode: 'light',
+      disableSwitch: true,
+    },
+    navbar: {
+      title: 'Backyard Brains',
+      logo: {
+        alt: 'Backyard Brains Logo',
+        src: 'https://api.backyardbrains.com/static/images/BYBLogoFull_512.png',
+        href: 'https://backyardbrains.com',
       },
-      prism: {
-        theme: prismThemes.github,
-        darkTheme: prismThemes.dracula,
-      },
-    }),
+      items: [
+        {
+          type: 'docSidebar',
+          sidebarId: 'tutorialSidebar',
+          position: 'left',
+          label: 'Documentation',
+        },
+        {
+          href: 'https://github.com/BackyardBrains/docs.backyardbrains.com',
+          label: 'GitHub',
+          position: 'right',
+        },
+      ],
+    },
+    footer: {
+      style: 'dark',
+      links: [
+        {
+          title: 'Website',
+          items: [
+            { label: 'Home', to: 'https://backyardbrains.com/' },
+            { label: 'Store', to: 'https://backyardbrains.com/collections/featured?grade=all' },
+            { label: 'Community', to: 'https://forum.backyardbrains.com/' },
+            { label: 'Blog', to: 'https://blog.backyardbrains.com/' },
+          ],
+        },
+        {
+          title: 'Code',
+          items: [{ label: 'GitHub', href: 'https://github.com/backyardbrains' }],
+        },
+      ],
+      copyright: `Copyright © ${new Date().getFullYear()} Backyard Brains.`,
+    },
+    prism: {
+      theme: prismThemes.github,
+      darkTheme: prismThemes.dracula,
+    },
+  },
 };
 
 export default config;

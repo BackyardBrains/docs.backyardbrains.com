@@ -3,35 +3,40 @@ sidebar_position: 2
 sidebar_label: The SpikerBot App
 ---
 # The SpikerBot App #
-The [SpikerBot robot](https://docs.backyardbrains.com/Neuroengineering/Pre-Release/SpikerBot/) is meant to be used with the **SpikerBot app**, available for Windows, macOS, iOS, Android and Chrome at [robot.backardbrains.com](https://robot.backyardbrains.com). The app is a neural network simulator that receives sensory data from the robot while controlling its behavior.
+The [SpikerBot robot](https://docs.backyardbrains.com/Neuroengineering/Pre-Release/SpikerBot/) is meant to be used with the SpikerBot app, available for Windows, macOS, iOS, Android and Chrome at [robot.backardbrains.com](https://robot.backyardbrains.com). The app is a neural network simulator that receives sensory data from the robot while controlling its behavior.
 
 ## How the app works ##
-- Drag and drop **neurons** from the panel on the left into the brain area.
-- Drag the handle that appears under selected neurons to form **synapses**.
-- Press play to put your brain in control of the robot and see what it does.
+- Drag and drop neurons from the panel on the left into the brain area.
+- Drag the handle that appears under selected neurons to form synapses.
+- Press **Play** to put your brain in control of the robot and see what it does.
 <br />
 
 ![screenshot](screenshot1.png)
-User interface.
+
+## Neurons ##
+- **Activity Mode** – Neurons can be silent or spontaneously active. They can generate spikes individually or in bursts.
+- **Synaptic Polarity** - Neurons can either excite or inhibit activity in their synaptic targets
 
 ## Neural Circuits ##
-- **Recurrent Excitation** is when two or more neurons excite each other, creating a feedback loop that can maintain activity indefinitely. Recurrent excitation underlies sustained activities like walking, breathing, or holding a thought in memory.
+- **Recurrent Excitation** - When two or more neurons excite each other, they create a feedback loop that can sustain activity indefinitely. This process underlies behaviors such as walking, breathing, or holding a thought in memory.
 
 ![screenshot](circuit1.png)
 
-- **Lateral Inhibition** is when two or more neurons inhibit each other, suppressing activity in all but one. Lateral inhibition clarifies perception and enables decision-making.
+- **Lateral Inhibition** - When two or more neurons inhibit each other, only one remains active. Lateral inhibition helps clarify perception and enables decision-making.
 
 ![screenshot](circuit2.png)
 
 ## How To Build Brains ##
-1. Describe the behavior you want to model. 
-2. Describe the different parts of the behavior.
-3. Design a spiking neural netwrok for each of part. Begin by placing neurons in the brain. Neurons can be quiet or bursting, and excitatory or inhibitory. Connect sensors to neurons. Visual stimuli can be red, blue, green or one of 16 common objects, and can be on the left, right or anywhere in the visual field. Distance stimuli can be near, medium or far. Connect neurons to effectors. The left and right motors go forward or backward. The lights turn red, blue and green. The speaker makes tones (50-4950 Hz). Connect neurons to other neurons. Synapses can be excitatory or inhibitory (-100-100).
-4. Connect the neural networks with inhibitory neurons so their behaviors don't interfere.
+1. Describe the behavior you want to model.
+2. Break down the behavior into its components.
+3. Design a spiking neural network for each component:
+    - Place neurons in the brain. Neurons can be quiet, bursting, excitatory, or inhibitory.
+    - Connect sensors to neurons. Visual stimuli can be red, blue, green, or one of 16 common objects. They can appear on the left, right, or anywhere in the visual field. Distance stimuli can be near, medium, or far.
+    - Connect neurons to effectors. The left and right motors can move forward or backward. The lights can turn red, blue, or green. The speaker can produce tones.
+    - Connect neurons to other neurons. Synapses can be excitatory or inhibitory.
+4. Use inhibitory connections between networks to prevent conflicting behaviors.
 
 ## Examples ##
-To download a brain, click download and save the text file to your Documents/spikerbot/text folder
-
 ### Behavior: Avoid Obstacles ###
 **Brain**: A single neuron is activated by the distance sensor, driving the robot backwards while blinking and beeping.
 

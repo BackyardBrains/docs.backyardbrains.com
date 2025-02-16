@@ -26,7 +26,7 @@ const config = {
     [
       '@docusaurus/plugin-google-tag-manager',
       {
-        containerId: 'GTM-MQ6VGM3W', // Replace with your real GTM ID
+        containerId: 'GTM-K3GMCF3Q', // Replace with your real GTM ID
       },
     ],
   ],

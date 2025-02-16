@@ -1,9 +1,9 @@
 ---
-id: "muscle_spikerbox"
-title: "Muscle SpikerBox"
-slug: "/human/muscle-spikerbox"
+id: "muscle_spikerbox_classic"
+title: "Muscle SpikerBox Classic"
+slug: "/human/muscle-spikerbox-classic"
 sidebar_position: 6
-sidebar_label: Muscle SpikerBox
+sidebar_label: "Muscle SpikerBox Classic"
 ---
 
 # Muscle SpikerBox #

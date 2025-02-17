@@ -9,7 +9,6 @@ The [SpikerBot robot](https://docs.backyardbrains.com/Neuroengineering/Pre-Relea
 - Drag and drop neurons from the panel on the left into the brain area.
 - Drag the handle that appears under selected neurons to form synapses.
 - Press **Play** to put your brain in control of the robot and see what it does.
-<br />
 
 ![screenshot](screenshot1.png)
 
@@ -37,17 +36,23 @@ The [SpikerBot robot](https://docs.backyardbrains.com/Neuroengineering/Pre-Relea
 4. Use inhibitory connections between networks to prevent conflicting behaviors.
 
 ## Examples ##
+To download a brain, click **Download Brain**, save the file to your computer, and place the unzipped text file in your **Documents/spikerbot/text** folder.
+
 ### Behavior: Avoid Obstacles ###
 **Brain**: A single neuron is activated by the distance sensor, driving the robot backwards while blinking and beeping.
 
 ![screenshot](brain1.png)
 
+[Download Brain](./AvoidObstacles.zip)
+
 ---
 
-### Behavior: Approach Red ###
-**Brain**: Two neurons respond to a visual target appearing on the left or right, driving the wheel on the opposite side forward.
+### Behavior: Approach Green ###
+**Brain**: Two neurons respond to a visual target (green) appearing on the left and/or right side of the brain, driving the wheel on the opposite side forward.
 
 ![screenshot](brain2.png)
+
+[Download Brain](./ApproachGreen.zip)
 
 ---
 
@@ -80,10 +85,11 @@ The [SpikerBot robot](https://docs.backyardbrains.com/Neuroengineering/Pre-Relea
 ---
 
 ### Behavior: Explore Unless Seeing Green ###
-**Video**: https://youtu.be/RObP80CZoho
 **Brain**: 
 
 ![screenshot](brain7.jpg)
+
+**Video**: https://youtu.be/RObP80CZoho
 
 ---
 

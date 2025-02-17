@@ -3,9 +3,9 @@ sidebar_position: 2
 sidebar_label: The SpikerBot App
 ---
 # The SpikerBot App #
-The [SpikerBot robot](https://docs.backyardbrains.com/Neuroengineering/Pre-Release/SpikerBot/) is meant to be used with the SpikerBot app, available for Windows, macOS, iOS, Android and Chrome at [robot.backardbrains.com](https://robot.backyardbrains.com). The app is a neural network simulator that receives sensory data from the robot while controlling its behavior.
+The [SpikerBot robot](https://docs.backyardbrains.com/Neuroengineering/Pre-Release/SpikerBot/) is meant to be used with the SpikerBot app, available for Windows, macOS, iOS, Android and Chrome at [robot.backyardbrains.com](https://robot.backyardbrains.com). The app is a neural network simulator that receives sensory data from the robot while controlling its behavior.
 
-## How the app works ##
+## How The App Works ##
 - Drag and drop neurons from the panel on the left into the brain area.
 - Drag the handle that appears under selected neurons to form synapses.
 - Press **Play** to put your brain in control of the robot and see what it does.
@@ -13,8 +13,8 @@ The [SpikerBot robot](https://docs.backyardbrains.com/Neuroengineering/Pre-Relea
 ![screenshot](screenshot1.png)
 
 ## Neurons ##
-- **Activity Mode** – Neurons can be silent or spontaneously active. They can generate spikes individually or in bursts.
-- **Synaptic Polarity** - Neurons can either excite or inhibit activity in their synaptic targets
+- **Activity Mode** - Neurons can be silent or spontaneously active. They can generate spikes individually or in bursts.
+- **Synaptic Polarity** - Neurons can either excite or inhibit their synaptic targets
 
 ## Neural Circuits ##
 - **Recurrent Excitation** - When two or more neurons excite each other, they create a feedback loop that can sustain activity indefinitely. This process underlies behaviors such as walking, breathing, or holding a thought in memory.
@@ -48,7 +48,7 @@ To download a brain, click **Download Brain**, save the file to your computer, a
 ---
 
 ### Behavior: Approach Green ###
-**Brain**: Two neurons respond to a visual target (green) appearing on the left and/or right side of the brain, driving the wheel on the opposite side forward.
+**Brain**: Two neurons respond to a green visual target appearing to the left or right. If the target appears on the left, the right wheel moves forward, and vice versa.
 
 ![screenshot](brain2.png)
 
@@ -109,4 +109,4 @@ To download a brain, click **Download Brain**, save the file to your computer, a
 
 ## Troubleshooting ##
 1. No Response from Robot: Check that it's turned on and charged.
-2. Wi-Fi Connection Issues: Ensure you're connected to the correct robot’s Wi-Fi network, the robot’s LEDs should change from blue to green when the WiFi connection is established.
+2. Wi-Fi Connection Issues: Ensure you're connected to the correct robot's Wi-Fi network. The robot's lights should change from blue to green when the Wi-Fi connection with your device is established.

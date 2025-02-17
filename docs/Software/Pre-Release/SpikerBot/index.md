@@ -3,7 +3,9 @@ sidebar_position: 2
 sidebar_label: The SpikerBot App
 ---
 # The SpikerBot App #
-The [SpikerBot robot](https://docs.backyardbrains.com/Neuroengineering/Pre-Release/SpikerBot/) is meant to be used with the SpikerBot app, available for Windows, macOS, iOS, Android and Chrome at [robot.backyardbrains.com](https://robot.backyardbrains.com). The app is a neural network simulator that receives sensory data from the robot while controlling its behavior.
+The SpikerBot app is the neural network simulator that controls the [SpikerBot](https://docs.backyardbrains.com/Neuroengineering/Pre-Release/SpikerBot/). It runs on multiple platforms and allows users to design and test custom brains in real-time.
+
+Get it here: [robot.backyardbrains.com](https://robot.backyardbrains.com).
 
 ## How The App Works ##
 - Drag and drop neurons from the panel on the left into the brain area.
@@ -14,7 +16,7 @@ The [SpikerBot robot](https://docs.backyardbrains.com/Neuroengineering/Pre-Relea
 
 ## Neurons ##
 - **Activity Mode** - Neurons can be silent or spontaneously active. They can generate spikes individually or in bursts.
-- **Synaptic Polarity** - Neurons can either excite or inhibit their synaptic targets
+- **Synaptic Polarity** - Neurons can either excite or inhibit their synaptic targets.
 
 ## Neural Circuits ##
 - **Recurrent Excitation** - When two or more neurons excite each other, they create a feedback loop that can sustain activity indefinitely. This process underlies behaviors such as walking, breathing, or holding a thought in memory.
@@ -36,7 +38,7 @@ The [SpikerBot robot](https://docs.backyardbrains.com/Neuroengineering/Pre-Relea
 4. Use inhibitory connections between networks to prevent conflicting behaviors.
 
 ## Examples ##
-To download a brain, click **Download Brain**, save the file to your computer, and place the unzipped text file in your **Documents/spikerbot/text** folder.
+To download a brain, click **Download Brain**, save the file to your computer, unzip and place the unzipped text file in your **Documents/spikerbot/text** folder.
 
 ### Behavior: Avoid Obstacles ###
 **Brain**: A single neuron is activated by the distance sensor, driving the robot backwards while blinking and beeping.

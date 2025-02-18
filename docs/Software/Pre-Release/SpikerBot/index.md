@@ -31,14 +31,14 @@ Get it here: [robot.backyardbrains.com](https://robot.backyardbrains.com).
 1. Describe the behavior you want to model.
 2. Break down the behavior into its components.
 3. Design a spiking neural network for each component:
-    - Place neurons in the brain. Neurons can be quiet, bursting, excitatory, or inhibitory.
+    - Place neurons in the brain. Neurons can be quiet or bursting, and excitatory or inhibitory.
     - Connect sensors to neurons. Visual stimuli can be red, blue, green, or one of 16 common objects. They can appear on the left, right, or anywhere in the visual field. Distance stimuli can be near, medium, or far.
-    - Connect neurons to effectors. The left and right motors can move forward or backward. The lights can turn red, blue, or green. The speaker can produce tones.
-    - Connect neurons to other neurons. Synapses can be excitatory or inhibitory.
+    - Connect neurons to effectors. The left and right motors can move forward or backward. The lights can turn red, blue, and green. The speaker can produce tones.
+    - Connect neurons to other neurons.
 4. Use inhibitory connections between networks to prevent conflicting behaviors.
 
 ## Examples ##
-Each example consists of a **behavior** and a **brain** that makes SpikerBot perform that behavior. Neurons are excitator unless otherwhise indicated.
+Each example consists of a **behavior** and a **brain** that makes SpikerBot perform that behavior. Neurons are excitatory unless otherwhise indicated.
 
 ### Behavior: Avoid Obstacles ###
 **Brain**: A quiet neuron responds to 'near' distance detection, and drives both wheels backward while activating the speaker and turning red lights on.

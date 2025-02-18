@@ -68,7 +68,7 @@ Each example consists of a **behavior** and a **brain** that makes SpikerBot per
 ---
 
 ### Behavior: Blink And Beep At Nearby People ###
-**Brain**: Two quiet neurons respond to people, and 'near' distance, respectively. Five quiet neurons activate different color lights and speaker tones. Both stimulus-detecting neurons synapse onto each of the behavior-generating neurons with weight 15 synapses (so that both must be active simultaneously to trigger a response).
+**Brain**: Two quiet neurons respond to people, and 'medium' distance, respectively. Five quiet neurons activate different color lights and speaker tones. A single quiet neuron sits inbetween. Both stimulus-detecting neurons synapse onto it with weight 15 synapses (so that both must be active simultaneously to trigger a response). The neuron, in turn, activates each of the five output neurons.
 
 [Download Brain](./BlinkAndBeepAtNearbyPeople.zip)
 

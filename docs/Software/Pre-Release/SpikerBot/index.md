@@ -38,72 +38,89 @@ Get it here: [robot.backyardbrains.com](https://robot.backyardbrains.com).
 4. Use inhibitory connections between networks to prevent conflicting behaviors.
 
 ## Examples ##
-To download a brain, click **Download Brain**, save the file to your computer, unzip and place the unzipped text file in your **Documents/spikerbot/text** folder.
+Each example consists of a **behavior** and a **brain** that makes SpikerBot perform that behavior. Neurons are excitator unless otherwhise indicated.
 
 ### Behavior: Avoid Obstacles ###
-**Brain**: A single neuron is activated by the distance sensor, driving the robot backwards while blinking and beeping.
-
-![screenshot](brain1.png)
+**Brain**: A quiet neuron responds to 'near' distance detection, and drives both wheels backward while activating the speaker and turning red lights on.
 
 [Download Brain](./AvoidObstacles.zip)
+
+![screenshot](brain1.png)
 
 ---
 
 ### Behavior: Approach Green ###
-**Brain**: Two neurons respond to a green visual target appearing to the left or right. If the target appears on the left, the right wheel moves forward, and vice versa.
-
-![screenshot](brain2.png)
+**Brain**: A quiet neuron responds to a green visual target appearing to the left, and drives the right wheel forward. A second quiet neuron responds to green appearing on the right, and drives the left wheel forward. Both neurons activate the speaker and turn on green lights.
 
 [Download Brain](./ApproachGreen.zip)
+
+![screenshot](brain2.png)
 
 ---
 
 ### Behavior: Explore ###
-**Brain**: Five bursting neurons activate the motors at random intervals. A single quiet distance sensing neuron produces backward movement.
+**Brain**: Five burst-generating neurons drive the wheels in different directions. A single quiet neurons is activated by 'near' distance-detection and drives both wheels backward.
+
+[Download Brain](./Explore.zip)
 
 ![screenshot](brain3.png)
 
 ---
 
 ### Behavior: Blink And Beep At Nearby People ###
-**Brain**: A single quiet neuron responds to seeing people, and activates five light-and-sound producing neurons at random intervals.
+**Brain**: Two quiet neurons respond to people, and 'near' distance, respectively. Five quiet neurons activate different color lights and speaker tones. Both stimulus-detecting neurons synapse onto each of the behavior-generating neurons with weight 15 synapses (so that both must be active simultaneously to trigger a response).
+
+[Download Brain](./BlinkAndBeepAtNearbyPeople.zip)
 
 ![screenshot](brain4.png)
 
 ---
 
 ### Behavior: Sustained Movement ###
-**Brain**: Two neurons strongly activate each other, forming a recurrent excitatory circuit. Both neurons drive the robot forward. A sensory neuron detects green and activates the recurrent circuit. A second, inhibitory sensory neuron detects red and stops the recurrent circuit.
+**Brain**: Two quiet neurons strongly activate each other (forming a recurrent excitatory circuit that can sustain activation indefinitely). Each neuron drives one of the wheels forward. A quiet neuron detects green and activates the recurrent circuit. A second, inhibitory quiet neuron responds to red, and stops the recurrent circuit.
+
+[Download Brain](./SustainedMovement.zip)
 
 ![screenshot](brain5.png)
+
 
 ---
 
 ### Behavior: Make Decisions ###
 **Brain**: Two recurrent excitatory circuits drive the robot forward and backward, respectively. Two sensory neurons respond to green and red, respectively. The green-detecting neuron activates the forward circuit and inhibits the backward circuit. The red-detecting neuron has the opposite effect.
 
+[Download Brain](./MakeDecisions.zip)
+
 ![screenshot](brain6.png)
 
 ---
 
 ### Behavior: Explore Unless Seeing Green ###
-**Brain**: 
+**Video**: https://youtu.be/RObP80CZoho
+
+**Brain**: Eight excitatory neurons and one inhibitory neuron.
+
+[Download Brain](./ExploreUnlessSeeingGreen.zip)
 
 ![screenshot](brain7.jpg)
 
-**Video**: https://youtu.be/RObP80CZoho
+
 
 ---
 
 ### Behavior: Thigmotaxis ###
-**Brain**: 
+**Brain**: Fourteen excitatory neurons and two inhibitory neurons.
+
+[Download Brain](./Thigmotaxis.zip)
 
 ![screenshot](brain8.jpg)
 
 ---
 
 ### Behavior: Find and Chase Red ###
-**Brain**: 
+**Brain**: Thirteen excitatory neurons and one inhibitory neuron.
+
+[Download Brain](./FindAndChaseRed.zip)
 
 ![screenshot](brain9.jpg)
 

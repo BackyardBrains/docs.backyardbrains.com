@@ -1,6 +1,9 @@
 ---
 id: policies_style_guide
-title: Style Guide
+title: "Backyard Brains Style Guide"
+slug: "/policies/style-guide"
+sidebar_position: 1
+sidebar_label: "Style Guide"
 ---
 
 # Style Guide #

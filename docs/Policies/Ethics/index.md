@@ -1,6 +1,9 @@
 ---
-id: policies_ethics
-title: Ethics
+id: "ethical_issues_regarding_the_use_of_invertebrates_in_education"
+title: "Ethical Issues Regarding the Use of Invertebrates in Education"
+slug: "/policies/ethics/ethical-issues-regarding-the-use-of-invertebrates-in-education"
+sidebar_position: 1
+sidebar_label: "Ethics of Invertebrates Use"
 ---
 # Ethical Issues Regarding the Use of Invertebrates in Education #
 

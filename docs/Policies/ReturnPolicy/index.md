@@ -1,6 +1,9 @@
 ---
-id: policies_return_policy
-title: Return Policy
+id: "return_policy"
+title: "Backyard Brains Return Policy"
+slug: "/policies/return-policy"
+sidebar_position: 2
+sidebar_label: "Return Policy"
 ---
 
 # Return Policy #

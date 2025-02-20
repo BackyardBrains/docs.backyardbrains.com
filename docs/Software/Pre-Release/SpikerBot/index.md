@@ -38,10 +38,10 @@ Get it here: [robot.backyardbrains.com](https://robot.backyardbrains.com).
 4. Use inhibitory connections between networks to prevent conflicting behaviors.
 
 ## Examples ##
-Each example consists of a **behavior** and a **brain** that makes SpikerBot perform that behavior. Neurons are excitatory unless otherwhise indicated.
+Each example consists of a **behavior** and a **brain** that makes SpikerBot perform that behavior. Neurons are quiet and excitatory unless otherwise indicated.
 
 ### Behavior: Avoid Obstacles ###
-**Brain**: A quiet neuron responds to 'near' distance detection, and drives both wheels backward while activating the speaker and turning red lights on.
+**Brain**: A neuron responds to distance detection, and drives both wheels backward while activating the speaker and turning red lights on.
 
 [Download Brain](./AvoidObstacles.zip)
 
@@ -50,7 +50,7 @@ Each example consists of a **behavior** and a **brain** that makes SpikerBot per
 ---
 
 ### Behavior: Approach Green ###
-**Brain**: A quiet neuron responds to a green visual target appearing to the left, and drives the right wheel forward. A second quiet neuron responds to green appearing on the right, and drives the left wheel forward. Both neurons activate the speaker and turn on green lights.
+**Brain**: A neuron responds to a green visual target appearing to the left, and drives the right wheel forward. A second neuron responds to green appearing on the right, and drives the left wheel forward. Both neurons activate the speaker and turn on green lights.
 
 [Download Brain](./ApproachGreen.zip)
 
@@ -59,7 +59,7 @@ Each example consists of a **behavior** and a **brain** that makes SpikerBot per
 ---
 
 ### Behavior: Explore ###
-**Brain**: Five burst-generating neurons drive the wheels in different directions. A single quiet neurons is activated by 'near' distance-detection and drives both wheels backward.
+**Brain**: Five spontaneously active neurons drive the wheels in different directions. A single neurons is activated by distance detection and drives both wheels backward.
 
 [Download Brain](./Explore.zip)
 
@@ -68,7 +68,7 @@ Each example consists of a **behavior** and a **brain** that makes SpikerBot per
 ---
 
 ### Behavior: Blink And Beep At Nearby People ###
-**Brain**: Two quiet neurons respond to people, and 'medium' distance, respectively. Five quiet neurons activate different color lights and speaker tones. A single quiet neuron sits inbetween. Both stimulus-detecting neurons synapse onto it with weight 15 synapses (so that both must be active simultaneously to trigger a response). The neuron, in turn, activates each of the five output neurons.
+**Brain**: Two neurons respond to people, and distance, respectively. Five neurons activate different light colors and speaker tones. A neuron sits inbetween. Both stimulus-detecting neurons synapse onto it with weight 15 synapses (so that both must be active simultaneously to trigger a response). The neuron, in turn, activates each of the five output neurons.
 
 [Download Brain](./BlinkAndBeepAtNearbyPeople.zip)
 
@@ -77,7 +77,7 @@ Each example consists of a **behavior** and a **brain** that makes SpikerBot per
 ---
 
 ### Behavior: Sustained Movement ###
-**Brain**: Two quiet neurons strongly activate each other (forming a recurrent excitatory circuit that can sustain activation indefinitely). Each neuron drives one of the wheels forward. A quiet neuron detects green and activates the recurrent circuit. A second, inhibitory quiet neuron responds to red, and stops the recurrent circuit.
+**Brain**: Two neurons strongly activate each other (forming a recurrent excitatory circuit that can sustain activation indefinitely). Each neuron drives one of the wheels forward. A neuron detects green and activates the recurrent circuit. A second, inhibitory neuron responds to red, and stops the recurrent circuit.
 
 [Download Brain](./SustainedMovement.zip)
 
@@ -95,12 +95,12 @@ Each example consists of a **behavior** and a **brain** that makes SpikerBot per
 
 ---
 
-### Behavior: Explore Unless Seeing Green ###
+### Behavior: Search For Green ###
 **Video**: https://youtu.be/RObP80CZoho
 
-**Brain**: Eight excitatory neurons and one inhibitory neuron.
+**Brain**: Eight excitatory and one inhibitory neuron.
 
-[Download Brain](./ExploreUnlessSeeingGreen.zip)
+[Download Brain](./SearchForGreen.zip)
 
 ![screenshot](brain7.jpg)
 
@@ -109,7 +109,7 @@ Each example consists of a **behavior** and a **brain** that makes SpikerBot per
 ---
 
 ### Behavior: Thigmotaxis ###
-**Brain**: Fourteen excitatory neurons and two inhibitory neurons.
+**Brain**: Fourteen excitatory and two inhibitory neurons.
 
 [Download Brain](./Thigmotaxis.zip)
 
@@ -117,10 +117,10 @@ Each example consists of a **behavior** and a **brain** that makes SpikerBot per
 
 ---
 
-### Behavior: Find and Chase Red ###
-**Brain**: Thirteen excitatory neurons and one inhibitory neuron.
+### Behavior: Chase Red ###
+**Brain**: Thirteen excitatory and one inhibitory neuron.
 
-[Download Brain](./FindAndChaseRed.zip)
+[Download Brain](./ChaseRed.zip)
 
 ![screenshot](brain9.jpg)
 

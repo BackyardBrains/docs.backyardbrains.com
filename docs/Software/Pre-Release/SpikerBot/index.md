@@ -28,14 +28,14 @@ Get it here: [robot.backyardbrains.com](https://robot.backyardbrains.com).
 ![screenshot](circuit2.png)
 
 ## How To Build Brains ##
-1. Describe the behavior you want to model.
-2. Break down the behavior into its components.
-3. Design a spiking neural network for each component:
-    - Place neurons in the brain. Neurons can be quiet or bursting, and excitatory or inhibitory.
-    - Connect sensors to neurons. Visual stimuli can be red, blue, green, or one of 16 common objects. They can appear on the left, right, or anywhere in the visual field. Distance stimuli can be near, medium, or far.
-    - Connect neurons to effectors. The left and right motors can move forward or backward. The lights can turn red, blue, and green. The speaker can produce tones.
-    - Connect neurons to other neurons.
-4. Use inhibitory connections between networks to prevent conflicting behaviors.
+1. Define the target behavior.
+2. Break it into key components.
+3. Design a spiking neural network for each:
+    - Assign neurons (quiet/bursting, excitatory/inhibitory).
+    - Link sensors (color, object, location, distance).
+    - Connect neurons to effectors (motors, lights, speaker).
+    - Wire neurons together.
+4. Use inhibition to prevent conflicts.
 
 ## Examples ##
 Each example consists of a **behavior** and a **brain** that makes SpikerBot perform that behavior. Neurons are quiet and excitatory unless otherwise indicated.

@@ -36,6 +36,32 @@ Download sizes:
 - [Small (150px)](./BYBLogo_150.png)
 - [Large (1200px)](./BYBLogo_1200.png)
 
+<style>
+    .colorTable {
+        width: 100%;
+    }
+    .colorTable th {
+        background: #f5f5f5;
+        text-align: left;
+        padding: 8px;
+    }
+    .colorTable td {
+        padding: 8px;
+    }
+    .colorTable tr:nth-child(2) td:nth-child(1) { background: #000000; color: black; }
+    .colorTable tr:nth-child(3) td:nth-child(1) { background: #FD8164; color: black; }
+    .colorTable tr:nth-child(4) td:nth-child(1) { background: #D01BA4; color: black; }
+    .colorTable tr:nth-child(5) td:nth-child(1) { background: #FEC52E; color: black; }
+    .colorTable tr:nth-child(6) td:nth-child(1) { background: #18A953; color: black; }
+    .colorTable tr:nth-child(7) td:nth-child(1) { background: #1996FC; color: black; }
+    
+    .colorTable tr:nth-child(2) td:nth-child(3) { background: #000000; color: white; }
+    .colorTable tr:nth-child(3) td:nth-child(3) { background: #FD8164; color: white; }
+    .colorTable tr:nth-child(4) td:nth-child(3) { background: #D01BA4; color: white; }
+    .colorTable tr:nth-child(5) td:nth-child(3) { background: #FEC52E; color: white; }
+    .colorTable tr:nth-child(6) td:nth-child(3) { background: #18A953; color: white; }
+    .colorTable tr:nth-child(7) td:nth-child(3) { background: #1996FC; color: white; }
+</style>
 
 ## Brand Colors
 
@@ -43,30 +69,37 @@ Our color palette is carefully chosen to represent different product categories 
 
 ### Primary Colors
 
-<div class="colorTable">
-
 | Color Name | Hex Code | Product Category | Usage |
 |------------|----------|------------------|--------|
-| White | #FFFFFF | All | Backgrounds, illustrations |
-| Black | #000000 | All | Text, illustrations |
-| Ambiguous Orange | #FD8164 | All | Accent, color pops, Neuroscience callouts |
-| Intracellular Magenta | #D01BA4 | Neuron | Accent, color pops for Neuron product line/educational content |
-| Simpsonish Yellow | #FEC52E | Human | Accent, color pops for Human product line/educational content |
-| Growin' Green | #18A953 | Plant | Accent, color pops for Plant product line/educational content |
-| Book and Robot Blue | #1996FC | Neural Engineering | Accent, color pops for robot/code product line/educational content |
+| <div style={{color: 'black', backgroundColor: '#FFFFFF'}}>White</div> | #FFFFFF | <div style={{color: 'white', backgroundColor: '#FFFFFF'}}>All</div> | Backgrounds, illustrations |
+| <div style={{color: 'black', backgroundColor: '#000000'}}>Black</div> | #000000 | <div style={{color: 'white', backgroundColor: '#000000'}}>All</div> | Text, illustrations |
+| <div style={{color: 'black', backgroundColor: '#FD8164'}}>Ambiguous Orange</div> | #FD8164 | <div style={{color: 'white', backgroundColor: '#FD8164'}}>All</div> | Accent, color pops, Neuroscience callouts |
+| <div style={{color: 'black', backgroundColor: '#D01BA4'}}>Intracellular Magenta</div> | #D01BA4 | <div style={{color: 'white', backgroundColor: '#D01BA4'}}>Neuron</div> | Accent, color pops for Neuron product line/educational content |
+| <div style={{color: 'black', backgroundColor: '#FEC52E'}}>Simpsonish Yellow</div> | #FEC52E | <div style={{color: 'white', backgroundColor: '#FEC52E'}}>Human</div> | Accent, color pops for Human product line/educational content |
+| <div style={{color: 'black', backgroundColor: '#18A953'}}>Growin' Green</div> | #18A953 | <div style={{color: 'white', backgroundColor: '#18A953'}}>Plant</div> | Accent, color pops for Plant product line/educational content |
+| <div style={{color: 'black', backgroundColor: '#1996FC'}}>Book and Robot Blue</div> | #1996FC | <div style={{color: 'white', backgroundColor: '#1996FC'}}>Neural Engineering</div> | Accent, color pops for robot/code product line/educational content |
 
-</div>
-
+<style>
+    .supportTable {
+        width: 100%;
+    }
+    .supportTable th {
+        background: #f5f5f5;
+        text-align: left;
+        padding: 8px;
+    }
+    .supportTable td {
+        padding: 8px;
+    }
+    .supportTable tr:nth-child(1) td:nth-child(1) { background: #FFCDBE; color: black; }
+    .supportTable tr:nth-child(1) td:nth-child(3) { background: #FFCDBE; color: white; }
+</style>
 
 ### Support Colors
 
-<div class="supportTable">
-
 | Color Name | Hex Code | Product Category | Usage |
 |------------|----------|------------------|--------|
-| Tinted Support Orange 1 | #FFCDBE | All | Used to support the main brand color when multiple tints are needed |
-
-</div>
+| <div style={{color: 'black', backgroundColor: '#FFCDBE'}}>Tinted Support Orange 1</div> | #FFCDBE | <div style={{color: 'white', backgroundColor: '#FFCDBE'}}>All</div> | Used to support the main brand color when multiple tints are needed |
 
 ## Illustration Style
 

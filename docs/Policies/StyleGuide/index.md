@@ -75,7 +75,7 @@ We hire multiple illustrators to create a consistent style. Here are some exampl
 
 | Cristina Mezuk | Matteo Farinella |
 |-----------------|-------------------|
-| ![Cockroach Hoodie Illustration](./expCockroachhoodie.jpg) | ![Mosquito Illustration](./expMosquitoLoveSongs-MaleSwipe.png) |
+| ![Cockroach Hoodie Illustration](./expCockroachhoodie.png) | ![Mosquito Illustration](./expMosquitoLoveSongs-MaleSwipe.png) |
 
 While each illustrator has their own unique style, they all follow the same guidelines.
 

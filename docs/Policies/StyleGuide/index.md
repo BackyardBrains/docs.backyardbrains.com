@@ -53,7 +53,7 @@ Our color palette is carefully chosen to represent different product categories 
 | Neurogenta | #D01BA4 | Neuron | Accent, color pops for Neuron product line/educational content |
 | Simpsonish Yellow | #FEC52E | Human | Accent, color pops for Human product line/educational content |
 | Golgi Green | #18A953 | Plant | Accent, color pops for Plant product line/educational content |
-| Broca Blue | #1996FC | Neural Engineering | Accent, color pops for robotic, engineering, coding product line/educational content |
+| Broca Blue | #1996FC | Neural Engineering | Accents for engineering/coding products/educational content |
 
 </div>
 

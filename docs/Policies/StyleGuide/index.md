@@ -48,15 +48,13 @@ Download sizes:
     .colorTable td {
         padding: 8px;
     }
-    /* Column 1: Black text on color background */
     .colorTable tr:nth-child(2) td:nth-child(1) { background: #000000; color: black; }
     .colorTable tr:nth-child(3) td:nth-child(1) { background: #FD8164; color: black; }
     .colorTable tr:nth-child(4) td:nth-child(1) { background: #D01BA4; color: black; }
     .colorTable tr:nth-child(5) td:nth-child(1) { background: #FEC52E; color: black; }
     .colorTable tr:nth-child(6) td:nth-child(1) { background: #18A953; color: black; }
     .colorTable tr:nth-child(7) td:nth-child(1) { background: #1996FC; color: black; }
-
-    /* Column 3: White text on color background */
+    
     .colorTable tr:nth-child(2) td:nth-child(3) { background: #000000; color: white; }
     .colorTable tr:nth-child(3) td:nth-child(3) { background: #FD8164; color: white; }
     .colorTable tr:nth-child(4) td:nth-child(3) { background: #D01BA4; color: white; }
@@ -97,10 +95,7 @@ Our color palette is carefully chosen to represent different product categories 
     .supportTable td {
         padding: 8px;
     }
-    /* Column 1: Black text on color background */
     .supportTable tr:nth-child(1) td:nth-child(1) { background: #FFCDBE; color: black; }
-    
-    /* Column 3: White text on color background */
     .supportTable tr:nth-child(1) td:nth-child(3) { background: #FFCDBE; color: white; }
 </style>
 

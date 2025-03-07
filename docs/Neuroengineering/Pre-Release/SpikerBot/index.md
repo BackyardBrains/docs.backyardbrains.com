@@ -12,8 +12,8 @@ SpikerBot is a **neurorobot**: a robot controlled by a computer model of a biolo
 ## Getting Started with SpikerBot ##
 
 1. **Power on**: Flip the switch under the robot.
-2. **Connect via Wi-Fi**: Find the network name (written on the robot).
-3. **Wait for green LEDs**: Indicates successful connection.
+2. **Connect Wi-Fi**: Find the network name (written on the robot).
+3. **Wait for green lights**: Indicates successful connection.
 4. **Press Play in the SpikerBot app** to run a brain.
 
 ![robot-app connection](./wifi.png)
@@ -21,19 +21,19 @@ SpikerBot is a **neurorobot**: a robot controlled by a computer model of a biolo
 Once connected, SpikerBot relies on its **sensors** to detect the environment and **effectors** to act.
 
 ## SpikerBot’s Sensors ##
-SpikerBot is equipped with a camera and a distance sensor. The **camera** detects red, blue, and green, as well as 16 objects in real-time. Detection can be localized to the left or right side of the visual field. The **distance sensor** identifies objects at varying proximities: ‘far’ (100-20 cm), ‘medium’ (20-5 cm), and ‘near’ (less than 5 cm) directly in front of the robot.
+SpikerBot is equipped with a camera and a distance sensor. The **camera** detects red, blue, and green, as well as 16 objects, including people. Detection can be localized to the left or right side of the visual field. The **distance sensor** identifies objects at varying proximities: ‘far’ (100-20 cm), ‘medium’ (20-5 cm), and ‘near’ (less than 5 cm) directly in front of the robot.
 
 ## SpikerBot’s Effectors ##
-SpikerBot features two independently controlled motors, four LED lights, and a speaker. The **motors** allow precise control of direction and speed for each wheel. The **lights** can be set to different colors independently, enabling dynamic visual signals. Additionally, the **speaker** can generate tones ranging from 50 to 4950 Hz for auditory communication.
+SpikerBot features two independently controlled motors, four lights, and a speaker. The **motors** allow precise control of direction and speed for each wheel. The **lights** can be set to different colors independently, enabling dynamic visual signals. Additionally, the **speaker** can generate tones ranging from 50 to 4950 Hz for auditory communication.
 
 ## Technical Specifications ##
 
 |||
 |---|---|
-|CPU |  |
-|Camera |  |
-|Power |  |
-|Wi-Fi |  |
+|CPU | ESP32 |
+|Camera | 320x240 |
+|Power | 4x AA |
+|Wi-Fi | 2.4 GHz |
 |Switch | On/Off |
 |||
 

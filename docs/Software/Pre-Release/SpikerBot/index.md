@@ -2,6 +2,7 @@
 sidebar_position: 2
 sidebar_label: The SpikerBot App
 ---
+
 # The SpikerBot App #
 The SpikerBot app is the neural network simulator that controls the [SpikerBot](https://docs.backyardbrains.com/Neuroengineering/Pre-Release/SpikerBot/). It runs on multiple platforms and allows users to design and test custom brains in real-time.
 
@@ -15,7 +16,7 @@ Get it here: [robot.backyardbrains.com](https://robot.backyardbrains.com).
 ![screenshot](screenshot1.png)
 
 ## Neurons ##
-- **Activity Mode** - Neurons can be silent or spontaneously active. They can generate spikes individually or in bursts.
+- **Activity Mode** - Neurons can be quiet or spontaneously active. They can generate spikes individually or in bursts.
 - **Synaptic Polarity** - Neurons can either excite or inhibit their synaptic targets.
 
 ## Neural Circuits ##
@@ -68,7 +69,7 @@ Each example consists of a **behavior** and a **brain** that makes SpikerBot per
 ---
 
 ### Behavior: Blink And Beep At Nearby People ###
-**Brain**: Two neurons respond to people, and distance, respectively. Five neurons activate different light colors and speaker tones. A neuron sits inbetween. Both stimulus-detecting neurons synapse onto it with weight 15 synapses (so that both must be active simultaneously to trigger a response). The neuron, in turn, activates each of the five output neurons.
+**Brain**: Two neurons respond to people, and distance, respectively. Five neurons activate different light colors and speaker tones. A neuron sits inbetween. Both stimulus-detecting neurons synapse onto the in-between neuron with weak synapses (weight 15) so that both must be active  to trigger a response. That neuron, in turn, activates the five output neurons.
 
 [Download Brain](./BlinkAndBeepAtNearbyPeople.zip)
 
@@ -103,8 +104,6 @@ Each example consists of a **behavior** and a **brain** that makes SpikerBot per
 [Download Brain](./SearchForGreen.zip)
 
 ![screenshot](brain7.jpg)
-
-
 
 ---
 

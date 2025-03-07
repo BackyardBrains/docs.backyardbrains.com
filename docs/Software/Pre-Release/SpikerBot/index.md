@@ -44,7 +44,7 @@ Each example consists of a **behavior** and a **brain** that makes SpikerBot per
 ### Behavior: Avoid Obstacles ###
 **Brain**: A neuron responds to distance detection, and drives both wheels backward while activating the speaker and turning red lights on.
 
-[Download Brain](./AvoidObstacles.zip)
+[Download Brain](./AvoidObstacles@@@@@@1741355891776312.zip)
 
 ![screenshot](brain1.png)
 
@@ -53,7 +53,7 @@ Each example consists of a **behavior** and a **brain** that makes SpikerBot per
 ### Behavior: Approach Green ###
 **Brain**: A neuron responds to a green visual target appearing to the left, and drives the right wheel forward. A second neuron responds to green appearing on the right, and drives the left wheel forward. Both neurons activate the speaker and turn on green lights.
 
-[Download Brain](./ApproachGreen.zip)
+[Download Brain](./ApproachGreen@@@@@@1741374496739371.zip)
 
 ![screenshot](brain2.png)
 
@@ -62,7 +62,7 @@ Each example consists of a **behavior** and a **brain** that makes SpikerBot per
 ### Behavior: Explore ###
 **Brain**: Five spontaneously active neurons drive the wheels in different directions. A single neurons is activated by distance detection and drives both wheels backward.
 
-[Download Brain](./Explore.zip)
+[Download Brain](./ExploExplore@@@@@@1741374617065859.zip)
 
 ![screenshot](brain3.png)
 
@@ -71,7 +71,7 @@ Each example consists of a **behavior** and a **brain** that makes SpikerBot per
 ### Behavior: Blink And Beep At Nearby People ###
 **Brain**: Two neurons respond to people, and distance, respectively. Five neurons activate different light colors and speaker tones. A neuron sits inbetween. Both stimulus-detecting neurons synapse onto the in-between neuron with weak synapses (weight 15) so that both must be active  to trigger a response. That neuron, in turn, activates the five output neurons.
 
-[Download Brain](./BlinkAndBeepAtNearbyPeople.zip)
+[Download Brain](./GreetNearbyPeople@@@@@@1741374676649059.zip)
 
 ![screenshot](brain4.png)
 
@@ -80,7 +80,7 @@ Each example consists of a **behavior** and a **brain** that makes SpikerBot per
 ### Behavior: Sustained Movement ###
 **Brain**: Two neurons strongly activate each other (forming a recurrent excitatory circuit that can sustain activation indefinitely). Each neuron drives one of the wheels forward. A neuron detects green and activates the recurrent circuit. A second, inhibitory neuron responds to red, and stops the recurrent circuit.
 
-[Download Brain](./SustainedMovement.zip)
+[Download Brain](./SustainedMovement@@@@@@1741357186235744.zip)
 
 ![screenshot](brain5.png)
 
@@ -90,7 +90,7 @@ Each example consists of a **behavior** and a **brain** that makes SpikerBot per
 ### Behavior: Make Decisions ###
 **Brain**: Two recurrent excitatory circuits drive the robot forward and backward, respectively. Two sensory neurons respond to green and red, respectively. The green-detecting neuron activates the forward circuit and inhibits the backward circuit. The red-detecting neuron has the opposite effect.
 
-[Download Brain](./MakeDecisions.zip)
+[Download Brain](./MakeDecisions@@@@@@1741357550554323.zip)
 
 ![screenshot](brain6.png)
 
@@ -101,7 +101,7 @@ Each example consists of a **behavior** and a **brain** that makes SpikerBot per
 
 **Brain**: Eight excitatory and one inhibitory neuron.
 
-[Download Brain](./SearchForGreen.zip)
+[Download Brain](./SearchForGreen@@@@@@1741374814353702.zip)
 
 ![screenshot](brain7.png)
 
@@ -110,7 +110,7 @@ Each example consists of a **behavior** and a **brain** that makes SpikerBot per
 ### Behavior: Thigmotaxis ###
 **Brain**: Fourteen excitatory and two inhibitory neurons.
 
-[Download Brain](./Thigmotaxis.zip)
+[Download Brain](./Thigmotaxis@@@@@@1741374894177525.zip)
 
 ![screenshot](brain8.png)
 
@@ -119,7 +119,7 @@ Each example consists of a **behavior** and a **brain** that makes SpikerBot per
 ### Behavior: Chase Red ###
 **Brain**: Thirteen excitatory and one inhibitory neuron.
 
-[Download Brain](./ChaseRed.zip)
+[Download Brain](./ChaseRed@@@@@@1741361409563828.zip)
 
 ![screenshot](brain9.png)
 

@@ -103,7 +103,7 @@ Each example consists of a **behavior** and a **brain** that makes SpikerBot per
 
 [Download Brain](./SearchForGreen.zip)
 
-![screenshot](brain7.jpg)
+![screenshot](brain7.png)
 
 ---
 
@@ -112,7 +112,7 @@ Each example consists of a **behavior** and a **brain** that makes SpikerBot per
 
 [Download Brain](./Thigmotaxis.zip)
 
-![screenshot](brain8.jpg)
+![screenshot](brain8.png)
 
 ---
 
@@ -121,7 +121,7 @@ Each example consists of a **behavior** and a **brain** that makes SpikerBot per
 
 [Download Brain](./ChaseRed.zip)
 
-![screenshot](brain9.jpg)
+![screenshot](brain9.png)
 
 ---
 

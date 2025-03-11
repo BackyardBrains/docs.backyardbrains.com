@@ -1,20 +1,35 @@
 ---
 id: spikerbit_project_wargame
+title: "Spiker:Bit Project - The War Game"
+slug: /Neuroengineering/SpikerBit/Projects/WarGame
 sidebar_position: 11
 sidebar_label: The War Game
 description: Never lose to the powerful red army with 10000 power again
 ---
 
-# The War Game
+# The War Game #
 ![WARGaming](./WARGaming.png)
 
 |     |       |
 |--------------|--------------
 | Inventor     | Todor Šolajić and Mila Urošević            
-| micro:bit IDE     | Block Code 
+| micro:bit IDE     | MakeCode Editor 
 | Best Location     | Classroom
 
-## Project Overview
+#### Difficulty ####
+
+|     |       |
+|--------------|--------------
+| Hardware     | N/A           
+| Software     | Medium
+
+
+#### Special Requirement ####
+|     |       |
+|--------------|--------------
+| None   | 
+
+## Project Overview ##
 Are you tired of the powerful red army always winning over your troops? Well, fear no more,
 because we have a solution for you! The War Game is a fun 2-player game which tests your
 logical skills and makes the time fly by.
@@ -26,21 +41,16 @@ We used two Spiker:bit kits with micro:bit, electrodes and cables combined with 
 programming skills to bring this idea to life.
 
 
-## Materials needed
-- 2x Spiker:bit and micro:bit, including two emg cables
-- Cosmetics for making your armies this can be:
-      Action figures
-      Paper with red and blue stick figures
-      3D printed casings in red and blue
+## Materials needed ##
+- 2x spiker:bit kit (spiker:bit, 3x electrodes, and 1x orange cable)
+- 2x micro:bit
 
-## Coding
-At first we needed to make the game accessible to everybody, which is why we needed to
-create a separate code that automatically measures the strength each player needs to use
-to make each move. This is important because the strength needed differs from person to
-person and it also depends on the placement of electrolytes. We achieved this with the
-following code:
+## Build Instruction ##
 
-We also needed to make sure the players made their moves at the same time for the game
+There are no required hardware components to this project.
+
+## Code ##
+We need to make sure the players made their moves at the same time for the game
 to work, which is why added the sound effects and time intervals:
 
 A big part of the game is the communication between the two micro:bits. We wanted them to
@@ -48,153 +58,321 @@ register which moves the players chose, but also to react to the other player’
 react based on that. With this communication we were able to program the micro:bits to
 automatically count and display the amount of arrows each player has, as well as count their
 lives and display the outcome in the end
-```
-def on_received_string(receivedString):
-    global life, DONE
-    if receivedString == "shoot":
-        if not (sentString == "shield"):
-            life = life - 1
-            basic.show_leds("""
-                . # . # .
-                . # . # .
-                . . . . .
-                . # # # .
-                # . . . #
-                """)
-    elif receivedString == "reload":
-        if sentString == "shoot":
-            basic.show_leds("""
-                . # . # .
-                . # . # .
-                . . . . .
-                # . . . #
-                . # # # .
-                """)
-    elif receivedString == "shield":
-        pass
-    elif receivedString == "LOSE":
-        DONE = True
-        basic.show_string("YOU WIN")
-    elif receivedString == "BAD":
-        if sentString == "shoot":
-            basic.show_leds("""
-                . # . # .
-                . # . # .
-                . . . . .
-                # . . . #
-                . # # # .
-                """)
-radio.on_received_string(on_received_string)
 
-index = 0
-maxsignal = 0
-y_position = 0
-x_position = 0
-DONE = False
-sentString = ""
-threshold_1 = 0
-threshold = 0
-val = 0
-life = 0
-basic.pause(3000)
-life = 3
-numShiled = 2
-allowShiled = 2
-ammo = 5
-StartTime = control.millis()
-music.play(music.tone_playable(262, music.beat(BeatFraction.HALF)),
-    music.PlaybackMode.UNTIL_DONE)
-while control.millis() - StartTime < 3000:
-    val = pins.analog_read_pin(AnalogPin.P0)
-    threshold = max(threshold, val)
-basic.pause(1000)
-StartTime = control.millis()
-music.play(music.tone_playable(262, music.beat(BeatFraction.HALF)),
-    music.PlaybackMode.UNTIL_DONE)
-while control.millis() - StartTime < 3000:
-    val = pins.analog_read_pin(AnalogPin.P0)
-    threshold_1 = max(threshold_1, val)
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
-def on_every_interval():
-    global x_position, y_position, StartTime, maxsignal, val, ammo, sentString, numShiled, index, DONE
-    if not (DONE):
-        radio.set_group(1)
-        x_position = 0
-        y_position = 0
-        # threshold = 100
-        # threshold_1 = 500
-        if life > 0:
-            music.play(music.tone_playable(262, music.beat(BeatFraction.WHOLE)),
-                music.PlaybackMode.UNTIL_DONE)
-            StartTime = control.millis()
-            maxsignal = 0
-            while control.millis() - StartTime < 1000:
-                val = pins.analog_read_pin(AnalogPin.P0)
-                if val > maxsignal:
-                    maxsignal = val
-            if maxsignal >= threshold_1:
-                if ammo > 0:
-                    ammo = ammo - 1
-                    sentString = "shoot"
-                    numShiled = 0
-                    radio.send_string("shoot")
-                    basic.show_leds("""
-                        . . # . .
-                        . # # # .
-                        . . # . .
-                        . . # . .
-                        . # . # .
-                        """)
-                    basic.clear_screen()
-                else:
-                    radio.send_string("BAD")
-            elif maxsignal < threshold * 0.7:
-                ammo = ammo + 1
-                numShiled = 0
-                sentString = "reload"
-                radio.send_string("reload")
-                basic.show_leds("""
-                    . . . . #
-                    . # . # #
-                    # # # . #
-                    . # . . #
-                    . . . . #
-                    """)
-                basic.clear_screen()
-            else:
-                if numShiled < allowShiled:
-                    sentString = "shield"
-                    numShiled = numShiled + 1
-                    radio.send_string("shield")
-                    basic.show_leds("""
-                        # . . . #
-                        . # . # .
-                        . . # . .
-                        . # . # .
-                        # . . . #
-                        """)
-                    basic.clear_screen()
-                else:
-                    radio.send_string("BAD")
-            if ammo < 0:
-                ammo = 0
-            if ammo > 10:
-                ammo = 10
-            index = 0
-            while index <= ammo - 1:
-                if index > 4:
-                    x_position = index % 5
-                    y_position = 3
-                else:
-                    x_position = index
-                    y_position = 4
-                led.plot(x_position, y_position)
-                index += 1
-        else:
-            radio.send_string("LOSE")
-            DONE = True
-            basic.show_string("YOU LOSE")
-loops.every_interval(9000, on_every_interval)
+<Tabs>
+  <TabItem value="Block" label="Block Code">
 
-```
+  ![Picture(s) of block code](./block_code1.png)
+
+  ![Picture(s) of block code](./block_code2.png)
+  
+  ![Picture(s) of block code](./block_code3.png)
+
+  ![Picture(s) of block code](./block_code4.png)
+
+  </TabItem>
+
+  <TabItem value="Python" label="Python" default>
+
+  ```py title="War Game"
+  def displayAmmo(ammo: number):
+      global index, x_position, y_position
+      if ammo < 0:
+          ammo = 0
+      if ammo > 10:
+          ammo = 10
+      index = 0
+      while index <= ammo - 1:
+          if index > 4:
+              x_position = index % 5
+              y_position = 3
+          else:
+              x_position = index
+              y_position = 4
+          led.plot(x_position, y_position)
+          index += 1
+
+  def on_received_string(receivedString):
+      global life, DONE
+      if receivedString == "shoot":
+          if not (sentString == "shield"):
+              life = life - 1
+              basic.pause(500)
+      elif receivedString == "reload":
+          if sentString == "shoot":
+              basic.pause(500)
+      elif receivedString == "shield":
+          pass
+      elif receivedString == "BAD":
+          if sentString == "shoot":
+              basic.pause(500)
+      elif receivedString == "DONE":
+          DONE = True
+          if life:
+              basic.show_string("YOU WIN")
+      if not (DONE):
+          basic.show_number(life)
+          basic.pause(500)
+          basic.clear_screen()
+          displayAmmo(ammo2)
+          if not (life):
+              basic.pause(100)
+              DONE = True
+              basic.clear_screen()
+              radio.send_string("DONE")
+              basic.show_string("YOU LOOSE")
+  radio.on_received_string(on_received_string)
+
+  numShiled = 0
+  signal = 0
+  DONE = False
+  sentString = ""
+  y_position = 0
+  x_position = 0
+  index = 0
+  life = 0
+  ammo2 = 0
+  spikerbit.start_muscle_recording()
+  radio.set_group(1)
+  displayAmmo(ammo2)
+  basic.pause(3000)
+  record_time = 500
+  life = 3
+  ammo2 = 5
+  allowShiled = 2
+  top_threshold = 200
+
+  def on_every_interval():
+      global x_position, y_position, signal, ammo2, sentString, numShiled
+      if not (DONE):
+          x_position = 0
+          y_position = 0
+          if life > 0:
+              base_threshold = 0
+              music.play(music.tone_playable(262, music.beat(BeatFraction.HALF)),
+                  music.PlaybackMode.UNTIL_DONE)
+              basic.pause(record_time)
+              signal = spikerbit.max_signal_in_last(record_time)
+              basic.clear_screen()
+              # SHOOT
+              # RELOAD
+              # SHIELD
+              if signal >= top_threshold:
+                  if ammo2 > 0:
+                      ammo2 = ammo2 - 1
+                      sentString = "shoot"
+                      numShiled = 0
+                      basic.show_leds("""
+                          . . # . .
+                          . # # # .
+                          . . # . .
+                          . . # . .
+                          . # . # .
+                          """)
+                      basic.pause(500)
+                      radio.send_string("shoot")
+                  else:
+                      radio.send_string("BAD")
+              elif signal == base_threshold:
+                  ammo2 = ammo2 + 1
+                  numShiled = 0
+                  sentString = "reload"
+                  basic.show_leds("""
+                      . . . . #
+                      . # . # #
+                      # # # . #
+                      . # . . #
+                      . . . . #
+                      """)
+                  basic.pause(500)
+                  radio.send_string("reload")
+              else:
+                  if numShiled < allowShiled:
+                      sentString = "shield"
+                      numShiled = numShiled + 1
+                      basic.show_leds("""
+                          # . . . #
+                          . # . # .
+                          . . # . .
+                          . # . # .
+                          # . . . #
+                          """)
+                      basic.pause(500)
+                      radio.send_string("shield")
+                  else:
+                      radio.send_string("BAD")
+  loops.every_interval(9000, on_every_interval)
+
+  ```
+  </TabItem>
+
+  <TabItem value="Js" label="Js">
+
+  ```py title="War Game"
+  function displayAmmo (ammo: number) {
+      if (ammo < 0) {
+          ammo = 0
+      }
+      if (ammo > 10) {
+          ammo = 10
+      }
+      index = 0
+      while (index <= ammo - 1) {
+          if (index > 4) {
+              x_position = index % 5
+              y_position = 3
+          } else {
+              x_position = index
+              y_position = 4
+          }
+          led.plot(x_position, y_position)
+          index += 1
+      }
+  }
+  radio.onReceivedString(function (receivedString) {
+      if (receivedString == "shoot") {
+          if (!(sentString == "shield")) {
+              life = life - 1
+              basic.pause(500)
+          }
+      } else if (receivedString == "reload") {
+          if (sentString == "shoot") {
+              basic.pause(500)
+          }
+      } else if (receivedString == "shield") {
+        
+      } else if (receivedString == "BAD") {
+          if (sentString == "shoot") {
+              basic.pause(500)
+          }
+      } else if (receivedString == "DONE") {
+          DONE = true
+          if (life) {
+              basic.showString("YOU WIN")
+          }
+      }
+      if (!(DONE)) {
+          basic.showNumber(life)
+          basic.pause(500)
+          basic.clearScreen()
+          displayAmmo(ammo)
+          if (!(life)) {
+              basic.pause(100)
+              DONE = true
+              basic.clearScreen()
+              radio.sendString("DONE")
+              basic.showString("YOU LOOSE")
+          }
+      }
+  })
+  let numShiled = 0
+  let signal = 0
+  let DONE = false
+  let sentString = ""
+  let y_position = 0
+  let x_position = 0
+  let index = 0
+  let life = 0
+  let ammo = 0
+  spikerbit.startMuscleRecording()
+  radio.setGroup(1)
+  displayAmmo(ammo)
+  basic.pause(3000)
+  let record_time = 500
+  life = 3
+  ammo = 5
+  let allowShiled = 2
+  let top_threshold = 200
+  loops.everyInterval(9000, function () {
+      if (!(DONE)) {
+          x_position = 0
+          y_position = 0
+          if (life > 0) {
+              let base_threshold = 0
+              music.play(music.tonePlayable(262, music.beat(BeatFraction.Half)), music.PlaybackMode.UntilDone)
+              basic.pause(record_time)
+              signal = spikerbit.maxSignalInLast(record_time)
+              basic.clearScreen()
+              // SHOOT
+              // RELOAD
+              // SHIELD
+              if (signal >= top_threshold) {
+                  if (ammo > 0) {
+                      ammo = ammo - 1
+                      sentString = "shoot"
+                      numShiled = 0
+                      basic.showLeds(`
+                          . . # . .
+                          . # # # .
+                          . . # . .
+                          . . # . .
+                          . # . # .
+                          `)
+                      basic.pause(500)
+                      radio.sendString("shoot")
+                  } else {
+                      radio.sendString("BAD")
+                  }
+              } else if (signal == base_threshold) {
+                  ammo = ammo + 1
+                  numShiled = 0
+                  sentString = "reload"
+                  basic.showLeds(`
+                      . . . . #
+                      . # . # #
+                      # # # . #
+                      . # . . #
+                      . . . . #
+                      `)
+                  basic.pause(500)
+                  radio.sendString("reload")
+              } else {
+                  if (numShiled < allowShiled) {
+                      sentString = "shield"
+                      numShiled = numShiled + 1
+                      basic.showLeds(`
+                          # . . . #
+                          . # . # .
+                          . . # . .
+                          . # . # .
+                          # . . . #
+                          `)
+                      basic.pause(500)
+                      radio.sendString("shield")
+                  } else {
+                      radio.sendString("BAD")
+                  }
+              }
+          }
+      }
+  })
+
+  ```
+  </TabItem>
+</Tabs>
+
+## Operating Instructions ##
+
+First, turn both micro:bits on at the same time.
+
+Going forward, every 9 seconds, players have a designated time window to select an action, shoot (attack), shield (defend), or reload, based on their arm movement as detected by EMG signals:
+- Shoot: Flex arm strong and quick
+- Shield: Weakly and slowly flex arm
+- Reload: Do nothing, hold arm still with no movement.
+
+The game will continue until one player loses all life points.
+
+:::tip
+It takes a practice to get used the correct strength to perform each operation
+Use above as reference and make sure to practice before you compete !!
+
+### Additional Rules ###
+Each player starts with 5 ammo and 3 life points.
+
+Continuous shielding is limited to two consecutive uses; after two uses, the player must choose a different action (shoot or reload), or the shield action will be considered invalid.
+
 ![WarGameInAction](./WARGame.jpg)
+

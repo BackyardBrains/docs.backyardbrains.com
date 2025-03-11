@@ -22,8 +22,7 @@ description: Boring song on the bus? Just bite!
 
 |     |       |
 |--------------|--------------
-| Hardware     | Easy           
-| Software     | Easy
+| None     |
 
 
 #### Special Requirement ####

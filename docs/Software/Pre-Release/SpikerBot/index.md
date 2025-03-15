@@ -20,11 +20,11 @@ Get it here: [robot.backyardbrains.com](https://robot.backyardbrains.com).
 - **Synaptic Polarity** - Neurons can either excite or inhibit their synaptic targets.
 
 ## Neural Circuits ##
-- **Recurrent Excitation** - When two or more neurons excite each other, they create a feedback loop that can sustain activity indefinitely. This process underlies behaviors such as walking, breathing, or holding a thought in memory.
+**Recurrent Excitation** is a neural circuit mechanism where neurons form feedback loops, reinforcing each other’s activity to sustain behaviors, such as memory or rhythmic movements. Disruptions in these loops are linked to neurological disorders like epilepsy and memory impairments.
 
 ![screenshot](circuit1.png)
 
-- **Lateral Inhibition** - When two or more neurons inhibit each other, only one remains active. Lateral inhibition helps clarify perception and enables decision-making.
+**Lateral Inhibition** is a neural mechanism where interconnected neurons suppress each other, allowing only the strongest signal to dominate. It sharpens sensory perception (vision, hearing, touch) and supports clear decision-making. Impaired lateral inhibition contributes to conditions such as epilepsy, ADHD, and autism, where sensory processing or attention is disrupted.
 
 ![screenshot](circuit2.png)
 

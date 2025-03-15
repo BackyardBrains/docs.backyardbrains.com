@@ -41,6 +41,10 @@ Get it here: [robot.backyardbrains.com](https://robot.backyardbrains.com).
 ## Examples ##
 Each example consists of a **behavior** and a **brain** that makes SpikerBot perform that behavior. Neurons are quiet and excitatory unless otherwise indicated.
 
+[Download All Brains (n = 9)](./AllBrains.zip)
+
+---
+
 ### Behavior: Avoid Obstacles ###
 **Brain**: A neuron responds to distance detection, and drives both wheels backward while activating the speaker and turning red lights on.
 

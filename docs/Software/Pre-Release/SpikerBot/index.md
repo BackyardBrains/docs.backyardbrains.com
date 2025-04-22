@@ -2,130 +2,150 @@
 sidebar_position: 2
 sidebar_label: The SpikerBot App
 ---
-# The SpikerBot App #
-The SpikerBot app is the neural network simulator that controls the [SpikerBot](https://docs.backyardbrains.com/Neuroengineering/Pre-Release/SpikerBot/). It runs on multiple platforms and allows users to design and test custom brains in real-time.
 
-Get it here: [robot.backyardbrains.com](https://robot.backyardbrains.com).
+# The SpikerBot App
 
-## How The App Works ##
-- Drag and drop neurons from the panel on the left into the brain area.
-- Drag the handle that appears under selected neurons to form synapses.
-- Press **Play** to put your brain in control of the robot and see what it does.
+Welcome to the SpikerBot App – the brain simulator that powers the [SpikerBot robot](https://docs.backyardbrains.com/Neuroengineering/Pre-Release/SpikerBot/).
 
-![screenshot](screenshot1.png)
+[Get the app here](https://robot.backyardbrains.com) for Windows, MacOS, iOS, Android and Chrome.
 
-## Neurons ##
-- **Activity Mode** - Neurons can be silent or spontaneously active. They can generate spikes individually or in bursts.
-- **Synaptic Polarity** - Neurons can either excite or inhibit their synaptic targets.
+## How The App Works
 
-## Neural Circuits ##
-- **Recurrent Excitation** - When two or more neurons excite each other, they create a feedback loop that can sustain activity indefinitely. This process underlies behaviors such as walking, breathing, or holding a thought in memory.
+The SpikerBot application features an interactive graphical interface for designing and testing embodied spiking neural networks. Users drag black (excitatory) or white (inhibitory) neurons from the toolbar into the brain-shaped workspace. Clicking a neuron brings up a menu to adjust its properties (type and polarity) and a triangular handle to create synaptic connections.
 
-![screenshot](circuit1.png)
+**Drag & Drop:** Pick neurons from the left panel and drop them into the brain area.
 
-- **Lateral Inhibition** - When two or more neurons inhibit each other, only one remains active. Lateral inhibition helps clarify perception and enables decision-making.
+**Connect:** Drag the handle that appears under selected neurons to form synapses.
 
-![screenshot](circuit2.png)
+**Activate:** Press **Play** to let your brain control the robot.
 
-## How To Build Brains ##
-1. Define the target behavior.
-2. Break it into key components.
-3. Design a spiking neural network for each:
-    - Assign neurons (quiet/bursting, excitatory/inhibitory).
-    - Link sensors (color, object, location, distance).
-    - Connect neurons to effectors (motors, lights, speaker).
-    - Wire neurons together.
-4. Use inhibition to prevent conflicts.
+![App Screenshot](screenshot1.png)
 
-## Examples ##
-Each example consists of a **behavior** and a **brain** that makes SpikerBot perform that behavior. Neurons are quiet and excitatory unless otherwise indicated.
+## Spiking Neurons and Synapses
 
-### Behavior: Avoid Obstacles ###
-**Brain**: A neuron responds to distance detection, and drives both wheels backward while activating the speaker and turning red lights on.
+SpikerBot uses the biologically inspired Izhikevich model to replicate diverse neuron behaviors, including spontaneous spiking and bursting. Each neuron has a membrane potential that gradually returns to a resting state unless it receives input. When the potential exceeds a threshold, the neuron fires a spike, visually indicated by a colored nucleus — green for excitatory neurons and red for inhibitory neurons.
 
-[Download Brain](./AvoidObstacles.zip)
+**Neuron Type:** Neurons may be quiet, occasionally active, highly active, generate bursts or burst when activated.
 
-![screenshot](brain1.png)
+**Neuron Polarity:** Neurons can either excite or inhibit their targets.
 
----
+Connections between neurons — synapses — are formed by dragging axon handles to target neurons or effectors. Synapse weights can be configured from 1 to 100, with values above 25 typically ensuring reliable activation.
 
-### Behavior: Approach Green ###
-**Brain**: A neuron responds to a green visual target appearing to the left, and drives the right wheel forward. A second neuron responds to green appearing on the right, and drives the left wheel forward. Both neurons activate the speaker and turn on green lights.
+![Neurons](neurons.png) 
 
-[Download Brain](./ApproachGreen.zip)
+## Neural Circuits
 
-![screenshot](brain2.png)
+A neural circuit is a small network of interconnected neurons whose collective activity carries out a well‑defined computation, like detecting a looming object, producing a walking rhythm, or gating a motor command. Each circuit acts as a reusable building block: when several circuits are layered or chained together they can orchestrate increasingly sophisticated behaviors. 
+
+**Reflex Arcs:** Minimal circuit in which stimulus activates a neuron which directly activates an effector. These circuits produce simple stimulus-response behaviors and serve as an entry point to neural modeling.
+
+**Crossed Circuits:** Midline-crossing circuit allowing activity in the left visual field to drive the right motor and vice‑versa. These circuits are central to behaviors such as target tracking.
+
+**Synaptic Integration:** Circuits in which a neuron requires input from multiple upstream sources to reach threshold and fire. This occurs when synapses are weak (weight < 10). These circuits can be used for coincidence detection.
+
+**Recurrent Circuits:** Self-reinforcing feedback loops in which neurons excite each other, maintaining activity after an initial stimulus is removed. This occurs when synapses are very strong (weight > 90). These circuits can be used to simulate short-term memory or persistent behavioral states.
+
+![Recurrent Excitation](circuit1.png)
+
+**Mutual Inhibition:** Circuits that inhibit one another, creating competitive dynamics. These circuits are useful for modeling decision-making processes.
+
+![Lateral Inhibition](circuit2.png)
 
 ---
 
-### Behavior: Explore ###
-**Brain**: Five spontaneously active neurons drive the wheels in different directions. A single neurons is activated by distance detection and drives both wheels backward.
+## How To Build Brains
 
-[Download Brain](./Explore.zip)
-
-![screenshot](brain3.png)
-
----
-
-### Behavior: Blink And Beep At Nearby People ###
-**Brain**: Two neurons respond to people, and distance, respectively. Five neurons activate different light colors and speaker tones. A neuron sits inbetween. Both stimulus-detecting neurons synapse onto it with weight 15 synapses (so that both must be active simultaneously to trigger a response). The neuron, in turn, activates each of the five output neurons.
-
-[Download Brain](./BlinkAndBeepAtNearbyPeople.zip)
-
-![screenshot](brain4.png)
+1. **Define the Target Behavior in Observable Terms:** Clearly state the desired behavior in observable terms. Be specific about what the robot should do under different conditions.
+2. **Decompose the Behavior into Functional Components:** Break the behavior down into smaller, manageable sub-tasks (e.g., "detect obstacle," "initiate forward movement," "halt motion").
+3. **Design a Neural Circuit for Each Component:** Create neural circuits (e.g., reflex arcs, recurrent circuits) that correspond to each component of the target behavior. Select appropriate neuron types and connect sensors, neurons, and effectors accordingly.
+4. **Use Inhibition to Choose Between Conflicting Outputs:** Apply inhibitory connections where necessary to suppress competing signals or prevent simultaneous activation of incompatible behaviors.
+5. **Test and Refine:** Observe behavior, identify failure points, and iteratively adjust neuron parameters and circuit structure to achieve the desired outcome.
 
 ---
 
-### Behavior: Sustained Movement ###
-**Brain**: Two neurons strongly activate each other (forming a recurrent excitatory circuit that can sustain activation indefinitely). Each neuron drives one of the wheels forward. A neuron detects green and activates the recurrent circuit. A second, inhibitory neuron responds to red, and stops the recurrent circuit.
+## Brain Library
 
-[Download Brain](./SustainedMovement.zip)
+The Brain Library is a collection SpikerBot brains modeling a wide range of neural circuits and behaviors.
 
-![screenshot](brain5.png)
+[Download All Brains](./AllBrains.zip)
 
-
----
-
-### Behavior: Make Decisions ###
-**Brain**: Two recurrent excitatory circuits drive the robot forward and backward, respectively. Two sensory neurons respond to green and red, respectively. The green-detecting neuron activates the forward circuit and inhibits the backward circuit. The red-detecting neuron has the opposite effect.
-
-[Download Brain](./MakeDecisions.zip)
-
-![screenshot](brain6.png)
+Unzip the .brain files to your local documents/spikerbot/text folder.
 
 ---
 
-### Behavior: Search For Green ###
-**Video**: https://youtu.be/RObP80CZoho
+**Avoid Obstacles**
 
-**Brain**: Eight excitatory and one inhibitory neuron.
+This brain implements a basic reflex arc. A single neuron is activated by the distance sensor and drives backward motion, red lights and sound.
 
-[Download Brain](./SearchForGreen.zip)
+[Download Brain](./AvoidObstacles@@@@@@1741355891776312.zip)
 
-![screenshot](brain7.jpg)
-
-
+![Example: Avoid Obstacles](brain1.png)
 
 ---
 
-### Behavior: Thigmotaxis ###
-**Brain**: Fourteen excitatory and two inhibitory neurons.
+**Approach Green**
 
-[Download Brain](./Thigmotaxis.zip)
+This brain uses a crossed circuit to approach a target. Two neurons respond to green stimuli on the left or right, driving the wheel on the opposite side forward, with green lights and speaker activation. This makes the robot turn toward green objects and approach them when they are straight ahead.
 
-![screenshot](brain8.jpg)
+[Download Brain](./ApproachGreen@@@@@@1745258760359229.zip)
+
+![Example: Approach Green](brain2.png)  
+
+---
+
+**Explore**
+
+This brain uses burst generator neurons to explore. Five neurons that spontaneously generate intermittent bursts of spikes drive the wheels in different directions (forward or turn). This makes the robot move around randomly. A neuron activated by distance-detection drives both wheels backward (reflex arc), preventing the robot from getting stuck.
+
+[Download Brain](./Explore@@@@@@1741374617065859.zip)
+
+![Example: Explore](brain3.png)
 
 ---
 
-### Behavior: Chase Red ###
-**Brain**: Thirteen excitatory and one inhibitory neuron.
+**Greet Nearby People**
 
-[Download Brain](./ChaseRed.zip)
+This brain uses synaptic integration to signal when people are close. Two neurons respond to distance and people; their weak synapses (weight 10) converge on a third neuron that in turn activates five light- and sound-producing neurons. Simultaneous detection of people and a nearby object makes the robot blink and beep.
 
-![screenshot](brain9.jpg)
+[Download Brain](./GreetNearbyPeople@@@@@@1745258931213783.zip)
+
+![Example: Greet Nearby People](brain4.png)  
 
 ---
+
+**Traffic Lights**
+
+This brain uses a recurrent circuit to move until stopped. The circuit drives the wheels forward. A neuron activated by green activates the circuit. An inhibitory neuron activated by red stops the circuit. This makes the robot move forward indefinitely after seeing green, stopping only when it sees red.
+
+[Download Brain](./TrafficLigthts@@@@@@1745278802895935.zip)
+
+![Example: Traffic Lights](brain5.png)  
+
+---
+
+**Left or Right**
+
+This brain uses mutual inhibition between two competing recurrent circuits to ensure only one behavior at a time is executed. One recurrent circuit is activated by green and turns the robot to the left. The other circuit is activated by blue and turns the robot to the right. Mutual inhibition prevents both circuits from being simultaneously active, which causes a seizure-like state. Finally, a neuron activated by red activates an inhibitory neuron that stops both circuits.
+
+[Download Brain](./LeftOrRight@@@@@@1745281004343835.zip)
+
+![Example: Make Decisions / Left or Right](brain6.png)  
+
+---
+
+**Find Green** 
+
+Five spontaneously bursting neurons drive the wheels in different directions. A crossed circuit consisting of two quiet neurons respond to green stimuli on the left or right, driving the wheel on the opposite side forward. The crossed circuit inhibits the bursting neurons, making the robot stop exploring while it’s approaching green. A single distance-activated inhibitory neuron stops both exploration and approach while the robot is close to a green target.
+
+[Download Brain](./FindGreen@@@@@@1745279789457094.zip)
+
+**Video:** [Watch Here](https://youtu.be/RObP80CZoho)
+
+![Example: Search for Green](brain7.png)
 
 ## Troubleshooting ##
-1. No Response from Robot: Check that it's turned on and charged.
-2. Wi-Fi Connection Issues: Ensure you're connected to the correct robot's Wi-Fi network. The robot's lights should change from blue to green when the Wi-Fi connection with your device is established.
+
+1. **No Response from Robot:** Check that it's turned on and charged.
+2. **Wi-Fi Connection Issues:** Click pause, then play. Ensure you’re connected to the correct robot's Wi-Fi network, the robot's LEDs should change from blue to green when the WiFi connection is established.
+3. **Movement Problems:** Check wheels and tires, re-seat if necessary.
+4. **Camera Recognition Issues:** Adjust lighting, use a clearer color sample and check the camera view to see what the robot 'sees'.

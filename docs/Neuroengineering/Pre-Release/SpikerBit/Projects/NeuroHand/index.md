@@ -1,5 +1,7 @@
 ---
 id: spikerbit_project_neurohand
+title: "Spiker:Bit Project - DIY Neuroprosthetic"
+slug: /Neuroengineering/SpikerBit/Projects/NeuroHand
 sidebar_position: 1
 sidebar_label: DIY Neuroprosthetic
 description: create your very own Cyborg Hand prosthetic
@@ -11,8 +13,23 @@ description: create your very own Cyborg Hand prosthetic
 |     |       |
 |--------------|--------------
 | Inventor     | Will Wharton            
-| micro:bit IDE| MakeCode
+| micro:bit IDE| MakeCode Editor
 | Best Used    | Classroom  
+
+
+#### Difficulty ####
+
+|     |       |
+|--------------|--------------
+| Hardware     | Easy           
+| Software     | Easy
+
+
+#### Special Requirement ####
+|     |       |
+|--------------|--------------
+| Glue Gun | Recommended
+| Our DIY Hand Neuroprosthetic Kit | Required 
 
 
 
@@ -22,7 +39,12 @@ The Spiker:bit can record the the electrical signals our brain sends to our musc
 Here you will create your very own Cyborg Hand which you will then control with the electrical systems in your nervous system. But, don't stop there! These same principals can be applied to countless other projects. This is *the exact way* many very advanced neuroprosthetics work today! 
 
 ## Build Instructions ##
+
+### Materials ###
+
+
 ![Gather Materila](./np_00_needed.png)
+
 Begin by assembling your materials at your work station. Plug in your hot glue gun to get it warming up, but it will be a few minutes before you need to use it.
 
 ### 1. Cut the Straws ###
@@ -140,32 +162,43 @@ import TabItem from '@theme/TabItem';
 <Tabs>
   <TabItem value="Block" label="Block Code">
 
-  Check out the code blocks below and let’s get experimenting! 🚀
-
-  ![](./np_blocks.png)
+  ![Picture(s) of block code](./block_code.png)
 
   </TabItem>
 
   <TabItem value="Python" label="Python" default>
 
-  ```py title="DIY Hand Neuroprosthetic"
-  val = 0
-  threshold = 300   # set your EMG threshold here
-  pins.servo_write_pin(AnalogPin.P8, 0)  
-  while True:
-      val = pins.analog_read_pin(AnalogPin.P0)
-      serial.write_value("EMG", val)    # read your EMG signal
+  ```py title="DIY Neuroprosthetic"
+  spikerbit.start_muscle_recording()
+  servos.P0.set_angle(0)
 
-
-  # if your EMG > your threshold the servo will move 90 degrees
-      if int(val) >= int(threshold):
-          pins.servo_write_pin(AnalogPin.P8, 90)
+  def on_forever():
+      if spikerbit.muscle_power_signal() > 10:
+          servos.P0.set_angle(180)
       else:
-          
-          pins.servo_write_pin(AnalogPin.P8, 0)
+          servos.P0.set_angle(0)
+  basic.forever(on_forever)
+  ```
+  </TabItem>
+
+  <TabItem value="Js" label="Js">
+
+  ```py title="DIY Neuroprosthetic"
+  spikerbit.startMuscleRecording()
+  servos.P0.setAngle(0)
+  basic.forever(function () {
+      if (spikerbit.musclePowerSignal() > 10) {
+          servos.P0.setAngle(180)
+      } else {
+          servos.P0.setAngle(0)
+      }
+  })
   ```
   </TabItem>
 </Tabs>
+
+:::tip
+Change the angle (180) depending on how much servo rotation you want to have
 
 ## Operating Instructions ##
 

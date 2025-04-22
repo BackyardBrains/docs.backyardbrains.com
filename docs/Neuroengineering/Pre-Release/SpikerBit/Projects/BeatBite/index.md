@@ -8,128 +8,211 @@ description: Boring song on the bus? Just bite!
 ---
 
 
+
 # BeatBite Control #
+![Example](./HeadDisplayBeatBite.png)
+
 |     |       |
 |--------------|--------------
 | Inventors     | Ana Markovic, Kosta Dedakin
-| micro:bit IDE     | Block Code
+| micro:bit IDE     | MakeCode Editor
 | Best Location     | Classroom  
 
-## Project Overview
+#### Difficulty ####
+
+|     |       |
+|--------------|--------------
+| Hardware     | Easy           
+| Software     | Easy
+
+
+#### Special Requirement ####
+|     |       |
+|--------------|--------------
+| None  |
+
+## Project Overview ##
 Have you ever been on a bus ride that seems to stretch forever? You reach for your earphones, eager to drown out the monotony with some tunes, only to find the first few songs falling flat. It’s frustrating, right? Each time you want to skip a track, it's a whole ordeal: fishing out your phone, unlocking it, navigating to the music app—it's enough to make you want to skip the skipping altogether. But what if there was a way to bypass those duds with just a clench of your jaw (something you're probably doing anyways)? Imagine this scenario: you settle into your seat, close your eyes, and with a subtle flex of your jaw muscles,  seamlessly transition from a lackluster tune to something that really hits the spot. No more reaching for your phone.
 
 What if that could be a reality? Here is what we came up with:
-![Example](./HeadDisplayBeatBite.png)
 
+## Build Instructions ##
 
-## Materials Needed
-Using simple block codes and imagination, we
-turned our idea into reality.For this project, we need
-- 1x micro:bit and Spiker:bit
-- 1x audio jack with alligator clips- for measuring EMG in jaw muscles
-- 2x Jumper wires - connecting pinhead with Spiker:bit and alligator clips
+### Materials Needed ###
+![materials](./materials.png)
+
+- 1x spiker:bit kit (spiker:bit, 3x electrodes, and orange cables)
+- 1x micro:bit
 - 1x wired headphones
 - 2x alligator clips
-- 1x Grove connector
-  ![materials](./MaterialsBeatBite.png)
   
-Optional
-3D printer for printing plastic belt clips to store our micro:bit and wires
+<!-- Optional
+3D printer for printing plastic belt clips to store our micro:bit and wires -->
 
-## ABOUT CODE
+### 1. Connect spiker:bit and alligator clips ### ###
+![Picture of first step](./step1.1.png)
+
+![Picture of first step](./step1.2.png)
+
+Flip spike:bit and find pin2 (ground) and pin3 (pin2) that is located in expand port of the spiker:bit. 
+Choose one alligator clip and connect to pin2. Do same thing for the another clip to pin3. Color for each clips do not matter.
+
+### 2. Connect alligator clips to headphone ###
+![Picture of second step](./step2.png)
+
+Grab other end of alligator clips which was connected to pin2. Clip this to tip of the headphone jack. Grab other end of alligator clips connected to pin3 and clip to base of the headphone jack.
+
+## Code ##
 
 BeatBite uses a simple micro:bit setup and a few cables to bring this simple idea into reality!
 
-The code first calibrates the strength of a jaw press based on the intervals at which the user bites down. This number is then used as a button to increment through an array ( by increadsing "IndexOfSongs" ). 
-```
-# defines a function that does the calibration for the strength of jaw press
+The code measure the strength of a jaw press. This number is then used as a button to increment through an array (by increasing "IndexOfSongs"). 
 
-def on_button_pressed_a():
-    global maxSignal, Timer, val, length, SumOfList2, AverageMax
-    # defines global variables
-    music.stop_all_sounds()
-    # safety protocol
-    basic.show_icon(IconNames.SURPRISED)
-    maxSignal = 0
-    Timer = control.millis()
-    # used to measure the 5 second mark forcalibration
-    while control.millis() - Timer < 5000:
-        basic.show_icon(IconNames.BUTTERFLY)
-        val = pins.analog_read_pin(AnalogPin.P0)
-        if val > maxSignal:
-            maxSignal += val
-            basic.show_icon(IconNames.TORTOISE)
-        length += 1
-        SumOfList2 = SumOfList2 + maxSignal
-    AverageMax = SumOfList2 / length
-    # output the average
-    serial.write_number(AverageMax)
-input.on_button_pressed(Button.A, on_button_pressed_a)
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
-IndexOfSongs = 0
-AverageMin = 0
-AverageMax = 0
-SumOfList2 = 0
-length = 0
-val = 0
-Timer = 0
-maxSignal = 0
-music.set_built_in_speaker_enabled(False)
-pins.set_audio_pin(AnalogPin.P2)
-# defines the main function
+<Tabs>
+  <TabItem value="Block" label="Block Code">
 
-def on_forever():
-    global AverageMin, val, IndexOfSongs
-    # defines variable globally
-    while True:
-        AverageMin = 0
-        # reads the EMG signal and puts it in "val"
-        val = pins.analog_read_pin(AnalogPin.P0)
-        basic.show_icon(IconNames.NO)
-        serial.write_value("EMG", val)
-        # defines the range for skipping music
-        if val > AverageMin and val < AverageMax:
-            # using if else if to skip and play the music
-            if IndexOfSongs == 1:
-                basic.show_icon(IconNames.HEART)
-                music.stop_all_sounds()
-                music.play(music.string_playable("A A A A A A A A ", 45),
-                    music.PlaybackMode.LOOPING_IN_BACKGROUND)
-                IndexOfSongs += 1
-            elif IndexOfSongs == 2:
-                basic.show_icon(IconNames.SMALL_HEART)
-                music.stop_all_sounds()
-                music.play(music.string_playable("G G G G G G G G ", 15),
-                    music.PlaybackMode.LOOPING_IN_BACKGROUND)
-                IndexOfSongs += 1
-            elif IndexOfSongs == 3:
-                basic.show_icon(IconNames.YES)
-                music.stop_all_sounds()
-                music.play(music.string_playable("C5 A B D F - G B ", 35),
-                    music.PlaybackMode.LOOPING_IN_BACKGROUND)
-                IndexOfSongs += 1
-            elif IndexOfSongs == 4:
-                basic.show_icon(IconNames.NO)
-                music.stop_all_sounds()
-                music.play(music.string_playable("A E A B A F A B ", 45),
-                    music.PlaybackMode.LOOPING_IN_BACKGROUND)
-                IndexOfSongs += 1
-            elif IndexOfSongs == 5:
-                basic.show_icon(IconNames.HAPPY)
-                music.stop_all_sounds()
-                music.play(music.string_playable("C F B F C F C B ", 20),
-                    music.PlaybackMode.LOOPING_IN_BACKGROUND)
-                IndexOfSongs += 1
-            elif IndexOfSongs == 6:
-                basic.show_icon(IconNames.SAD)
-                music.stop_all_sounds()
-                music.play(music.string_playable("C C C C C C C C ", 27),
-                    music.PlaybackMode.LOOPING_IN_BACKGROUND)
-                IndexOfSongs += 1
-            else:
-                # if the Index reaches anything outside the range, put it back on track
-                IndexOfSongs = 1
-            # wait so that processor doesn't do unnecessary calculation
-            control.wait_micros(50000)
-basic.forever(on_forever)
-```
+  ![Picture(s) of block code](./block_code1.png)
+
+  ![Picture(s) of block code](./block_code2.png)
+
+  ![Picture(s) of block code](./block_code3.png)
+
+  </TabItem>
+
+  <TabItem value="Python" label="Python" default>
+
+  ```py title="BeatBite"
+  IndexOfSongs = 0
+  val = 0
+  spikerbit.start_muscle_recording()
+  pins.set_audio_pin(DigitalPin.P2)
+  THRESHOLD = 10
+  basic.show_icon(IconNames.NO)
+  # defines the main function
+
+  def on_forever():
+      global val, IndexOfSongs
+      # reads the EMG signal and puts it in "val"
+      val = spikerbit.muscle_power_signal()
+      # defines the range for skipping music
+      # using if else if to skip and play the music
+      if val >= THRESHOLD:
+          if IndexOfSongs == 1:
+              basic.show_icon(IconNames.HEART)
+              music.stop_all_sounds()
+              music.play(music.string_playable("A A A A A A A A ", 500),
+                  music.PlaybackMode.LOOPING_IN_BACKGROUND)
+              IndexOfSongs += 1
+          elif IndexOfSongs == 2:
+              basic.show_icon(IconNames.SMALL_HEART)
+              music.stop_all_sounds()
+              music.play(music.string_playable("G G G G G G G G ", 500),
+                  music.PlaybackMode.LOOPING_IN_BACKGROUND)
+              IndexOfSongs += 1
+          elif IndexOfSongs == 3:
+              basic.show_icon(IconNames.YES)
+              music.stop_all_sounds()
+              music.play(music.string_playable("C5 A B D F - G B ", 500),
+                  music.PlaybackMode.LOOPING_IN_BACKGROUND)
+              IndexOfSongs += 1
+          elif IndexOfSongs == 4:
+              basic.show_icon(IconNames.NO)
+              music.stop_all_sounds()
+              music.play(music.string_playable("A E A B A F A B ", 500),
+                  music.PlaybackMode.LOOPING_IN_BACKGROUND)
+              IndexOfSongs += 1
+          elif IndexOfSongs == 5:
+              basic.show_icon(IconNames.HAPPY)
+              music.stop_all_sounds()
+              music.play(music.string_playable("C F B F C F C B ", 500),
+                  music.PlaybackMode.LOOPING_IN_BACKGROUND)
+              IndexOfSongs += 1
+          elif IndexOfSongs == 6:
+              basic.show_icon(IconNames.SAD)
+              music.stop_all_sounds()
+              music.play(music.string_playable("C C C C C C C C ", 500),
+                  music.PlaybackMode.LOOPING_IN_BACKGROUND)
+              IndexOfSongs += 1
+          else:
+              # if the Index reaches anything outside the range, put it back on track
+              IndexOfSongs = 1
+              basic.show_icon(IconNames.NO)
+  basic.forever(on_forever)
+
+  ```
+  </TabItem>
+
+  <TabItem value="Js" label="Js">
+
+  ```py title="BeatBite"
+  let IndexOfSongs = 0
+  let val = 0
+  spikerbit.startMuscleRecording()
+  pins.setAudioPin(DigitalPin.P2)
+  let THRESHOLD = 10
+  basic.showIcon(IconNames.No)
+  // defines the main function
+  basic.forever(function () {
+      // reads the EMG signal and puts it in "val"
+      val = spikerbit.musclePowerSignal()
+      // defines the range for skipping music
+      // using if else if to skip and play the music
+      if (val >= THRESHOLD) {
+          if (IndexOfSongs == 1) {
+              basic.showIcon(IconNames.Heart)
+              music.stopAllSounds()
+              music.play(music.stringPlayable("A A A A A A A A ", 500), music.PlaybackMode.LoopingInBackground)
+              IndexOfSongs += 1
+          } else if (IndexOfSongs == 2) {
+              basic.showIcon(IconNames.SmallHeart)
+              music.stopAllSounds()
+              music.play(music.stringPlayable("G G G G G G G G ", 500), music.PlaybackMode.LoopingInBackground)
+              IndexOfSongs += 1
+          } else if (IndexOfSongs == 3) {
+              basic.showIcon(IconNames.Yes)
+              music.stopAllSounds()
+              music.play(music.stringPlayable("C5 A B D F - G B ", 500), music.PlaybackMode.LoopingInBackground)
+              IndexOfSongs += 1
+          } else if (IndexOfSongs == 4) {
+              basic.showIcon(IconNames.No)
+              music.stopAllSounds()
+              music.play(music.stringPlayable("A E A B A F A B ", 500), music.PlaybackMode.LoopingInBackground)
+              IndexOfSongs += 1
+          } else if (IndexOfSongs == 5) {
+              basic.showIcon(IconNames.Happy)
+              music.stopAllSounds()
+              music.play(music.stringPlayable("C F B F C F C B ", 500), music.PlaybackMode.LoopingInBackground)
+              IndexOfSongs += 1
+          } else if (IndexOfSongs == 6) {
+              basic.showIcon(IconNames.Sad)
+              music.stopAllSounds()
+              music.play(music.stringPlayable("C C C C C C C C ", 500), music.PlaybackMode.LoopingInBackground)
+              IndexOfSongs += 1
+          } else {
+              // if the Index reaches anything outside the range, put it back on track
+              IndexOfSongs = 1
+              basic.showIcon(IconNames.No)
+          }
+      }
+  })
+
+  ```
+  </TabItem>
+</Tabs>
+
+## Operating Instructions ##
+
+To use, place ground electrode at mastoid and other two electrodes jaw muscle.
+
+To play music, simply turn on the Spiker:Bit.
+
+To change the music, try moving the jaw muscle up and down. Then, you should hear different sound effects.
+
+:::tips
+It is difficult to hear music from both ears. If this is happening to you, try moving alligator clips clipped to tip of headphone jack towards closest insulating rings (a "black line")
+
+:::tips
+If you struggle to build, check this [reference](https://microbit.org/projects/make-it-code-it/make-some-noise/) page from Makecode.

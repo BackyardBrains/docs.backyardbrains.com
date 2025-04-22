@@ -5,11 +5,9 @@ sidebar_label: SpikerBot
 
 # SpikerBot #
 
-SpikerBot is an educational robot designed for hands-on experimentation with embodied spiking neural networks. It is equipped with camera, distance sensor, microphone, speaker, lights and motors. It communicates via Wi-Fi with the [SpikerBot app](https://docs.backyardbrains.com/Software/Pre-Release/SpikerBot/), which runs its spiking neural networks.
+SpikerBot is an educational robot designed for hands-on experimentation with embodied spiking neural networks. It is equipped with camera, distance sensor, microphone, speaker, lights and motors, and communicates via Wi-Fi with the [SpikerBot app](https://docs.backyardbrains.com/Software/Pre-Release/SpikerBot/), which runs its spiking neural networks.
 
 ![image of robot](./robot.png)
-
-The SpikerBot robot's sensor suite comprises a forward-facing RGB camera with a resolution of 320x240 pixels, a microphone, and an infrared distance sensor with a range up to 100 centimeters. Effectors on the robot include two motors for locomotion, four individually controllable RGB LEDs, and a tone-producing speaker.
 
 ## Getting Started with SpikerBot ##
 
@@ -21,6 +19,8 @@ The SpikerBot robot's sensor suite comprises a forward-facing RGB camera with a 
 ![robot-app connection](./wifi.png)
 
 ## Technical Specifications ##
+
+The SpikerBot robot's sensor suite comprises a forward-facing RGB camera with a resolution of 320x240 pixels, a microphone, and an infrared distance sensor with a range up to 100 centimeters. Effectors on the robot include two motors for locomotion, four individually controllable RGB LEDs, and a tone-producing speaker.
 
 The computational core of the SpikerBot robot is an ESP32-S3 microcontroller that handles sensor data acquisition, Wi-Fi communication and effector control. The robot operates using four AA batteries. Wireless connectivity is provided via 2.4 GHz Wi-Fi for direct communication with the SpikerBot app, running on a nearby laptop or mobile device.
 

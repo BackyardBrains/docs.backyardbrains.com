@@ -19,7 +19,11 @@ This kit was designed with educators in mind to help facilitate the teaching of 
 ## How many should I order for my classroom? ## 
 The kit is designed for up to five student groups, with enough syringes and solution to deliver a control and two neuro-active agents (Glutamate and Nicotine). 
 
-| Item | Amount in One Kit|
+## What comes in the Neuropharmacology Kit? ##
+
+Each kit comes with pre-tested amount dilutions of neuro-active agents to make the neuropharmacology labs a success.  Add the saline to 3 falcon tubes and mix in the neuro-active agents to two of them... and your ready to go!
+
+| Item | Amount |
 |----------|----------|
 | MSG | 0.1g|
 | Tobacco | 0.75g |
@@ -30,6 +34,7 @@ The kit is designed for up to five student groups, with enough syringes and solu
 ![Neuropharmacology Kit](./img/neuropharm-inside-orange.png)
 
 ## Safety and Ethics
+
 The Neuropharmacology Kit uses common household products—cigarette tobacco and MSG—to provide students with relatable insights into real-world neuropharmacology. To ensure safety, cigarettes included in the kit have been split open prior to shipping, rendering them unusable as tobacco products. This step complies with regulations set by the State of Michigan and promotes a safe classroom environment.
 
 While pure nicotine can be hazardous, the nicotine solution prepared from diluted cigarette tobacco poses minimal risk when handled responsibly. Always supervise students closely during preparation and handling of solutions, and remind them to practice careful hygiene, such as washing hands after experiments.

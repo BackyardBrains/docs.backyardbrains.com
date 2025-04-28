@@ -19,7 +19,7 @@ We will use the [Make Code editor](https://makecode.microbit.org/) developed by 
 
 Give your project a name and click "Create".  This will let you into the code editor.  You will see the micro:bit, code block palette, and a workspace.  You can add blocks to the project by dragging them from the center section to the workspace on the right.
 
-![Add a Block Variable]( ./blk_editor.png)
+![Add a Block Variable]( ./blk_editor_Updated.png)
 
 ## Read EMG Signal into a Block Variable ##
 We will start by adding a variable. Variables store information in your code so you can easily access it in other places. We will need to create a variable to hold the values coming in from the EMG Signal. Navigate to the Variables section, click "Make a Variable," and call it "currentSignal."

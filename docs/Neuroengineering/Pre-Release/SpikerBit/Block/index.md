@@ -64,7 +64,7 @@ Speaking of those possibilities, our second step could be repurposing this code 
 You'll also want to make sure that the second switch on the Spiker:bit is set to the "ECG" setting, as otherwise you'll get a different signal. Finally, you can change the graph name in quotes from EMG to EKG or ECG, whichever you prefer. This is just a cosmetic change to the graph's title. After that, you'll be all set! Our code is still reading in the analog input, pin 1 is still out source, and the serial write function won't change.  
 
 Here's the new code:
-![EKGCode](./EKGSerialCode.png)
+![EKGCode](./EKGSerialCode_Updated.png)
 Here's what the signal will look like once you're successful:
 ![EKGGood](./ECGGOOOD.png)
 
@@ -79,10 +79,10 @@ You can alternatively code in MicroPython or JavaScript from the MakeCode editor
 ![Python_Java_Editor](./EditorJava_Pyth.png)
 
 For this demo project, the block code converted into micropython looks like this:
-![EKGPython](./EKGPython.png)
+![EKGPython](./EKGPython_Updated.png)
 
 and JavaScript looks like this:
-![EKGJava](./EKGJava.png)
+![EKGJava](./EKGJava_Updated.png)
 
 A word of caution: sometimes, the code you write in Micropython and JavaScript will not properly load or be converted to block code, as switching back and forth between the tabs might accidentally clear all of your hard written code. We recommend saving this code in a separte document after writing a length MicroPython or JavaScript file to prevent this. 
 

@@ -28,17 +28,8 @@ We will start by adding our signal. Variables store information in your code so 
 
 To use our variable in the project, drag the "set" variable block into the "forever" block.  This is the main block where we will develop our project.   
 
-![Add a Set Variable Block]( ./blk_varSet.png)
+![Add a Set Variable Block]( ./blk_varSet_Updated.png)
 
-By default, the variable gets set to 0.  However, we want to set this to the value in the EMG signal.  To do this, we will need to add a "read analog" block (way down in the "pin" section) 
-
-![Find an Analog Read Block]( ./blk_analogRead.png)
-
-The analog pin for the EMG electrode is P0, so setting the variable to a read from P0 will give us the latest EMG signal.  To do this, drag the "read analog" block and place it over the "0". 
-
-![Set Variable to Pin0]( ./blk_varReadPort.png)
-
-Great.  This now reads: "Set our variable *currentSignal* to the latest EMG Signal values".
 
 ## Connecting Muscles to Read an EMG Signal ##
 

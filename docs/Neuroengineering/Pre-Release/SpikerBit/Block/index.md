@@ -21,7 +21,9 @@ Give your project a name and click "Create".  This will let you into the code ed
 
 ![Add a Block Variable]( ./blk_editor_Updated.png)
 
-## Read EMG Signal into a Block Variable ##
+
+## Read an EMG Signal ##
+
 We will start by adding our signal. Variables store information in your code so you can easily access it in other places. We will need to create a variable to hold the values coming in from the EMG Signal. Navigate to the Variables section, click "Make a Variable," and call it "currentSignal."
 
 ![Add a Block Variable]( ./blk_var_Updated.png)
@@ -29,6 +31,10 @@ We will start by adding our signal. Variables store information in your code so 
 To use our variable in the project, drag the "set" variable block into the "forever" block.  This is the main block where we will develop our project.   
 
 ![Add a Set Variable Block]( ./blk_varSet_Updated.png)
+
+That is it for the coding!  We can now download the file by pressing the Download button.  
+
+![Click Download]( ./blk_download_Updated.png)
 
 
 ## Connecting Muscles to Read an EMG Signal ##
@@ -39,19 +45,6 @@ Place 2 Large Motor Electrodes over the particular muscle you are recording from
 
 Place the electrode stickers *along* the muscle you want to read and connect the 2 red alligator leads.  You can place the black ground clip on a sticker behind your hand. This is good spot as we do not expect to see a lot of muscle activity on the hand.  This keeps the recordings quiet.
 
-## Read an EMG Signal ##
-
-A good way to start using EMG is to see what the signal looks like.  To do this, we will send the data from the micro:bit to the host computer.   Find the Serial tab and drag the "Write Value" block into the "forever" block.  
-
-![Serial Communication]( ./blk_serial.png)
-
-Change the name of the name to 'EMG', and drag our variable "currentSignal" to the right of the block.  This will send the value of the variable "currentSignal" to the host computer.
-
-![Serial Write Value]( ./blk_serialWrite.png)
-
-That is it for the coding!  We can now download the file by pressing the Download button.  
-
-![Click Download]( ./blk_download.png)
 
 Once the program is downloaded, you can click on "Show Data".  This will plot the variables we are sending over serial in realtime!
 

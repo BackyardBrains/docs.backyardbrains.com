@@ -17,10 +17,11 @@ We will use the [Make Code editor](https://makecode.microbit.org/) developed by 
 
 ![Add a Block Variable]( ./blk_newProject.png)
 
-Give your project a name and click "Create".  This will let you into the code editor.  You will see the micro:bit, code block palette, and a workspace.  You can add blocks to the project by dragging them from the center section to the workspace on the right. Soon, our Spikerbit Extension will be available in Make Code. If you want to access our extension in early, please reach out to us at hello@backyardbrains.com.
+Give your project a name and click "Create".  This will let you into the code editor.  You will see the micro:bit, code block palette, and a workspace.  You can add blocks to the project by dragging them from the center section to the workspace on the right. Soon, our Spikerbit Extension will be available in Make Code. If you want to access our extension in early, please vist our [download our Hex file via Github](https://github.com/BackyardBrains/pxt-spikerbit/releases/tag/v1.0.0). From there, you'll got to Make Code Editor > Extensions > Import and upload the hex file there. 
+![Add our Extension]( ./extension_Adder.png)
 
+Now, you're ready to start programming!
 ![Add a Block Variable]( ./blk_editor_Updated.png)
-
 
 ## Read an EMG Signal ##
 

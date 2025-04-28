@@ -17,29 +17,29 @@ We will use the [Make Code editor](https://makecode.microbit.org/) developed by 
 
 ![Add a Block Variable]( ./blk_newProject.png)
 
-Give your project a name and click "Create".  This will let you into the code editor.  You will see the micro:bit, code block palette, and a workspace.  You can add blocks to the project by dragging them from the center section to the workspace on the right.
+Give your project a name and click "Create".  This will let you into the code editor.  You will see the micro:bit, code block palette, and a workspace.  You can add blocks to the project by dragging them from the center section to the workspace on the right. Soon, our Spikerbit Extension will be available in Make Code. If you want to access our extension in early, please reach out to us at hello@backyardbrains.com.
 
 ![Add a Block Variable]( ./blk_editor_Updated.png)
 
 
 ## Read an EMG Signal ##
 
-We will start by adding our signal. Variables store information in your code so you can easily access it in other places. We will need to create a variable to hold the values coming in from the EMG Signal. Navigate to the Variables section, click "Make a Variable," and call it "currentSignal."
+We will start by adding our signal. Variables store information in your code so you can easily access it in other places. Our extension creates an EMG variable that reads in from your Spikerbit to hold the values coming in from the EMG Signal. This variable is prelabeled as "muscle power signal".
 
 ![Add a Block Variable]( ./blk_var_Updated.png)
 
-To use our variable in the project, drag the "set" variable block into the "forever" block.  This is the main block where we will develop our project.   
+To use our variable in the project, drag the "start muscle recording" variable block into the "forever" block.  This is the main block where we will develop our project.   
 
 ![Add a Set Variable Block]( ./blk_varSet_Updated.png)
 
-That is it for the coding!  We can now download the file by pressing the Download button.  
+Then, we can do some logic. For our experiment, we can drag in the "if else" block from logic as well as a less than operator. We can compare the muscle power signal to a low value ( usually 50 will do ), and from the "Basic" section drage out 2 show icon blocks. We can change the LED display by clicking the arrow next to the show icon ( a heart and skull were picked for this demo. That's it for the coding!  Once complete, you can download the file by pressing the Download button.  
 
 ![Click Download]( ./blk_download_Updated.png)
 
 
 ## Connecting Muscles to Read an EMG Signal ##
 
-Place 2 Large Motor Electrodes over the particular muscle you are recording from.  We tend to use the forearm as it is an easy movement to make while testing and performing your BMI. 
+Now that the Spikerbit is ready, we need a muscle to record from. Place 2 Large Motor Electrodes over the particular muscle you are recording from.  We tend to use the forearm as it is an easy movement to make while testing and performing your BMI. 
 
 ![Placement of Electrodes]( ./emgToMicrobit.png)
 

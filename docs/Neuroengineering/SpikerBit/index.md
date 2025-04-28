@@ -1,6 +1,6 @@
 ---
 id: spikerbit
-sidebar position: 1
+sidebar position: 2
 sidebar label: The Spiker:Bit
 ---
 

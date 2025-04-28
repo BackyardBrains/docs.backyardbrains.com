@@ -22,7 +22,7 @@ Give your project a name and click "Create".  This will let you into the code ed
 ![Add a Block Variable]( ./blk_editor_Updated.png)
 
 ## Read EMG Signal into a Block Variable ##
-We will start by adding a variable. Variables store information in your code so you can easily access it in other places. We will need to create a variable to hold the values coming in from the EMG Signal. Navigate to the Variables section, click "Make a Variable," and call it "currentSignal."
+We will start by adding our signal. Variables store information in your code so you can easily access it in other places. We will need to create a variable to hold the values coming in from the EMG Signal. Navigate to the Variables section, click "Make a Variable," and call it "currentSignal."
 
 ![Add a Block Variable]( ./blk_var.png)
 

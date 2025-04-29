@@ -67,7 +67,7 @@ A neural circuit is a small network of interconnected neurons whose collective a
 
 The Brain Library is a collection SpikerBot brains modeling a wide range of neural circuits and behaviors.
 
-[Download All Brains](/brains/AllBrains.zip)
+[Download All Brains](https://github.com/BackyardBrains/docs.backyardbrains.com/blob/main/docs/Software/Pre-Release/SpikerBot/static/brains/AllBrains.zip)
 
 Unzip the .brain files to your local documents/spikerbot/text folder.
 
@@ -77,8 +77,6 @@ Unzip the .brain files to your local documents/spikerbot/text folder.
 
 This brain implements a basic reflex arc. A single neuron is activated by the distance sensor and drives backward motion, red lights and sound.
 
-[Download Brain](/brains/AvoidObstacles@@@@@@1741355891776312.zip)
-
 ![Example: Avoid Obstacles](brain1.png)
 
 ---
@@ -86,8 +84,6 @@ This brain implements a basic reflex arc. A single neuron is activated by the di
 **Approach Green**
 
 This brain uses a crossed circuit to approach a target. Two neurons respond to green stimuli on the left or right, driving the wheel on the opposite side forward, with green lights and speaker activation. This makes the robot turn toward green objects and approach them when they are straight ahead.
-
-[Download Brain](/brains/ApproachGreen@@@@@@1745258760359229.zip)
 
 ![Example: Approach Green](brain2.png)  
 
@@ -97,8 +93,6 @@ This brain uses a crossed circuit to approach a target. Two neurons respond to g
 
 This brain uses burst generator neurons to explore. Five neurons that spontaneously generate intermittent bursts of spikes drive the wheels in different directions (forward or turn). This makes the robot move around randomly. A neuron activated by distance-detection drives both wheels backward (reflex arc), preventing the robot from getting stuck.
 
-[Download Brain](/brains/Explore@@@@@@1741374617065859.zip)
-
 ![Example: Explore](brain3.png)
 
 ---
@@ -106,8 +100,6 @@ This brain uses burst generator neurons to explore. Five neurons that spontaneou
 **Greet Nearby People**
 
 This brain uses synaptic integration to signal when people are close. Two neurons respond to distance and people; their weak synapses (weight 10) converge on a third neuron that in turn activates five light- and sound-producing neurons. Simultaneous detection of people and a nearby object makes the robot blink and beep.
-
-[Download Brain](/brains/GreetNearbyPeople@@@@@@1745258931213783.zip)
 
 ![Example: Greet Nearby People](brain4.png)  
 
@@ -117,8 +109,6 @@ This brain uses synaptic integration to signal when people are close. Two neuron
 
 This brain uses a recurrent circuit to move until stopped. The circuit drives the wheels forward. A neuron activated by green activates the circuit. An inhibitory neuron activated by red stops the circuit. This makes the robot move forward indefinitely after seeing green, stopping only when it sees red.
 
-[Download Brain](/brains/TrafficLigthts@@@@@@1745278802895935.zip)
-
 ![Example: Traffic Lights](brain5.png)  
 
 ---
@@ -127,8 +117,6 @@ This brain uses a recurrent circuit to move until stopped. The circuit drives th
 
 This brain uses mutual inhibition between two competing recurrent circuits to ensure only one behavior at a time is executed. One recurrent circuit is activated by green and turns the robot to the left. The other circuit is activated by blue and turns the robot to the right. Mutual inhibition prevents both circuits from being simultaneously active, which causes a seizure-like state. Finally, a neuron activated by red activates an inhibitory neuron that stops both circuits.
 
-[Download Brain](/brains/LeftOrRight@@@@@@1745281004343835.zip)
-
 ![Example: Make Decisions / Left or Right](brain6.png)  
 
 ---
@@ -136,8 +124,6 @@ This brain uses mutual inhibition between two competing recurrent circuits to en
 **Find Green** 
 
 Five spontaneously bursting neurons drive the wheels in different directions. A crossed circuit consisting of two quiet neurons respond to green stimuli on the left or right, driving the wheel on the opposite side forward. The crossed circuit inhibits the bursting neurons, making the robot stop exploring while it’s approaching green. A single distance-activated inhibitory neuron stops both exploration and approach while the robot is close to a green target.
-
-[Download Brain](/brains/FindGreen@@@@@@1745279789457094.zip)
 
 **Video:** [Watch Here](https://youtu.be/RObP80CZoho)
 

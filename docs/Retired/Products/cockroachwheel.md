@@ -1,7 +1,7 @@
 ---
 id: roachwheel
 title: "RoachWheel"
-slug: /retired/products/roachwheel
+slug: /Retired/Products/roachwheel
 ---
 
 ## RoachWheel

@@ -1,7 +1,7 @@
 ---
 id: "eeg-record_from_the_human_brain"
 title: "EEG-Record from the Human Brain"
-slug: "/retired/experiments/eeg"
+slug: "/Retired/Experiments/eeg"
 ---
 
 

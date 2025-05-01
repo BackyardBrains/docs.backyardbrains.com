@@ -1,7 +1,7 @@
 ---
 id: "experiment__control_machines_with_your_brain"
 title: "Experiment: Control Machines with your Brain"
-slug: "/retired/experiments/muscleSpikerShield"
+slug: "/Retired/Experiments/muscleSpikerShield"
 ---
 
 

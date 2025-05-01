@@ -1,7 +1,7 @@
 ---
 id: "experiment__exploring_rates_of_fatigue"
 title: "Experiment: Exploring Rates of Fatigue"
-slug: "/retired/experiments/rateoffatigue"
+slug: "/Retired/Experiments/rateoffatigue"
 ---
 
 

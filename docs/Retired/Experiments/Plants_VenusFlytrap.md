@@ -1,7 +1,7 @@
 ---
 id: "getting_started_with_the_plant_spikerbox:_venus_flytrap_electrophysiology"
 title: "Getting Started with the Plant SpikerBox: Venus Flytrap Electrophysiology"
-slug: "/retired/experiments/Plants_VenusFlytrap"
+slug: "/Retired/Experiments/Plants_VenusFlytrap"
 ---
 
 

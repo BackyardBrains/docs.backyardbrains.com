@@ -1,7 +1,7 @@
 ---
 id: "experiment__how_your_eye_detects_color_and_motion"
 title: "Experiment: How Your Eye Detects Color and Motion"
-slug: "/retired/experiments/eye"
+slug: "/Retired/Experiments/eye"
 ---
 
 

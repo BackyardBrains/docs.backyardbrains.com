@@ -1,7 +1,7 @@
 ---
 id: "experiment__the_beginning_of_modern_neuroscience_-_the_galvani_-_volta"
 title: "Experiment: The Beginning of Modern Neuroscience - The Galvani/Volta"
-slug: "/retired/experiments/Galvani_Volta"
+slug: "/Retired/Experiments/Galvani_Volta"
 ---
 
 

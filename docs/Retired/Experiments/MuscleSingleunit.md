@@ -1,7 +1,7 @@
 ---
 id: "experiment__hunt_for_a_single_motor_unit"
 title: "Experiment: Hunt for a Single Motor Unit"
-slug: "/retired/experiments/ngleunit"
+slug: "/Retired/Experiments/ngleunit"
 ---
 
 

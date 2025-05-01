@@ -1,7 +1,7 @@
 ---
 id: "experiment__effect_of_temperature_on_neurons"
 title: "Experiment: Effect of Temperature on Neurons"
-slug: "/retired/experiments/temperature"
+slug: "/Retired/Experiments/temperature"
 ---
 
 

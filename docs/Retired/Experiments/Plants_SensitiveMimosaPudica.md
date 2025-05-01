@@ -1,7 +1,7 @@
 ---
 id: "experiment__sensitive_mimosa_pudica_electrophysiology"
 title: "Experiment: Sensitive Mimosa Pudica Electrophysiology"
-slug: "/retired/experiments/Plants_SensitiveMimosaPudica"
+slug: "/Retired/Experiments/Plants_SensitiveMimosaPudica"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 id: "experiment__effect_of_temperature_on_nerve_conduction_velocity"
 title: "Experiment: Effect of Temperature on Nerve Conduction Velocity"
-slug: "/retired/experiments/WormTemperature"
+slug: "/Retired/Experiments/WormTemperature"
 ---
 
 

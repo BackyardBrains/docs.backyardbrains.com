@@ -1,7 +1,7 @@
 ---
 id: "Experiment_make_music_with_your_muscles"
 title: "Experiment: Make Music with your Muscles"
-slug: "/retired/experiments/music"
+slug: "/Retired/Experiments/music"
 ---
 
 

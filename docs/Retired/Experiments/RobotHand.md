@@ -1,7 +1,7 @@
 ---
 id: "experiment__signal_classification"
 title: "Experiment: Signal Classification"
-slug: "/retired/experiments/RobotHand"
+slug: "/Retired/Experiments/RobotHand"
 ---
 
 

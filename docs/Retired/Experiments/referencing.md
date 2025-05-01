@@ -1,7 +1,7 @@
 ---
 id: "referencing_your_spikes"
 title: "Referencing your Spikes"
-slug: "/retired/experiments/referencing"
+slug: "/Retired/Experiments/referencing"
 ---
 
 

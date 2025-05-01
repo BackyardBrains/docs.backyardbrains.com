@@ -1,7 +1,7 @@
 ---
 id: "anuradha_rao_memorial_experiment:_neuropharmacology-effect_of_nicotine_and_msg_on_neurons"
 title: "Anuradha Rao Memorial Experiment: Neuropharmacology-Effect of Nicotine and MSG on Neurons"
-slug: "/retired/experiments/neuropharmacology"
+slug: "/Retired/Experiments/neuropharmacology"
 ---
 
 

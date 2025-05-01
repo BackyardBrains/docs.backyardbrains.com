@@ -1,7 +1,7 @@
 ---
 id: "experiment__eye_potentials_(the_eog)"
 title: "Experiment: Eye Potentials (The EOG)"
-slug: "/retired/experiments/EOG"
+slug: "/Retired/Experiments/EOG"
 ---
 
 

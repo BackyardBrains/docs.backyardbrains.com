@@ -1,7 +1,7 @@
 ---
 id: "experiment__transistor_circuit_design"
 title: "Experiment: Transistor Circuit Design"
-slug: "/retired/experiments/transistorDesign"
+slug: "/Retired/Experiments/transistorDesign"
 ---
 
 

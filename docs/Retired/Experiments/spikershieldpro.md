@@ -1,7 +1,7 @@
 ---
 id: "_spikershield_pro_experiment_muscle_keyboard"
 title: "SpikerShield Pro Experiment: Muscle Keyboard"
-slug: "/retired/experiments/spikershieldpro"
+slug: "/Retired/Experiments/spikershieldpro"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 id: workshoproboroach
 title: "Workshop: RoboRoach"
-slug: /retired/products/workshoproboroach
+slug: /Retired/Products/workshoproboroach
 ---
 
 ## RoboRoach Workshop

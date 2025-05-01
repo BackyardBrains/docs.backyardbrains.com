@@ -1,7 +1,7 @@
 ---
 id: "Experiment_octopus_fighting"
 title: "Experiment: Octopus Fighting"
-slug: "/retired/experiments/OctopusFighting"
+slug: "/Retired/Experiments/OctopusFighting"
 ---
 
 

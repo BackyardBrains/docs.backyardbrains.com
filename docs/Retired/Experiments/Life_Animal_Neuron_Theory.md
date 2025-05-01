@@ -1,7 +1,7 @@
 ---
 id: "_Background:_life,_animals,_and_nervous_system_theory"
 title: " Background: Life, Animals, and Nervous System Theory"
-slug: "/retired/experiments/Life_Animal_Neuron_Theory"
+slug: "/Retired/Experiments/Life_Animal_Neuron_Theory"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 id: remote
 title: "Remote Signal Generator"
-slug: /retired/products/remote
+slug: /Retired/Products/remote
 ---
 
 ## Remote Signal Generator

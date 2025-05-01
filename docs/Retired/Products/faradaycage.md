@@ -1,7 +1,7 @@
 ---
 id: faradaycage
 title: "Faraday Cage"
-slug: /retired/products/faradaycage
+slug: /Retired/Products/faradaycage
 ---
 ## Faraday Cage
 

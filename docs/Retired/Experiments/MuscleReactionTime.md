@@ -1,7 +1,7 @@
 ---
 id: "experiment___clock_the_inner_workings_of_the_brain"
 title: "Experiment:  Clock the Inner Workings of the Brain"
-slug: "/retired/experiments/MuscleReactionTime"
+slug: "/Retired/Experiments/MuscleReactionTime"
 ---
 
 

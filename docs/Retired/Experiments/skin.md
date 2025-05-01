@@ -1,7 +1,7 @@
 ---
 id: "experiment__how_your_skin_senses"
 title: "Experiment: How Your Skin Senses"
-slug: "/retired/experiments/skin"
+slug: "/Retired/Experiments/skin"
 ---
 
 

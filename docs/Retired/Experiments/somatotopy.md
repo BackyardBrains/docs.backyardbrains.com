@@ -1,7 +1,7 @@
 ---
 id: "experiment__sensory_and_neural_adaptation"
 title: "Experiment: Sensory and Neural Adaptation"
-slug: "/retired/experiments/somatotopy"
+slug: "/Retired/Experiments/somatotopy"
 ---
 
 

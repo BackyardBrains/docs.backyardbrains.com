@@ -1,7 +1,7 @@
 ---
 id: cockroachcoffeemug
 title: "Cockroach Coffee Mug"
-slug: /retired/products/cockroachcoffeemug
+slug: /Retired/Products/cockroachcoffeemug
 ---
 
 ## Cockroach Coffee Mug

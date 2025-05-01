@@ -1,7 +1,7 @@
 ---
 id: "Experiment_make_your_own_homunculus"
 title: "Experiment: Make your own Homunculus"
-slug: "/retired/experiments/homunculus"
+slug: "/Retired/Experiments/homunculus"
 ---
 
 

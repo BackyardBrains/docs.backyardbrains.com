@@ -1,7 +1,7 @@
 ---
 id: "experiment__turn_your_cell_phone_into_a_powerful_microscope"
 title: "Experiment: Turn your Cell Phone into a Powerful Microscope"
-slug: "/retired/experiments/RoachScopeHighPower"
+slug: "/Retired/Experiments/RoachScopeHighPower"
 ---
 
 

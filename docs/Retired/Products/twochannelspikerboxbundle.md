@@ -1,7 +1,7 @@
 ---
 id: twochannelspikerboxbundle
 title: "Neuron 2-Channel SpikerBox Bundle"
-slug: /retired/products/twochannelspikerboxbundle
+slug: /Retired/Products/twochannelspikerboxbundle
 ---
 
 ## Neuron 2-Channel SpikerBox Bundle

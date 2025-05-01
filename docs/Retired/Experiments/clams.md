@@ -1,7 +1,7 @@
 ---
 id: "experiment__recording_the_muscles_of_clams"
 title: "Experiment: Recording the Muscles of Clams"
-slug: "/retired/experiments/clams"
+slug: "/Retired/Experiments/clams"
 ---
 
 

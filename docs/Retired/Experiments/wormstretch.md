@@ -1,7 +1,7 @@
 ---
 id: "experiment__effect_of_nerve_stretch_on_conduction_velocity"
 title: "Experiment: Effect of Nerve Stretch on Conduction Velocity"
-slug: "/retired/experiments/wormstretch"
+slug: "/Retired/Experiments/wormstretch"
 ---
 
 

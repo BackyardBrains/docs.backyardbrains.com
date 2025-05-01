@@ -1,7 +1,7 @@
 ---
 id: "experiment__muscle_recruitment_in_your_jaw!"
 title: "Experiment: Muscle Recruitment in your Jaw!"
-slug: "/retired/experiments/Musclechewing"
+slug: "/Retired/Experiments/Musclechewing"
 ---
 
 

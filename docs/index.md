@@ -50,6 +50,13 @@ Explore comprehensive guides and detailed information on all our devices and sof
 - [Return Policy](./policies/returnpolicy/)
 - [Style Guide](./policies/styleguide/)
 
+## Troubleshooting ##
+
+If you're experiencing issues with device connectivity, noisy recordings, or software errors, please consult our dedicated troubleshooting resources:
+
+- [SpikeRecorder Troubleshooting Guide](./software/spike-recorder/troubleshooting/)
+- Device-specific troubleshooting is available within each device's page under the Experiments or Troubleshooting sections.
+
 ## Support
 
 Encounter an issue? Check out our [Troubleshooting Guide](./software/spike-recorder/troubleshooting/) or contact us at:

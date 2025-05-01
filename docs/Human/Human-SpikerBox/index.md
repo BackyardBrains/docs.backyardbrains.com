@@ -37,7 +37,7 @@ To begin, choose the type of experiment you'd like to perform and gather the nec
    - Adjust the band so it sits securely under the jaw, with the electrodes aligned over the Pz and P4 regions of your scalp (refer to the image below for placement).
    
 2. **Ground Electrode**: Place a patch electrode on the bony part behind your ear as a ground.
-   - Connect each red lead from the orange cable to one of the headband’s electrodes.  
+   - Connect each red lead from the orange cable to one of the headband's electrodes.  
    - Clip the black lead onto the ground electrode behind your ear.
    
 3. **Connection**: Plug the orange cable into one of the channels on the SpikerBox.
@@ -89,7 +89,7 @@ The Human SpikerBox is engineered for high-quality physiological signal recordin
 
 USB connection is highly advised, as connecting via the Green Smartphone Cable only transfers data from Channel 1. Low-frequency signals (such as EEG, EOG, and ECG) will be filtered out by the sound card of the phone or computer when using this method.
 
-## Experiments to Explore ##
+## Experiments ##
 
 With the Human SpikerBox, you can dive into various hands-on experiments:
 
@@ -100,7 +100,7 @@ With the Human SpikerBox, you can dive into various hands-on experiments:
 
 ## Expansion Options ##
 
-The SpikerBox’s expansion port offers the possibility to broaden its functionality by adding devices such as:
+The SpikerBox's expansion port offers the possibility to broaden its functionality by adding devices such as:
 
 - **Reaction Timer**: For measuring reaction times in various experiments.
 - **Reflex Hammer**: Ideal for studies involving reflexes and muscle response.

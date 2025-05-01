@@ -1,7 +1,7 @@
 ---
 id: workshopmakentake
 title: "Workshop: Make'n'Take"
-slug: /Retired/Products/workshopmakentake
+slug: /retired/products/workshopmakentake
 ---
 
 ## Make'n'Take Workshop

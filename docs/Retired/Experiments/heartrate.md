@@ -1,7 +1,7 @@
 ---
 id: "heart_action_potentials"
 title: "Heart Action Potentials"
-slug: "/Retired/Experiments/heartrate"
+slug: "/retired/experiments/heartrate"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 id: retired_products_musclespikershield
 title: Muscle SpikerShield
-slug: /Retired/Products/musclespikershield
+slug: /retired/products/musclespikershield
 ---
 # Muscle SpikerShield #
 

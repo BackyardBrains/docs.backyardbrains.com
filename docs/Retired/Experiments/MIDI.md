@@ -1,7 +1,7 @@
 ---
 id: "_the_midi_muscle_machine"
 title: " The MIDI Muscle Machine"
-slug: "/Retired/Experiments/MIDI"
+slug: "/retired/experiments/MIDI"
 ---
 
 

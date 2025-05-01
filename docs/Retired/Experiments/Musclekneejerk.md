@@ -1,7 +1,7 @@
 ---
 id: "experiment__the_patellar_reflex_and_reaction"
 title: "Experiment: The Patellar Reflex and Reaction"
-slug: "/Retired/Experiments/Musclekneejerk"
+slug: "/retired/experiments/Musclekneejerk"
 ---
 
 

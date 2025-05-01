@@ -1,7 +1,7 @@
 ---
 id: "experiment__bistable_perception"
 title: "Experiment: Bistable Perception"
-slug: "/Retired/Experiments/Phenomenogram"
+slug: "/retired/experiments/Phenomenogram"
 ---
 
 

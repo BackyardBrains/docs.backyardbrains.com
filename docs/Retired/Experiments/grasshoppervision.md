@@ -1,7 +1,7 @@
 ---
 id: "experiment__investigating_grasshopper_vision"
 title: "Experiment: Investigating Grasshopper Vision"
-slug: "/Retired/Experiments/grasshoppervision"
+slug: "/retired/experiments/grasshoppervision"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 id: "experiment__neuroprosthetics"
 title: "Experiment: NeuroProsthetics"
-slug: "/Retired/Experiments/neuroprosthetics"
+slug: "/retired/experiments/neuroprosthetics"
 ---
 
 

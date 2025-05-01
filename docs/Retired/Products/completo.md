@@ -1,7 +1,7 @@
 ---
 id: completo
 title: "The Completo"
-slug: /Retired/Products/completo
+slug: /retired/products/completo
 ---
 
 ## The Completo

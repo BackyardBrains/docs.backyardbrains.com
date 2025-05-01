@@ -1,7 +1,7 @@
 ---
 id: "conduction_velocity-how_fast_is_a_neuron?"
 title: "Conduction Velocity-How Fast is a Neuron?"
-slug: "/Retired/Experiments/speed"
+slug: "/retired/experiments/speed"
 ---
 
 

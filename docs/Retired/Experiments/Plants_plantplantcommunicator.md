@@ -1,7 +1,7 @@
 ---
 id: "experiment___advanced_plant_electrophysiology__control_the_behavior_of_one_plant_with_another's"
 title: "Experiment:  Advanced Plant Electrophysiology_ Control the Behavior of One Plant with Another's"
-slug: "/Retired/Experiments/Plants_plantplantcommunicator"
+slug: "/retired/experiments/Plants_plantplantcommunicator"
 ---
 
 

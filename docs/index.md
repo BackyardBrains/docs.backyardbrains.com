@@ -15,44 +15,44 @@ Explore comprehensive guides and detailed information on all our devices and sof
 ### Devices
 
 **Human Physiology**  
-- [Human SpikerBox](./Human/Human-SpikerBox/)  
-- [Human-Human Interface](./Human/Human-Human-Interface/)  
-- [Heart and Brain SpikerBox Classic](./Human/Heart-and-Brain-SpikerBox-Classic/)  
-- [Muscle SpikerBox Classic](./Human/Muscle-SpikerBox-Classic/)  
+- [Human SpikerBox](./human/human-spikerbox/)  
+- [Human-Human Interface](./human/human-human-interface/)  
+- [Heart and Brain SpikerBox Classic](./human/heart-and-brain-spikerbox-classic/)  
+- [Muscle SpikerBox Classic](./human/muscle-spikerbox-classic/)  
 
 **Invertebrate Physiology**  
-- [Neuron SpikerBox](./Invertebrate/Neuron-SpikerBox/)  
-- [Neuron SpikerBox Classic](./Invertebrate/Neuron-SpikerBox-Classic/)  
-- [SpikeStation](./Invertebrate/Pre-Release/SpikeStation/)  (Pre-release)
+- [Neuron SpikerBox](./invertebrate/neuron-spikerbox/)  
+- [Neuron SpikerBox Classic](./invertebrate/neuron-spikerbox-classic/)  
+- [SpikeStation](./invertebrate/pre-release/spikestation/)  (Pre-release)
 
 **Plant Physiology**  
-- [Plant SpikerBox](./Plant/PlantSpikerBox/)  
+- [Plant SpikerBox](./plant/plant-spikerbox/)  
 
 **Neuroengineering**  
-- [The Claw](./Neuroengineering/Claw/)  
-- [RoboRoach](./Neuroengineering/Roboroach/)  
-- [SpikerBit](./Neuroengineering/SpikerBit/)  (Kickstarter)  
-- [SpikerBot](./Neuroengineering/Pre-Release/SpikerBot/)   (Pre-release)  
+- [The Claw](./neuroengineering/claw/)  
+- [RoboRoach](./neuroengineering/roboroach/)  
+- [SpikerBit](./neuroengineering/pre-release/spikerbit/)  (Kickstarter coming soon!)  
+- [SpikerBot](./neuroengineering/pre-release/spikerbot/)   (Pre-release)  
 
 ### Software
 
-- [SpikeRecorder (All Platforms)](./Software/SpikeRecorder/)
-  - [iOS](./Software/SpikeRecorder/iOS/)
-  - [Android](./Software/SpikeRecorder/Android/)
-  - [Desktop (Windows, Mac, Linux)](./Software/SpikeRecorder/Desktop/)
-  - [Web](./Software/SpikeRecorder/Web/) *(In Development)*
-  - [Troubleshooting](./Software/SpikeRecorder/Troubleshooting/)
-- [SpikerBot ](./Software/Pre-Release/SpikerBot/)  (Pre-Release)
+- [SpikeRecorder (All Platforms)](./software/spike-recorder/)
+  - [iOS](./software/spike-recorder/ios-ipados/)
+  - [Android](./software/spike-recorder/android/)
+  - [Desktop (Windows, Mac, Linux)](./software/spike-recorder/desktop/)
+  - [Web](./software/spike-recorder/web/) *(In Development)*
+  - [Troubleshooting](./software/spike-recorder/troubleshooting/)
+- [SpikerBot ](./software/pre-release/spikerbot/)  (Pre-Release)
 
 ### Policies
 
-- [Statement on Ethics](./Policies/Ethics/)
-- [Return Policy](./Policies/ReturnPolicy/)
-- [Style Guide](./Policies/StyleGuide/)
+- [Statement on Ethics](./policies/ethics/)
+- [Return Policy](./policies/returnpolicy/)
+- [Style Guide](./policies/styleguide/)
 
 ## Support
 
-Encounter an issue? Check out our [Troubleshooting Guide](./Software/SpikeRecorder/Troubleshooting/) or contact us at:
+Encounter an issue? Check out our [Troubleshooting Guide](./software/spike-recorder/troubleshooting/) or contact us at:
 - Email: hello@backyardbrains.com
 - Phone: +1 (855) GET-SPIKES (855-438-7745)
 - Hours: Monday - Friday, 9am - 5pm EST

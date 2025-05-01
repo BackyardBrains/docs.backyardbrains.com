@@ -1,7 +1,7 @@
 ---
 id: "experiment__comparing_speeds_of_two_nerve_fiber_sizes"
 title: "Experiment: Comparing Speeds of Two Nerve Fiber Sizes"
-slug: "/Retired/Experiments/comparingNerveSpeed"
+slug: "/retired/experiments/comparingNerveSpeed"
 ---
 
 

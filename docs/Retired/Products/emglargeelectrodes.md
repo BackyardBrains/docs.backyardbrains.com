@@ -1,7 +1,7 @@
 ---
 id: emglargeelectrodes
 title: "Emg Large Electrodes"
-slug: /Retired/Products/emglargeelectrodes
+slug: /retired/products/emglargeelectrodes
 ---
 
 ## Large Muscle Electrodes

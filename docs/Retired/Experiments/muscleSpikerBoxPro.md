@@ -1,7 +1,7 @@
 ---
 id: "getting_started_with_the_muscle_spikerbox_pro_-_antagonist_muscle_pairs"
 title: "Getting Started with the Muscle SpikerBox Pro - Antagonist Muscle Pairs"
-slug: "/Retired/Experiments/muscleSpikerBoxPro"
+slug: "/retired/experiments/muscleSpikerBoxPro"
 ---
 
 

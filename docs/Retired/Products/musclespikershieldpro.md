@@ -1,7 +1,7 @@
 ---
 id: musclespikershieldpro
 title: "Muscle SpikerShield Pro"
-slug: /Retired/Products/musclespikershieldpro
+slug: /retired/products/musclespikershieldpro
 ---
 
 ## Muscle SpikerShield Pro

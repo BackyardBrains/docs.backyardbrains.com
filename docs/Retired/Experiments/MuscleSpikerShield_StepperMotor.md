@@ -1,7 +1,7 @@
 ---
 id: "experiment__controlling_a_stepper_motor_with_your_muscles"
 title: "Experiment: Controlling a Stepper Motor with Your Muscles"
-slug: "/Retired/Experiments/MuscleSpikerShield_StepperMotor"
+slug: "/retired/experiments/MuscleSpikerShield_StepperMotor"
 ---
 
 
@@ -109,7 +109,7 @@ control.
   2. Now, we will have to add a library from ---
 id: experiment__controlling_a_stepper_motor_with_your_muscles
 title: "Experiment: Controlling a Stepper Motor with Your Muscles"
-slug: /Retired/Experiments/MuscleSpikerShield_StepperMotor
+slug: /retired/experiments/MuscleSpikerShield_StepperMotor
 ---
 
 ## Experiment:  Controlling a Stepper Motor with Your Muscles

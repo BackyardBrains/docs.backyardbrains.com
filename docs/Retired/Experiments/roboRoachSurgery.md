@@ -1,7 +1,7 @@
 ---
 id: "wirelessly_control_a_cyborg_cockroach"
 title: "Wirelessly Control a Cyborg Cockroach"
-slug: "/Retired/Experiments/roboRoachSurgery"
+slug: "/retired/experiments/roboRoachSurgery"
 ---
 
 

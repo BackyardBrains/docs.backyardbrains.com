@@ -1,7 +1,7 @@
 ---
 id: "advanced_neuroprosthetics:_take_someone's_free_will"
 title: "Advanced NeuroProsthetics: Take Someone's Free Will"
-slug: "/Retired/Experiments/humanhumaninterface"
+slug: "/retired/experiments/humanhumaninterface"
 ---
 
 

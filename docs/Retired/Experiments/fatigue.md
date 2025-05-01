@@ -1,7 +1,7 @@
 ---
 id: "emgs_during_muscle_fatigue"
 title: "EMGs during Muscle Fatigue"
-slug: "/Retired/Experiments/fatigue"
+slug: "/retired/experiments/fatigue"
 ---
 
 

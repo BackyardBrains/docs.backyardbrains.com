@@ -1,7 +1,7 @@
 ---
 id: "the_dancing_cockroach_leg-microstimulation_of_neurons_and_muscles"
 title: "The Dancing Cockroach Leg-Microstimulation of Neurons and Muscles"
-slug: "/Retired/Experiments/microstimulation"
+slug: "/retired/experiments/microstimulation"
 ---
 
 

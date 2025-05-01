@@ -1,7 +1,7 @@
 ---
 id: "experiment__sleep"
 title: "Experiment: Sleep"
-slug: "/Retired/Experiments/sleep"
+slug: "/retired/experiments/sleep"
 ---
 
 

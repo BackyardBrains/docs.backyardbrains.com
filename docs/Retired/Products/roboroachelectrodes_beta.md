@@ -1,7 +1,7 @@
 ---
 id: roboroachelectrodes_beta
 title: "Roboroach Electrodes (Beta)"
-slug: /Retired/Products/roboroachelectrodes-beta
+slug: /retired/products/roboroachelectrodes-beta
 ---
 
 

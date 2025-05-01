@@ -1,7 +1,7 @@
 ---
 id: brainmachineinterfaceclassroombundle
 title: "Brain Machine Interface Classroom"
-slug: /Retired/Products/brainmachineinterfaceclassroombundle
+slug: /retired/products/brainmachineinterfaceclassroombundle
 ---
 ## Brain-Machine Interface Classroom Bundle
 

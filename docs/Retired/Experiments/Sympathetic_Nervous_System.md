@@ -1,7 +1,7 @@
 ---
 id: "experiment__activate_your_sympathetic_nervous_system"
 title: "Experiment: Activate your Sympathetic Nervous System"
-slug: "/Retired/Experiments/Sympathetic_Nervous_System"
+slug: "/retired/experiments/Sympathetic_Nervous_System"
 ---
 
 

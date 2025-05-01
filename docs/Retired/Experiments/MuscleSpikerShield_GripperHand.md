@@ -1,7 +1,7 @@
 ---
 id: "controlling_the_claw"
 title: "Controlling the Claw"
-slug: "/Retired/Experiments/MuscleSpikerShield_GripperHand"
+slug: "/retired/experiments/MuscleSpikerShield_GripperHand"
 ---
 
 

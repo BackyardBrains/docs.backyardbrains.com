@@ -1,7 +1,7 @@
 ---
 id: "experiment__build_and_control_your_own_diy_neuroprosthetic__a_cyborg_hand!"
 title: "Experiment: Build and Control your own DIY Neuroprosthetic: a Cyborg Hand!"
-slug: "/Retired/Experiments/diyneuroprosthetic"
+slug: "/retired/experiments/diyneuroprosthetic"
 ---
 
 

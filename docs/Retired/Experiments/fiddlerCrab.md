@@ -1,7 +1,7 @@
 ---
 id: "fiddler_crab"
 title: "Fiddler Crab"
-slug: "/Retired/Experiments/fiddler_crab"
+slug: "/retired/experiments/fiddler_crab"
 ---
 
 # Experiment: Neural Recording from Fiddler Crab

@@ -1,7 +1,7 @@
 ---
 id: "experiment__cellular_microscopy-blood_cells"
 title: "Experiment: Cellular Microscopy-Blood Cells"
-slug: "/Retired/Experiments/bloodcells"
+slug: "/retired/experiments/bloodcells"
 ---
 
 

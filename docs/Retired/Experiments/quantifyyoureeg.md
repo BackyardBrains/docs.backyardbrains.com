@@ -1,7 +1,7 @@
 ---
 id: "Experiment_quantify_your_eeg"
 title: "Experiment: Quantify Your EEG"
-slug: "/Retired/Experiments/quantifyyoureeg"
+slug: "/retired/experiments/quantifyyoureeg"
 ---
 
 

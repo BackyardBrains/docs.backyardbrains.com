@@ -1,7 +1,7 @@
 ---
 id: "experiment__mosquito_love_songs"
 title: "Experiment: Mosquito Love Songs"
-slug: "/Retired/Experiments/mosquitoLoveSongs"
+slug: "/retired/experiments/mosquitoLoveSongs"
 ---
 
 

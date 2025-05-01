@@ -1,7 +1,7 @@
 ---
 id: toolbox
 title: "Toolbox"
-slug: /Retired/Products/toolbox
+slug: /retired/products/toolbox
 ---
 
 ## BYB Toolbox - Your Complete Portable Neuroscience Lab

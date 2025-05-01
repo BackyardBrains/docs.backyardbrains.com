@@ -1,7 +1,7 @@
 ---
 id: "experiment__oxygen_and_spiking"
 title: "Experiment: Oxygen and Spiking"
-slug: "/Retired/Experiments/oxygen"
+slug: "/retired/experiments/oxygen"
 ---
 
 

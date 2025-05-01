@@ -1,7 +1,7 @@
 ---
 id: retired_products_diyneuroprosthetickit
 title: DIY Neuroprosthetic Kit
-slug: /Retired/Products/diyneuroprosthetickit
+slug: /retired/products/diyneuroprosthetickit
 ---
 
 # DIY Neuroprosthetic Kit #

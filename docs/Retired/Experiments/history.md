@@ -1,7 +1,7 @@
 ---
 id: "_history__in_search_of_the_spike"
 title: " History: In Search of the Spike"
-slug: "/Retired/Experiments/history"
+slug: "/retired/experiments/history"
 ---
 
 

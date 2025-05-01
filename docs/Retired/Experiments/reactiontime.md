@@ -1,7 +1,7 @@
 ---
 id: "how_fast_your_brain_reacts_to_stimuli"
 title: "How Fast Your Brain Reacts To Stimuli"
-slug: "/Retired/Experiments/reactiontime"
+slug: "/retired/experiments/reactiontime"
 ---
 
 

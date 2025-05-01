@@ -1,7 +1,7 @@
 ---
 id: "record_electricity_from_your_muscles"
 title: "Record Electricity from Your Muscles"
-slug: "/Retired/Experiments/muscleSpikerBox"
+slug: "/retired/experiments/muscleSpikerBox"
 ---
 
 

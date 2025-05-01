@@ -1,7 +1,7 @@
 ---
 id: "experiment__debunking_the_p-value_with_statistics"
 title: "Experiment: Debunking the P-value with Statistics"
-slug: "/Retired/Experiments/p-value"
+slug: "/retired/experiments/p-value"
 ---
 
 

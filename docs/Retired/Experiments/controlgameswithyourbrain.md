@@ -1,7 +1,7 @@
 ---
 id: "experiment__control_games_with_your_brain"
 title: "Experiment: Control Games with your Brain"
-slug: "/Retired/Experiments/ControlGamesWithYourBrain"
+slug: "/retired/experiments/ControlGamesWithYourBrain"
 ---
 
 

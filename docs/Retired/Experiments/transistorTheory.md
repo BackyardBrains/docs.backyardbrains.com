@@ -1,7 +1,7 @@
 ---
 id: "_Background:_transistor_theory"
 title: " Background: Transistor Theory"
-slug: "/Retired/Experiments/transistorTheory"
+slug: "/retired/experiments/transistorTheory"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 id: "record_and_manipulate_live_neurons!"
 title: "Record and Manipulate Live Neurons!"
-slug: "/Retired/Experiments/spikerbox"
+slug: "/retired/experiments/spikerbox"
 ---
 
 Did you just get a SpikerBox, and are wondering how to use it? In this lesson,

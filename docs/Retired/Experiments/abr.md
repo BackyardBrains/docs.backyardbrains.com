@@ -1,7 +1,7 @@
 ---
 id: "experiment__the_auditory_brainstem_response"
 title: "Experiment: The Auditory Brainstem Response"
-slug: "/Retired/Experiments/abr"
+slug: "/retired/experiments/abr"
 ---
 
 

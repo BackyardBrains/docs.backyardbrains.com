@@ -1,7 +1,16 @@
 
-# Expansion Port
+# Expand the Human SpikerBox
 
-This document describes the hardware I/O interface to the Human SpikerBox and Neuron SpikerBox Pro. Both SpikerBoxes have the ability to accept external event signals, external analog signals, and provide the recorded signal as an analog output.
+You can add perperials to the Human SpikerBox to sync your recordings with lab equipment. 
+
+- [Reaction Timer](./reaction-timer/)  A fun way to measure your reaction time to external stimuli like light and sound.
+- [Reflex Hammer](./reflex-hammer/)  A reflex hammer just like at the Doctors' Office... on with a motion-sensor to perform precise human electrdphysiology experiments.  
+- [Game Controller](./game-controller/)  Control computer games with your EMG muscle activity! 
+
+
+# Technicel Specs
+
+The expansion port hardware I/O interface is the same for both the Human SpikerBox and Neuron SpikerBox. Both SpikerBoxes have the ability to accept external event signals, external analog signals, and provide the recorded signal as an analog output.
 
 ## Pinout
 

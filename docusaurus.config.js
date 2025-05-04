@@ -22,6 +22,8 @@ const config = {
     locales: ['en'],
   },
 
+  trailingSlash: false,
+
   plugins: [
     [
       '@docusaurus/plugin-google-tag-manager',
@@ -32,30 +34,30 @@ const config = {
       {
         changefreq: 'weekly',
         priority: 0.5,
-        trailingSlash: false,
         additionalPaths: async () => [
-          { path: '/', priority: 1.0 },   // ← adds https://docs.backyardbrains.com/
+          { path: '/', priority: 1.0 },            // root URL
         ],
-        ignorePatterns: ['/retired/**/*.pdf'],
+        ignorePatterns: [
+          '/retired/**/*.pdf',                      // exclude legacy PDFs
+          '/tags/**',                               // exclude tag pages
+        ],
       },
     ],
     [
       '@docusaurus/plugin-client-redirects',
       {
         redirects: [
-          { from: '/Invertebrate/', to: '/invertebrate/' },
+          { from: '/Invertebrate/',   to: '/invertebrate/' },
           { from: '/Neuroengineering/', to: '/neuroengineering/' },
-          { from: '/Plant/', to: '/plant/' },
-          { from: '/Human/', to: '/human/' },
-          { from: '/Software/', to: '/software/' },
-          { from: '/Policies/', to: '/policies/' },
-          { from: '/Retired/', to: '/retired/' },
+          { from: '/Plant/',          to: '/plant/' },
+          { from: '/Human/',          to: '/human/' },
+          { from: '/Software/',       to: '/software/' },
+          { from: '/Policies/',       to: '/policies/' },
+          { from: '/Retired/',        to: '/retired/' },
         ],
       },
     ],
   ],
-
-  trailingSlash: false,
 
   presets: [
     [
@@ -71,12 +73,7 @@ const config = {
         theme: {
           customCss: './src/css/custom.css',
         },
-	sitemap: {
-          changefreq: 'weekly',
-          priority: 0.5,
-          filename: 'sitemap.xml',
-          ignorePatterns: ['/tags/**'],
-      },
+	      sitemap: false,
     },
   ],
 ],

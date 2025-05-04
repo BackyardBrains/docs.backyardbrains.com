@@ -55,6 +55,8 @@ const config = {
     ],
   ],
 
+  trailingSlash: false,
+
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -69,10 +71,15 @@ const config = {
         theme: {
           customCss: './src/css/custom.css',
         },
+	sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          filename: 'sitemap.xml',
+          ignorePatterns: ['/tags/**'],
       },
-    ],
+    },
   ],
-
+],
   themeConfig: {
     noSSR: false,
     colorMode: {

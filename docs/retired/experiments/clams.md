@@ -21,11 +21,11 @@ record the electromyograms of its lateral muscles.
 
 ##### Prerequisite Labs
 
-* [Experiment:Record Electricity from your Muscles](https://backyardbrains.com/experiments/muscleSpikerBox) - This will introduce you to the concept of electromyography.
+* [Experiment:Record Electricity from your Muscles](../experiments/music.md) - This will introduce you to the concept of electromyography.
 
 ##### Equipment
 
-*[Muscle SpikerBox](https://backyardbrains.com/products/muscleSpikerboxBundle)
+*[Muscle SpikerBox](https://backyardbrains.com/products/human-spikerbox)
 
 ## Background
 

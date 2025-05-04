@@ -15,7 +15,7 @@ slug: /retired/products/clawbundle
   * [__Default Arduino Code for Muscle-Based Claw Control](https://raw.githubusercontent.com/BackyardBrains/SpikerShield/master/Muscle/Arduino%20Code/Gripper/MuscleSpikerShieldWithGripper_V1_0.ino)
   * [__Test Code that loops Claw between Open and Closed](https://raw.githubusercontent.com/BackyardBrains/SpikerShield/master/Muscle/Arduino%20Code/Gripper/MuscleSpikerShield_GripperLoop.ino)
   * [__PCB Schematics SMD (v2.61)](./files/EMGSpikerShield.SMD.V2.61.pdf)
-  * [__Controlling the Claw](../Experiments/MuscleSpikerShield_GripperHand)
+  * [__Controlling the Claw](../experiments/MuscleSpikerShield_GripperHand)
 
 
 Jealous of the cyborgs you see in the movies? Wish your brain could send

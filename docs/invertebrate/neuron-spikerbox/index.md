@@ -10,7 +10,7 @@ sidebar_label: "Neuron SpikerBox"
 
 ![nsb pro](./img/1.png)
 
-The Neuron SpikerBox pro is a dual channel bio bioamplifier that allows you to hear and see real-time electrical "spikes", or action potentials, of live neurons in invertebrates. It can be used to record and analyze action potentials, when connected to our [Spike Recorder App](../../Software/SpikeRecorder/). 
+The Neuron SpikerBox pro is a dual channel bio bioamplifier that allows you to hear and see real-time electrical "spikes", or action potentials, of live neurons in invertebrates. It can be used to record and analyze action potentials, when connected to our [Spike Recorder App](../../software/SpikeRecorder/). 
 
 ## Getting Started ##
 
@@ -32,7 +32,7 @@ Pin the recording electrodes into your prep according to your experiment.
 Power the Neuron SpikerBox Pro on with a 9V battery, and turn on the black knob at the front of the SpikerBox. This also controls the volume.
 
 
-Plug the USB cable into the USB port on the back of the board to connect. Alternatively you can also use the green smartphone cable. [click here for more details about connecting](../../Software/SpikeRecorder/)
+Plug the USB cable into the USB port on the back of the board to connect. Alternatively you can also use the green smartphone cable. [click here for more details about connecting](../../software/SpikeRecorder/)
 
 Open SpikeRecorder on your device.
 

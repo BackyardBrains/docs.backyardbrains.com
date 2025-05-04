@@ -47,8 +47,8 @@ Explore comprehensive guides and detailed information on all our devices and sof
 ### Policies
 
 - [Statement on Ethics](./policies/ethics/)
-- [Return Policy](./policies/returnpolicy/)
-- [Style Guide](./policies/styleguide/)
+- [Return Policy](./policies/return-policy/)
+- [Style Guide](./policies/style-guide/)
 
 ## Troubleshooting ##
 

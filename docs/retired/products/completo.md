@@ -29,7 +29,7 @@ Here are just a few of the **additional experiments** you can run with the Compl
 
 - Record muscle potentials from fruit flies  
 - Carefully position electrodes on earthworm nerves  
-- Measure [adaptation rates](../Experiments/somatotopy.md) in cockroach sensory neurons  
+- Measure [adaptation rates](../experiments/somatotopy.md) in cockroach sensory neurons  
 - Record from the amazing grasshopper visual system, as shown below:
 
 <iframe 
@@ -76,11 +76,11 @@ The Scope has rare-earth magnets built into its base to stay firmly attached to 
 
 ### Related Experiments
 
-- [Getting Started with Spikes](../Experiments/ratecoding.md)
-- [Rate Coding](../Experiments/ratecoding.md)
-- [Effect of Temperature on Neurons](../Experiments/temperature.md)
-- [Neural Adaptation](../Experiments/somatotopy.md)
-- [Referencing your Spikes](../Experiments/referencing.md)
-- [Effect of Nicotine and MSG on Neurons](../Experiments/neuropharmacology.md)
-- [Neuroprosthetics](../Experiments/neuroprosthetics.md)
-- [Oxygen and Spiking](../Experiments/oxygen.md)
+- [Getting Started with Spikes](../experiments/ratecoding.md)
+- [Rate Coding](../experiments/ratecoding.md)
+- [Effect of Temperature on Neurons](../experiments/temperature.md)
+- [Neural Adaptation](../experiments/somatotopy.md)
+- [Referencing your Spikes](../experiments/referencing.md)
+- [Effect of Nicotine and MSG on Neurons](../experiments/neuropharmacology.md)
+- [Neuroprosthetics](../experiments/neuroprosthetics.md)
+- [Oxygen and Spiking](../experiments/oxygen.md)

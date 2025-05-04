@@ -26,9 +26,9 @@ slug: /retired/products/workshopmakentake
 
 ### Experiments
 
-  - [Getting Started with Spikes](../Experiments/spikerbox)
-  - [Rate Coding](../Experiments/ratecoding)
-  - [Microstimulation of Neurons and Muscles](../Experiments/microstimulation)
+  - [Getting Started with Spikes](../experiments/spikerbox)
+  - [Rate Coding](../experiments/ratecoding)
+  - [Microstimulation of Neurons and Muscles](../experiments/microstimulation)
 
 ---
 

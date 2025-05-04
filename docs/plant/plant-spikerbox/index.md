@@ -36,7 +36,7 @@ If you are using a smartphone or tablet, plug the green smartphone cable into th
 
 If recording on a computer, plug the blue USB cable into the metal port on the back of the board to connect.
 
-Open SpikeRecorder on your device. [click here for more details about connecting](../../Software/SpikeRecorder/)
+Open SpikeRecorder on your device. [click here for more details about connecting](../../software/SpikeRecorder/)
 
 You are ready to start experimenting!
 What will you discover?

@@ -34,13 +34,21 @@ const config = {
       {
         changefreq: 'weekly',
         priority: 0.5,
-        additionalPaths: async () => [
-          { path: '/', priority: 1.0 },            // root URL
-        ],
         ignorePatterns: [
           '/retired/**/*.pdf',                      // exclude legacy PDFs
           '/tags/**',                               // exclude tag pages
         ],
+        // ★ add the root URL manually
+        createSitemapItems: async ({siteConfig, routes, defaultCreateSitemapItems}) => {
+          const items = await defaultCreateSitemapItems({siteConfig, routes});
+          items.push({
+            url: '/',              // absolute path
+            priority: 1.0,
+            changefreq: 'weekly',
+            lastmod: null,         // omit <lastmod>
+          });
+          return items;
+        },
       },
     ],
     [

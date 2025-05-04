@@ -1,7 +1,7 @@
 ---
 id: spikerbit_project_beatbite
 title: "Spiker:Bit Project - Beat Bite"
-slug: /Neuroengineering/SpikerBit/Projects/BeatBite
+slug: /neuroengineering/spikerbit/projects/beatbite
 sidebar_position: 10
 sidebar_label: BeatBite
 description: Boring song on the bus? Just bite!

@@ -25,8 +25,32 @@ const config = {
   plugins: [
     [
       '@docusaurus/plugin-google-tag-manager',
+      { containerId: 'GTM-K3GMCF3Q' },
+    ],
+    [
+      '@docusaurus/plugin-sitemap',
       {
-        containerId: 'GTM-K3GMCF3Q', // Replace with your real GTM ID
+        changefreq: 'weekly',
+        priority: 0.5,
+        trailingSlash: false,
+        additionalPaths: async () => [
+          { path: '/', priority: 1.0 },   // ← adds https://docs.backyardbrains.com/
+        ],
+        ignorePatterns: ['/retired/**/*.pdf'],
+      },
+    ],
+    [
+      '@docusaurus/plugin-client-redirects',
+      {
+        redirects: [
+          { from: '/Invertebrate/', to: '/invertebrate/' },
+          { from: '/Neuroengineering/', to: '/neuroengineering/' },
+          { from: '/Plant/', to: '/plant/' },
+          { from: '/Human/', to: '/human/' },
+          { from: '/Software/', to: '/software/' },
+          { from: '/Policies/', to: '/policies/' },
+          { from: '/Retired/', to: '/retired/' },
+        ],
       },
     ],
   ],

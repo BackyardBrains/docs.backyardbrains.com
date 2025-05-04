@@ -1,0 +1,8 @@
+{
+  "label": "Human",            // what the sidebar shows
+  "position": 2,               // order among other top-level sections
+  "link": {
+    "type": "generated-index", // makes a stub page so the link works
+    "description": "Experiments and hardware for human physiology"
+  }
+}

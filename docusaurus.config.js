@@ -38,30 +38,12 @@ const config = {
           '/retired/**/*.pdf',                      // exclude legacy PDFs
           '/tags/**',                               // exclude tag pages
         ],
-        // ★ add the root URL manually
-        createSitemapItems: async ({siteConfig, routes, defaultCreateSitemapItems}) => {
-          const items = await defaultCreateSitemapItems({siteConfig, routes});
-          items.push({
-            url: '/',              // absolute path
-            priority: 1.0,
-            changefreq: 'weekly',
-            lastmod: null,         // omit <lastmod>
-          });
-          return items;
-        },
       },
     ],
     [
       '@docusaurus/plugin-client-redirects',
       {
         redirects: [
-          { from: '/Invertebrate/',   to: '/invertebrate/' },
-          { from: '/Neuroengineering/', to: '/neuroengineering/' },
-          { from: '/Plant/',          to: '/plant/' },
-          { from: '/Human/',          to: '/human/' },
-          { from: '/Software/',       to: '/software/' },
-          { from: '/Policies/',       to: '/policies/' },
-          { from: '/Retired/',        to: '/retired/' },
         ],
       },
     ],

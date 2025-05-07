@@ -25,7 +25,6 @@ slug: /retired/products/musclespikershieldbundle
   * [PCB Schematics (v2.0)](./files/Muscle_SpikerShieldV2.pdf)
   * [PCB Schematics (v2.1)](./files/Muscle_SpikerShieldV2.1.pdf)
   * [PCB Schematics (v2.6)](./files/Muscle_SpikerShield.SMD.V2.6.pdf)
-  * [PCB Schematics SMD (v2.61)](./files/EMGSpikerShield.SMD.V2.61.pdf)
   * [Default Arduino code](https://raw.githubusercontent.com/BackyardBrains/Muscle-SpikerShield/master/V2_61/Muscle-SpikerShield/Muscle-SpikerShield.ino)
 
 ### Experiments

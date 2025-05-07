@@ -16,7 +16,6 @@ slug: /retired/products/workshophumaninterface
 
 - [PCB Schematics (v1.3)](./files/musclespikershield.v.1.3.updatedvalues.pdf)  
 - [Build Instructions (v1.7)](./files/musclespikershield.v.1.7.buildinginstructions.pdf)  
-- [PCB Schematics SMD (v2.61)](./files/emgspikershield.smd.v2.61.pdf)  
 - [Annotated Photo of Board](./files/musclespikershield1.3_annotatedphoto.pdf)  
 - [Default Arduino Code for HHI](../experiments/files/hhiclawcombined.zip)
 

@@ -1,7 +1,7 @@
 ---
 id: spikerbit_project_blinkbit
 title: "Spiker:Bit Project - Blink:Bit"
-slug: /Neuroengineering/SpikerBit/Projects/BlinkBit
+slug: /neuroengineering/spikerbit/projects/blink-bit
 sidebar_position: 5
 sidebar_label: Blink:Bit
 description: Experiment with real-time eye blink detection

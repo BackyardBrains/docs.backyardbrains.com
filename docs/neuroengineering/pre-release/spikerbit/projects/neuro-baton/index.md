@@ -1,7 +1,7 @@
 ---
 id: spikerbit_project_neurobaton
 title: "Spiker:Bit Project - NeuroConducting Baton"
-slug: /Neuroengineering/SpikerBit/Projects/NeuroBaton
+slug: /neuroengineering/spikerbit/projects/neuro-baton
 sidebar_position: 2
 sidebar_label: NeuroConducting Baton
 description: Conduct Music with Your Mind and Body!

@@ -1,7 +1,7 @@
 ---
 id: spikerbit_project_neurotalk
 title: "Spiker:Bit Project - Neuro:Talk"
-slug: /Neuroengineering/SpikerBit/Projects/NeuroTalk
+slug: /neuroengineering/spikerbit/projects/neuro-talk
 sidebar_position: 1
 sidebar_label: Neuro:Talk
 description: The future of silent communication

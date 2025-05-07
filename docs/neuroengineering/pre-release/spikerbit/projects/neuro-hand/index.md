@@ -1,7 +1,7 @@
 ---
 id: spikerbit_project_neurohand
 title: "Spiker:Bit Project - DIY Neuroprosthetic"
-slug: /Neuroengineering/SpikerBit/Projects/NeuroHand
+slug: /neuroengineering/spikerbit/projects/neuro-hand
 sidebar_position: 1
 sidebar_label: DIY Neuroprosthetic
 description: create your very own Cyborg Hand prosthetic

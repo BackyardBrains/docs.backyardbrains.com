@@ -2,6 +2,7 @@
 id: spikerbit_project_fomoglass
 sidebar_label: FOMO Glases
 description: Never miss out again
+slug: /neuroengineering/spikerbit/projects/fomo-glasses
 ---
 
 # FOMO Glasses #

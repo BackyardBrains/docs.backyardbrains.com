@@ -1,7 +1,7 @@
 ---
 id: spikerbit_project_dinojump
 title: Dino Jump game 
-slug: /Neuroengineering/SpikerBit/Projects/DinoJump/
+slug: /neuroengineering/spikerbit/projects/dino-jump
 sidebar_label: Dino Jump game 
 description: For when you have no internet, IRL
 ---

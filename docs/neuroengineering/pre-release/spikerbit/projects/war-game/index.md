@@ -1,7 +1,7 @@
 ---
 id: spikerbit_project_wargame
 title: "Spiker:Bit Project - The War Game"
-slug: /Neuroengineering/SpikerBit/Projects/WarGame
+slug: /neuroengineering/spikerbit/projects/war-game
 sidebar_position: 11
 sidebar_label: The War Game
 description: Never lose to the powerful red army with 10000 power again

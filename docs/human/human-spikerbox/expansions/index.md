@@ -1,4 +1,11 @@
-
+---
+id: human_spikerbox_expansions
+title: "Human SpikerBox Expansion Modules"
+slug: /human/human-spikerbox/expansions
+sidebar_position: 1
+sidebar_label: Expansion Modules
+description: Expand the Human SpikerBox
+---
 # Expand the Human SpikerBox
 
 You can add perperials to the Human SpikerBox to sync your recordings with lab equipment. 

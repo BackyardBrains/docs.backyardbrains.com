@@ -2,6 +2,7 @@
 id: spikerbit_project_emggameconsole
 sidebar_position: 6
 sidebar_label: EMG Game Console
+slug: /neuroengineering/spikerbit/projects/emg-game-console
 description: Fully Body gaming like never before
 ---
 

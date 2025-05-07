@@ -3,6 +3,7 @@ id: spikerbit_project_heartbit
 sidebar_position: 10
 sidebar_label: HeartBit
 description: Music reimagined
+slug: /neuroengineering/spikerbit/projects/heart-bit
 ---
 
 # HeartBit

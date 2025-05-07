@@ -1,7 +1,7 @@
 ---
 id: spikerbit_project_myotyper
 title: "Spiker:Bit Project - MyoTyper"
-slug: /Neuroengineering/SpikerBit/Projects/MyoTyper
+slug: /neuroengineering/spikerbit/projects/myo-typer
 sidebar_position: 7
 sidebar_label: MyoTyper
 description: No keyboard? No Problem. Put the MyoTyper to work.

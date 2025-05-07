@@ -3,6 +3,7 @@ id: spikerbit_project_snoozesmacker
 sidebar_position: 9
 sidebar_label: Snooze Smacker
 description: Dozing off in class? The snooze smacker will help.
+slug: /neuroengineering/spikerbit/projects/snooze-smacker
 ---
 
 # The Snooze Smacker #

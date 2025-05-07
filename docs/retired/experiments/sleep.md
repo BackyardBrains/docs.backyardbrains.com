@@ -26,7 +26,7 @@ take a nap!
 
 ##### Prerequisite Labs
 
-* [EEG](eeg) - You should have an understanding of how to use the Heart & Brain SpikerBox to record the alpha waves of your visual cortex before moving on to this more challenging experiment of recording the EEG during different stages of sleep.
+* [EEG](./eeg.md) - You should have an understanding of how to use the Heart & Brain SpikerBox to record the alpha waves of your visual cortex before moving on to this more challenging experiment of recording the EEG during different stages of sleep.
 
 ##### Equipment
 

@@ -4,8 +4,6 @@ title: "Experiment: Make your own Homunculus"
 slug: "/retired/experiments/homunculus"
 ---
 
-
-
 While you know what you look like, do you know what your nervous system thinks
 you look like? Read further and learn how your skin's sensitivity changes how
 you will see your body.
@@ -61,7 +59,7 @@ only for the left cerebral hemisphere.
 
 ## Materials
 
-#### For this experiment you need_
+#### For this experiment, you need
 
 1. The data you collected in the first [Skin Senstivity Experiment](skin)
   2. Access to the Internet 

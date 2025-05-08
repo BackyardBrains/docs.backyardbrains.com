@@ -1,7 +1,7 @@
 ---
 id: spikerbit_python
-sidebar_position: 2
-sidebar_label: Getting Started with Spiker:bit Python Programming
+sidebar_position: 3
+sidebar_label: Getting Started with Python 
 slug: "/neuroengineering/spikerbit/python"
 ---
 

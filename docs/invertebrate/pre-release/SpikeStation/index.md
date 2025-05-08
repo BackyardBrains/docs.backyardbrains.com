@@ -1,5 +1,6 @@
 ---
 sidebar_label: SpikeStation
+slug: /invertebrate/spikestation
 ---
 
 # SpikeStation: An Educational Tool for Advanced Science Labs #

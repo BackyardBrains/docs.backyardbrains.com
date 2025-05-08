@@ -1,7 +1,7 @@
 ---
 id: spikerbit-extension-installing
 title: Installing Spiker:Bit Extension
-slug: /neuroengineering/pre-pelease/spikerbit/extension
+slug: /neuroengineering/spikerbit/extension
 sidebar_position: 1
 sidebar_label: Installing Spiker:Bit Extension
 ---

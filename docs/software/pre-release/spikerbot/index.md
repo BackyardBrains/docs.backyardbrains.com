@@ -1,11 +1,12 @@
 ---
 sidebar_position: 2
 sidebar_label: The SpikerBot App
+slug: /software/spikerbot-app
 ---
 
 # The SpikerBot App
 
-Welcome to the SpikerBot App – the brain simulator that powers the [SpikerBot robot](https://docs.backyardbrains.com/Neuroengineering/Pre-Release/SpikerBot/).
+Welcome to the SpikerBot App – the brain simulator that powers the [SpikerBot robot](../../../neuroengineering/pre-release/spikerbot/index.md).
 
 [Get the app here](https://robot.backyardbrains.com) for Windows, MacOS, iOS, Android and Chrome.
 

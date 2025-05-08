@@ -1,11 +1,13 @@
 ---
+id: spikerbot
 sidebar_position: 2
 sidebar_label: SpikerBot
+slug: "/neuroengineering/spikerbot"
 ---
 
 # SpikerBot #
 
-SpikerBot is an educational robot designed for hands-on experimentation with embodied spiking neural networks. It is equipped with camera, distance sensor, microphone, speaker, lights and motors, and communicates via Wi-Fi with the [SpikerBot app](https://docs.backyardbrains.com/Software/Pre-Release/SpikerBot/), which runs its spiking neural networks.
+SpikerBot is an educational robot designed for hands-on experimentation with embodied spiking neural networks. It is equipped with camera, distance sensor, microphone, speaker, lights and motors, and communicates via Wi-Fi with the [SpikerBot app](../../../software/pre-release/spikerbot/index.md), which runs its spiking neural networks.
 
 ![image of robot](./robot.png)
 

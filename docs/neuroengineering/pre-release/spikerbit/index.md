@@ -19,7 +19,7 @@ The Spiker:bit allows you to develop DIY Brain Machine Interfaces (BMI) or somet
 | Power source | 2x AA Battery |
 | Recording Modes| EMG, ECG |
 |Outputs| 1x Servo, 1x Expansion Port|
-|Inputs| 1x [Orange Electrode Cable](https://backyardbrains.com/products/muscleElectrodeCable)|
+|Inputs| 1x [Orange Electrode Cable](https://https://backyardbrains.com/products/muscle-electrode-cable)|
 
 [Download schematic PDF](./ )
 

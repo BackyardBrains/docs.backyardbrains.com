@@ -68,7 +68,7 @@ A neural circuit is a small network of interconnected neurons whose collective a
 
 The Brain Library is a collection SpikerBot brains modeling a wide range of neural circuits and behaviors.
 
-[Download All Brains](https://github.com/BackyardBrains/docs.backyardbrains.com/blob/main/docs/Software/Pre-Release/SpikerBot/static/brains/AllBrains.zip)
+[Download All Brains](./static/brains/all-brains.zip)
 
 Unzip the .brain files to your local documents/spikerbot/text folder.
 

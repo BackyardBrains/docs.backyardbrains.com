@@ -1,7 +1,7 @@
 ---
 id: spikerbit
 sidebar position: 1
-sidebar label: Spiker:Bit
+sidebar label: Spiker:bit
 slug: "/neuroengineering/spikerbit"
 ---
 

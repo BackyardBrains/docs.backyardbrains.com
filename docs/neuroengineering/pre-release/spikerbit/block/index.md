@@ -1,6 +1,6 @@
 ---
 id: spikerbit-block-coding
-title: Getting Started with Spiker:Bit Block Programming
+title: Getting Started with Spiker:bit Block Programming
 slug: /neuroengineering/spikerbit/block
 sidebar_position: 1
 sidebar_label: Getting Started with Block 

@@ -1,17 +1,17 @@
 ---
 id: spikerbit_python
 sidebar_position: 2
-sidebar_label: Getting Started with Python
+sidebar_label: Getting Started with Spiker:bit Python Programming
 slug: "/neuroengineering/spikerbit/python"
 ---
 
-# Getting Started with Spiker:bit Python Programming #
+# Getting Started with Spiker:bit Python Programming 
 
-## Overview ##
+## Overview
 
 Python is a programming language that can be used with the Spiker:bit to easily develop Brain Machine Interfaces. It is a powerful language, easy to learn, and a great way to get started with Spiker:bit.
 
-## Software Set-up ## 
+## Software Set-up 
 
 Coding your project in Python gives you a choice of editors. The first is to use the [Microsoft MakeCode](https://makecode.microbit.org/) editor that can toggle between Block Code and Python. This is great for learning the structure and logic of Python as you can switch back and forth between your Block Code and Python. Changes to one development language will sync to the other. You will also be able to visually see your data inside the same editor in real time. This functionality comes at a slight cost: it does not support a full implementation of Python. So if you want to use actual Python functions and syntax, you should head to the [BBC micro:bit Python Editor](https://python.microbit.org/v/3/ideas). This has fewer features but gives you more flexibility.
 

@@ -7,7 +7,7 @@ sidebar_label: NeuroConducting Baton
 description: Conduct Music with Your Mind and Body!
 ---
 
-# Neuro:baton #
+# Neuro:baton 
 
 ![Conduct Music with Your Mind and Body](./nc_Title.png)
 
@@ -108,7 +108,7 @@ In this example, we’ll use the strength of our muscles' EMG to control the mus
 
 #### Muscle EMG for Tempo: ####
 
-We'll use an EMG (electromyogram) connected to your forearm muscles.  For more information on how to connect the Spiker:bit to your muscles, see [Getting Started with Block](https://docs.backyardbrains.com/Engineering/NeuroBit/Block/) under "Connecting Muscles to Read an EMG Signal".  The forearm was chosen as these muscles get activating when conducting.
+We'll use an EMG (electromyogram) connected to your forearm muscles.  For more information on how to connect the Spiker:bit to your muscles, see [Getting Started with Block](../../block/) under "Connecting Muscles to Read an EMG Signal".  The forearm was chosen as these muscles get activating when conducting.
 
 When you flex your muscles to raise the baton, the EMG increases. By reading the EMG values into a variable, we can use it to control the tempo of the music.
 

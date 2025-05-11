@@ -42,7 +42,6 @@ Explore comprehensive guides and detailed information on all our devices and sof
   - [Desktop (Windows, Mac, Linux)](./software/spike-recorder/desktop/)
   - [Web](./software/spike-recorder/web/) *(In Development)*
   - [Troubleshooting](./software/spike-recorder/troubleshooting/)
-- [SpikerBot ](./software/pre-release/spikerbot/)  (Pre-Release)
 
 ### Policies
 

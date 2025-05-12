@@ -5,11 +5,11 @@ sidebar_label: SpikerBot
 slug: "/neuroengineering/spikerbot"
 ---
 
-# SpikerBot
+# SpikerBot (Pre-Release)
 
-SpikerBot pairs a touch-based brain design studio with a palm‑sized robot, letting learners create spiking neural circuits that see, hear, move, blink, and beep.
+SpikerBot combines a brain design studio with a palm‑sized neurorobot, letting learners assemble spiking neural circuits into brain models that see, hear, move, blink, and beep.
 
-> **Built for classrooms.** SpikerBot translates complex brain science into an affordable, hands‑on robot that lets students *model neural circuits, see neural activity drive behaviour, and build skills that underpin modern neurotechnology and AI.*
+> **Built for classrooms.** SpikerBot translates complex brain science into an affordable, hands‑on robot that lets students *model neural circuits, see neural activity drive behaviour, and build skills that underpin modern neurotechnology, nervous system medicine and neuromorphic AI.*
 
 ---
 
@@ -35,16 +35,16 @@ When the app opens you’ll see a brain‑shaped canvas. Drag **black (excitator
 
 ## Hardware at a Glance
 
-| Sensor / Effector | Spec |
-|-------------------|------|
-| **RGB Camera**    | 320 × 240 px, forward‑facing |
-| **Distance Sensor** | IR, ≈ 1 m range |
-| **Microphone**    | Mono, 8‑bit PCM stream |
-| **Motors**        | Differential, fwd/back on L & R |
-| **RGB LEDs**      | Four addressable |
-| **Speaker**       | PWM tone + PCM |
-| **MCU**           | ESP32‑S3 (Wi‑Fi + BLE) |
-| **Power**         | 4 × AA |
+| Sensor / Effector    | Spec                                  |
+|----------------------|---------------------------------------|
+| **RGB Camera**       | 320 × 240 px, forward‑facing          |
+| **Distance Sensor**  | IR, ≈ 1 m range                       |
+| **Microphone**       | Mono, 8‑bit PCM stream               |
+| **Motors**           | Differential, fwd/back on L & R       |
+| **RGB LEDs**         | Four addressable                      |
+| **Speaker**          | PWM tone + PCM                        |
+| **MCU**              | ESP32‑S3 (Wi‑Fi + BLE)                |
+| **Power**            | 4 × AA                                  |
 
 The ESP32 handles sensing and actuation; neural simulation runs in the app over 2.4 GHz Wi‑Fi.
 
@@ -68,7 +68,7 @@ The ESP32 handles sensing and actuation; neural simulation runs in the app over 
 * **Drag & Drop** neurons into the workspace.  
 * **Connect** using the triangular axon handle.  
 * **Tune** neuron type (Quiet, Burst, Custom) and polarity (Excite, Inhibit).  
-* **Play** – spikes animate; the robot responds.
+* **Play** – spikes animate; the robot responds. (If the robot stays green and immobile, click **Pause** then **Play** to reset the Wi‑Fi link).
 
 Under the hood SpikerBot uses the *Izhikevich* model. Synapse weights 1‑100 set strength: > 25 is reliable; > 90 forms persistent loops akin to short‑term memory.  
 *(**Synapse weight guide:** 1‑10 “Whisper”, 11‑24 “Nudge”, 25‑50 “Reliable”, 51‑90 “Strong”, 91‑100 “Lock‑in”.)*
@@ -81,10 +81,11 @@ Under the hood SpikerBot uses the *Izhikevich* model. Synapse weights 1‑100 se
 * **Crossed Circuit** – left sensor → right motor (steering).  
 * **Synaptic Integration** – weak converging inputs act as a coincidence detector (< 10).  
 * **Recurrent Excitation** – strong feedback (> 90) stores state.  
+<img src="./img/circuit1.png" alt="Recurrent Excitation" width="300" />
 * **Mutual Inhibition** – competing loops enable decisions.
 
-<img src="./img/circuit1.png" alt="Recurrent Excitation" width="300" />
 <img src="./img/circuit2.png" alt="Lateral Inhibition" width="300" />
+
 
 ---
 
@@ -102,12 +103,12 @@ Under the hood SpikerBot uses the *Izhikevich* model. Synapse weights 1‑100 se
 
 ### Starter Pack
 
-[Download the starter set of example brains](./static/brains/all-brains.zip) – ready‑to‑run `.brain` files in one ZIP.  
+[Download the starter set of example brains](./static/brains/all-brains.zip) – six ready‑to‑run `.brain` files in one ZIP.  
 Unzip into **`Documents/SpikerBot/text`** and choose **File → Load** inside the app.
 
 ---
 
-### Brains Included
+### New Brains
 
 ---
 
@@ -115,9 +116,11 @@ Unzip into **`Documents/SpikerBot/text`** and choose **File → Load** insid
 <img src="./img/brain-tracker.png" alt="Tracker brain" width="500" />
 
 * **Connectome:** 17 neurons (all excitatory) · 8 synapses  
-* **What it does:** KhOWeeps a moving green object centered by mapping nine horizontal retinal zones to graded left/right motor speeds, yielding smooth pursuit rather than lurchy zig‑zagging.  
-* **How it works:** Tracker contains a retinotopic map representing 9 distinct horizontal positions of a visual target (green). Each position triggers a contralateral movement proportional to its distance from the center. This makes the robot’s orienting response smoother and more effective than our usual 2‑neuron Braitenberg vehicle. The brain illustrates how to scale motor output proportional to the eccentricity of the stimulus in the visual field, mimicking *population coding* in the vertebrate oculomotor system.
+* **What it does:** Keeps a moving green object centered by mapping nine horizontal retinal zones to graded left/right motor speeds, yielding smooth pursuit rather than lurchy zig‑zagging.
+* **How it works:** Tracker contains a retinotopic map representing 9 distinct horizontal positions of a visual target (green). Each position triggers a contralateral movement proportional to its distance from the center. This makes the robot’s orienting response smoother than a classical 2-neuron "[Braitenberg vehicle](https://en.wikipedia.org/wiki/Braitenberg_vehicle)". The brain illustrates how to scale motor output proportional to the eccentricity of a stimulus in the visual field, mimicking *population coding* in the vertebrate oculomotor system.
 * **Concept links:** Bridges to *proportional–derivative* control in robotics, and to cerebellar deficits where pursuit becomes saccadic (e.g., in spinocerebellar ataxia). Also an intro to continuous‑valued representations used in deep‑RL visual‑servo agents.
+
+* [Download this brain as a .brain file](./static/brains/Tracker@@@@@@1746208384489279.brain)
 
 ---
 
@@ -128,22 +131,22 @@ Unzip into **`Documents/SpikerBot/text`** and choose **File → Load** insid
 * **How it works:** TwoMoodPet has two "moods" - Curious and Sleepy - controlled by two mutually inhibitory recurrent circuits, a neural motif analogous to the *sleep–wake switch* between the ventrolateral pre‑optic nucleus and arousal centers in the human hypothalamus. When curious, TwoMoodPet explores autonomously, and if it encounters colorful objects, it inhibits exploration and approaches the color instead. When sleepy, TwoMoodPet produces a pulsing blue light and occasional low tone (snoring). If its distance sensor is activated, it stops sleeping, blinks red, beeps angrily, and moves away until it finds an undisturbed place to sleep. Seeing a coffee cup makes TwoMoodPet curious; seeing a sofa makes it sleepy. This brain illustrates how distinct, clearly recognizable behaviors can be achieved and hosted in the same brain.  
 * **Concept links:** Great springboard to talk about *bistability* in neuroscience (e.g., epileptic focus, Parkinsonian on/off states) and how similar latching circuits appear in robotics as finite‑state machines.
 
+* [Download this brain as a .brain file](./static/brains/TwoMoodPet@@@@@@1746977028089230.brain)
+
 ---
 
 ## Troubleshooting
 
-| Symptom | Fix |
-|---------|-----|
-| **Robot silent / immobile** | Check power & batteries. |
-| **Wi‑Fi won’t connect** | Toggle **Play** in the app; confirm SSID; wait for LEDs → green. |
-| **No movement** | Ensure wheels are seated. |
-| **Color mis‑detect** | Improve lighting; inspect camera feed. |
+| Symptom                | Fix                                                                    |
+|------------------------|------------------------------------------------------------------------|
+| **Robot silent / immobile** | Check power & batteries.                                              |
+| **Wi‑Fi won’t connect**     | Toggle **Play** in the app; confirm SSID; wait for LEDs → green.     |
+| **No movement**            | Ensure wheels are seated.                                             |
+| **Color mis‑detect**       | Improve lighting; inspect camera feed.                                |
 
 ---
 
-**NIH‑funded:** developed through a National Institutes of Health SBIR grant to expand K‑12 neuroscience literacy.
-
 ### Next Steps
 
-* Tweak synapse weights—feel how reliability and memory emerge.  
-* Combine motifs to craft your own behavior—then share it back!
+* Tweak synapse weights - feel how reliability and memory emerge.  
+* Combine circuits to craft your own brain - then share it back!

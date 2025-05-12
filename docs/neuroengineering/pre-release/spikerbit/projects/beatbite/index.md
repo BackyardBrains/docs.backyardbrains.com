@@ -211,8 +211,8 @@ To play music, simply turn on the Spiker:Bit.
 
 To change the music, try moving the jaw muscle up and down. Then, you should hear different sound effects.
 
-:::tips
+:::tip
 It is difficult to hear music from both ears. If this is happening to you, try moving alligator clips clipped to tip of headphone jack towards closest insulating rings (a "black line")
 
-:::tips
+:::tip
 If you struggle to build, check this [reference](https://microbit.org/projects/make-it-code-it/make-some-noise/) page from Makecode.

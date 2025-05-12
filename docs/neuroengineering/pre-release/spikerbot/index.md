@@ -78,8 +78,8 @@ Under the hood SpikerBot uses the *Izhikevich* model. Synapse weights 1‑100 se
 ## Neural‑Circuit Building Blocks
 
 * **Reflex Arc** – sensor drives effector directly.  
-* **Crossed Circuit** – left sensor → right motor (steering).  
-* **Synaptic Integration** – weak converging inputs act as a coincidence detector (< 10).  
+* **Crossed Circuit** – left sensor to right motor (steering).  
+* **Synaptic Integration** – weak converging inputs act as a coincidence detector (< 10).
 * **Recurrent Excitation** – strong feedback (> 90) stores state.  
 <img src="./img/circuit1.png" alt="Recurrent Excitation" width="300" />
 * **Mutual Inhibition** – competing loops enable decisions.

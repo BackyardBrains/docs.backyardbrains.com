@@ -80,7 +80,7 @@ Under the hood SpikerBot uses the *Izhikevich* model. Synapse weights 1‑100 se
 * **Synaptic Integration** – weak converging inputs act as a coincidence detector (< 10).
 * **Recurrent Excitation** – strong feedback (> 90) stores state.  
 ![Recurrent Excitation](./img/circuit1.png)
-* **Mutual Inhibition** – competing loops enable decisions.
+* **Mutual Inhibition** – competing loops enable decisions.  
 ![Lateral Inhibition](./img/circuit2.png)
 
 ---

@@ -22,14 +22,12 @@ When the app opens you’ll see a brain‑shaped canvas. Drag **black (excitator
 ---
 
 **Design Mode (Paused)**
-
-<img src="./img/screenshot1.png" alt="App screenshot" width="600" />
+ ![App Design Mode Screenshot](./img/screenshot1.png)
 
 ---
 
 **Live Brain Mode**
-
-<img src="./img/screenshot2.png" alt="App screenshot" width="600" />
+ ![App Live Mode screenshot](./img/screenshot2.png)
 
 ---
 
@@ -48,7 +46,7 @@ When the app opens you’ll see a brain‑shaped canvas. Drag **black (excitator
 
 The ESP32 handles sensing and actuation; neural simulation runs in the app over 2.4 GHz Wi‑Fi.
 
-<img src="./img/robot.png" alt="SpikerBot robot" width="300" />
+![SpikerBot Robot](./img/robot.png)
 
 ---
 
@@ -59,7 +57,7 @@ The ESP32 handles sensing and actuation; neural simulation runs in the app over 
 3. **Wait** – LEDs turn **green** when ready.  
 4. **Launch the App**, load or build a brain, press **Play**.
 
-<img src="./img/wifi.png" alt="Robot-app link" width="500" />
+![Robot App](./img/wifi.png)
 
 ---
 
@@ -81,11 +79,9 @@ Under the hood SpikerBot uses the *Izhikevich* model. Synapse weights 1‑100 se
 * **Crossed Circuit** – left sensor to right motor (steering).  
 * **Synaptic Integration** – weak converging inputs act as a coincidence detector (< 10).
 * **Recurrent Excitation** – strong feedback (> 90) stores state.  
-<img src="./img/circuit1.png" alt="Recurrent Excitation" width="300" />
+![Recurrent Excitation](./img/circuit1.png)
 * **Mutual Inhibition** – competing loops enable decisions.
-
-<img src="./img/circuit2.png" alt="Lateral Inhibition" width="300" />
-
+![Lateral Inhibition](./img/circuit2.png)
 
 ---
 
@@ -113,7 +109,7 @@ Unzip into **`Documents/SpikerBot/text`** and choose **File → Load** insid
 ---
 
 #### Tracker — Retinotopic Smooth Pursuit
-<img src="./img/brain-tracker.png" alt="Tracker brain" width="500" />
+![Tracker Brain](./img/brain-tracker.png)
 
 * **Connectome:** 17 neurons (all excitatory) · 8 synapses  
 * **What it does:** Keeps a moving green object centered by mapping nine horizontal retinal zones to graded left/right motor speeds, yielding smooth pursuit rather than lurchy zig‑zagging.
@@ -125,8 +121,7 @@ Unzip into **`Documents/SpikerBot/text`** and choose **File → Load** insid
 ---
 
 #### Two‑Mood Pet - Bistable Model Demo
-<img src="./img/brain-two-mood-pet.png" alt="Two‑Mood Pet brain" width="500" />
-
+!["Two‑Mood Pet brain"]("./img/brain-two-mood-pet.png")
 * **Connectome:** 30 neurons (25 excitatory / 5 inhibitory) · 49 synapses  
 * **How it works:** TwoMoodPet has two "moods" - Curious and Sleepy - controlled by two mutually inhibitory recurrent circuits, a neural motif analogous to the *sleep–wake switch* between the ventrolateral pre‑optic nucleus and arousal centers in the human hypothalamus. When curious, TwoMoodPet explores autonomously, and if it encounters colorful objects, it inhibits exploration and approaches the color instead. When sleepy, TwoMoodPet produces a pulsing blue light and occasional low tone (snoring). If its distance sensor is activated, it stops sleeping, blinks red, beeps angrily, and moves away until it finds an undisturbed place to sleep. Seeing a coffee cup makes TwoMoodPet curious; seeing a sofa makes it sleepy. This brain illustrates how distinct, clearly recognizable behaviors can be achieved and hosted in the same brain.  
 * **Concept links:** Great springboard to talk about *bistability* in neuroscience (e.g., epileptic focus, Parkinsonian on/off states) and how similar latching circuits appear in robotics as finite‑state machines.

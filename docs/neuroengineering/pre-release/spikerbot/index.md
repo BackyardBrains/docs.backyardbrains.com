@@ -121,7 +121,7 @@ Unzip into **`Documents/SpikerBot/text`** and choose **File → Load** insid
 ---
 
 #### Two‑Mood Pet - Bistable Model Demo
-!["Two‑Mood Pet brain"]("./img/brain-two-mood-pet.png")
+!["Two‑Mood Pet brain"](./img/brain-two-mood-pet.png) 
 * **Connectome:** 30 neurons (25 excitatory / 5 inhibitory) · 49 synapses  
 * **How it works:** TwoMoodPet has two "moods" - Curious and Sleepy - controlled by two mutually inhibitory recurrent circuits, a neural motif analogous to the *sleep–wake switch* between the ventrolateral pre‑optic nucleus and arousal centers in the human hypothalamus. When curious, TwoMoodPet explores autonomously, and if it encounters colorful objects, it inhibits exploration and approaches the color instead. When sleepy, TwoMoodPet produces a pulsing blue light and occasional low tone (snoring). If its distance sensor is activated, it stops sleeping, blinks red, beeps angrily, and moves away until it finds an undisturbed place to sleep. Seeing a coffee cup makes TwoMoodPet curious; seeing a sofa makes it sleepy. This brain illustrates how distinct, clearly recognizable behaviors can be achieved and hosted in the same brain.  
 * **Concept links:** Great springboard to talk about *bistability* in neuroscience (e.g., epileptic focus, Parkinsonian on/off states) and how similar latching circuits appear in robotics as finite‑state machines.

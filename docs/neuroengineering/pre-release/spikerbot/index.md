@@ -2,7 +2,7 @@
 id: spikerbot
 sidebar_position: 2
 sidebar_label: SpikerBot
-slug: "/neuroengineering/spikerbot"
+slug: "/neuroengineering/pre-release/spikerbot"
 ---
 
 # SpikerBot (Pre-Release)

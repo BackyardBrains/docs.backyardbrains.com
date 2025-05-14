@@ -22,16 +22,22 @@ When the app opens you’ll see a brain‑shaped canvas. Drag **black (excitator
 ---
 
 **Design Mode (Paused)**
+
  ![App Design Mode Screenshot](./img/screenshot1.png)
 
 ---
 
 **Live Brain Mode**
+
  ![App Live Mode screenshot](./img/screenshot2.png)
 
 ---
 
 ## Hardware at a Glance
+
+SpikerBot is driven by an ESP32‑S3 microcontroller powered by four AA batteries, and its perceptual suite includes a 320 × 240 forward‑facing RGB camera, a microphone, and an infrared distance sensor with a 0–100 cm range. Two differential‑drive motors, four individually addressable RGB LEDs, and a tone‑producing speaker provide actuation and feedback, while 2.4 GHz Wi‑Fi links the robot to the companion app for real‑time control.
+
+![SpikerBot Robot 1](./img/robot1.png) ![SpikerBot Robot 2](./img/robot2.png)
 
 | Sensor / Effector    | Spec                                  |
 |----------------------|---------------------------------------|
@@ -46,7 +52,7 @@ When the app opens you’ll see a brain‑shaped canvas. Drag **black (excitator
 
 The ESP32 handles sensing and actuation; neural simulation runs in the app over 2.4 GHz Wi‑Fi.
 
-![SpikerBot Robot](./img/robot.png)
+
 
 ---
 
@@ -62,6 +68,8 @@ The ESP32 handles sensing and actuation; neural simulation runs in the app over 
 ---
 
 ## Inside the App
+
+The SpikerBot Brain App is an interactive graphical application that presents a brain‑shaped workspace where users design embodied spiking neural networks by dragging excitatory or inhibitory neurons onto the canvas and wiring synapses between clearly labeled sensor inputs and effector outputs. Using the real‑time Izhikevich neuron model, the app visualizes spike activity, lets users fine‑tune neuron parameters and synaptic weights, and saves or loads complete designs in a portable JSON‑based “.brain” format for rapid deployment to the robot.
 
 * **Drag & Drop** neurons into the workspace.  
 * **Connect** using the triangular axon handle.  

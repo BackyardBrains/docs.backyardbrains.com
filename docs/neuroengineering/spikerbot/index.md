@@ -1,4 +1,5 @@
 ---
+sidebar_class_name: hidden
 slug: "/neuroengineering/spikerbot"   # the _old_ URL
 ---
 

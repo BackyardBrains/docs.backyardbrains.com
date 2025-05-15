@@ -7,65 +7,73 @@ slug: "/neuroengineering/pre-release/spikerbot"
 
 # SpikerBot (Pre-Release)
 
-SpikerBot is an educational robot platform designed to bring neuroscience and artificial intelligence concepts to life through hands-on experimentation. It integrates a spiking neural network “brain” with a physical mobile robot, enabling learners to design and test biologically-inspired neural circuits that directly control behavior. This approach is grounded in pedagogical theories of active learning and
-constructionism, allowing students to learn neuroscience principles by building and observing functioning neural systems in real time.
+SpikerBot combines a brain design studio with a palm-sized neurorobot, letting learners assemble spiking neural circuits into brain models that see, hear, move, blink, and beep.
 
-
-> **Built for classrooms.** SpikerBot translates complex brain science into an affordable, hands‑on robot that lets students *model neural circuits, see neural activity drive behaviour, and build skills that underpin modern neurotechnology, nervous system medicine and neuromorphic AI.*
+> **Built for classrooms.** SpikerBot translates complex brain science into an affordable, hands-on robot that lets students *model neural circuits, see neural activity drive behavior, and build skills* that underpin modern neurotechnology, nervous system medicine, and neuromorphic AI.
 
 ---
 
 ## Get the App
 
-[Download the SpikerBot App](https://robot.backyardbrains.com) — Windows, macOS, iOS, Android, and Chrome.
+[Download the SpikerBot App](https://robot.backyardbrains.com) — available for Windows, macOS, iOS, Android, and Chrome OS.
 
-When the app opens you’ll see a brain‑shaped canvas. Drag **black (excitatory)** or **white (inhibitory)** neurons, wire them up, and press **Play** to run the network.
-
----
-
-**Design Mode (Paused)**
-
- ![App Design Mode Screenshot](./img/screenshot1.png)
+When the app opens, you’ll see a brain-shaped canvas. Drag **black (excitatory)** or **white (inhibitory)** neurons onto the canvas, wire them up, and press **Play** to run the network.
 
 ---
 
-**Live Brain Mode**
+### Design Mode (Paused)
 
- ![App Live Mode screenshot](./img/screenshot2.png)
+![App Design Mode Screenshot](./img/screenshot1.png)
+
+---
+
+### Live Brain Mode
+
+![App Live Mode Screenshot](./img/screenshot2.png)
 
 ---
 
 ## Hardware at a Glance
 
-SpikerBot is driven by an ESP32‑S3 microcontroller powered by four AA batteries, and its perceptual suite includes a 320 × 240 forward‑facing RGB camera, a microphone, and an infrared distance sensor with a 0–100 cm range. Two differential‑drive motors, four individually addressable RGB LEDs, and a tone‑producing speaker provide actuation and feedback, while 2.4 GHz Wi‑Fi links the robot to the companion app for real‑time control.
+SpikerBot is powered by an ESP32-S3 microcontroller with Wi-Fi and Bluetooth, running on four AA batteries. Its sensor suite includes:
 
-![SpikerBot Robot 1](./img/screenshot3.png)
+- 320 × 240 forward-facing RGB camera  
+- Microphone (mono, 8-bit PCM)  
+- Infrared distance sensor (~1 m range)  
 
-AI-generated preview
+Output devices include:
 
-| Sensor / Effector    | Spec                                  |
-|----------------------|---------------------------------------|
-| **RGB Camera**       | 320 × 240 px, forward‑facing          |
-| **Distance Sensor**  | IR, ≈ 1 m range                       |
-| **Microphone**       | Mono, 8‑bit PCM stream               |
-| **Motors**           | Differential, fwd/back on L & R       |
-| **RGB LEDs**         | Four addressable                      |
-| **Speaker**          | PWM tone + PCM                        |
-| **MCU**              | ESP32‑S3 (Wi‑Fi + BLE)                |
-| **Power**            | 4 × AA                                  |
+- Two differential drive motors (left and right wheels)  
+- Four independently addressable RGB LEDs  
+- PWM tone speaker with PCM audio playback  
 
-The ESP32 handles sensing and actuation; neural simulation runs in the app over 2.4 GHz Wi‑Fi.
+The robot communicates wirelessly with the app via 2.4 GHz Wi-Fi for real-time control.
 
+![SpikerBot Robot](./img/screenshot3.png)
 
+(AI-generated hardware preview)
+
+| Sensor / Effector     | Specification                          |
+|----------------------|--------------------------------------|
+| **RGB Camera**       | 320 × 240 px, forward-facing          |
+| **Distance Sensor**  | Infrared (IR), approx. 1 meter range  |
+| **Microphone**       | Mono, 8-bit PCM stream                 |
+| **Motors**           | Differential drive (left/right wheels)|
+| **RGB LEDs**         | Four individually programmable LEDs    |
+| **Speaker**          | PWM tone + PCM audio output            |
+| **MCU**              | ESP32-S3 dual-core with Wi-Fi + BLE   |
+| **Power**            | 4 × AA batteries                       |
+
+The ESP32 handles all sensing and actuation, while the neural simulation runs on your paired device and sends commands to the robot in real time.
 
 ---
 
 ## Getting Started
 
-1. **Power on** – flip the underside switch.  
-2. **Connect** – join the Wi‑Fi SSID printed on the robot.  
-3. **Wait** – LEDs turn **green** when ready.  
-4. **Launch the App**, load or build a brain, press **Play**.
+1. **Power On:** Flip the switch located on the underside of the robot.  
+2. **Connect:** On your computer or tablet, connect to the robot’s Wi-Fi network (SSID printed on the robot).  
+3. **Wait:** The robot’s LEDs will turn **green** when ready.  
+4. **Launch the App:** Open the SpikerBot app, load or build a brain, and press **Play** to start controlling the robot.
 
 ![Robot App](./img/wifi.png)
 
@@ -73,87 +81,76 @@ The ESP32 handles sensing and actuation; neural simulation runs in the app over 
 
 ## Inside the App
 
-The SpikerBot Brain App is an interactive graphical application that presents a brain‑shaped workspace where users design embodied spiking neural networks by dragging excitatory or inhibitory neurons onto the canvas and wiring synapses between clearly labeled sensor inputs and effector outputs. Using the real‑time Izhikevich neuron model, the app visualizes spike activity, lets users fine‑tune neuron parameters and synaptic weights, and saves or loads complete designs in a portable JSON‑based “.brain” format for rapid deployment to the robot.
+The SpikerBot App provides an interactive workspace shaped like a brain where you design **embodied** spiking neural networks.  
 
-* **Drag & Drop** neurons into the workspace.  
-* **Connect** using the triangular axon handle.  
-* **Tune** neuron type (Quiet, Burst, Custom) and polarity (Excite, Inhibit).  
-* **Play** – spikes animate; the robot responds. (If the robot stays green and immobile, click **Pause** then **Play** to reset the Wi‑Fi link).
+- **Drag & Drop:** Add excitatory (black) or inhibitory (white) neurons onto the canvas.  
+- **Connect:** Draw synaptic connections by dragging from neuron outputs (axon handles) to neuron inputs or effectors.  
+- **Tune:** Click any neuron to adjust properties such as firing type (Quiet, Burst, Custom) and polarity (Excitatory/Inhibitory).  
+- **Play:** Run the network and watch your robot respond in real time.  
+- **Save:** Brain designs can be saved or loaded in a portable JSON .brain format for sharing or further editing.
 
-Under the hood SpikerBot uses the *Izhikevich* model. Synapse weights 1‑100 set strength: > 25 is reliable; > 90 forms persistent loops akin to short‑term memory.  
-*(**Synapse weight guide:** 1‑10 “Whisper”, 11‑24 “Nudge”, 25‑50 “Reliable”, 51‑90 “Strong”, 91‑100 “Lock‑in”.)*
+Neurons fire discrete spikes simulated by the biologically inspired Izhikevich model. Synapse weights (1-100) set connection strength: weights over ~25 ensure reliable activation; weights near 90+ create persistent feedback loops (similar to short-term memory).
 
----
-
-## Neural‑Circuit Building Blocks
-
-* **Reflex Arc** – sensor drives effector directly.  
-* **Crossed Circuit** – left sensor to right motor (steering).  
-* **Synaptic Integration** – weak converging inputs act as a coincidence detector (< 10).
-* **Recurrent Excitation** – strong feedback (> 90) stores state.  
-![Recurrent Excitation](./img/circuit1.png)
-* **Mutual Inhibition** – competing loops enable decisions.  
-![Lateral Inhibition](./img/circuit2.png)
+![Neurons 1](./img/neurons1.png)  
 
 ---
 
-## How to Design Brains
+## Neural Circuit Building Blocks
 
-1. **Define** an observable goal.  
-2. **Decompose** into functional subtasks.  
-3. **Draft** a motif for each task.  
-4. **Use Inhibition** to resolve conflicts.  
-5. **Test → Refine** using spikes and behavior.
+Common neural circuit motifs you’ll use include:
+
+* **Reflex Arc:** Direct sensor-to-effector connection producing simple stimulus-response behavior.  
+* **Crossed Circuit:** Connects left sensor to right motor and vice versa, enabling turning behaviors.  
+* **Synaptic Integration:** Multiple weak inputs converge on a neuron that fires only when inputs coincide.  
+* **Recurrent Excitation:** Feedback loops maintain neuron activity beyond the initial stimulus.  
+* **Mutual Inhibition:** Competing neurons inhibit each other, enabling decision-making by allowing only one behavior at a time.
+
+![Recurrent Excitation](./img/circuit1.png)  
+![Mutual Inhibition](./img/circuit2.png)
 
 ---
 
-## Brain Library
+## How to Design Brains
+
+1. **Define:** Specify the desired robot behavior in observable terms.  
+2. **Decompose:** Break the behavior into smaller sub-tasks.  
+3. **Draft:** Build neural circuits (motifs) corresponding to each sub-task.  
+4. **Inhibit:** Use inhibitory neurons to prevent conflicting behaviors.  
+5. **Test and Refine:** Observe robot behavior, identify issues, and iteratively improve your network.
+
+---
+
+## Brain Library
 
 ### Starter Pack
 
-[Download the starter set of example brains](./static/brains/all-brains.zip) – six ready‑to‑run `.brain` files in one ZIP.  
-Unzip into **`Documents/SpikerBot/text`** and choose **File → Load** inside the app.
+Download six ready-to-run example brains in one ZIP file. Unzip into your device’s `Documents/SpikerBot/text` folder, then load brains via the app’s File → Load menu.
 
 ---
 
-### New Brains
+### Sample Brains
 
----
+**Tracker — Retinotopic Smooth Pursuit**  
+A 17-neuron excitatory brain that keeps a green object centered by mapping retinal zones to motor speeds, producing smooth tracking behavior. [Download .brain file.](./static/brains/Tracker@@@@@@1746208384489279.brain)
 
-#### Tracker — Retinotopic Smooth Pursuit
-![Tracker Brain](./img/brain-tracker.png)
-
-* **Connectome:** 17 neurons (all excitatory) · 8 synapses  
-* **What it does:** Keeps a moving green object centered by mapping nine horizontal retinal zones to graded left/right motor speeds, yielding smooth pursuit rather than lurchy zig‑zagging.
-* **How it works:** Tracker contains a retinotopic map representing 9 distinct horizontal positions of a visual target (green). Each position triggers a contralateral movement proportional to its distance from the center. This makes the robot’s orienting response smoother than a classical 2-neuron "[Braitenberg vehicle](https://en.wikipedia.org/wiki/Braitenberg_vehicle)". The brain illustrates how to scale motor output proportional to the eccentricity of a stimulus in the visual field, mimicking *population coding* in the vertebrate oculomotor system.
-* **Concept links:** Bridges to *proportional–derivative* control in robotics, and to cerebellar deficits where pursuit becomes saccadic (e.g., in spinocerebellar ataxia). Also an intro to continuous‑valued representations used in deep‑RL visual‑servo agents.
-
-* [Download this brain as a .brain file](./static/brains/Tracker@@@@@@1746208384489279.brain)
-
----
-
-#### Two‑Mood Pet - Bistable Model Demo
-!["Two‑Mood Pet brain"](./img/brain-two-mood-pet.png) 
-* **Connectome:** 30 neurons (25 excitatory / 5 inhibitory) · 49 synapses  
-* **How it works:** TwoMoodPet has two "moods" - Curious and Sleepy - controlled by two mutually inhibitory recurrent circuits, a neural motif analogous to the *sleep–wake switch* between the ventrolateral pre‑optic nucleus and arousal centers in the human hypothalamus. When curious, TwoMoodPet explores autonomously, and if it encounters colorful objects, it inhibits exploration and approaches the color instead. When sleepy, TwoMoodPet produces a pulsing blue light and occasional low tone (snoring). If its distance sensor is activated, it stops sleeping, blinks red, beeps angrily, and moves away until it finds an undisturbed place to sleep. Seeing a coffee cup makes TwoMoodPet curious; seeing a sofa makes it sleepy. This brain illustrates how distinct, clearly recognizable behaviors can be achieved and hosted in the same brain.  
-* **Concept links:** Great springboard to talk about *bistability* in neuroscience (e.g., epileptic focus, Parkinsonian on/off states) and how similar latching circuits appear in robotics as finite‑state machines.
-
-* [Download this brain as a .brain file](./static/brains/TwoMoodPet@@@@@@1746977028089230.brain)
+**Two-Mood Pet — Bistable Model Demo**  
+A 30-neuron brain modeling two behavioral states (Curious and Sleepy) using mutually inhibitory recurrent circuits, illustrating state switching similar to biological sleep–wake cycles. [Download .brain file.](./static/brains/TwoMoodPet@@@@@@1746977028089230.brain)
 
 ---
 
 ## Troubleshooting
 
-| Symptom                | Fix                                                                    |
-|------------------------|------------------------------------------------------------------------|
-| **Robot silent / immobile** | Check power & batteries.                                              |
-| **Wi‑Fi won’t connect**     | Toggle **Play** in the app; confirm SSID; wait for LEDs → green.     |
-| **No movement**            | Ensure wheels are seated.                                             |
-| **Color mis‑detect**       | Improve lighting; inspect camera feed.                                |
+| Symptom                 | Suggested Fix                                               |
+|-------------------------|-------------------------------------------------------------|
+| Robot silent or immobile | Check power and battery status.                              |
+| Wi-Fi won’t connect      | Toggle Play in app, confirm SSID, wait for LEDs to turn green. |
+| No movement             | Ensure wheels are attached properly and unobstructed.       |
+| Color mis-detection      | Improve lighting conditions and check camera view.          |
 
 ---
 
-### Next Steps
+## Next Steps
 
-* Tweak synapse weights - feel how reliability and memory emerge.  
-* Combine circuits to craft your own brain - then share it back!
+- Experiment with synapse weights to feel the emergence of reliable and memory-like behaviors.  
+- Combine neural circuits to build custom brains, then share your creations with the community!
+

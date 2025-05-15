@@ -7,7 +7,9 @@ slug: "/neuroengineering/pre-release/spikerbot"
 
 # SpikerBot (Pre-Release)
 
-SpikerBot combines a brain design studio with a palm‑sized neurorobot, letting learners assemble spiking neural circuits into brain models that see, hear, move, blink, and beep.
+SpikerBot is an educational robot platform designed to bring neuroscience and artificial intelligence concepts to life through hands-on experimentation. It integrates a spiking neural network “brain” with a physical mobile robot, enabling learners to design and test biologically-inspired neural circuits that directly control behavior. This approach is grounded in pedagogical theories of active learning and
+constructionism, allowing students to learn neuroscience principles by building and observing functioning neural systems in real time.
+
 
 > **Built for classrooms.** SpikerBot translates complex brain science into an affordable, hands‑on robot that lets students *model neural circuits, see neural activity drive behaviour, and build skills that underpin modern neurotechnology, nervous system medicine and neuromorphic AI.*
 
@@ -37,7 +39,9 @@ When the app opens you’ll see a brain‑shaped canvas. Drag **black (excitator
 
 SpikerBot is driven by an ESP32‑S3 microcontroller powered by four AA batteries, and its perceptual suite includes a 320 × 240 forward‑facing RGB camera, a microphone, and an infrared distance sensor with a 0–100 cm range. Two differential‑drive motors, four individually addressable RGB LEDs, and a tone‑producing speaker provide actuation and feedback, while 2.4 GHz Wi‑Fi links the robot to the companion app for real‑time control.
 
-![SpikerBot Robot 1](./img/robot1.png) ![SpikerBot Robot 2](./img/robot2.png)
+![SpikerBot Robot 1](./img/screenshot3.png)
+
+AI-generated preview
 
 | Sensor / Effector    | Spec                                  |
 |----------------------|---------------------------------------|

@@ -124,17 +124,25 @@ Common neural circuit motifs you’ll use include:
 
 ### Starter Pack
 
-Download six ready-to-run example brains in one ZIP file. Unzip into your device’s `Documents/SpikerBot/text` folder, then load brains via the app’s File → Load menu.
+Kickstart your SpikerBot exploration with six pre‑configured example brains:
+
+1. **Download** the [Starter Pack (all-brains.zip)](./static/brains/all-brains.zip).  
+2. **Unzip** the contents into your local `Documents/SpikerBot/text` directory.  
+3. **Load** them in the app via **File → Load**, then choose any `.brain` file to run instantly.
 
 ---
 
-### Sample Brains
+### Featured Example Brains
 
-**Tracker — Retinotopic Smooth Pursuit**  
-A 17-neuron excitatory brain that keeps a green object centered by mapping retinal zones to motor speeds, producing smooth tracking behavior. [Download .brain file.](./static/brains/Tracker@@@@@@1746208384489279.brain)
+#### Tracker — Retinotopic Smooth Pursuit  
+- **Neurons:** 17 (all excitatory)  
+- **Function:** Keeps a moving green object centered by mapping nine horizontal “retinal” zones to differential wheel speeds, producing smooth, continuous tracking rather than zig‑zag turns.  
+- **Download:** [Tracker.brain](./static/brains/Tracker@@@@@@1746208384489279.brain)
 
-**Two-Mood Pet — Bistable Model Demo**  
-A 30-neuron brain modeling two behavioral states (Curious and Sleepy) using mutually inhibitory recurrent circuits, illustrating state switching similar to biological sleep–wake cycles. [Download .brain file.](./static/brains/TwoMoodPet@@@@@@1746977028089230.brain)
+#### Two‑Mood Pet — Bistable State Model  
+- **Neurons:** 30 (25 excitatory, 5 inhibitory)  
+- **Function:** Simulates two behavioral “moods” (Curious vs. Sleepy) using mutually inhibitory recurrent loops, illustrating rapid state switching akin to biological sleep–wake mechanisms.  
+- **Download:** [Two-Mood Pet.brain](./static/brains/TwoMoodPet@@@@@@1746977028089230.brain)
 
 ---
 

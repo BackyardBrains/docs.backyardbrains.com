@@ -134,15 +134,23 @@ Kickstart your SpikerBot exploration with six pre‑configured example brains:
 
 ### Featured Example Brains
 
-#### Tracker — Retinotopic Smooth Pursuit  
+![Brain: Tracker](./img/brain-tracker.png)
+
+#### Tracker — Retinotopic Smooth Pursuit
+
 - **Neurons:** 17 (all excitatory)  
-- **Function:** Keeps a moving green object centered by mapping nine horizontal “retinal” zones to differential wheel speeds, producing smooth, continuous tracking rather than zig‑zag turns.  
+- **Function:** Keeps a moving green object centered by mapping nine horizontal “retinal” zones to differential wheel speeds, producing smooth, continuous tracking rather than zig-zag turns.  
 - **Download:** [Tracker.brain](./static/brains/Tracker@@@@@@1746208384489279.brain)
 
-#### Two‑Mood Pet — Bistable State Model  
+---
+
+![Brain: Two-Mood Pet](./img/brain-two-mood-pet.png)
+
+#### Two-Mood Pet — Bistable State Model
+
 - **Neurons:** 30 (25 excitatory, 5 inhibitory)  
 - **Function:** Simulates two behavioral “moods” (Curious vs. Sleepy) using mutually inhibitory recurrent loops, illustrating rapid state switching akin to biological sleep–wake mechanisms.  
-- **Download:** [Two-Mood Pet.brain](./static/brains/TwoMoodPet@@@@@@1746977028089230.brain)
+- **Download:** [Two-Mood Pet.brain](./static/brains/TwoMoodPet@@@@@@1746977028089230.brain)
 
 ---
 

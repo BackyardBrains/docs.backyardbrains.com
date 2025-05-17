@@ -10,7 +10,8 @@
     display: flex;
     flex-direction: column;
     height: 100%;
-    padding-top: var(--ifm-navbar-height);
+    /* padding-top: var(--ifm-navbar-height); */
+    padding-top: 24px;
     width: var(--doc-sidebar-width);
   }
 

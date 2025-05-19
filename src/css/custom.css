@@ -1611,3 +1611,16 @@ blockquote strong {
 .bottom-nav a:hover {
   color: #ff805f;
 }
+
+@font-face {
+  font-family: 'BYB Hand Drawn';
+  src: url('BYBHandDrawn-Regular.woff2') format('woff2'), url('BYBHandDrawn-Regular.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+.theme-doc-markdown em {
+  font-family: 'BYB Hand Drawn';
+  color: #707070;
+}

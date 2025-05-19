@@ -1623,5 +1623,6 @@ blockquote strong {
 .theme-doc-markdown em {
   font-family: 'BYB Hand Drawn';
   color: #707070;
+  font-style: normal;
   text-transform: uppercase;
 }

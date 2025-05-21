@@ -23,7 +23,7 @@ Explore comprehensive guides and detailed information on all our devices and sof
 **Invertebrate Physiology**  
 - [Neuron SpikerBox](./invertebrate/neuron-spikerbox/)  
 - [Neuron SpikerBox Classic](./invertebrate/neuron-spikerbox-classic/)  
-- [SpikeStation](./invertebrate/pre-release/spikestation/)  (Pre-release)
+- [SpikeStation](./invertebrate/pre-release/spikestation/)  *(Pre-release)*
 
 **Plant Physiology**  
 - [Plant SpikerBox](./plant/plant-spikerbox/)  

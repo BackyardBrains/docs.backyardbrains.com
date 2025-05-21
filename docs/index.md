@@ -8,7 +8,13 @@ sidebar_position: 1
 
 ## Welcome to Backyard Brains' Documentation
 
-Explore comprehensive guides and detailed information on all our devices and software. Whether you're setting up a device, troubleshooting, or seeking in-depth knowledge about electrophysiology, you'll find your answers here.
+Welcome to Backyard Brains, your go-to resource for innovative neuroscience education and exploration. Our comprehensive documentation is designed to help educators, students, hobbyists, and scientists alike explore the fascinating world of neuroscience through hands-on experiments and interactive learning.
+
+Whether you're a teacher integrating neuroscience into your curriculum, a researcher diving into electrophysiological experiments, or simply a curious individual passionate about understanding the complexities of the brain and nervous system, you'll find extensive resources here to guide your journey.
+
+In this documentation, you'll discover detailed setup instructions, troubleshooting guides, scientific background, and creative experiment ideas tailored to each of our devices and software platforms. Our goal is to make neuroscience accessible and engaging, empowering you to uncover insights about human physiology, neuroengineering, plant responses, and invertebrate biology through practical experimentation.
+
+Feel confident exploring and experimenting—we're here to support your scientific curiosity every step of the way.
 
 ## Categories
 

@@ -14,7 +14,14 @@ Whether you're a teacher integrating neuroscience into your curriculum, a resear
 
 In this documentation, you'll discover detailed setup instructions, troubleshooting guides, scientific background, and creative experiment ideas tailored to each of our devices and software platforms. Our goal is to make neuroscience accessible and engaging, empowering you to uncover insights about human physiology, neuroengineering, plant responses, and invertebrate biology through practical experimentation.
 
-Feel confident exploring and experimenting—we're here to support your scientific curiosity every step of the way.
+Feel confident exploring and experimenting—we're here to support your scientific curiosity every step of the way.  
+
+### The complete guide to our Experiments
+
+![How the Brain Works](https://backyardbrains.com/cdn/shop/files/HYBW_Book_product.png?v=1726089987)
+
+Don't forget to check out our book, [How the Brain Works](https://backyardbrains.com/products/book-how-your-brain-works), a detailed guide organized to lead readers effortlessly through our experiments, enhancing your understanding and making neuroscience accessible and enjoyable.
+
 
 ## Categories
 

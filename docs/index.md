@@ -31,8 +31,8 @@ Explore comprehensive guides and detailed information on all our devices and sof
 **Neuroengineering**  
 - [The Claw](./neuroengineering/claw/)  
 - [RoboRoach](./neuroengineering/roboroach/)  
-- [SpikerBit](./neuroengineering/pre-release/spikerbit/)  (Kickstarter coming soon!)  
-- [SpikerBot](./neuroengineering/pre-release/spikerbot/)   (Pre-release)  
+- [SpikerBit](./neuroengineering/pre-release/spikerbit/index.md)  *(Kickstarter coming soon!)* 
+- [SpikerBot](./neuroengineering/pre-release/spikerbot/index.md)   *(Pre-release)*  
 
 ### Software
 

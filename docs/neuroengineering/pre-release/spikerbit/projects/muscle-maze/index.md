@@ -27,7 +27,7 @@ To assemble the Muscle Maze, you will need to have the following items.
 3. Laser Cutter or sharp blade. 
 4. 2× CFsunbird 9g micro servo with screws
 5. Tiny ball (small bead or bering) 
-6. 2x [Spiker:bit kits](../../) with micro:bit, electrodes, and cables.
+6. 2x Spiker:bit kits with micro:bit, electrodes, and cables.
 
 ### Parts ###
 

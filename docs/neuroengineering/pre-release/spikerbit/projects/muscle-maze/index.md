@@ -67,9 +67,9 @@ The .rd file extension is associated with various file types depending on the co
 
 
 ## Preparing micro:bit ##
-Refer to "Connecting Muscles to Read an EMG Signal" from our [Getting Started with Spiker:bit Block Programming](../../Block) page to learn how to record an EMG signal from the arm. You will need two Spiker:bits, one connected to each the left and right arm.
+Refer to "Connecting Muscles to Read an EMG Signal" from our [Getting Started with Spiker:bit Block Programming](../../spikerbit/Block) page to learn how to record an EMG signal from the arm. You will need two Spiker:bits, one connected to each the left and right arm.
 
-Connect the two servo motors from Muscle Maze to each Spiker:bit. See the [The Spiker:bit](../../) Hardware Overview page for more information on how to connect servos.
+Connect the two servo motors from Muscle Maze to each Spiker:bit. See the [The Spiker:bit](../../spikerbit) Hardware Overview page for more information on how to connect servos.
 
 ## Programing the micro:bit for the Muscle Maze ##
 
@@ -145,9 +145,9 @@ basic.show_icon(IconNames.HAPPY)
 ```
 
 If you would like to, you can also download both codes for the Muscle Maze program from below. 
-1. [Muscle Maze](./micro:bit-Muscle-Maze-general.hex)
+1. [Muscle Maze](./microbit-Muscle-Maze-general.hex)
 
-2. [Muscle Maze with calibration](./micro:bit-Muscle-Maze-individual.hex)
+2. [Muscle Maze with calibration](./microbit-Muscle-Maze-individual.hex)
    
 Install either version of the Muscle Maze program on your local computer. Then, drag and drop the installed file into the project you have created. This will allow you to see the entire code in the project.
 

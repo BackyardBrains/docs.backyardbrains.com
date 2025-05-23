@@ -23,12 +23,12 @@ Make your very own string-slinging device that shares startling similarities to 
 # Materials Needed #
 Step 1. Pick which materials you'd like to use  
 Step 2. Order them from Amazon, Seeed Studio, or your distributor of choice  
-- Loop Lasso / two wheels close to each other, [we used this one](https://looplasso.com/products/looplassov3-bbundle)  
+- Loop Lasso / two wheels close to each other, [we used this one](https://looplaboratories.com/)  
 - A loop of string with no knots
 - Micro:Bit and Spiker:bit
 - EMG Signal Cable
 - 3 Electrodes
-- A relay; we used [this one from Grove / Seeed Studio] (https://www.seeedstudio.com/Grove-Relay.html) but any one-way electromechanical switch will do. 
+- A relay; we used [this one from Grove / Seeed Studio](https://www.seeedstudio.com/Grove-Relay.html) but any one-way electromechanical switch will do. 
 
 **Optional**
 - 3D printer / a case to hold both the Spiker:bit and Micro:Bit

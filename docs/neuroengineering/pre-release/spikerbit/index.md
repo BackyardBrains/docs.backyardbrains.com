@@ -54,11 +54,9 @@ Or download the micro:bit app on the App Store and program wirelessly.
 
 ![micro:bit App Programming](./NeuroBit_Phone.png)
 
- You are now ready to start programming your Spiker:bit.   The following tutorials will get you started.  We have tutorials for [Block Code](./spikerbit/Block), [Python](./spikerbit/Python).  The [Block Code](./spikerbit/Block) is the easiest way to get started.
-
 ## Experiments and Tutorials ## 
 
-To get started on programming the Spiker:bit, take a look at the [Getting Started with Block Programming](./spikerbit/Block/) or [Getting Started with Python](./spikerbit/Python/). To see how this can be used in a real-world project, take a look at the [DIY Hand Neuroprosthetic](./spikerbit/projects/DIY_Hand_Neuroprosthetic) page. 
+You are now ready to start programming your Spiker:bit! For our tutorials, take a look at the [Getting Started with Block Programming](./spikerbit/Block/) or [Getting Started with Python](./spikerbit/Python/). To see how this can be used in a real-world project, take a look at the [DIY Hand Neuroprosthetic](./spikerbit/projects/DIY_Hand_Neuroprosthetic) page. 
 
 
 

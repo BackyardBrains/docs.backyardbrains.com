@@ -21,7 +21,7 @@ The Spiker:bit allows you to develop DIY Brain Machine Interfaces (BMI) or somet
 |Outputs| 1x Servo, 1x Expansion Port|
 |Inputs| 1x [Orange Electrode Cable](https://backyardbrains.com/products/muscle-electrode-cable)|
 
-[Download schematic PDF](./ )
+<!-- Couldn't find the schematic metioned, feel free to remove this comment when the schematics added [Download schematic PDF](./ ) -->
 
 ## Hardware Overview ## 
 The Spiker:bit has a slot that accepts a V1 or V2 micro:bit.  The electrode required for recording is our orange cable with 3 leads (2 recording electrodes and a ground). 
@@ -58,7 +58,7 @@ Or download the micro:bit app on the App Store and program wirelessly.
 
 ## Experiments and Tutorials ## 
 
-To get started on programming the Spiker:bit, take a look at the [Getting Started with Block Programming](./spikerbit/Block/) or [Getting Started with Python](./spikerbit/Python/). To see how this can be used in a real-world project, take a look at the [DIY Hand Neuroprosthetic](./spikerbit/DIY_Hand_Neuroprosthetic) page. 
+To get started on programming the Spiker:bit, take a look at the [Getting Started with Block Programming](./spikerbit/Block/) or [Getting Started with Python](./spikerbit/Python/). To see how this can be used in a real-world project, take a look at the [DIY Hand Neuroprosthetic](./spikerbit/projects/DIY_Hand_Neuroprosthetic) page. 
 
 
 

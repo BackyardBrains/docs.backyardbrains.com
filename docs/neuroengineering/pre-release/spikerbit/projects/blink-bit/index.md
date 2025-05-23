@@ -48,11 +48,11 @@ Placing the Red Alligator Clips:
   
 Placing the Black Alligator Clips:
 - The black alligator clips are to be connected to the "Ground" electrode, which is located behind the ear.
-
+<!-- Images looked bad and didn't seem necessary, so commented out - Chethan
 ![Red](./Red.jpeg)
 ![Red_dot](./Red_dot.jpg)
 ![Black](./Black.jpeg)
-
+-->
 If you don't see a black dot, don't worry. You can place the red clips randomly and the black clip behind the ear. We'll guide you on how to verify the correct placement later.
 
 ## Additional Tip (optional) ##
@@ -65,8 +65,8 @@ Checking Connectivity:
 - Middle of Audio Jack: If the DMM beeps when the positive cable is connected to the middle of the audio jack, this is the non-black-dotted red alligator clip (non-inverting input voltage). Therefore, it should be placed on the outer canthus of the eye.
   
 Using these methods will ensure that your alligator clips are correctly placed, leading to accurate eye blink detection.
-
-![Audiojack](./Audiojack.jpeg)
+<!-- Same case as above
+![Audiojack](./Audiojack.jpeg) -->
 
 
 ## Prepare Preprocessing ##

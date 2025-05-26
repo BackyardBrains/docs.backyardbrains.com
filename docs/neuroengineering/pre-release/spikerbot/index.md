@@ -21,13 +21,13 @@ When the app opens, you’ll see a brain-shaped canvas. Drag **black (excitatory
 
 ---
 
-### Design Mode (Paused)
+### Design Mode
 
 ![App Design Mode Screenshot](./img/screenshot1.png)
 
 ---
 
-### Live Brain Mode
+### Live Mode
 
 ![App Live Mode Screenshot](./img/screenshot2.png)
 

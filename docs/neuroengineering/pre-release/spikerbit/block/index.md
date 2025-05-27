@@ -17,26 +17,23 @@ We will use the [Make Code editor](https://makecode.microbit.org/) developed by 
 ![Add a Block Variable]( ./blk_newProject.png) -->
 
 If you want to access our extension in early, please vist our [download our Hex file via Github](https://github.com/BackyardBrains/pxt-spikerbit/releases/tag/v1.0.0). When you've download it, please drag and drop the hex file into micro:bit. A new project will be created, and you will see the micro:bit, code block palette, and a workspace.  You can add blocks to the project by dragging them from the center section to the workspace on the right. 
+![Add extension]( ./dragAndDrop.png)
 
 <!--Soon, our Spikerbit Extension will be available in Make Code. From there, you'll got to Make Code Editor > Extensions > Import and upload the hex file there. 
 ![Add our Extension]( ./extension_Adder.png) -->
 
 Now, you're ready to start programming!
-![Add a Block Variable]( ./blk_editor_Updated.png)
+![Add a Block Variable]( ./microBitHome.png)
 
 ## Read an EMG Signal ##
 
 We will start by adding our signal. Variables store information in your code so you can easily access it in other places. Our extension creates an EMG variable that reads in from your Spikerbit to hold the values coming in from the EMG Signal. This variable is prelabeled as "muscle power signal".
 
-![Add a Block Variable]( ./blk_var_Updated.png)
-
-To use our variable in the project, drag the "start muscle recording" variable block into the "forever" block.  This is the main block where we will develop our project.   
-
-![Add a Set Variable Block]( ./blk_varSet_Updated.png)
+To use our variable in a new project, drag the "start muscle recording" variable block into the "forever" block.  This is the main block where we will develop our project. This is already setup via the hex file download.    
 
 Then, we can do some logic. For our experiment, we can drag in the "if else" block from logic as well as a less than operator. We can compare the muscle power signal to a low value ( usually 50 will do ), and from the "Basic" section drage out 2 show icon blocks. We can change the LED display by clicking the arrow next to the show icon ( a heart and skull were picked for this demo. That's it for the coding!  Once complete, you can download the file by pressing the Download button.  
 
-![Click Download]( ./blk_download_Updated.png)
+![Click Download]( ./block_download_Updated2.png)
 
 
 ## Connecting Muscles to Read an EMG Signal ##

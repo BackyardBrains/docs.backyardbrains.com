@@ -40,9 +40,13 @@ Our mark is the product of months of working with and an artist and designer to 
 
 ### Logo Usage
 
-![Backyard Brains Full Logo](./BYBLogoFull_512.png)
+The Backyard Brains logo consists of hand-drawn type and illustation. It has a playful, humorous character that expresses science + fun.
 
-Our full logo includes both the BYB Icon and the "Backyard Brains" text. Use this version when space permits and for formal applications.
+![Backyard Brains Full Logo](./BYBLogoFull_512.png)
+![Backyard Brains Full Logo Vertical](./BYBLogo_Vertical_512.png)
+
+
+The full color version is the primary style to apply for white or branded color backgrounds. Depending on the format both horizontal and stacked versions are supplied.
 
 Download sizes:
 - [Small (150px)](./BYBLogoFull_150.png)

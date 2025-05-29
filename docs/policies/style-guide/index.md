@@ -7,7 +7,38 @@ sidebar_label: "Style Guide"
 
 # Style Guide
 
-## Logo Usage
+## Overview
+
+Backyard Brains is on a mission: to make neuroscience more accessible for everyone. We make tools for the home and classroom to help everyone understand more about how the brain works. By using simple DIY tools, hands-on learning, easy to understand language and comic illustrations we make science fun for new audiences.
+
+This new brand identity and accompanying communication design guidelines highlights our playful personality while setting some standards for clear and effective messaging.
+
+## Personality and Voice
+
+### SMART AND FUNNY
+Humor is an important part of our brand voice, we make "serious" science fun and accessible and aren't afraid to look a little silly if it gets people more engaged in what we're passionate about.
+### ORIGINAL
+We tweet not re-tweet. Backyard Brains are content makers, leaders not followers. There is an emphasis on craft and quirkiness in all our outputs from custom illustrations and typography to DIY, open source creation.
+### ACCESSIBLE
+Our expert team of scientists is on a mission to get learning out of the lab and into more informal settings where anyone can have a go at doing hands-on experiments. We work with all ages and use language that is
+simplified without being dumbed down.
+
+### Backyard Brains is not:
+- ivory tower or pedantic
+- top-down or passive
+- homogenous or bro-culture
+- clip art, stock house or mass production
+
+## Our Logo
+
+### Mark Development
+
+Our mark is the product of months of working with and an artist and designer to capture and refine the unique identity of Backyard Brains.
+
+![Early Drawings of our brand mark](./byb_logo_planning.png)
+
+
+### Logo Usage
 
 ![Backyard Brains Full Logo](./BYBLogoFull_512.png)
 

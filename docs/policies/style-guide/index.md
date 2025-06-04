@@ -54,6 +54,14 @@ Download sizes:
 - [Large (1024px)](./BYBLogoFull_1024.png)
 - [Extra Large (3000px)](./BYBLogoFull_3000.png)
 
+### Monochrome Logo
+
+The monotone version can be applied in instances where the logo needs to be a single color or material - such as a stamp or knocked out from a dark background.
+
+![Backyard Brains Monochrome Logo](./byb_logo_monochrome.png)
+
+
+
 
 The Backyard Brains logo is our primary brand identifier. To maintain its visual impact and legibility:
 

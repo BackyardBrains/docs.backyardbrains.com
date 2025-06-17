@@ -5,7 +5,7 @@ slug: /retired/products/faradaycage
 ---
 ## Faraday Cage
 
-![Faraday Cage](./img/faradaycage.jpg)
+<img src="/img/faradaycage.webp" alt="Faraday Cage" width="1024" height="648" loading="eager" fetchpriority="high" style={{ height: 'auto' }} />
 
 ### Overview
 

@@ -8,7 +8,7 @@ sidebar_label: Human SpikerBox
 
 # Human SpikerBox
 
-![Human SpikerBox](./diagram.png)
+<img src="/img/diagram1.webp" alt="Human SpikerBox" width="1536" height="1600" loading="eager" fetchpriority="high" style={{ height: 'auto' }} />
 
 *Figure 1. Diagram of the Human SpikerBox Setup*
 

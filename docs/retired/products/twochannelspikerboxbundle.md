@@ -10,7 +10,7 @@ slug: /retired/products/twochannelspikerboxbundle
 
 ![Data Collected from 2-Channel SpikerBox](./img/twochanneldata.jpg)  
 ![Two-channel SpikerBox (included)](./img/twochannelspikerbox.jpg)  
-![Faraday Cage (included)](./img/faradaycage.jpg)  
+<img src="/img/faradaycage.webp" alt="Faraday Cage (included)" width="1024" height="648" loading="eager" fetchpriority="high" style={{ height: 'auto' }} />
 ![Laptop Cable (included)](./img/laptopcable_1.jpg)  
 ![Smartphone Cable (included)](./img/smartphonecable.png)
 

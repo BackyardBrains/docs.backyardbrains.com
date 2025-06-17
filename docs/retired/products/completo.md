@@ -6,7 +6,7 @@ slug: /retired/products/completo
 
 ## The Completo
 
-![The Completo](./img/completolaser_product.png)
+<img src="/img/completolaser_product.webp" alt="The Completo" width="400" height="300" loading="eager" fetchpriority="high" style={{ height: 'auto' }} />
 
 ![The Completo Laser 2](./img/completolaser2.png)
 ![The Completo Illustrated Layout](./img/completolaseroverview.png)

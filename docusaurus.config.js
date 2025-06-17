@@ -1,5 +1,5 @@
 // @ts-check
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -63,10 +63,10 @@ const config = {
         theme: {
           customCss: './src/css/custom.css',
         },
-	      sitemap: false,
-    },
+        sitemap: false,
+      },
+    ],
   ],
-],
   themeConfig: {
     noSSR: false,
     colorMode: {
@@ -118,6 +118,21 @@ const config = {
       darkTheme: prismThemes.dracula,
     },
   },
+  stylesheets: [
+    {
+      rel: 'preconnect',
+      href: 'https://fonts.googleapis.com',
+    },
+    {
+      rel: 'preconnect',
+      href: 'https://fonts.gstatic.com',
+      crossorigin: 'anonymous',
+    },
+    {
+      rel: 'stylesheet',
+      href: 'https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap',
+    },
+  ],
 };
 
 export default config;

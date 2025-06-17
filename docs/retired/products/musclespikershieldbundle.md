@@ -10,7 +10,7 @@ slug: /retired/products/musclespikershieldbundle
 #### $149.99
 
 
-![The Muscle SpikerShield Bundle](./img/musclespikershieldbundle.jpg)
+<img src="/img/musclespikershieldbundle.webp" alt="The Muscle SpikerShield Bundle" width="1000" height="640" loading="eager" fetchpriority="high" style={{ height: 'auto' }} />
 ![Whats In The Box](./img/musclespikershield_bundle_whatsinthebox.jpg)
 
 ### Files

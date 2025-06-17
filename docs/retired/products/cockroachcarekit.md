@@ -7,7 +7,7 @@ slug: /retired/products/cockroachcarekit
 ## Cockroach Care Kit
 
 
-![The Terrarium](./img/cockroachcarekit1.jpg)
+<img src="/img/cockroachcarekit1.webp" alt="The Terrarium" width="1000" height="712" loading="eager" fetchpriority="high" style={{ height: 'auto' }} />
 ![Substrate, Food, Water](./img/cockroachcareingredients.jpg)
 
 Pet ownership is a responsibility that builds character and confidence! And

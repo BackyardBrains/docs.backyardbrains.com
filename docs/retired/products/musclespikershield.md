@@ -5,7 +5,7 @@ slug: /retired/products/musclespikershield
 ---
 # Muscle SpikerShield #
 
-![image](./img/diagram.png)
+<img src="/img/diagram.webp" alt="" width="1536" height="1600" loading="eager" fetchpriority="high" style={{ height: 'auto' }} />
 
 The Muscle SpikerShield bundle provides a comprehensive set of tools for developing new interface concepts, studying neuroprosthetics, or utilizing muscle activity to create advanced human-machine interfaces. It comes paired with an Arduino UNO board, and motor controll circuitry so that it's functionality can be expanded via both software and hardware. 
 It can be used to record and analyze EMG signals, especially when connected to our [Spike Recorder App](https://backyardbrains.com/products/spikerecorder). 

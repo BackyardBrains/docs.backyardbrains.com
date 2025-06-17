@@ -6,7 +6,7 @@ slug: /retired/products/musclespikershieldpro
 
 ## Muscle SpikerShield Pro
 
-![SpikerShield Pro ](./img/spikershieldpro.jpg)
+<img src="/img/spikershieldpro.webp" alt="SpikerShield Pro" width="1600" height="1200" loading="eager" fetchpriority="high" style={{ height: 'auto' }} />
 ![SpikerShield Pro Signals ](./img/spikershieldpro_signals.png)
 
   * [__Schematics v1](./files/Schematics-Muscle-spikerShield-Pro-V1.pdf)

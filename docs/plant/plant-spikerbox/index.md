@@ -6,7 +6,7 @@ sidebar_label: Plant SpikerBox
 
 # Plant SpikerBox #
 
-<img src="/img/PlantSB.png" alt="Psb" width="1536" height="1600" loading="eager" fetchpriority="high" style={{ height: 'auto' }} />
+<img src="/img/PlantSB.webp" alt="Psb" width="1536" height="1600" loading="eager" fetchpriority="high" style={{ height: 'auto' }} />
 
 The Plant SpikerBox allows for data-driven experiments between various species of plants.
 

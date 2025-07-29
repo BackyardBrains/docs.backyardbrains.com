@@ -32,7 +32,7 @@ You can select between EMG (Muscle) or EKG (Heart) or EEG (Brain) within softwar
 ![NeuroBit Bottom](./spkerbit_back.png)
 
 ## Pin Out ##
-![NeuroBit Pin Out](./NeuroBit_IO.png)
+![NeuroBit Pin Out](./spikerbit_io.png)
 
 ## What Will You Need? ##
 
@@ -44,15 +44,15 @@ To get started, you will need:
 * 1x micro:bit
 
 Connect the micro:bit to the front slot on the spiker:bit.  Be sure that the LEDs are facing outwards. Connect the orange cable to the electrode on the spiker:bit side port.  
-![NeuroBit Connecting](./NeuroBit_Connect.png )
+![NeuroBit Connecting](./spikerbit_connect.png )
 
 Connect the USB cable from your computer to the micro:bit. 
 
-![NeuroBit USB](./NeuroBit_USB.png)
+![NeuroBit USB](./spikerbit_usb.png)
 
 Or download the micro:bit app on the App Store and program wirelessly. 
 
-![micro:bit App Programming](./NeuroBit_Phone.png)
+![micro:bit App Programming](./spikerbit_phone.png)
 
 ## Experiments and Tutorials ## 
 

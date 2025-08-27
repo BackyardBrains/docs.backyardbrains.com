@@ -44,7 +44,7 @@ Don't forget to check out our book, [How the Brain Works](https://backyardbrains
 **Neuroengineering**  
 - [The Claw](./neuroengineering/claw/)  
 - [RoboRoach](./neuroengineering/roboroach/)  
-- [SpikerBit](./neuroengineering/pre-release/spikerbit/index.md)  *On Kickstarter!* 
+- [SpikerBit](./neuroengineering/spikerbit/)
 - [SpikerBot](./neuroengineering/pre-release/spikerbot/index.md)   *(Pre-release)*  
 
 ### Software

@@ -22,7 +22,7 @@ const config = {
     locales: ['en'],
   },
 
-  trailingSlash: false,
+  trailingSlash: undefined,
 
   plugins: [
     [

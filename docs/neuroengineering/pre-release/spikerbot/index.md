@@ -130,25 +130,29 @@ Kickstart your SpikerBot exploration with six pre‑configured example brains:
 
 ---
 
-### Featured Example Brains
+### Example Brains
 
-![Brain: Tracker](./img/brain-tracker.png)
+![Brain: Go2Blue](./img/brain-go2blue.png)
 
-#### Tracker — Retinotopic Smooth Pursuit
+#### Go2Blue (aka Alex1 aka Braitenberg) - Detects and approaches blue 
 
-- **Neurons:** 17 (all excitatory)  
-- **Function:** Keeps a moving green object centered by mapping nine horizontal “retinal” zones to differential wheel speeds, producing smooth, continuous tracking rather than zig-zag turns.  
-- **Download:** [Tracker.brain](./static/brains/Tracker@@@@@@1746208384489279.brain)
+- **Neurons:** 2 (excitatory)  
+- **Circuits/motifs:** Braitenberg Vehicle
+- **Behavior/What it does:** Approaches blue objects
+- **How it works:** Two quiet neurons respond to the target (blue) appearing to the left or right, and immediately drive the wheel on the opposite side forward.
+- **Download:** [go2blue.brain](./static/brains/go2blue@@@@@@1759956138247953.brain)
 
 ---
 
-![Brain: Two-Mood Pet](./img/brain-two-mood-pet.png)
+![Brain: Explorer](./img/brain-explorer.png)
 
-#### Two-Mood Pet — Bistable State Model
+#### Explorer (aka Unpredictable aka Walter) - Explores autonomously
 
-- **Neurons:** 30 (25 excitatory, 5 inhibitory)  
-- **Function:** Simulates two behavioral “moods” (Curious vs. Sleepy) using mutually inhibitory recurrent loops, illustrating rapid state switching akin to biological sleep–wake mechanisms.  
-- **Download:** [Two-Mood Pet.brain](./static/brains/TwoMoodPet@@@@@@1746977028089230.brain)
+- **Neurons:** 7 (6 excitatory, 1 inhibitory)
+- **Circuits/motifs:** Central Pattern Generator
+- **Behavior/What it does:** Explores environments without getting stuck
+- **How it works:** Six bursting neurons activate the motors at random intervals. A single quiet neuron senses distance and dives backward movement.
+- **Download:** [explorer.brain](./static/brains/explorer@@@@@@1759956215207504.brain)
 
 ---
 

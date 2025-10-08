@@ -132,7 +132,7 @@ Kickstart your SpikerBot exploration with six pre‑configured example brains:
 
 ### Example Brains
 
-![Brain: Go2Blue](./img/brain-go2blue.png)
+![Brain: Go2Blue](./img/go2blue.png)
 
 #### Go2Blue (aka Alex1 aka Braitenberg) - Detects and approaches blue 
 
@@ -144,7 +144,7 @@ Kickstart your SpikerBot exploration with six pre‑configured example brains:
 
 ---
 
-![Brain: Explorer](./img/brain-explorer.png)
+![Brain: Explorer](./img/explorer.png)
 
 #### Explorer (aka Unpredictable aka Walter) - Explores autonomously
 

@@ -101,10 +101,10 @@ Common neural circuit motifs you’ll use include:
 * **Crossed Circuit:** Connects left sensor to right motor and vice versa, enabling turning behaviors.  
 * **Synaptic Integration:** Multiple weak inputs converge on a neuron that fires only when inputs coincide.  
 * **Recurrent Excitation:** Feedback loops maintain neuron activity beyond the initial stimulus.  
-* **Mutual Inhibition:** Competing neurons inhibit each other, enabling decision-making by allowing only one behavior at a time.
+* **Lateral Inhibition:** Competing neurons inhibit each other, enabling decision-making by allowing only one behavior at a time.
 
 ![Recurrent Excitation](./img/circuit1.png)  
-![Mutual Inhibition](./img/circuit2.png)
+![Lateral Inhibition](./img/circuit2.png)
 
 ---
 

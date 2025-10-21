@@ -40,14 +40,14 @@ In this example, we will place two recording electrodes over the eye and will at
 
 ![EOG Recording Sertup](./py_EOGplacement.png)
 
-We will create a variable to store information in your code so you can easily access it. Since the EOG signal is sent to Pin0 on the micro:bit, we can read in a sample using the following code.
+We will create a variable to store information in your code so you can easily access it. Since the EOG signal is sent to Pin 1 on the micro:bit, we can read in a sample using the following code.
 
 ```py title="The Most Basic Python BMI Code"
 from microbit import *
 
 # Code in a 'while True:' loop repeats forever
 while True:
-  EOG =  pin0.read_analog() 
+  EOG =  pin1.read_analog() 
 ```
 Calling the "read_analog()" method will take a sample of the EOG signal each time. Congrats! That's it! The variable *EOG* is now reading in the EOG signal on each loop!
 
@@ -61,7 +61,7 @@ import log
 log.set_labels('EOG')
 # Code in a 'while True:' loop repeats forever
 while True:
-    EOG =  pin0.read_analog()
+    EOG =  pin1.read_analog()
     log.add({'EOG':EOG})
 ```
 

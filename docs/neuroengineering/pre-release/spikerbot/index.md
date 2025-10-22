@@ -134,7 +134,7 @@ Kickstart your SpikerBot exploration with six pre‑configured example brains:
 
 ![Brain: Go2blue](./img/go2blue-mini.png)
 
-#### **Go2blue** - detects and approaches blue 
+### Go To Blue
 
 - **Neurons:** 2 (excitatory)  
 - **Circuits/Motifs:** Crossed Circuit / Braitenberg Vehicle
@@ -146,11 +146,11 @@ Kickstart your SpikerBot exploration with six pre‑configured example brains:
 
 ![Brain: Explorer](./img/explorer-mini.png)
 
-#### **Explorer** - explores autonomously without getting stuck
+### Explorer
 
 - **Neurons:** 7 (6 excitatory, 1 inhibitory)
 - **Circuits/Motifs:** Central Pattern Generator
-- **Behavior/What it does:** Explores environments without getting stuck
+- **Behavior/What it does:** Explores autonomously without getting stuck
 - **How it works:** Six bursting neurons activate the motors at random intervals. A single quiet neuron senses distance and dives backward movement.
 - **Download:** [explorer@@@@@@1759956215207504.brain](./static/brains/explorer@@@@@@1759956215207504.brain) (save to `Documents/SpikerBot/text`)
 
@@ -158,7 +158,7 @@ Kickstart your SpikerBot exploration with six pre‑configured example brains:
 
 ![Brain: Greet Nearby People](./img/greetnearbypeople-mini.png)
 
-#### **Greet Nearby People** - blinks and beeps at nearby people
+### Greet Nearby People
 
 - **Neurons:** 9 (7 excitatory)
 - **Circuits/Motifs:** Synaptic Integration, Object Classification
@@ -170,11 +170,11 @@ Kickstart your SpikerBot exploration with six pre‑configured example brains:
 
 ![Brain: Chameleon](./img/chameleon-mini.png)
 
-#### **Chameleon** - reproduces and maintains observed colors
+### Chameleon
 
 - **Neurons:** 9 (6 excitatory, 3 inhibitory)
 - **Circuits/Motifs:** Recurrent Excitation, Lateral Inhibition
-- **Behavior/What it does:** Changes color depending on what color it last observed
+- **Behavior/What it does:** Reproduces the last observed color
 - **How it works:** There are three circuits (pairs) of neurons that excite each other (recurrent excitation). Each circuit is triggered by a seeing a color, activates that color LEDs, and inhibits all other circuits.
 - **Download:** [chameleon@@@@@@1760105193131480.brain](./static/brains/chameleon@@@@@@1760105193131480.brain) (save to `Documents/SpikerBot/text`)
 
@@ -182,7 +182,7 @@ Kickstart your SpikerBot exploration with six pre‑configured example brains:
 
 ![Brain: LeftOrRight](./img/leftorright-mini.png)
 
-#### LeftOrRight - Green = spin left; Blue = spin right; Red = Stop
+### Left Or Right
 
 - **Neurons:** 9 (6 excitatory, 3 inhibitory)
 - **Circuits/Motifs:** Recurrent Excitation, Lateral Inhibition

@@ -133,7 +133,7 @@ Kickstart your SpikerBot exploration with six pre‑configured example brains:
 ### Example Brains
 
 ![Brain: Go2blue](./img/go2blue-mini.png)
-### Go To Blue
+**Brain: Go To Blue**
 - **Neurons:** 2 (excitatory)  
 - **Circuits/Motifs:** Crossed Circuit / Braitenberg Vehicle
 - **Behavior/What it does:** Approaches blue objects
@@ -143,8 +143,7 @@ Kickstart your SpikerBot exploration with six pre‑configured example brains:
 ---
 
 ![Brain: Explorer](./img/explorer-mini.png)
-### Explorer
-
+**Brain: Explorer**
 - **Neurons:** 7 (6 excitatory, 1 inhibitory)
 - **Circuits/Motifs:** Central Pattern Generator
 - **Behavior/What it does:** Explores autonomously without getting stuck
@@ -154,9 +153,7 @@ Kickstart your SpikerBot exploration with six pre‑configured example brains:
 ---
 
 ![Brain: Greet Nearby People](./img/greetnearbypeople-mini.png)
-
-**Greet Nearby People**
-
+**Brain: Greet Nearby People**
 - **Neurons:** 9 (7 excitatory)
 - **Circuits/Motifs:** Synaptic Integration, Object Classification
 - **Behavior/What it does:** Blinks and beeps if a person is detected at medium distance
@@ -166,9 +163,7 @@ Kickstart your SpikerBot exploration with six pre‑configured example brains:
 ---
 
 ![Brain: Chameleon](./img/chameleon-mini.png)
-
-*Chameleon*
-
+**Brain: Chameleon**
 - **Neurons:** 9 (6 excitatory, 3 inhibitory)
 - **Circuits/Motifs:** Recurrent Excitation, Lateral Inhibition
 - **Behavior/What it does:** Reproduces the last observed color
@@ -178,9 +173,7 @@ Kickstart your SpikerBot exploration with six pre‑configured example brains:
 ---
 
 ![Brain: LeftOrRight](./img/leftorright-mini.png)
-
-LEFT OR RIGHT
-
+**Brain: Left Or Right**
 - **Neurons:** 9 (6 excitatory, 3 inhibitory)
 - **Circuits/Motifs:** Recurrent Excitation, Lateral Inhibition
 - **Behavior/What it does:** Green spins it left, blue spins it right, red stops it

@@ -137,7 +137,7 @@ Kickstart your SpikerBot exploration with six pre‑configured example brains:
 #### **Go2blue** - detects and approaches blue 
 
 - **Neurons:** 2 (excitatory)  
-- **Circuits/Motifs:** Braitenberg Vehicle
+- **Circuits/Motifs:** Crossed Circuit / Braitenberg Vehicle
 - **Behavior/What it does:** Approaches blue objects
 - **How it works:** Two quiet neurons respond to the target (blue) appearing to the left or right, and immediately drive the wheel on the opposite side forward.
 - **Download:** [go2blue@@@@@@1759956138247953.brain](./static/brains/go2blue@@@@@@1759956138247953.brain) (save to `Documents/SpikerBot/text`)
@@ -146,7 +146,7 @@ Kickstart your SpikerBot exploration with six pre‑configured example brains:
 
 ![Brain: Explorer](./img/explorer-mini.png)
 
-#### **Explorer** - explores autonomously
+#### **Explorer** - explores autonomously without getting stuck
 
 - **Neurons:** 7 (6 excitatory, 1 inhibitory)
 - **Circuits/Motifs:** Central Pattern Generator
@@ -156,13 +156,25 @@ Kickstart your SpikerBot exploration with six pre‑configured example brains:
 
 ---
 
+![Brain: Greet Nearby People](./img/greetnearbypeople-mini.png)
+
+#### **Greet Nearby People** - blinks and beeps at nearby people
+
+- **Neurons:** 9 (7 excitatory)
+- **Circuits/Motifs:** Synaptic Integration, Object Classification
+- **Behavior/What it does:** Blinks and beeps if a person is detected at medium distance
+- **How it works:** Two quiet neurons respond to medium distance and people, respectively. Both excite five quiet neurons with reduced synapse strength (15, as opposed to the default 25) which means both neurons have to be active at the same time to activate target neurons (this is called synaptic integration). The five quiet neurons produce different colors and sounds.
+- **Download:** [greetnearbypeople@@@@@@1761145457770009.brain](./static/brains/greetnearbypeople@@@@@@1761145457770009.brain) (save to `Documents/SpikerBot/text`)
+
+---
+
 ![Brain: Chameleon](./img/chameleon-mini.png)
 
-#### **Chameleon** - remembers color
+#### **Chameleon** - reproduces and maintains observed colors
 
 - **Neurons:** 9 (6 excitatory, 3 inhibitory)
 - **Circuits/Motifs:** Recurrent Excitation, Lateral Inhibition
-- **Behavior/What it does:** Keeps shining the last color
+- **Behavior/What it does:** Changes color depending on what color it last observed
 - **How it works:** There are three circuits (pairs) of neurons that excite each other (recurrent excitation). Each circuit is triggered by a seeing a color, activates that color LEDs, and inhibits all other circuits.
 - **Download:** [chameleon@@@@@@1760105193131480.brain](./static/brains/chameleon@@@@@@1760105193131480.brain) (save to `Documents/SpikerBot/text`)
 

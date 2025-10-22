@@ -9,7 +9,7 @@ slug: "/neuroengineering/pre-release/spikerbot"
 
 SpikerBot combines a brain design studio with a palm-sized neurorobot, letting learners assemble spiking neural circuits into brain models that see, hear, move, blink, and beep.
 
-> **Built for classrooms.** SpikerBot translates complex brain science into an affordable, hands-on robot that lets students *model neural circuits, see neural activity drive behavior, and build skills* that underpin modern neurotechnology, nervous system medicine, and neuromorphic AI.
+**Built for classrooms.** SpikerBot translates complex brain science into an affordable, hands-on robot that lets students model neural circuits, see neural activity drive behavior, and build skills that underpin modern neurotechnology, nervous system medicine, and neuromorphic AI. A comprehensive Teacher Guide is [available here](https://docs.google.com/document/d/1yH6h94hUa3R4xYCxvR1eQLUwc2i9hXfQeMHIHB0ZtTQ).
 
 ---
 

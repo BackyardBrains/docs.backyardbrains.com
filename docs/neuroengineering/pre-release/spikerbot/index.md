@@ -124,9 +124,9 @@ Common neural circuit motifs you’ll use include:
 
 Kickstart your SpikerBot exploration with six pre‑configured example brains:
 
-1. **Download** the [Starter Pack (all-brains.zip)](./static/brains/all-brains.zip).  
+1. **Download** the [Starter Pack (brains.zip)](./static/brains/brains.zip).  
 2. **Unzip** the contents into your local `Documents/SpikerBot/text` directory.  
-3. **Load** them in the app via **File → Load**, then choose any `.brain` file to run instantly.
+3. **Load** them in the app via the Load / disk icon, then choose any `.brain` file to run instantly.
 
 ---
 

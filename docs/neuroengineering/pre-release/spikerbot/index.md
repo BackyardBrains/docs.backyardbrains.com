@@ -132,51 +132,51 @@ Kickstart your SpikerBot exploration with six pre‑configured example brains:
 
 ### Example Brains
 
-![Brain: Go2Blue](./img/go2blue-mini.png)
+![Brain: Go2blue](./img/go2blue-mini.png)
 
-#### Go 2 Blue (aka Alex1 aka Braitenberg) - Detects and approaches blue 
+#### **Go2blue** - detects and approaches blue 
 
 - **Neurons:** 2 (excitatory)  
 - **Circuits/Motifs:** Braitenberg Vehicle
 - **Behavior/What it does:** Approaches blue objects
 - **How it works:** Two quiet neurons respond to the target (blue) appearing to the left or right, and immediately drive the wheel on the opposite side forward.
-- **Download:** [go2blue.brain](./static/brains/go2blue@@@@@@1759956138247953.brain) (save to `Documents/SpikerBot/text`)
+- **Download:** [go2blue@@@@@@1759956138247953.brain](./static/brains/go2blue@@@@@@1759956138247953.brain) (save to `Documents/SpikerBot/text`)
 
 ---
 
 ![Brain: Explorer](./img/explorer-mini.png)
 
-#### Explorer (aka Unpredictable aka Walter) - Explores autonomously
+#### **Explorer** - explores autonomously
 
 - **Neurons:** 7 (6 excitatory, 1 inhibitory)
 - **Circuits/Motifs:** Central Pattern Generator
 - **Behavior/What it does:** Explores environments without getting stuck
 - **How it works:** Six bursting neurons activate the motors at random intervals. A single quiet neuron senses distance and dives backward movement.
-- **Download:** [explorer.brain](./static/brains/explorer@@@@@@1759956215207504.brain) (save to `Documents/SpikerBot/text`)
+- **Download:** [explorer@@@@@@1759956215207504.brain](./static/brains/explorer@@@@@@1759956215207504.brain) (save to `Documents/SpikerBot/text`)
 
 ---
 
 ![Brain: Chameleon](./img/chameleon-mini.png)
 
-#### Chameleon (aka RBG) - Remembers color
+#### **Chameleon** - remembers color
 
 - **Neurons:** 9 (6 excitatory, 3 inhibitory)
 - **Circuits/Motifs:** Recurrent Excitation, Lateral Inhibition
 - **Behavior/What it does:** Keeps shining the last color
 - **How it works:** There are three circuits (pairs) of neurons that excite each other (recurrent excitation). Each circuit is triggered by a seeing a color, activates that color LEDs, and inhibits all other circuits.
-- **Download:** [chameleon.brain](./static/brains/chameleon@@@@@@1760105193131480.brain) (save to `Documents/SpikerBot/text`)
+- **Download:** [chameleon@@@@@@1760105193131480.brain](./static/brains/chameleon@@@@@@1760105193131480.brain) (save to `Documents/SpikerBot/text`)
 
 ---
 
 ![Brain: LeftOrRight](./img/leftorright-mini.png)
 
-#### Left or Right (aka EitherOr) - Green = spin left; Blue = spin right; Red = Stop
+#### LeftOrRight - Green = spin left; Blue = spin right; Red = Stop
 
 - **Neurons:** 9 (6 excitatory, 3 inhibitory)
 - **Circuits/Motifs:** Recurrent Excitation, Lateral Inhibition
 - **Behavior/What it does:** Green spins it left, blue spins it right, red stops it
 - **How it works:** There are two circuits (pairs) of neurons that excite eachother (recurrent excitation). Seeing green activates the left circuit, which makes the robot turn left. Seeing green activates the right circuit, which turns the robot to the right. Each circuit inhibits the other - otherwise their outputs would interfere. Seeing red inhibits both circuits, making the robot stop.
-- **Download:** [leftorright.brain](./static/brains/leftorright@@@@@@1760105706777562.brain) (save to `Documents/SpikerBot/text`)
+- **Download:** [leftorright@@@@@@1760105706777562.brain](./static/brains/leftorright@@@@@@1760105706777562.brain) (save to `Documents/SpikerBot/text`)
 
 ---
 
@@ -191,8 +191,4 @@ Kickstart your SpikerBot exploration with six pre‑configured example brains:
 
 ---
 
-## Next Steps
-
-- Experiment with synapse weights to feel the emergence of reliable and memory-like behaviors.  
-- Combine neural circuits to build custom brains, then share your creations with the community!
 

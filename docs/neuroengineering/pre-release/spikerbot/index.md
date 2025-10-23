@@ -124,7 +124,7 @@ Common neural circuit motifs you’ll use include:
 
 Kickstart your SpikerBot exploration with six pre‑configured example brains:
 
-1. **Download** the [Starter Pack (brains.zip)](./static/brains/brains.zip).  
+1. **Download** the [Starter Pack](./static/brains/brains.zip).  
 2. **Unzip** the contents into your local `Documents/SpikerBot/text` directory.  
 3. **Load** them in the app via the Load / disk icon, then choose any `.brain` file to run instantly.
 
@@ -154,7 +154,7 @@ Kickstart your SpikerBot exploration with six pre‑configured example brains:
 
 ---
 
-![Brain: Greet Nearby People](./img/greetnearbypeople-mini.png)
+![Brain: GreetNearbyPeople](./img/greetnearbypeople-mini.png)
 
 **Brain: Greet Nearby People**
 - **Neurons:** 9 (7 excitatory)
@@ -162,6 +162,17 @@ Kickstart your SpikerBot exploration with six pre‑configured example brains:
 - **Behavior/What it does:** Blinks and beeps if a person is detected at medium distance
 - **How it works:** Two quiet neurons respond to medium distance and people, respectively. Both excite five quiet neurons with reduced synapse strength (15, as opposed to the default 25) which means both neurons have to be active at the same time to activate target neurons (this is called synaptic integration). The five quiet neurons produce different colors and sounds.
 - **Download:** [greetnearbypeople@@@@@@1761145457770009.brain](./static/brains/greetnearbypeople@@@@@@1761145457770009.brain) (save to `Documents/SpikerBot/text`)
+
+---
+
+![Brain: GoNoGo](./img/gonogo-mini.png)
+
+**Brain: Go-NoGo**
+- **Neurons:** 4 (3 excitatory, 1 inhibitory)
+- **Circuits/Motifs:** Recurrent Excitation
+- **Behavior/What it does:** Green makes it move forward, red stops it
+- **How it works:** Two neurons strongly activate each other, forming a recurrent excitatory circuit. Both neurons drive the robot forward. A sensory neuron detects green and activates the recurrent circuit. A second, inhibitory sensory neuron detects red and stops the recurrent circuit.
+- **Download:** [gonogo@@@@@@1761237975410720.brain](./static/brains/gonogo@@@@@@1761237975410720.brain) (save to `Documents/SpikerBot/text`)
 
 ---
 

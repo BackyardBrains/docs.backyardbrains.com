@@ -133,6 +133,7 @@ Kickstart your SpikerBot exploration with six pre‑configured example brains:
 ### Example Brains
 
 ![Brain: Go2blue](./img/go2blue-mini.png)
+
 **Brain: Go To Blue**
 - **Neurons:** 2 (excitatory)  
 - **Circuits/Motifs:** Crossed Circuit / Braitenberg Vehicle
@@ -143,6 +144,7 @@ Kickstart your SpikerBot exploration with six pre‑configured example brains:
 ---
 
 ![Brain: Explorer](./img/explorer-mini.png)
+
 **Brain: Explorer**
 - **Neurons:** 7 (6 excitatory, 1 inhibitory)
 - **Circuits/Motifs:** Central Pattern Generator
@@ -153,6 +155,7 @@ Kickstart your SpikerBot exploration with six pre‑configured example brains:
 ---
 
 ![Brain: Greet Nearby People](./img/greetnearbypeople-mini.png)
+
 **Brain: Greet Nearby People**
 - **Neurons:** 9 (7 excitatory)
 - **Circuits/Motifs:** Synaptic Integration, Object Classification
@@ -162,23 +165,25 @@ Kickstart your SpikerBot exploration with six pre‑configured example brains:
 
 ---
 
-![Brain: Chameleon](./img/chameleon-mini.png)
-**Brain: Chameleon**
-- **Neurons:** 9 (6 excitatory, 3 inhibitory)
-- **Circuits/Motifs:** Recurrent Excitation, Lateral Inhibition
-- **Behavior/What it does:** Reproduces the last observed color
-- **How it works:** There are three circuits (pairs) of neurons that excite each other (recurrent excitation). Each circuit is triggered by a seeing a color, activates that color LEDs, and inhibits all other circuits.
-- **Download:** [chameleon@@@@@@1760105193131480.brain](./static/brains/chameleon@@@@@@1760105193131480.brain) (save to `Documents/SpikerBot/text`)
-
----
-
 ![Brain: LeftOrRight](./img/leftorright-mini.png)
+
 **Brain: Left Or Right**
 - **Neurons:** 9 (6 excitatory, 3 inhibitory)
 - **Circuits/Motifs:** Recurrent Excitation, Lateral Inhibition
 - **Behavior/What it does:** Green spins it left, blue spins it right, red stops it
 - **How it works:** There are two circuits (pairs) of neurons that excite eachother (recurrent excitation). Seeing green activates the left circuit, which makes the robot turn left. Seeing green activates the right circuit, which turns the robot to the right. Each circuit inhibits the other - otherwise their outputs would interfere. Seeing red inhibits both circuits, making the robot stop.
 - **Download:** [leftorright@@@@@@1760105706777562.brain](./static/brains/leftorright@@@@@@1760105706777562.brain) (save to `Documents/SpikerBot/text`)
+
+---
+
+![Brain: Chameleon](./img/chameleon-mini.png)
+
+**Brain: Chameleon**
+- **Neurons:** 9 (6 excitatory, 3 inhibitory)
+- **Circuits/Motifs:** Recurrent Excitation, Lateral Inhibition
+- **Behavior/What it does:** Reproduces the last observed color
+- **How it works:** There are three circuits (pairs) of neurons that excite each other (recurrent excitation). Each circuit is triggered by a seeing a color, activates that color LEDs, and inhibits all other circuits.
+- **Download:** [chameleon@@@@@@1760105193131480.brain](./static/brains/chameleon@@@@@@1760105193131480.brain) (save to `Documents/SpikerBot/text`)
 
 ---
 

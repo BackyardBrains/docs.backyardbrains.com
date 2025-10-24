@@ -146,7 +146,7 @@ Kickstart your SpikerBot exploration with six pre‑configured example brains:
 ![Brain: Explorer](./img/explorer-mini.png)
 
 **Brain: Explorer**
-- **Neurons:** 7 (6 excitatory, 1 inhibitory)
+- **Neurons:** 7 (excitatory)
 - **Circuits/Motifs:** Central Pattern Generator
 - **Behavior/What it does:** Explores autonomously without getting stuck
 - **How it works:** Six bursting neurons activate the motors at random intervals. A single quiet neuron senses distance and dives backward movement.
@@ -157,7 +157,7 @@ Kickstart your SpikerBot exploration with six pre‑configured example brains:
 ![Brain: GreetNearbyPeople](./img/greetnearbypeople-mini.png)
 
 **Brain: Greet Nearby People**
-- **Neurons:** 9 (7 excitatory)
+- **Neurons:** 7 (excitatory)
 - **Circuits/Motifs:** Synaptic Integration, Object Classification
 - **Behavior/What it does:** Blinks and beeps if a person is detected at medium distance
 - **How it works:** Two quiet neurons respond to medium distance and people, respectively. Both excite five quiet neurons with reduced synapse strength (15, as opposed to the default 25) which means both neurons have to be active at the same time to activate target neurons (this is called synaptic integration). The five quiet neurons produce different colors and sounds.
@@ -190,7 +190,7 @@ Kickstart your SpikerBot exploration with six pre‑configured example brains:
 ![Brain: Chameleon](./img/chameleon-mini.png)
 
 **Brain: Chameleon**
-- **Neurons:** 9 (6 excitatory, 3 inhibitory)
+- **Neurons:** 12 (9 excitatory, 3 inhibitory)
 - **Circuits/Motifs:** Recurrent Excitation, Lateral Inhibition
 - **Behavior/What it does:** Reproduces the last observed color
 - **How it works:** There are three circuits (pairs) of neurons that excite each other (recurrent excitation). Each circuit is triggered by a seeing a color, activates that color LEDs, and inhibits all other circuits.

@@ -9,7 +9,7 @@ slug: "/neuroengineering/pre-release/spikerbot"
 
 SpikerBot combines a brain design studio with a palm-sized neurorobot, letting learners assemble spiking neural circuits into brain models that see, hear, move, blink, and beep.
 
-**Built for classrooms.** SpikerBot translates complex brain science into an affordable, hands-on robot that lets students model neural circuits, see neural activity drive behavior, and build skills that underpin modern neurotechnology, nervous system medicine, and neuromorphic AI. A comprehensive Teacher Guide is [available here](https://docs.google.com/document/d/1yH6h94hUa3R4xYCxvR1eQLUwc2i9hXfQeMHIHB0ZtTQ).
+**Built for classrooms.** SpikerBot translates complex brain science into an affordable, hands-on robot that lets students model neural circuits, see neural activity drive behavior, and build skills that underpin modern neurotechnology, nervous system medicine, and neuromorphic AI. A comprehensive Educator Guide is [available here](https://docs.google.com/document/d/1oXikyqRCtVB5v14tVTGo33vpU35DI2Epp3mq0EWGmEI).
 
 ---
 
@@ -99,8 +99,8 @@ Common neural circuit motifs you’ll use include:
 
 * **Reflex Arc:** Direct sensor-to-effector connection producing simple stimulus-response behavior.  
 * **Crossed Circuit:** Connects left sensor to right motor and vice versa, enabling turning behaviors.  
-* **Synaptic Integration:** Multiple weak inputs converge on a neuron that fires only when inputs coincide.  
-* **Recurrent Excitation:** Feedback loops maintain neuron activity beyond the initial stimulus.  
+* **Synaptic Integration:** Multiple weak inputs (e.g. synapse strength <=15) converge on a neuron that fires only when inputs coincide.  
+* **Recurrent Excitation:** Strong feedback loops (e.g. synapse strength >=90) maintain neuron activity beyond the initial stimulus.  
 * **Lateral Inhibition:** Competing neurons inhibit each other, enabling decision-making by allowing only one behavior at a time.
 
 ![Recurrent Excitation](./img/circuit1.png)  
@@ -122,7 +122,7 @@ Common neural circuit motifs you’ll use include:
 
 ### Starter Pack
 
-Kickstart your SpikerBot exploration with six pre‑configured example brains:
+Kickstart your SpikerBot exploration with pre‑configured example brains:
 
 1. **Download** the [Starter Pack](./static/brains/brains.zip).  
 2. **Unzip** the contents into your local `Documents/SpikerBot/text` directory.  
@@ -135,10 +135,11 @@ Kickstart your SpikerBot exploration with six pre‑configured example brains:
 ![Brain: Go2blue](./img/go2blue-mini.png)
 
 **Brain: Go To Blue**
-- **Neurons:** 2 (excitatory)  
+- **Neurons:** 2 (Excitatory)
 - **Circuits/Motifs:** Crossed Circuit / Braitenberg Vehicle
-- **Behavior/What it does:** Approaches blue objects
-- **How it works:** Two quiet neurons respond to the target (blue) appearing to the left or right, and immediately drive the wheel on the opposite side forward.
+- **Behavior:** Approaches a colored object (e.g., blue).
+- **How it works:** This brain uses two quiet, excitatory neurons configured as sensory neurons. Each neuron is tuned to detect the color blue in one half of the visual field (left or right). The circuit is crossed: the left sensor neuron activates the right motor, and the right sensor neuron activates the left motor. This simple but powerful design, known as a Braitenberg Vehicle, causes the robot to automatically turn toward and approach the blue stimulus.
+
 - **Download:** [go2blue@@@@@@1759956138247953.brain](./static/brains/go2blue@@@@@@1759956138247953.brain) (save to `Documents/SpikerBot/text`)
 
 ---
@@ -146,10 +147,10 @@ Kickstart your SpikerBot exploration with six pre‑configured example brains:
 ![Brain: Explorer](./img/explorer-mini.png)
 
 **Brain: Explorer**
-- **Neurons:** 7 (excitatory)
+- **Neurons:** 7 (Excitatory)
 - **Circuits/Motifs:** Central Pattern Generator
-- **Behavior/What it does:** Explores autonomously without getting stuck
-- **How it works:** Six bursting neurons activate the motors at random intervals. A single quiet neuron senses distance and dives backward movement.
+- **Behavior:** Explores autonomously and wanders without getting stuck.
+- **How it works:** This brain uses six spontaneously active ("bursting") neurons that fire at random intervals to activate the motors, creating a wandering movement. A separate, seventh quiet neuron is configured as a distance detector. When the robot gets too close to an object, this neuron strongly activates backward movement, allowing the robot to avoid getting stuck.
 - **Download:** [explorer@@@@@@1759956215207504.brain](./static/brains/explorer@@@@@@1759956215207504.brain) (save to `Documents/SpikerBot/text`)
 
 ---
@@ -157,10 +158,10 @@ Kickstart your SpikerBot exploration with six pre‑configured example brains:
 ![Brain: GreetNearbyPeople](./img/greetnearbypeople-mini.png)
 
 **Brain: Greet Nearby People**
-- **Neurons:** 7 (excitatory)
+- **Neurons:** 7 (Excitatory)
 - **Circuits/Motifs:** Synaptic Integration, Object Classification
-- **Behavior/What it does:** Blinks and beeps if a person is detected at medium distance
-- **How it works:** Two quiet neurons respond to medium distance and people, respectively. Both excite five quiet neurons with reduced synapse strength (15, as opposed to the default 25) which means both neurons have to be active at the same time to activate target neurons (this is called synaptic integration). The five quiet neurons produce different colors and sounds.
+- **Behavior:** Blinks lights and beeps, but only when it detects a person at a medium distance.
+- **How it works:** This brain solves a complex detection problem using synaptic integration. Two quiet sensory neurons are created: one that fires when it detects a "person" and another that fires when an object is at a "medium distance". Both of these neurons connect to five output neurons that control the LEDs and speaker. The key is that the synaptic weights from the sensory neurons are set to be very weak (e.g., a weight of 15). Because a single weak input isn't enough to make a neuron fire, the output neurons will only activate when they receive signals from both sensory neurons at the same time. This makes the robot respond only when a person is nearby.
 - **Download:** [greetnearbypeople@@@@@@1761145457770009.brain](./static/brains/greetnearbypeople@@@@@@1761145457770009.brain) (save to `Documents/SpikerBot/text`)
 
 ---
@@ -168,10 +169,12 @@ Kickstart your SpikerBot exploration with six pre‑configured example brains:
 ![Brain: GoNoGo](./img/gonogo-mini.png)
 
 **Brain: Go-NoGo**
-- **Neurons:** 4 (3 excitatory, 1 inhibitory)
-- **Circuits/Motifs:** Recurrent Excitation
-- **Behavior/What it does:** Green makes it move forward, red stops it
-- **How it works:** Two neurons strongly activate each other, forming a recurrent excitatory circuit. Both neurons drive the robot forward. A sensory neuron detects green and activates the recurrent circuit. A second, inhibitory sensory neuron detects red and stops the recurrent circuit.
+- **Neurons:** 4 (3 Excitatory, 1 Inhibitory)
+- **Circuits/Motifs:** Recurrent Excitation (Feedback Loop)Behavior/What it does: The robot starts moving forward when it sees a "go" signal (green) and continues to move even after the signal is gone. It stops moving when it sees a "stop" signal (red).
+- **How it works:** This brain is built in three parts:
+1) The Memory Loop: Two excitatory neurons are connected in a strong positive feedback loop, strongly activating each other. To sustain this activity, their synaptic weights must be very high (e.g., >=90). These neurons are connected to the forward motors.
+2) The 'Go' Trigger: A third excitatory sensory neuron detects green. It sends an activation signal to the memory loop, "flipping the switch" on.
+3) The 'Stop' Trigger: A fourth, inhibitory sensory neuron detects red. When activated, it silences the neurons in the memory loop, breaking the feedback cycle and stopping the robot.
 - **Download:** [gonogo@@@@@@1761237975410720.brain](./static/brains/gonogo@@@@@@1761237975410720.brain) (save to `Documents/SpikerBot/text`)
 
 ---
@@ -179,10 +182,13 @@ Kickstart your SpikerBot exploration with six pre‑configured example brains:
 ![Brain: LeftOrRight](./img/leftorright-mini.png)
 
 **Brain: Left Or Right**
-- **Neurons:** 9 (6 excitatory, 3 inhibitory)
-- **Circuits/Motifs:** Recurrent Excitation, Lateral Inhibition
-- **Behavior/What it does:** Green spins it left, blue spins it right, red stops it
-- **How it works:** There are two circuits (pairs) of neurons that excite eachother (recurrent excitation). Seeing green activates the left circuit, which makes the robot turn left. Seeing green activates the right circuit, which turns the robot to the right. Each circuit inhibits the other - otherwise their outputs would interfere. Seeing red inhibits both circuits, making the robot stop.
+- **Neurons:** 9 (6 Excitatory, 3 Inhibitory)
+- **Circuits/Motifs: Recurrent Excitation, Lateral Inhibition
+- **Behavior:** Makes a "winner-take-all" decision between two conflicting commands and stops with a third. Seeing green makes it spin left; seeing blue makes it spin right. Seeing red stops all movement.
+- **How it works:** This brain demonstrates how to manage multiple actions using three key motifs:
+Recurrent Excitation: It contains two independent recurrent excitatory circuits (like in Lesson 2) that act as "memory" for an action. Circuit A is activated by a green-detecting sensor to make the robot turn left, while Circuit B is activated by a blue-detecting sensor to turn right.
+Lateral Inhibition: To force a "winner-take-all" decision, the circuits are wired to compete. Circuit A activates an inhibitory neuron that targets and silences Circuit B, and Circuit B does the reverse. This ensures only one of the two "turn" commands can be active at a time.
+Inhibitory "Stop" Signal: A third, inhibitory sensory neuron detects red and is wired to silence both recurrent circuits, stopping all movement.
 - **Download:** [leftorright@@@@@@1760105706777562.brain](./static/brains/leftorright@@@@@@1760105706777562.brain) (save to `Documents/SpikerBot/text`)
 
 ---
@@ -193,7 +199,7 @@ Kickstart your SpikerBot exploration with six pre‑configured example brains:
 - **Neurons:** 12 (9 excitatory, 3 inhibitory)
 - **Circuits/Motifs:** Recurrent Excitation, Lateral Inhibition
 - **Behavior/What it does:** Reproduces the last observed color
-- **How it works:** There are three circuits (pairs) of neurons that excite each other (recurrent excitation). Each circuit is triggered by a seeing a color, activates that color LEDs, and inhibits all other circuits.
+- **How it works:** There are three recurrent excitatory circuits. Each is activated by a color and makes the LED shine that same. Each circuit also inhibits all the other circuits.
 - **Download:** [chameleon@@@@@@1760105193131480.brain](./static/brains/chameleon@@@@@@1760105193131480.brain) (save to `Documents/SpikerBot/text`)
 
 ---

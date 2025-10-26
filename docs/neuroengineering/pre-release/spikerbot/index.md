@@ -99,8 +99,8 @@ Common neural circuit motifs you’ll use include:
 
 * **Reflex Arc:** Direct sensor-to-effector connection producing simple stimulus-response behavior.  
 * **Crossed Circuit:** Connects left sensor to right motor and vice versa, enabling turning behaviors.  
-* **Synaptic Integration:** Multiple weak inputs (e.g. synapse strength <=15) converge on a neuron that fires only when inputs coincide.  
-* **Recurrent Excitation:** Strong feedback loops (e.g. synapse strength >=90) maintain neuron activity beyond the initial stimulus.  
+* **Synaptic Integration:** Multiple weak inputs (e.g. synapse strength ≤15) converge on a neuron that fires only when inputs coincide.  
+* **Recurrent Excitation:** Strong feedback loops (e.g. synapse strength ≥90) maintain neuron activity beyond the initial stimulus.  
 * **Lateral Inhibition:** Competing neurons inhibit each other, enabling decision-making by allowing only one behavior at a time.
 
 ![Recurrent Excitation](./img/circuit1.png)  

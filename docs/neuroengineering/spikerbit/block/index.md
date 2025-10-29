@@ -91,11 +91,9 @@ A common placement for a simple ECG reading (based on Einthoven's triangle) is:
 
 Open the "Show Data (Device)" graph. With the electrodes properly placed, you should now see a regular, rhythmic spike corresponding to your heartbeat.
 
-![EKGCode](./pythoncode.png)
-
 Here's what the signal will look like once you're successful:
 
-![EKGGood](./jscode.png)
+![ekgGood](./ekggud.png)
 
 > **Troubleshooting Note:** If the spikes appear **inverted (pointing down)**, the **signal polarity** is reversed.  
 > To fix this, **swap the two red alligator clips** on your wrists.

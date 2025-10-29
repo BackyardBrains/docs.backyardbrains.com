@@ -6,15 +6,39 @@ sidebar_position: 1
 sidebar_label: Installing Spiker:bit Extension
 ---
 
-## Software Setup ##
-We will use the [Make Code editor](https://makecode.microbit.org/) developed by Microsoft for micro:bit to program our Brain Machine Interfaces. There are a few other editors available, but we'll cover those and their differences in "Getting Started with Python". <!--For now, navigate to the Make Code website and click on the "New Project" button. 
-![Add a Block Variable]( ./blk_newProject.png) -->
+## Installing the Spiker:bit Extension in Microsoft MakeCode ##
 
-If you want to access our extension in early, please vist our [download our Hex file via Github](https://github.com/BackyardBrains/pxt-spikerbit/releases). When you've download it, please drag and drop the hex file into micro:bit. A new project will be created, and you will see the micro:bit, code block palette, and a workspace.  You can add blocks to the project by dragging them from the center section to the workspace on the right. 
+We will use the **[Make Code editor](https://makecode.microbit.org/)**, developed by Microsoft for the **micro:bit**, to program our Brain-Machine Interfaces (BMIs). There are other editors available, but we will discuss those and their differences later in **"Getting Started with Python"**.
 
-![Add extension]( ./dragAndDrop.png)
-<!--Soon, our Spikerbit Extension will be available in Make Code. From there, you'll got to Make Code Editor > Extensions > Import and upload the hex file there. 
-![Add our Extension]( ./extension_Adder.png) -->
+Installing the **Spiker:bit** extension in the MakeCode editor is now easier than ever: **Backyard Brains** is officially listed in the MakeCode Extensions Library.
+Follow these simple steps to add the **Spiker:bit extension** to your project.
+---
 
-Now, you're ready to start programming!
-![Add a Block Variable]( ./microBitHome.png)
+## Step 1: Open the Extensions Menu
+
+In the MakeCode editor, click on the **"Extensions"** button located in the toolbar.
+
+![Open Extensions Menu]( ./spikerbitex1.png)
+
+---
+
+## Step 2: Search for "spikerbit"
+
+In the search bar, type **spikerbit**, then press **Enter**.  
+The Spiker:bit extension should appear in the search results.
+
+![Search for Spikerbit](./spikerbitex2.png)
+---
+
+## Step 3: Add the Extension
+
+Click on the **Spiker:bit** extension in the list to install it.  
+Once added, it will appear in your editor alongside your other extensions.
+
+![Spikerbit Installed](./spikerbitex3.png)
+
+---
+
+## Step 4: Start Using Spiker:bit
+
+You can now start using **Spiker:bit** blocks in your MakeCode project to record, control, and experiment with real biosignals.

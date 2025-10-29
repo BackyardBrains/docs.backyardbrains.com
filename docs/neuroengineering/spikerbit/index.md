@@ -38,8 +38,7 @@ Software manages **signal type selection**, allowing you to toggle between **EMG
 
 <sub>
 
-> **🛈 Note:** Due to a small production error on the Spiker:bit, the power switch is reversed, the **“ON”** position turns the board **off**, and the **“OFF”** position turns it **on**.  
-> Our engineering team is aware of this silkscreen labeling issue, and it will be corrected in future batches.
+> **🛈 Note:** Due to a production error on the Spiker:bit, the power switch is reversed, the **“ON”** position turns the board **off**, and the **“OFF”** position turns it **on**. Our engineering team is aware of this silkscreen labeling issue, and it will be corrected in future batches.
 
 </sub>
 ---
@@ -91,8 +90,3 @@ Explore our tutorials to learn both **Block Programming** and **Python**:
 - [Getting Started with Python](./python/index.md).
 
 To see how this can be applied in a real-world project, check out our [DIY Hand Neuroprosthetic](./projects/neuro-hand/index.md) experiment.
-
-
-
-
-

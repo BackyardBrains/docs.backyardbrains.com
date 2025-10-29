@@ -8,11 +8,12 @@ sidebar_label: Installing Spiker:bit Extension
 
 ## Installing the Spiker:bit Extension in Microsoft MakeCode ##
 
-We will use the **[Make Code editor](https://makecode.microbit.org/)**, developed by Microsoft for the **micro:bit**, to program our Brain-Machine Interfaces (BMIs). There are other editors available, but we will discuss those and their differences later in **"Getting Started with Python"**.
+We will use the **[Make Code editor](https://makecode.microbit.org/)**, developed by Microsoft for the **micro:bit**, to program our Brain-Machine Interfaces (BMIs). There are other editors available, but we will discuss those and their differences later in **"Getting Started with Python"**. 
 
 Installing the **Spiker:bit** extension in the MakeCode editor is now easier than ever: **Backyard Brains** is officially listed in the MakeCode Extensions Library.
 Follow these simple steps to add the **Spiker:bit extension** to your project.
----
+
+- - -
 
 ## Step 1: Open the Extensions Menu
 

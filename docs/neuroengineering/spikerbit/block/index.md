@@ -121,7 +121,5 @@ and JavaScript looks like this:
 > It’s best to **save a separate copy** of your text-based code before switching modes.
 
 # Next Steps #
-  
-Next Steps
 
 This guide covers the fundamentals of reading EMG and ECG signals. These same principles can be applied to control motors, trigger sounds, or interface with other hardware. For more advanced applications and project ideas, please explore the projects section of our website.

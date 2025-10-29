@@ -52,7 +52,7 @@ Software manages **signal type selection**, allowing you to toggle between **EMG
 ![NeuroBit Bottom](./spkerbit_back.png)
 
 ## Pin Out ##
-![NeuroBit Pin Out](./spikerbit_io.png)
+![NeuroBit Pin Out](./spikerbitio1.png)
 
 ---
 

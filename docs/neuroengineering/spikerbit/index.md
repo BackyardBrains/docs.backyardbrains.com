@@ -11,7 +11,7 @@ slug: "/neuroengineering/spikerbit"
 
 ## What is the Spiker:bit? ## 
 The **Spiker:bit** is an expansion board for the **micro:bit** that allows you to develop DIY Brain Machine Interfaces (BMI), also known as Brain-Computer Interfaces (BCI).
-A BMI is a computer that interfaces directly with the electrical signals of your body. The **Spiker:bit** has a port to connect to a **micro:bit** (computer) and a port to record signals from your body. 
+A BMI is a computer that interfaces directly with the electrical signals of your body. The **Spiker:bit** has a port to connect to a **micro:bit** (computer) and a port to record **EMG (muscle)**, **ECG (heart)**, or **EEG (brain)** signals from your body.
 
 ## Technical Specifications ## 
 
@@ -45,7 +45,7 @@ Software manages **signal type selection**, allowing you to toggle between **EMG
 
 ### **Additional hardware components:**
 
-- **Servo output** on **PIN 8** for actuator control  
+- **Servo output** on **PIN 0** for actuator control  
 - **Expansion port** located on the underside, exposing **GPIO pins** for prototyping and higher-level integrations  
 -  **[Grove connectors](https://wiki.seeedstudio.com/Grove_System/)** (digital, serial, and analog) for quickly adding more **sensors** and **modules** to your experiments
 
@@ -83,8 +83,14 @@ Alternatively, you can program the micro:bit **wirelessly** using the micro:bit 
 ---
 
 ## Experiments and Tutorials
+To get started, you'll first need to install the **Spiker:bit Extension**. 
+Here's how:
 
-You’re now ready to start programming your **Spiker:bit!**
+Follow the official instructions to install the Spiker:bit extension on you **[Make Code editor](https://makecode.microbit.org/)**:
+- [Spiker:bit Extension Setup](https://docs.backyardbrains.com/neuroengineering/spikerbit/extension).
+
+Once you have the extension installed, you’re all set to begin programming your **Spiker:bit!** You can dive into our tutorials to explore both **Block Programming** and **Python**:
+
 Explore our tutorials to learn both **Block Programming** and **Python**: 
 - [Getting Started with Block Programming](./block/index.md) or
 - [Getting Started with Python](./python/index.md).

@@ -28,7 +28,7 @@ In the MakeCode editor, click on the **"Extensions"** button located in the tool
 In the search bar, type **spikerbit**, then press **Enter**.  
 The Spiker:bit extension should appear in the search results.
 
-![Search for Spikerbit](./spikerbitex2.png)
+![Search for Spikerbit](spikerbitex2.jpeg)
 ---
 
 ## Step 3: Add the Extension
@@ -36,7 +36,7 @@ The Spiker:bit extension should appear in the search results.
 Click on the **Spiker:bit** extension in the list to install it.  
 Once added, it will appear in your editor alongside your other extensions.
 
-![Spikerbit Installed](./spikerbitex3.png)
+![Spikerbit Installed](spikerbitex3.jpeg)
 
 ---
 

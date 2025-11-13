@@ -16,17 +16,17 @@ Below are some basic setup steps for recording plant action potentials, for more
 
 First, decide which experiment you are doing and the materials you will need.
 
-![1](1.jpg)
+![1](1A.jpg)
 
 For the Venus Flytrap experiment, you need the yellow RCA cable, one of the orange and red stake electrodes, and a black ground pin electrode. Place the stake electrode in the soil  close to the trap you’re going to record from, situating the silver wire around the tip close to the outside of the trap. Plant the black ground pin electrode into the soil.
 
-![2](./2.jpg)
+![2](2A.jpg)
 
 For the Sensitive Mimosa experiment, you need the yellow RCA cable, the long red electrode wire, and a black ground pin electrode. Carefully, wrap the silver tip from the long red electrode wire snugly around a large Mimosa branch, close to the joint where the branch meets the stem. Plant the black ground pin electrode into the soil.
 
 Place a dab of electrode gel at the contact points between your electrodes and the plants. This will increase conductivity for your experiment readings. Also make sure the soil is damp.
 
-![3](3.jpg)
+![3](3A.jpg)
 
 Plug in the yellow RCA with black and red electrode clips. Push down the tops of these clips to expose the metal hooks, and clip the red hook to the recording wire and the black hook to the ground wire.  
 
@@ -78,7 +78,7 @@ If an action potential fires, but it doesn't drop the branch, try swapping out f
 
 You can also test the stimulation without a "master" plant by touching the middle pin on the inut connector (picture below) with a screwdriver or your finger.
 
-![input middle pin](teststim.png)
+![input middle pin](teststima.jpeg)
 
 You should see the red LED on the board light up for a while to indicate stimulation.
 If you are connected to SpikeRecorder, you should also see the graph change dramaticaly when you do this.

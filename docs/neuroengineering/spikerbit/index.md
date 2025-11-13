@@ -7,7 +7,7 @@ slug: "/neuroengineering/spikerbit"
 
 # The Spiker:bit #
 
-![ Image of spiker:bit ](./spikerbit_with_microbit.png)
+![ Image of spiker:bit ](spikerbit_with_microbit.jpeg)
 
 ## What is the Spiker:bit? ## 
 The **Spiker:bit** is an expansion board for the **micro:bit** that allows you to develop DIY Brain Machine Interfaces (BMI), also known as Brain-Computer Interfaces (BCI).
@@ -34,7 +34,7 @@ To record **body signals**, use the **orange Backyard Brains electrode cable** w
 
 Software manages **signal type selection**, allowing you to toggle between **EMG (muscle)**, **ECG (heart)**, or **EEG (brain)** modes **without needing physical switches**.
 
-![NeuroBit Top]( ./spikerbit_front.png)
+![NeuroBit Top](spikerbit_front.jpeg)
 
 <sub>
 
@@ -49,10 +49,10 @@ Software manages **signal type selection**, allowing you to toggle between **EMG
 - **Expansion port** located on the underside, exposing **GPIO pins** for prototyping and higher-level integrations  
 -  **[Grove connectors](https://wiki.seeedstudio.com/Grove_System/)** (digital, serial, and analog) for quickly adding more **sensors** and **modules** to your experiments
 
-![NeuroBit Bottom](./spkerbit_back.png)
+![NeuroBit Bottom](spkerbit_back.jpeg)
 
 ## Pin Out ##
-![NeuroBit Pin Out](./spikerbitio1.png)
+![NeuroBit Pin Out](spikerbitio1.jpeg)
 
 ---
 
@@ -69,16 +69,16 @@ To begin using your **Spiker:bit**, gather the following materials:
 
 Insert the **micro:bit** into the front slot on the **Spiker:bit**. Make sure the LEDs on the micro:bit are facing outward.Then, connect the **orange electrode cable** to the electrode port on the side of the **Spiker:bit**.
 
-![NeuroBit Connecting](./spikerbit_connect.png )
+![NeuroBit Connecting](spikerbit_connect.jpeg)
 
 ### Step 2: Power and Program
 Connect the **USB cable** from your computer to the **micro:bit** to power it and upload your code.  
 
-![NeuroBit USB](./spikerbit_usb.png)
+![NeuroBit USB](spikerbit_usb.jpeg)
 
 Alternatively, you can program the micro:bit **wirelessly** using the micro:bit app, available on the App Store or Google Play.
 
-![micro:bit App Programming](./spikerbit_phone.png)
+![micro:bit App Programming](spikerbit_phone.jpeg)
 
 ---
 

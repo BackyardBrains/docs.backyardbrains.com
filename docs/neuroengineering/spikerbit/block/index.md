@@ -44,7 +44,7 @@ The Spiker:bit automatically creates a variable called **`muscle power signal`**
    -  Show a heart icon for rest  
    -  Show X icon for flex   
 
-![Click Download]( ./block_download_Updated3.png)
+![Click Download](block_download_Updated.jpeg)
 
 - - -
 
@@ -54,11 +54,11 @@ Once your Spiker:Bit is powered and ready, it’s time to connect it to a muscle
 
 Connect **two large motor electrodes** along a target muscle, the **forearm** works best for clear, easy-to-control signals. Clip the **two red leads** to these electrodes, and attach the **black ground** to an electrode behind your hand to keep the signal clean.   
 
-![Placement of Electrodes]( ./emgToMicrobit.png)
+![Placement of Electrodes](emgToMicrobit.jpeg)
 
 Once the program is loaded, open **Show Data** to view your EMG signal in real time. Relaxed muscles stay near **0**, and a firm flex can rise to around **1000**, that’s your muscle’s electrical activity being measured live! 
 
-![EMG Values in Action](./blk_serialViewer.png)
+![EMG Values in Action](blk_serialViewer.jpeg)
 
 Use this range to adjust your **activation threshold** (default: **10**), set it lower for weaker signals and higher for stronger contractions. Finding the right value helps your readings stay stable and responsive.  
 
@@ -79,7 +79,7 @@ A common placement for a simple ECG reading (based on Einthoven's triangle) is:
 2.  Positive (Red Clip): Inside of the right wrist or forearm.
 3.  Negative (Other Red Clip): Inside of the left wrist or forearm.
 
-![ECGPlacement](./ECGPlacement_Updated.png)
+![ECGPlacement](ECGPlacement_Updated.jpeg)
 
 ### Step 2: Update the Code
 
@@ -93,12 +93,12 @@ Open the "Show Data (Device)" graph. With the electrodes properly placed, you sh
 
 Here's what the signal will look like once you're successful:
 
-![ekgGood](./ekggud.png)
+![ekgGood](ekggud.jpeg)
 
 > **Troubleshooting Note:** If the spikes appear **inverted (pointing down)**, the **signal polarity** is reversed.  
 > To fix this, **swap the two red alligator clips** on your wrists.
 
-![ekgInverse](./ECGBAAD.png)
+![ekgInverse](ECGBAAD.jpeg)
 
 
 ## Note on  MicroPython and JavaScript Editors
@@ -106,14 +106,14 @@ Here's what the signal will look like once you're successful:
 The MakeCode editor also supports text-based coding. You can toggle between 
 **Blocks**, **JavaScript**, and **MicroPython** using the tabs at the top of the editor.
 
-![Python_Java_Editor](./EditorJava_Pyth_Updated.png)
+![Python_Java_Editor](EditorJava_Pyth_Updated.jpeg)
 
 For this demo project, the block code converted into MicroPython looks like this:
 
-![EKGPython](./EKGPython_Updated.png)
+![EKGPython](EKGPython_Updated.jpeg)
 
 and JavaScript looks like this:
-![EKGJava](./EKGJava_Updated.png)
+![EKGJava](EKGJava.jpeg)
 
 > **Caution:** Converting complex **text-based code** (JavaScript or MicroPython) back to the **Block editor** may not always work correctly and can cause **data loss**.  
 > It’s best to **save a separate copy** of your text-based code before switching modes.

@@ -38,7 +38,7 @@ You can start by deleting the code inside the while loop so we can add our own i
 
 In this example, we will place two recording electrodes over the eye and will attempt to record an Electrooculogram (EOG). An EOG is a measurement of the electrical activity of the eye. You can place the two recording electrodes around the eye, and the black ground lead behind the ear.
 
-![EOG Recording Sertup](./py_EOGplacement.png)
+![EOG Recording Sertup](py_EOGplacement.jpeg)
 
 We will create a variable to store information in your code so you can easily access it. Since the EOG signal is sent to Pin 1 on the micro:bit, we can read in a sample using the following code.
 
@@ -68,8 +68,8 @@ while True:
 The micro:bit will now function like a hard drive or an SD card: it will save these data values into a .csv file into a log. Navigate to the Micro:bit drive and open the "my data" document. This will then take you to a micro:bit data log page which can do basic graphical analysis, interact with the log, and copy the data for more extensive analysis in Excel or any other data platform.
 
 
-![myDataDoc](./myData.png)
+![myDataDoc](myData.jpeg)
 
-![micro:bit datalog](./datalogg.png)
+![micro:bit datalog](datalogg.jpeg)
 
-![micro:bit datalog graph](./EOGDataLog.png)
+![micro:bit datalog graph](EOGDataLog.jpeg)

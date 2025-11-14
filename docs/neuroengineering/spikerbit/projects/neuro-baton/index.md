@@ -9,7 +9,7 @@ description: Conduct Music with Your Mind and Body!
 
 # Neuro:baton 
 
-![Conduct Music with Your Mind and Body](./nc_Title.png)
+![Conduct Music with Your Mind and Body](nc_Title1.jpeg)
 
 
 |               |                 |
@@ -38,7 +38,7 @@ Welcome to the Neuro:baton, the only device where you can conduct your own symph
 ## Build Instructions ##
 
 ### Materials ###
-![Materials Needed](./nc_01_materials.png)
+![Materials Needed](nc_01_materials1.jpeg)
 
 - 1x spiker:bit kit (spiker:bit, 3x electrodes, and 1x orange cable)
 - 1x micro:bit
@@ -51,23 +51,23 @@ Grab a cardboard sheet and use the provided template to cut out the shape of the
 
 ### 1. Cut out ###
 
-![Trace the outline of your baton](./nc_02_trace.png)
+![Trace the outline of your baton](nc_02_trace1.jpeg)
 
 Print out a PDF of our [baton outline](./nc_baton_trace.pdf) and trace it on the cardboard (include the dotted lines).
 
-![](./nc_03_trace.png)
+![](nc_03_trace1.jpeg)
 
 Then cut ir out with scissors.
 
 ### 2. Fold and Decorate the Baton Holder ###
 
-![Fold and Decorate the Baton Holder](./nc_04_fold.png)
+![Fold and Decorate the Baton Holder](nc_04_fold1.jpeg)
 
 Fold up the cardboard to first snuggly around the micro:bit.  Then add some tape to the top to hold it in place, and give it some character. 
 
 ### 3. 3D Print and Final Assembly ###
 
-![](./nc_05_final.png)
+![](nc_05_final1.jpeg)
 
 What makes a conductors baton is the baton!  So we will 3D print the baton and place it on top of the base.  You can download the [STL File for 3D printing your own baton here](./NeuroBaton.stl).  
 
@@ -84,7 +84,7 @@ Now that your baton is built, we need to to produce music. With Microbit's many 
 ### 1. Select Your Music ###
 Choose between Music, Melody, or Synthesize to kickstart your composition journey.
 
-![6.music.png](./6.music.png)
+![6.music.png](6.music1.jpeg)
 
 You have the freedom to craft a DJ board melody:
 
@@ -116,7 +116,7 @@ When you flex your muscles to raise the baton, the EMG increases. By reading the
 
 The micro:bit has a built in accelerometer, which is a sensor that detects movement and orientation. We'll utilize the vertical (up and down) motion of your neuro:baton to control the volume.  Given the orientation of the baton in your hand, the Y axis responds well to raising and lowering the baton in the air (similar to a conductor).  We will therefor use that to increase the volume and down to decrease it.
 
-![microbit accelerometers](./nc_10a_accell.png) 
+![microbit accelerometers](nc_10a_accell1.jpeg) 
 
 By combining these two inputs, you'll have dynamic control over your musical performance, making you a true maestro with the neuro:baton!
 

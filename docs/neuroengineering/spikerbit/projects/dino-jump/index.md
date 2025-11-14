@@ -7,7 +7,7 @@ description: For when you have no internet, IRL
 ---
 # Dino Jump Game
 
-<img src="/img/DinoJump.webp" alt="The Dino Jump" width="1536" height="1600" loading="eager" fetchpriority="high" style={{ height: 'auto' }} />
+![Image](DinoJump1.webp)
 |     |       |
 |--------------|--------------
 | Inventor     | Anastasija Matić, Elena Andjelković, and Milan Tomić          

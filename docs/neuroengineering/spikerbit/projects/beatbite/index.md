@@ -10,7 +10,7 @@ description: Boring song on the bus? Just bite!
 
 
 # BeatBite Control #
-![Example](./HeadDisplayBeatBite.png)
+![Example](HeadDisplayBeatBite1.jpeg)
 
 |     |       |
 |--------------|--------------
@@ -39,7 +39,7 @@ What if that could be a reality? Here is what we came up with:
 ## Build Instructions ##
 
 ### Materials Needed ###
-![materials](./materials.png)
+![materials](materials1.jpeg)
 
 - 1x spiker:bit kit (spiker:bit, 3x electrodes, and orange cables)
 - 1x micro:bit
@@ -50,15 +50,15 @@ What if that could be a reality? Here is what we came up with:
 3D printer for printing plastic belt clips to store our micro:bit and wires -->
 
 ### 1. Connect spiker:bit and alligator clips ### ###
-![Picture of first step](./step1.1.png)
+![Picture of first step](step1.11.jpeg)
 
-![Picture of first step](./step1.2.png)
+![Picture of first step](step1.21.jpeg)
 
 Flip spike:bit and find pin2 (ground) and pin3 (pin2) that is located in expand port of the spiker:bit. 
 Choose one alligator clip and connect to pin2. Do same thing for the another clip to pin3. Color for each clips do not matter.
 
 ### 2. Connect alligator clips to headphone ###
-![Picture of second step](./step2.png)
+![Picture of second step](step1.21.jpeg)
 
 Grab other end of alligator clips which was connected to pin2. Clip this to tip of the headphone jack. Grab other end of alligator clips connected to pin3 and clip to base of the headphone jack.
 

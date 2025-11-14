@@ -6,7 +6,7 @@ sidebar_label: RoboRoach
 
 # The RoboRoach #
 
-![Roboroach and app](./RoboRoach.jpg)
+![Roboroach and app](RoboRoach1.jpg)
 
 :::warning
 Please Note: Requires at least one Cockroach

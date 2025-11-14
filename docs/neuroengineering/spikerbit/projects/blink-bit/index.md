@@ -9,7 +9,7 @@ description: Experiment with real-time eye blink detection
 import ReactPlayer from 'react-player';
 
 # Blink:Bit #
-<img src="/img/blinkbit_title.gif" alt="Blink Bit Title Demo" width="1920" height="980" loading="eager" fetchpriority="high" style={{ height: 'auto' }} />
+![My GIF](blinkbit_title1.gif)
 
 |     |       |
 |--------------|--------------

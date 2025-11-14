@@ -7,7 +7,7 @@ slug: /neuroengineering/spikerbit/projects/heart-bit
 ---
 
 # HeartBit
-![Finished](./19.png)
+![Finished](191.jpeg)
 
 |             |                       |
 |--------------|--------------
@@ -32,7 +32,7 @@ experience! Now imagine THAT with your workout routine!
 - 1 x Grove heart rate sensor
 - 2 x Cables with pins for connecting to an external speaker
 - 1 x RadioShack external speaker
-  ![Materials](./4.png)
+  ![Materials](41.jpeg)
   
 ## How it all works
 There is a multitude of ways that the HeartBit device makes its sound; let’s go through them one by one:
@@ -58,29 +58,29 @@ the produced notes will be. I noticed it's tiring to tightly flex for long perio
 
 ## Connecting it all
 1. Attach a female connector to pin 10, the wire is black as that's the standard for connecting to ground
-![GND](./5.png)
+![GND](51.jpeg)
 2. Attach the signal wire to pin 7. The example wire is blue
-![SIG](./6.png)
+![SIG](61.jpeg)
 3. We've also used a simple casing with a switch for our example, we recommend you also make some sort of housing device to hold the Spiker:bit in place
-![PlaceHolder](./7.png)
-![HoldingNB](./8.png)
+![PlaceHolder](71.jpeg)
+![HoldingNB](81.jpeg)
 5. Attach the heart monitor. We will be communicating over I2C.
-![I2c](./9.png)
+![I2c](91.jpeg)
 6. Now connect an audio jack into the speaker. This cable is a bit special, as it also has alligator clips.
-![Audio](./10.png)
+![Audio](101.jpeg)
 7. Connect said alligator clips to our pins. Red goes to blue ( power to signal ) and black goes to black ( ground connects to ground )
-![Sig2](./11.png)
-![Gnd2](./12.png)
+![Sig2](111.jpeg)
+![Gnd2](121.jpeg)
 9. At this point, you can connect yourself to the Spiker:bit.
-![MostlySet](./15.png)
+![MostlySet](151.jpeg)
 10. If you have a strap, you can also attach the Spiker:bit box to your wrist, thus allowing for (mostly) hands-free control
-![Holder1](./16.png)
-![Holder2](./17.png)
+![Holder1](161.jpeg)
+![Holder2](171.jpeg)
 12. Finally, make sure to attach the heart monitor to your finger. We recommend the index finger.
-![HRM](./18.png)
+![HRM](181.jpeg)
 
 Voila! This is what the finished product should look like! 
-![Finished](./19.png)
+![Finished](191.jpeg)
 We have the micro:bit and Spiker:bit devices connected and
 inserted into their 3D printed casing. While external sensors like
 the heart rate monitor and the EMG electrodes are connected to

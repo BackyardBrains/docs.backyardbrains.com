@@ -7,7 +7,7 @@ slug: /neuroengineering/spikerbit/projects/snooze-smacker
 ---
 
 # The Snooze Smacker #
-![Snooze Smacker](./nb_ss_00.png)
+![Snooze Smacker](nb_ss_001.jpeg)
 
 |     |       |
 |--------------|--------------
@@ -39,7 +39,8 @@ To assemble the Muscle Maze, you will need to have the following items.
 - 1x old over-the-ear headset / headphones for cutting up
 - 1x roll of duct tape
 - 1x foam sheet and piece of paper for making a hand
-![Materials](./1.png)
+![Materials](1.1.jpeg)
+
 ## Coding
 Below is the python makecode. Millis are used to set a countdown for 6 seconds. This countdown resets based on the calibration at the beginning ( if the user opens their eyes or has them already open, this is detected and the servo is stationary ). However, should the user fall asleep and have their eyes closed for more than 6 seconds, the boolean ( true or fales variable ) for sleeping is set to true and they are smacked!
 
@@ -106,34 +107,34 @@ basic.forever(on_forever)
 ```
 ## Assembly
 1. First, trace out your hand on the foam materials
-![foam_Tracing](./2.png)
+![foam_Tracing](2.1.jpeg)
 2. Do the same for the sheet of paper, and cut both out
-![CuttingFoam](./4.png)
-![CuttingHand](./5.png)
+![CuttingFoam](4.1.jpeg)
+![CuttingHand](5.1.jpeg)
 3. Attach the foam and hand together with the stick in the middle, either with glue or with adhesive already on the foam
-![StickingTogether](./6.png)
+![StickingTogether](6.1.jpeg)
 4. Take the glue gun, and glue the servo hat to the same stick
-![StickHat](./8.png)
+![StickHat](8.1.jpeg)
 5. Glue the servo ( with no hat attached ) to the headset
-![ServoToHeadset](./10.png)
+![ServoToHeadset](10.1.jpeg)
 6. Plug in the servo to the micro:bit
-![ServoConnect](./12.png)
+![ServoConnect](12.1.jpeg)
 7. Take the duct tape and make two strips one about the length of your arm and the other about 1/2 of the first. Place the smaller strip in the middle of the first. This smaller strip should roughly be the length and 2x the width of the microbit
-![MicrobitPocket1](./16.png)
+![MicrobitPocket1](16.1.jpeg)
 8. Wrap the duct tape around one end of the headset ( this will hold the micro:bit to the headset )
-![MicrobitPocket2](./17.png)
+![MicrobitPocket2](17.1.jpeg)
 9. Add an additional piece of tape to connect the bottom of this pocket to the headset
-![MicrobitPocket1](./20.png)
-![MicrobitPocket1](./21.png)
+![MicrobitPocket1](20.1.jpeg)
+![MicrobitPocket1](21.1.jpeg)
 10. Slide in microbit to the pocket, adjust the pocket as needed so the microbit is snug but not impossible to get out
-![MicrobitPocket3](./22.png)
+![MicrobitPocket3](22.1.jpeg)
 11. Now continue taping the headset. We recommend a Zig Zag pattern around the edges of the servo ( to prevent it from popping off )
-![ExtraTape1](./24.png)
-![ExtraTape2](./25.png)
+![ExtraTape1](24.1.jpeg)
+![ExtraTape2](25.1.jpeg)
 12. Now attach the stick with your hand
-![Ending](./26.png)
+![Ending](26.1.jpeg)
 And there you have it, your very own snooze smacker!
-![Done](./27.png)
+![Done](27.1.jpeg)
 
 ## Conclusion
 The result is a unique, functional, and entertaining gadget that helps keep users awake and

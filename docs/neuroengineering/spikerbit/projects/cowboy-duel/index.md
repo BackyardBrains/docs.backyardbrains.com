@@ -9,7 +9,7 @@ description: It's high noon!  Are you ready for a duel?
 
 
 # Cowboy Duel #
-![Cowboy Duel](./np_cd_00.png)
+![Cowboy Duel](np_cd_001.jpeg)
 
 |     |       |
 |--------------|--------------
@@ -516,6 +516,5 @@ see a “W” on their display (winner), and others will see an “L” (loser).
 “Cowboy Duel” went through a major design change. At first, it was meant
 to be just a micro:bit held in one hand, and the other hand would be finger guns. This could be much more fun, so I added a 3D-printed gun with a micro:bit on top.
 
-![DDDUEL1](./DDDUEL1.png)
-![DDDUEL2](./DDDUEL2.png)
-
+![DDDUEL1](DDDUEL11.jpeg)
+![DDDUEL2](DDDUEL21.jpeg)

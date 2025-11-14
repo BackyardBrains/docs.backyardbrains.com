@@ -7,7 +7,7 @@ description: Fully Body gaming like never before
 ---
 
 # EMG Game Console
-![Cover Image](./35.png)
+![Cover Image](35.1.jpeg)
 
 |                    |                                                             |
 | ------------------ | ----------------------------------------------------------- |
@@ -51,11 +51,11 @@ Before connecting the electronics, we should slice and start printing the files.
 
 1. 3D print all parts located in the `TugOfWarGame` folder of the attached ZIP file. Apply supports as needed.
 
-![Tug Of War Game Plate Image](./TugOfWarPlate.png)
+![Tug Of War Game Plate Image](TugOfWarPlate1.jpeg)
 
 2. _If you don’t have the Wio Terminal:_ 3D print all parts in the `GameConsole` folder. Note that some files need to be printed twice, and you need to apply supports.
 
-![Game Console Plate Image](./ConsolePlate.png)
+![Game Console Plate Image](ConsolePlate1.jpeg)
 
 3. Thoroughly clean the parts from the supports after printing.
 
@@ -65,15 +65,15 @@ Before connecting the electronics, we should slice and start printing the files.
 
 2. Cut the red _(power)_ wire of the Grove cable. We want to power the Wio Terminal externally.
 
-![Grove Cable Image](./27.png)
+![Grove Cable Image](27.1.jpeg)
 
 3. Plug one side of the cable into one of the Spiker:bit's "digital" Grove ports _(the one with the SCL and SDA - i2c pins)_. This micro:bit is now the "right one".
 
-![Microbit Grove Image](./28.png)
+![Microbit Grove Image](28.1.jpeg)
 
 4. Plug the other side of the cable into the matching i2c Grove port on the Wio Terminal _(the left one when the screen is up)_.
 
-![Wio Terminal Grove Image](./32.png)
+![Wio Terminal Grove Image](32.1.jpeg)
 
 5. Insert the microSD card into your computer and transfer the files from the `Assets/bmp` folder of the attachment.
 
@@ -89,21 +89,21 @@ Before connecting the electronics, we should slice and start printing the files.
 
 3. Insert the switches, ensuring the higher side is toward the Spiker:bit sign and they are in the OFF position.
 
-![Switches Image](./6.png)
+![Switches Image](6.1.jpeg)
 
 4. Insert both Spiker:bits into their holders _(the right one goes to the right one)_ with the ports facing outward. Angle them slightly and push them in. This might take a few tries, so do it one by one, paying attention not to move the switches.
 
-![NeuroHolder1](./7.png)
+![NeuroHolder1](7.1.jpeg)
 
 5. Snap the Wio Terminal into the display holder.
 
-![Display Holder Image1](./10.png)
-![Display Holder Image2](./12.png)
+![Display Holder Image1](10.1.jpeg)
+![Display Holder Image2](12.1.jpeg)
 
 6. Position the display holder so that the blue button is in the top left corner and slide it onto the stand.
 
-![Sliding_Into_Stand1](./13.png)
-![Sliding_Into_Stand2](./14.png)
+![Sliding_Into_Stand1](13.1.jpeg)
+![Sliding_Into_Stand2](14.1.jpeg)
 
 ## Tug of War Extension Assembly
 
@@ -120,7 +120,7 @@ Before connecting the electronics, we should slice and start printing the files.
 
 3. Connect the servo motor’s cable to the right Spiker:bit, ensuring the letters on the micro:bit port _(BlackRedYellow)_ match the colors on the cable.
 
-![Servo Connection Image](./29.png)
+![Servo Connection Image](29.1.jpeg)
 
 4. Flash the temporary code using the micro:bit Python Editor from the file servo_calibration.py to the right Spiker:bit. This will center the servo to 90°.
 
@@ -142,7 +142,7 @@ Before connecting the electronics, we should slice and start printing the files.
 
 9. Done, now the angle of the servo should be proportional to the position of the flag!
 
-![Rotation Image](Rotation.gif)
+![My GIF](Rotation1.gif)
 
 ## Software
 
@@ -176,26 +176,24 @@ Once everything is assembled and coded, both players should follow these steps:
 
 3. Connect the orange cables to the Spiker:bits, with the left player _(red cable)_ connecting to the left one and the right player _(green cable)_ connecting to the right one.
 
-![Tug of War Image](./34.png)
+![Tug of War Image](34.1.jpeg)
 
 4. Plug the USB C cable into the Wio Terminal and the other end into a power bank.
 
-![Tug of War Image](./31.png)
+![Tug of War Image](31.1.jpeg)
 
 5. Turn on the switches on both Spiker:bits. Remeber, these switches are on the bottom of the containers and near the middle.
 
 6. When the display turns on, press the blue button to select the game.
 
-![Tug of War Image](./32.png)
+![Tug of War Image](32.1.jpeg)
 
 7. Press the black button on the bottom of the micro:bit and then squeeze your muscle as hard as you can until the red tick mark appears on the micro:bit.
 
 8. Now you can play by squeezing your wrists - the stronger you squeeze, the more the flag will move in your direction. Enjoy the game that NEVER ENDS. 🤗
 
-![Tug of War Image](./35.png)
+![Tug of War Image](35.1.jpeg)
 
 ## Credits
 
 The 3D modeling and printing were done by Alex Hatch _(based on Jovana's incredible sketches)_, and the project was overseen by Chethan Magnan. We thank them from the bottom of our hearts for being such open and helpful people.
-
-

@@ -8,7 +8,7 @@ description: Never lose to the powerful red army with 10000 power again
 ---
 
 # The War Game #
-![WARGaming](./WARGaming.png)
+![WARGaming](WARGaming2.jpeg)
 
 |     |       |
 |--------------|--------------
@@ -374,5 +374,4 @@ Each player starts with 5 ammo and 3 life points.
 
 Continuous shielding is limited to two consecutive uses; after two uses, the player must choose a different action (shoot or reload), or the shield action will be considered invalid.
 
-![WarGameInAction](./WARGame.jpg)
-
+![WarGameInAction](WARGame1.jpg)

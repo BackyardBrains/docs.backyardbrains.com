@@ -8,7 +8,7 @@ description: The future of silent communication
 ---
 
 #  Neuro:Talk #
-![FinishedProdct](./37.png)
+![FinishedProdct](37.1.jpeg)
 
 |     |       |
 |--------------|--------------
@@ -39,7 +39,7 @@ These instructions will guide you through the process of building and programmin
 ## Build Instructions ##
 
 ### Materials ###
-![Materials](./1.png)
+![Materials](1.1.jpeg)
 
 - 2x spiker:bit kit (spiker:bit, 3x electrodes, and 1x orange cable)
 - 2x micro:bit
@@ -49,28 +49,28 @@ These instructions will guide you through the process of building and programmin
 - (Stick and glue gun not shown)
 
 ### 1. Start by grabbing the cup and tape ###
-![Setup](./2.png)
+![Setup](2.1.jpeg)
 
 ### 2. Tape the cup for improved grip, this will matter when we attach the servo ###
-![TapeCup](./3.png)
+![TapeCup](3.1.jpeg)
 
 ### 3. Tape the cup onto the piece of paper ###
-![Combo](./23.png)
+![Combo](23.1.jpeg)
 
 ### 4. Now grab the stick, in this case it's a 3D printed part. Apply glue from a glue gun to where the servo hat will connect ###
-![1stGlue](./18.png)
+![1stGlue](18.1.jpeg)
 
 You can download the [stl file](./NeuroTalkPointerArm.stl) for 3D printing part from here.
 
 ### 5. Attach the servo to the stick. The servo should then be connected to the micro:bit ###
-![ServoStick1](./20.png)
-![ServoStick2](./21.png)
+![ServoStick1](20.1.jpeg)
+![ServoStick2](21.1.jpeg)
 
 ### 6. Apply glue from the glue gun onto the tape cup and then place the servo onto the tape cup ###
-![It's all coming together](./24.png)
+![It's all coming together](24.1.jpeg)
 
 ### 7.  Add a 0, letters, and a space matching your letter array. This is best done by running the code and having the servo move through the array ###
-![LabelingLetters](./36.png)
+![LabelingLetters](36.1.jpeg)
 
 
 

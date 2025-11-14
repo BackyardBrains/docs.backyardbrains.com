@@ -7,7 +7,7 @@ slug: /neuroengineering/spikerbit/projects/muscle-maze
 ---
 
 # Muscle Maze #
-![Muscle Maze](./maze_title.png)
+![Muscle Maze](maze_title1.jpeg)
 
 |     |       |
 |--------------|--------------
@@ -33,7 +33,7 @@ To assemble the Muscle Maze, you will need to have the following items.
 
 You will make a few parts.  Below are the 4 3d printed parts we will need:
 
-![3d parts needed for maze](./maze_3dParts.png)
+![3d parts needed for maze](maze_3dPart1.jpeg)
 
 You can donload the STL files and print them on your 3D printer.
 
@@ -49,21 +49,21 @@ You also need to laser cut the following parts (or you can cut out the triangle 
 The .rd file extension is associated with various file types depending on the context in which it is used. One common use is for laser cutting.
 
 ## Assembling the Maze ##
-1. Place Ball inside the maze, then seal with  Maze Cover with hot glue ![Step1](./maze_step1.png)
+1. Place Ball inside the maze, then seal with  Maze Cover with hot glue ![Step1](maze_step11.jpeg)
 
 2. Glue plastic arm that comes with the servo to the pocket of Base
 
 3. Glue the other plastic arm to the pocket of Center Bracket
 
-4. Join one of the servos to the Top Bracket using the servo screws provided, as shown below ![Step4](./maze_step4.png)
+4. Join one of the servos to the Top Bracket using the servo screws provided, as shown below ![Step4](maze_step41.jpeg)
 
-5. Join the other servo to the Center Bracket using two screws, as shown below ![Step7](./maze_step5.png)
+5. Join the other servo to the Center Bracket using two screws, as shown below ![Step7](maze_step51.jpeg)
 
 6. Assemble the parts from Steps 2 and 5 above using a small servo screw.
 
 7. Assemble the parts from Steps 3 and 6, using small screw.
 
-8. Now pull it all together by combining the assmbly from step 1 with step 7.  You can these 2 parts with a hot glue gun. ![Step8](./maze_step8.png)
+8. Now pull it all together by combining the assmbly from step 1 with step 7.  You can these 2 parts with a hot glue gun. ![Step8](maze_step81.jpeg)
 
 
 ## Preparing micro:bit ##

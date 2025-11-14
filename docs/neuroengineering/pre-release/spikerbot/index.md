@@ -23,13 +23,13 @@ When the app opens, you’ll see a brain-shaped canvas. Drag **black (excitatory
 
 ### Design Mode
 
-![App Design Mode Screenshot](./img/screenshot1.png)
+![App Design Mode Screenshot](./img/screenshot1.1.jpeg)
 
 ---
 
 ### Live Mode
 
-![App Live Mode Screenshot](./img/screenshot2.png)
+![App Live Mode Screenshot](./img/screenshot2.1.jpeg)
 
 ---
 
@@ -49,7 +49,7 @@ Output devices include:
 
 The robot communicates wirelessly with the app via 2.4 GHz Wi-Fi for real-time control.
 
-![SpikerBot Robot](./img/screenshot3.png)
+![SpikerBot Robot](./img/FrontPerspective.jpeg)
 
 | Sensor / Effector     | Specification                          |
 |----------------------|--------------------------------------|

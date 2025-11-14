@@ -8,7 +8,7 @@ description: No keyboard? No Problem. Put the MyoTyper to work.
 ---
 
 # The MyoTyper #
-![MyoTyper](./nb_mt_00.png)
+![MyoTyper](nb_mt_001.jpeg)
 
 |     |       |
 |--------------|--------------
@@ -37,7 +37,7 @@ could be hooked up to your leg so you could write without using your arms.
 ## Build Instructions ##
 
 ### Materials ###
-![Materials](./materials.png)
+![Materials](materials1.jpeg)
 
 - 1x spiker:bit kit (spiker:bit, 3x electrodes, and 1x orange cable)
 - 1x micro:bit
@@ -48,31 +48,31 @@ could be hooked up to your leg so you could write without using your arms.
 - 1x clock hand (wood stick)
 
 ### 1. Choosing strew material ###
-![Picture of first step](./step1.png)
+![Picture of first step](step11.jpeg)
 
 Choose something you will use a clock hand. It could be a straw, part of a three
 branch or you can 3D print it! (just make sure it&#39;s lightweight).
 
 ### 2. Glue servo to paper ###
-![Picture of second step](./step2.png)
+![Picture of second step](step21.jpeg)
 
 Take a sheet of colored paper and servo motor. Glue the motor to the paper as shown
 in the picture.
 
 ### 3. Attach attachment to servo ###
-![Picture of third step](./step3.png)
+![Picture of third step](step31.jpeg)
 
 Grab attachment from the bag came with servo kit (any one of them is okay to use). 
 Then attach it on top of the servo. No need to screw.
 
 ### 4. Glue clock hand ###
-![Picture of fourth step](./step4.png)
+![Picture of fourth step](step41.jpeg)
 
 Place the attachment onto servo. Then, glue the clock hand (wood stick) to the 
 servo hat to align it with the servo motor attachment.
 
 ### 5. Write letter ##
-![Picture of fifth step](./step5.png)
+![Picture of fifth step](step51.jpeg)
 
 Write the code and come back when you're done. Flex your muscles once to move the
 clock hand and simultaneously write the letters as you move it.

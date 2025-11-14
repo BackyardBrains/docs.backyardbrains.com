@@ -7,8 +7,7 @@ slug: /neuroengineering/spikerbit/projects/spiker-man
 ---
 # Spiker-Man Web Flinger # 
 
-![Web Flinger in Action](./spikerman_title.png)
-
+![Web Flinger in Action](spikerman_title1.jpeg)
 
 
 *"Spiker-Man, Spiker-Man, does whatever a Spiker-Man can"*
@@ -100,10 +99,10 @@ Step 18. Print out the STL files or design your own for printing
 Step 19. Assemble the 3D prints, the string slinging component, the Micro:Bit and Spiker:bit combination, and the wires  
 
     Putting the pieces into their 3D-printed cases will look like this:
-![Slinging part Construction](./19A2C5F9-0177-45AE-BEE3-7796ED721018.jpeg)
-![All together now](./C71FD012-A7AD-40A6-A6B3-D058D3C25DD8.jpeg)
+![Slinging part Construction](19A2C5F9.jpeg)
+![All together now](C71FD012.jpeg)
 
 # Demos #
 
 Step 20. Mess around with your newly created Spiker-Man Web Flinger!  
-![Pchew](./6F6943EF-E2DB-46D7-90C4-FCB8CB2B2016.jpeg)
+![Pchew](play.jpeg)

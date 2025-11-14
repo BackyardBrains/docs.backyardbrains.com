@@ -8,7 +8,7 @@ sidebar_label: Heart and Brain SpikerBox Classic
 
 # The Heart and Brain SpikerBox #
 
-![image](./HeartAndBrainSpikerBox-bundle.jpg)
+![image](HeartAndBrainSpikerBox1.jpg)
 
 With our Heart and Brain SpikerBox, you can view and record the action potentials of your heart (EKG) and the slow rhythms of your brain (EEG) 
 
@@ -36,7 +36,7 @@ For EEG, place the headband with the metal electrodes on the top back of your he
 Place a patch electrode on the bony part behind your ear as a ground.  
 
 ### Recording ###
-![setup](./setup.png)
+![setup](setup1.jpeg)
 
 Power the Heart & Brain SpikerBox on with a 9V battery, and turn on the red switch at the front of the SpikerBox.   
 If you are using a smartphone or tablet, plug the green smartphone cable into the green output jack to connect the Heart & Brain SpikerBox.  

@@ -8,8 +8,8 @@ sidebar_label: Human-Human Interface
 
 # Human-Human Interface #
 
-![image](./HHITop.png)
-![image](./HHISide.png)
+![image](HHITop1.jpeg)
+![image](HHISide1.jpeg)
 
 The Human-Human Interface (HHI) facilitates the transmission of electrical signals from one person's brain to another person's muscles, allowing control over their movements. By reading electrical signals from the brain and sending them to command another person's muscles. It includes everything needed for both "Master" (signal sender) and "Minion" (signal receiver) roles, as well as making EMG recordings for analisys, when connected to our [Spike Recorder App](../../software/SpikeRecorder/)
 
@@ -19,8 +19,7 @@ The Human-Human Interface (HHI) facilitates the transmission of electrical signa
 [PDF instructions](./HHI_Insert.pdf)
 
 ### Seting up ###
-![electrode setup](./GS1.png)
-
+![electrode setup](GS1.1.jpeg)
 Master:
 
 Insert the battery following the indicator on

@@ -6,7 +6,7 @@ slug: "/invertebrate/neuron-spikerbox/expansions/neuropharmacology_kit"
 
 # Neuropharmacology Kit #
 
-![Neuropharmacology Kit](./img/neuropharm.png)
+![Neuropharmacology Kit](neuropharm1.jpeg)
 
 ## Introduction 
 The Neuropharmacology Kit is a practical add-on for the Neuron SpikerBox, designed to enhance students’ understanding of synapse function (excitatory and inhibitory) and neuropharmacology. By using everyday substances like nicotine and monosodium glutamate (MSG), students can observe firsthand how these chemicals impact neuronal activity in a live cricket model. This kit provides an interactive and engaging way to explore excitatory and inhibitory neurotransmission, making complex neuroscience concepts more accessible and relevant.
@@ -31,7 +31,7 @@ Each kit comes with pre-tested amount dilutions of neuro-active agents to make t
 | 10ml Tubes | 3 |
 | Saline Solution | 25mL |
 
-![Neuropharmacology Kit](./img/neuropharm-inside-orange.png)
+![Neuropharmacology Kit](neuropharm-inside-orange1.jpeg)
 
 ## Safety and Ethics
 

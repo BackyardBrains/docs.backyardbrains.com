@@ -5,7 +5,7 @@ slug: /invertebrate/spikestation
 
 # SpikeStation: An Educational Tool for Advanced Science Labs #
 
-![1](1.png)
+![1](1.1.jpeg)
 
 Figure1. Photo of the SpikeStation Device Setup
 
@@ -67,7 +67,7 @@ This feature allows students to visualize real-time signals using external tools
 - **4 Event Inputs**: Ideal for triggering complex experimental setups or monitoring multiple processes simultaneously.
 
 
-![2](2.png)
+![2](2.1.jpeg)
 
 Figure 2. Hardware Diagram with Annotations for Input Amplifiers, Outputs, Connectors
 
@@ -148,7 +148,7 @@ The main menu provides full access to customizable parameters, including indepen
 - **Activate Notch Filter**:  
   Turn on software notch filters (50Hz/60Hz) to reduce interference, particularly useful in noisy classroom environments. The notch filter will be activated only on the SpikeRecorder application.
 
-![3](3.png)
+![3](3.1.jpeg)
 
 Figure 3. Screenshot of the SpikeStation Main Menu on the LCD
 
@@ -168,7 +168,7 @@ In addition to pre-configured modes, SpikeStation allows teachers and students t
 
 By experimenting with these settings, students can better understand how electrical signals behave in biological systems and explore the principles of bioelectricity in more detail.
 
-![4](4.png) ![5](5.png)
+![4](4.1.jpeg) ![5](5.1.jpeg)
 
 Figure 4. Custom settings menu (left side) and screen for the parameters entering (right side)
 
@@ -177,7 +177,7 @@ Figure 4. Custom settings menu (left side) and screen for the parameters enterin
 
 The user can turn on/off software 60Hz/50Hz notch filters by pressing the notch filter settings button (figure 3). The software notch filter means that the filter is turned on only in the SpikeRecorder application.
 
-![6](6.png) ![7](7.png)
+![6](6.1.jpeg) ![7](7.1.jpeg)
 
 Figure 5. Notch filter settings. Notch filter turned on at 60Hz (left) an Notch filter turned on at 50Hz (right) 
 
@@ -193,7 +193,7 @@ The stimulation settings in SpikeStation enable students to apply controlled ele
 
 These features allow students to simulate real-world applications of bioelectricity, making abstract concepts tangible and engaging.
 
-![8](8.png) ![9](9.png)
+![8](8.1.jpeg) ![9](9.1.jpeg)
 
 Figure 6. Stimulation settings menu for the monophasic (left side) and biphasic (right side) pulses
 

@@ -3,7 +3,7 @@ sidebar_position: 3
 sidebar_label: Game Controller
 ---
 
-![game controller](GameController.jpeg)
+![game controller](GameController1.jpeg)
 
 # Game Controller #
 :::warning

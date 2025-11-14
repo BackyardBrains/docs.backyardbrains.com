@@ -18,14 +18,14 @@ Reaction Timer is a great little extension device for your Human SpikerBox and a
 
 Now, let's get started by connecting the Reaction Timer to your Human SpikerBox and then connecting the Human SpikerBox to your PC or Mac using a USB cable, as shown below.
 
-![1](1.png)
+![1](1.1.jpeg)
 
 ### Steps on setting up the Reaction Timer
 
 1. **Connect the Reaction Timer**  
    Connect the Reaction Timer to the Human SpikerBox using the **Orange Expansion Cable**.  
 
-![2](2.png)
+![2](2.1.jpeg)
 
 2. **Hook an arm up to the Human SpikerBox!**  
    The two red clips attach to the stickers on the user's forearm, and the one black clip attaches to the sticker on the back of the user's hand.
@@ -46,9 +46,9 @@ By now, you may have noticed that there are multiple button settings on the Reac
 
 1. **Basic Setting (Out-of-the-box)**  
 
-![4](4.png)
+![4](4.1.jpeg)
 
-![5](5.png)
+![5](5.1.jpeg)
 
    - **Red Button:** When pressed, the middle LED flashes red, and Spike Recorder marks the event with a red marker labeled **2**.
 
@@ -60,7 +60,7 @@ By now, you may have noticed that there are multiple button settings on the Reac
 
 2. **Second Setting**  
 
-![8](8.png)
+![8](8.1.jpeg)
 
    This setting provides both visual and sound stimuli simultaneously.
    - **Green Button:** Two event markers appear: **1** (green light) and **3** (sound beep).
@@ -75,11 +75,11 @@ By now, you may have noticed that there are multiple button settings on the Reac
 
 3. **Third Setting**
 
-![9](9.png)
+![9](9.1.jpeg)
 
    - **Red Button:** Pressing it causes one of three red LEDs to flash randomly.
 
-![10](10.png)
+![10](10.1.jpeg)
 
    - **Green Button:** Pressing it causes one of three green LEDs to flash randomly.
 
@@ -91,7 +91,7 @@ By now, you may have noticed that there are multiple button settings on the Reac
 
 4. **Fourth Setting**  
 
-![13](13.png)
+![13](13.1.jpeg)
 
    Only sound beeps are used in this setting.
    - In Spike Recorder, only **Event Marker 3** (Green button) or **Event Marker 4** (Red button) will appear.

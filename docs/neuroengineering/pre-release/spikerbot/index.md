@@ -151,7 +151,7 @@ Kickstart your SpikerBot exploration with pre‑configured example brains:
 - **Circuits/Motifs:** Central Pattern Generator
 - **Behavior:** Explores autonomously and wanders without getting stuck.
 - **How it works:** This brain uses six spontaneously active ("bursting") neurons that fire at random intervals to activate the motors, creating a wandering movement. A separate, seventh quiet neuron is configured as a distance detector. When the robot gets too close to an object, this neuron strongly activates backward movement, allowing the robot to avoid getting stuck.
-- **Download:** [explorer@@@@@@1759956215207504.brain](./static/brains/explorer@@@@@@1759956215207504.brain) (save to `Documents/SpikerBot/text`)
+- **Download:** [explorer@@@@@@1763995152588134.brain](./static/brains/explorer@@@@@@1763995152588134.brain) (save to `Documents/SpikerBot/text`)
 
 ---
 
@@ -189,7 +189,7 @@ Kickstart your SpikerBot exploration with pre‑configured example brains:
 Recurrent Excitation: It contains two independent recurrent excitatory circuits (like in Lesson 2) that act as "memory" for an action. Circuit A is activated by a green-detecting sensor to make the robot turn left, while Circuit B is activated by a blue-detecting sensor to turn right.
 Lateral Inhibition: To force a "winner-take-all" decision, the circuits are wired to compete. Circuit A activates an inhibitory neuron that targets and silences Circuit B, and Circuit B does the reverse. This ensures only one of the two "turn" commands can be active at a time.
 Inhibitory "Stop" Signal: A third, inhibitory sensory neuron detects red and is wired to silence both recurrent circuits, stopping all movement.
-- **Download:** [leftorright@@@@@@1760105706777562.brain](./static/brains/leftorright@@@@@@1760105706777562.brain) (save to `Documents/SpikerBot/text`)
+- **Download:** [leftorright@@@@@@1763995928095740.brain](./static/brains/leftorright@@@@@@1763995928095740.brain) (save to `Documents/SpikerBot/text`)
 
 ---
 

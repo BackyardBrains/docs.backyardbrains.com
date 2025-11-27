@@ -1,11 +1,11 @@
 ---
 id: spikerbot
-sidebar_position: 2
+sidebar_position: 4
 sidebar_label: SpikerBot
-slug: "/neuroengineering/pre-release/spikerbot"
+slug: "/neuroengineering/spikerbot"
 ---
 
-# SpikerBot (Pre-Release)
+# SpikerBot
 
 SpikerBot combines a brain design studio with a palm-sized neurorobot, letting learners assemble spiking neural circuits into brain models that see, hear, move, blink, and beep.
 

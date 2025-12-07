@@ -15,6 +15,8 @@ SpikerBot combines a brain design studio with a palm-sized neurorobot, letting l
 
 A comprehensive **SpikerBot Educator Guide is [available here](./static/SpikerBotEducatorGuide2025.pdf)**.
 
+We are launching soon! **[Sign up](https://spikerbot.backyardbrains.com)** for early access
+
 ---
 
 ## Get the App

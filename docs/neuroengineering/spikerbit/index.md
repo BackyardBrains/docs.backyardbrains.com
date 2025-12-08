@@ -35,12 +35,6 @@ To record **body signals**, use the **orange Backyard Brains electrode cable** w
 Software manages **signal type selection**, allowing you to toggle between **EMG (muscle)**, **ECG (heart)**, or **EEG (brain)** modes **without needing physical switches**.
 
 ![NeuroBit Top](spikerbit_front11.jpeg)
-
-<sub>
-
-> **🛈 Note:** Due to a production error on the Spiker:bit, the power switch is reversed, the **“ON”** position turns the board **off**, and the **“OFF”** position turns it **on**. Our engineering team is aware of this silkscreen labeling issue, and it will be corrected in future batches.
-
-</sub>
 ---
 
 ### **Additional hardware components:**

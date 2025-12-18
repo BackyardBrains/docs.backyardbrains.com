@@ -99,25 +99,3 @@ Here's what the signal will look like once you're successful:
 > To fix this, **swap the two red alligator clips** on your wrists.
 
 ![ekgInverse](ECGBAAD.jpeg)
-
-
-## Note on  MicroPython and JavaScript Editors
-
-The MakeCode editor also supports text-based coding. You can toggle between 
-**Blocks**, **JavaScript**, and **MicroPython** using the tabs at the top of the editor.
-
-![Python_Java_Editor](EditorJava_Pyth_Updated.jpeg)
-
-For this demo project, the block code converted into MicroPython looks like this:
-
-![EKGPython](EKGPython_Updated.jpeg)
-
-and JavaScript looks like this:
-![EKGJava](EKGJava.jpeg)
-
-> **Caution:** Converting complex **text-based code** (JavaScript or MicroPython) back to the **Block editor** may not always work correctly and can cause **data loss**.  
-> It’s best to **save a separate copy** of your text-based code before switching modes.
-
-# Next Steps #
-
-This guide covers the fundamentals of reading EMG and ECG signals. These same principles can be applied to control motors, trigger sounds, or interface with other hardware. For more advanced applications and project ideas, please explore the projects section of our website.

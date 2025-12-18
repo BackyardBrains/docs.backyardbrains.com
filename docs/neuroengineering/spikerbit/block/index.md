@@ -99,3 +99,7 @@ Here's what the signal will look like once you're successful:
 > To fix this, **swap the two red alligator clips** on your wrists.
 
 ![ekgInverse](ECGBAAD.jpeg)
+
+## Using Text-Based Editors in MakeCode
+
+The MakeCode editor supports both visual and text-based programming. You can seamlessly toggle between **Blocks**, **JavaScript**, and **Python** using the tabs at the top of the editor. To learn more about transitioning to syntax-based coding, [**read about text-based programming here**](https://docs.backyardbrains.com/neuroengineering/spikerbit/python).

@@ -7,102 +7,254 @@ slug: /neuroengineering/spikerbit/projects/spiker-man
 ---
 # Spiker-Man Web Flinger # 
 
-![Web Flinger in Action](spikerman_title1.jpeg)
-
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+![Web Flinger in Action](SpikermanHero.jpg)
 
 *"Spiker-Man, Spiker-Man, does whatever a Spiker-Man can"*
 
-Make your very own string-slinging device that shares startling similarities to a certain Marvel / Sony superhero!
+Make your very own string-slinging device that shares startling similarities to a certain superhero!
 |     |       |
 |--------------|--------------
-| Inventor     | Chethan Magnan          
+| Inventor     | Alex Hatch & Chethan Magnan          
 | micro:bit IDE     | MakeCode / MicroPython
 | Best Location     | Makerspace 
 
-# Materials Needed #
-Step 1. Pick which materials you'd like to use  
-Step 2. Order them from Amazon, Seeed Studio, or your distributor of choice  
-- Loop Lasso / two wheels close to each other, [we used this one](https://looplaboratories.com/)  
-- A loop of string with no knots
+# 1. Materials Needed #
+Pick which materials you'd like to use and order them directly, from Amazon, or your distributor of choice.
+
+- Zip-String original: [we used this one](https://zipstring.com/products/zipstring) 
 - Micro:Bit and Spiker:bit
-- EMG Signal Cable
-- 3 Electrodes
-- A relay; we used [this one from Grove / Seeed Studio](https://www.seeedstudio.com/Grove-Relay.html) but any one-way electromechanical switch will do. 
+- EMG Signal Cable with 3 Electrodes
+- Wristband
+- 3D printed Parts or a DIY enclosure
+
+![Spiker-Man Parts](SpikermanParts.jpg)
 
 **Optional**
-- 3D printer / a case to hold both the Spiker:bit and Micro:Bit
-- Soldering iron, solder, protective gear
-- Arm Bands
-- Three small screws or bolts
-- Hand saw for dissecting the loop lasso
+- 8x Heat-Set M3 Nuts
+- 8x M3x8 Screws
 
-# Software #
-Step 3. Write Code for digital pins and connect your arm to the Spiker:bit via EMG  
-Step 4. Graph these results via the code line " serial.write_value("x", EMG) "  
-Step 5. Pick threshold based on serial output from EMG  
-Step 6. Add an if-else statement that controls whether you're digitally writing a 1 or 0   
-Step 7. Connect the output of EMG > Threshold to pin8 as a digital write
-    1 means the motors are on; 0 means the motors are off  
+3D-printed parts have both versions for heat setting and bolting on the wristband holders, or options with no hardware that may be less secure.
 
-This project is fairly simple from a software perspective: you'll pair the input from an EMG to a signal output. To make this work, we'll re-use code from the EMG lecture and pair it to a DigitalWrite command in an if-else statement. 
+# 2. Code #
+This project can be made much simpler, but we added logic to make the project more reliable.
 
-```py title="Spiker-Man Controller"
-threshold = 0
-EMG = 0
+On start, we initialize the muscle input, set the display to a web, and set up some variables.
+- Initial Trigger: a value that must be overcome to start web flinging
+- Sustained Trigger: lower than the initial trigger, the muscle must be relaxed below this point to stop the web
+- Current Muscle Power: set to 0 on startup
+- is Flinging: set to false on startup
+- Decay Rate: how quickly the signal from your muscle will drop! larger numbers make it easier to sustain a web fling!
+- Gain: an adjustable value to make the web flinger more or less sensitive.
+
+In the main forever code block, we run through the logic. The first IF statements set up our fast attack, but slow decay. if our tracked Current Muscle Power signal is below the strength of our flex, we update it to match, but if our flex is weaker than the tracked Current Muscle Power signal, then we only allow it to decay slowly using the Decay Rate constant. Tweaking the Decay Rate in our on start routine will make it faster or slower to release the web flingers button.
+
+We control the brightness of the LED screen to match our muscle activity, capping this at the maximum brightness of 255.
+
+The next main code block in our forever loop controls the servo that pushes the button on the Zip-String! We first check to see if our tracked Current Muscle Signal is greater than the Initial Trigger value. if it is, and we are not currently flinging our web, we send a single command to set the servo angle to hit the button. 
+
+You may need to adjust the servo angles for your particular setup to be successful in pressing, and releasing the button!
+
+When our tracked Current Muscle Signal is below the Sustained Trigger value, we send a single command to the servo to release the Zip-String button. 
+
+when you press the A and B buttons, you can increase or decrease how sensitive Spiker-man is to mucle signals. press B on the microbit to increment the threshold gain, making it harder to trigger our web flinger, and press A to make it easier. 
+
+<Tabs>
+  <TabItem value="BlockCode" label="Block Code" default>
+
+  ![MakeCode Blocks](SpikermanMakeCode.jpg)
+
+  </TabItem>
+
+  <TabItem value="Java" label="Java" >
+
+  ```java title="Spiker-Man Controller"
+  input.onButtonPressed(Button.A, function on_button_pressed_a() {
+    
+    if (Gain > 0) {
+        Gain += -1
+        led.setBrightness(200)
+        basic.showNumber(Gain)
+        basic.showLeds(`
+            # . # . #
+            . # # # .
+            # # . # #
+            . # # # .
+            # . # . #
+            `)
+    } else {
+        Gain = 0
+    }
+    
+})
+input.onButtonPressed(Button.B, function on_button_pressed_b() {
+    
+    if (Gain < 10) {
+        Gain += 1
+        led.setBrightness(200)
+        basic.showNumber(Gain)
+        basic.showLeds(`
+            # . # . #
+            . # # # .
+            # # . # #
+            . # # # .
+            # . # . #
+            `)
+    } else {
+        Gain = 10
+    }
+    
+})
+let Gain = 0
+spikerbit.startMuscleRecording()
+basic.showLeds(`
+    # . # . #
+    . # # # .
+    # # . # #
+    . # # # .
+    # . # . #
+    `)
+let Is_Flinging = false
+let CurrentMusclePower = 0
+let Initial_Trigger = 15
+let Sustained_Trigger = 10
+let Decay_Rate = -5
+Gain = 5
+basic.forever(function on_forever() {
+    
+    if (CurrentMusclePower <= spikerbit.musclePowerSignal()) {
+        CurrentMusclePower = spikerbit.musclePowerSignal()
+    } else if (CurrentMusclePower > 0) {
+        CurrentMusclePower += Decay_Rate
+    }
+    
+    led.setBrightness(Math.min(CurrentMusclePower, 255))
+    if (CurrentMusclePower > Initial_Trigger * Gain && Is_Flinging == false) {
+        pins.servoWritePin(AnalogPin.P0, 65)
+        Is_Flinging = true
+    }
+    
+    if (CurrentMusclePower < Sustained_Trigger * Gain && Is_Flinging == true) {
+        pins.servoWritePin(AnalogPin.P0, 75)
+        Is_Flinging = false
+    }
+    
+})
+
+  ```
+  </TabItem>
+
+  <TabItem value="Python" label="Python" >
+
+  ```py title="Spiker-Man Controller"
+  def on_button_pressed_a():
+    global Gain
+    if Gain > 0:
+        Gain += -1
+        led.set_brightness(200)
+        basic.show_number(Gain)
+        basic.show_leds("""
+            # . # . #
+            . # # # .
+            # # . # #
+            . # # # .
+            # . # . #
+            """)
+    else:
+        Gain = 0
+input.on_button_pressed(Button.A, on_button_pressed_a)
+
+def on_button_pressed_b():
+    global Gain
+    if Gain < 10:
+        Gain += 1
+        led.set_brightness(200)
+        basic.show_number(Gain)
+        basic.show_leds("""
+            # . # . #
+            . # # # .
+            # # . # #
+            . # # # .
+            # . # . #
+            """)
+    else:
+        Gain = 10
+input.on_button_pressed(Button.B, on_button_pressed_b)
+
+Gain = 0
+spikerbit.start_muscle_recording()
+basic.show_leds("""
+    # . # . #
+    . # # # .
+    # # . # #
+    . # # # .
+    # . # . #
+    """)
+Is_Flinging = False
+CurrentMusclePower = 0
+Initial_Trigger = 15
+Sustained_Trigger = 10
+Decay_Rate = -5
+Gain = 5
 
 def on_forever():
-    global threshold, EMG
-    threshold = 200
-    EMG = pins.analog_read_pin(AnalogPin.P0)
-    serial.write_value("x", EMG) #Can be commented out, used for confirming EMG works
-    if EMG >= threshold:
-        pins.digital_write_pin(DigitalPin.P8, 1) #Sling out string
+    global CurrentMusclePower, Is_Flinging
+    if CurrentMusclePower <= spikerbit.muscle_power_signal():
+        CurrentMusclePower = spikerbit.muscle_power_signal()
     else:
-        pins.digital_write_pin(DigitalPin.P8, 0)
+        if CurrentMusclePower > 0:
+            CurrentMusclePower += Decay_Rate
+    led.set_brightness(min(CurrentMusclePower, 255))
+    if CurrentMusclePower > Initial_Trigger * Gain and Is_Flinging == False:
+        pins.servo_write_pin(AnalogPin.P0, 65)
+        Is_Flinging = True
+    if CurrentMusclePower < Sustained_Trigger * Gain and Is_Flinging == True:
+        pins.servo_write_pin(AnalogPin.P0, 75)
+        Is_Flinging = False
 basic.forever(on_forever)
-```
-# Hardware - Electronic #
 
-Step 8. Build a small sample project by connecting the relay to both the 3V output and the resistor -> LED -> Ground  
-Step 9. Test that the EMG responds properly by noting the flashes  
+  ```
+  </TabItem>
+</Tabs>
 
-    This is where things get a bit more advanced. We'll first do a simple project to test that the code and relay work, and then get into the full project. 
+# 3. Hardware & Testing #
 
-    I would recommend attaching pin 8 ( the same Y pin we've used in the past for the servo-based projects ), to a relay, and the relay should connect 3v to a resistor and LED, which then connects to ground. If your device works, the LED should turn on when you flex and turn off when your hand is relaxed.
+Make sure you Print out the STL files, customize the source, or create your own mounts from scratch with crafting supplies!
 
-Step 10. Review how the components of a switch work  
-Step 11. Pick the best parts for the job 
-    ( in our case, the relay rather than the transistor or mechanical switch )  
+For the featured version, we use heat-press inserts and screws to lock in the accessories, but we recommend the screwless 3D prints here:
 
-    But I'm getting ahead of myself, how does a relay work? In a nutshell, it's an electromechanical switch. A mechanical switch, like a simple Single Pole Single Throw (SPST) switch, works great for connecting two wires but requires manual input. A transistor, in a very broad and simple manner, is an electrical switch that connects a collector and emitter wire via a base, which can be controlled by whether the base pin is high ( 1 ) or low ( 0 ) in digital electronics terminology. The relay functions as a bit of a mix - it's very reliable and is an actual switching motion ( you can hear the click as a small switch moves back and forth to bridge a wire ), but is much faster and can be controlled electronically. 
+No Screws:
 
-Step 12. Perform Loop lasso surgery by opening up the casing with a saw  
-Step 13. Desolder the physical switch  
-Step 14. Use a jumper wire to tap between the ground pad and the red motor wire on the loop lasso  
-Step 15. Confirm the motor and circuit works 
-    As when you tap these wires you should hear the motors whirr  
-Step 16. Solder a wire from the motor to the positive end of the relay  
-Step 17. Solder a wire from the ground pad on the board to the negative end of the relay  
+1. [Spikerbit Wrist Strap Mount](./SpikerBitWristCageScrewless.stl)  
+2. [Zip-String Wrist Mount](./ZipStringCageScrewless.stl)  
 
-    What I've done for my parts is to cut open the loop lasso, remove the physical switch, and solder a wire from the motors, into the relay, and then back into the ground. This means that when our code sends out a 1 to pin 8, the wires are shorted together and the motors receive current. When our code sends a zero, the relay disconnects the pins and the motors receive no current as the circuit is open.
+Screw Version:
 
-# Hardware - Mechanical #
+1. [Spikerbit Wrist Strap Mount with Heat-Set Nuts](./SpikerBitWristCageHeatSet.stl) or [Spikerbit Wrist Strap Mount with M3 Screw Holes](./SpikerBitWristCageM3SelfTap.stl)
+2. [Spikerbit Wrist Strap Bracket](./SpikerBitWristCageBracket.stl)    
+3. [Zip-String Wrist Mount with Heat-Set Nuts](./ZipStringCageHeatSet.stl)  
+4. [Zip-String Wrist Mount Bracket with Heat-Set Nuts](./ZipStringCageWristBracket.stl) 
 
-Step 18. Print out the STL files or design your own for printing  
+Source CAD:
 
-    We have a fantastic in-house designer / inventor / general-knows-how-to-do-it guy here at Backyard Brains, and he designed the case I'm using in the pictures above. You can find the STL files here as the following:
-1. [The Micro:Bit's Case](./MicrobitCase.stl)  
-2. [The Micro:Bit's lid](./MicrobitLid.stil)  
-3. [The Web Flinger's case](./StringCase.stl)  
-4. [The Web Flinger's lid](./StringLid.stl)  
+1. [Spikerbit Wrist Mount Assembly](./SpikerbitCageSource.stp)
+2. [Zip-String Wrist Mount Assembly](./ZipStringCageSource.stp)
 
-Step 19. Assemble the 3D prints, the string slinging component, the Micro:Bit and Spiker:bit combination, and the wires  
+For the screwless version, simply remove the support materials after printing and feed the wrist-strap through the open areas of the bands, and you are nearly there!
 
-    Putting the pieces into their 3D-printed cases will look like this:
-![Slinging part Construction](19A2C5F9.jpeg)
-![All together now](C71FD012.jpeg)
+If using heat set inserts, you will need to install these these before assembly.
 
-# Demos #
+Putting the pieces into the 3D-printed cases will look like this:
+![Wrist Mounted Brackets](SpikermanHardwareAssembly.jpg)
+![All Together](SpikermanAssembled.jpg)
 
-Step 20. Mess around with your newly created Spiker-Man Web Flinger!  
-![Pchew](play.jpeg)
+You are now just about ready to rock! First we need to make sure that the servo is positioned properly. Make sure that the servo can rotate in both directions, you will need to modify the two servo angles in the code to match the on and off position for the Zip-String button, and this will require some experimenation of values. Alternatively, you can simply install the servo without the 'horn', power on the microbit with the servo connected and code uploaded, and then install the servo horn in this position:
+![Ensure Servo Horn Position](TuneTheServoAngle.jpg)
+
+We recommend testing without the zip string in place first, and adding it in when you are confident. the Zip-String module is held in with friction, so it is all non destructive!
+
+Finally, plug in your electrodes, strap on the gadget, and you are ready to sling webs!
+![Chethan in Action!](play.jpeg)
+
+

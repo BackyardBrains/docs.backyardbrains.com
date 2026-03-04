@@ -69,9 +69,9 @@ when you press the A and B buttons, you can increase or decrease how sensitive S
 
   </TabItem>
 
-  <TabItem value="Java" label="Java" >
+  <TabItem value="JavaScript" label="JavaScript">
 
-  ```java title="Spiker-Man Controller"
+  ```ts title="Spiker-Man Controller"
   input.onButtonPressed(Button.A, function on_button_pressed_a() {
     
     if (Gain > 0) {

@@ -5,10 +5,12 @@ sidebar_label: Spiker-Man Web Flinger
 description: Make your very own string-slinging device
 slug: /neuroengineering/spikerbit/projects/spiker-man
 ---
-# Spiker-Man Web Flinger # 
-
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
+
+# Spiker-Man Web Flinger # 
+
+
 ![Web Flinger in Action](SpikermanHero.jpg)
 
 *"Spiker-Man, Spiker-Man, does whatever a Spiker-Man can"*

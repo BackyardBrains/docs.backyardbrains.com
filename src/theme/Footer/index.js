@@ -8,6 +8,7 @@ import React from 'react';
 import { useThemeConfig } from '@docusaurus/theme-common';
 function Footer() {
   const { footer } = useThemeConfig();
+  const currentYear = new Date().getFullYear();
   if (!footer) {
     return null;
   }
@@ -17,7 +18,7 @@ function Footer() {
         <div className="container">
           <div className="footer__bottom-inner">
             <div className="copyright">
-              <div className="copyright__text">Copyright © 2025 Backyard Brains | Protected under the Creative Common License</div>
+              <div className="copyright__text">Copyright © {currentYear} Backyard Brains | Protected under the Creative Common License</div>
               <ul className="creative-commons">
                 <li className="creative-common">
                   <a

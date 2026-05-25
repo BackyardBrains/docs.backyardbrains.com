@@ -7,6 +7,11 @@ slug: /retired/products/musclespikershieldbundle
 
 ## Muscle SpikerShield Bundle
 
+> This Arduino Muscle SpikerShield product is retired. The original Arduino code, schematics, and experiments remain below for archive users. For new classroom EMG, servo, robotics, and muscle-sensor projects, use the current Spiker:bit micro:bit EMG kit.
+>
+> [Current micro:bit EMG sensor kit: Spiker:bit product page](https://backyardbrains.com/products/spiker-bit)  
+> [Arduino EMG code archive and replacement guide](https://backyardbrains.com/pages/arduino-emg-muscle-sensor)
+
 #### $149.99
 
 
@@ -71,4 +76,3 @@ muscles.
   * 6x EMG Sticker Patch Electrodes for large muscles
   * 1x Adjustable Wooden Electrode Holder for small muscles
   * 1x Small bottle of Electrode Gel to be used with the small muscle electrode
-

@@ -5,6 +5,11 @@ slug: "/retired/experiments/muscleSpikerShield"
 ---
 
 
+> This Arduino Muscle SpikerShield product is retired. The original Arduino code, schematics, and experiments remain below for archive users. For new classroom EMG, servo, robotics, and muscle-sensor projects, use the current Spiker:bit micro:bit EMG kit.
+>
+> [Current micro:bit EMG sensor kit: Spiker:bit product page](https://backyardbrains.com/products/spiker-bit)  
+> [Arduino EMG code archive and replacement guide](https://backyardbrains.com/pages/arduino-emg-muscle-sensor)
+
 
 Now that you have your EMG Signal, can you use it to drive another system?
 Neural Engineering continues, using the popular Arduino microcontroller.

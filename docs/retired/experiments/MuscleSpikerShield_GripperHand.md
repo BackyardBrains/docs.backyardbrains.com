@@ -5,6 +5,11 @@ slug: "/retired/experiments/MuscleSpikerShield_GripperHand"
 ---
 
 
+> This Arduino Muscle SpikerShield product is retired. The original Arduino code, schematics, and experiments remain below for archive users. For new classroom EMG, servo, robotics, and muscle-sensor projects, use the current Spiker:bit micro:bit EMG kit.
+>
+> [Current micro:bit EMG sensor kit: Spiker:bit product page](https://backyardbrains.com/products/spiker-bit)  
+> [Arduino EMG code archive and replacement guide](https://backyardbrains.com/pages/arduino-emg-muscle-sensor)
+
 
 Make your first anthropomorphic Neuroprosthetic, in which you control a
 robotic claw with the signal of your muscles.
@@ -356,4 +361,3 @@ maybe we can start a friendship!
 * Try to design some reaction time experiments that could be done with your own body and with the Claw. How does the time differ? Does it depend on the sensory stimulus you're reacting to? 
      * Hook up people of differing levels of athleticism-does this affect the strength of the Claw? How about how long they can the grip? 
      * What are some other devices you could connect this to? What might be the limit to what or how many you could connect to? 
-

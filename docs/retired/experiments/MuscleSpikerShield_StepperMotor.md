@@ -5,6 +5,11 @@ slug: "/retired/experiments/MuscleSpikerShield_StepperMotor"
 ---
 
 
+> This Arduino Muscle SpikerShield product is retired. The original Arduino code, schematics, and experiments remain below for archive users. For new classroom EMG, servo, robotics, and muscle-sensor projects, use the current Spiker:bit micro:bit EMG kit.
+>
+> [Current micro:bit EMG sensor kit: Spiker:bit product page](https://backyardbrains.com/products/spiker-bit)  
+> [Arduino EMG code archive and replacement guide](https://backyardbrains.com/pages/arduino-emg-muscle-sensor)
+
 
 What biology beyond flagella has never achieved_ Rotary Motion with Axles.
 Here you will learn to make an interface with a Stepper Motor and enjoy making

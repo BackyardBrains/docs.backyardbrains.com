@@ -6,6 +6,11 @@ slug: /retired/products/musclespikershieldpro
 
 ## Muscle SpikerShield Pro
 
+> This Arduino Muscle SpikerShield product is retired. The original Arduino code, schematics, and experiments remain below for archive users. For new classroom EMG, servo, robotics, and muscle-sensor projects, use the current Spiker:bit micro:bit EMG kit.
+>
+> [Current micro:bit EMG sensor kit: Spiker:bit product page](https://backyardbrains.com/products/spiker-bit)  
+> [Arduino EMG code archive and replacement guide](https://backyardbrains.com/pages/arduino-emg-muscle-sensor)
+
 <img src="/img/spikershieldpro.webp" alt="SpikerShield Pro" width="1600" height="1200" loading="eager" fetchpriority="high" style={{ height: 'auto' }} />
 ![SpikerShield Pro Signals ](./img/spikershieldpro_signals.png)
 
@@ -86,4 +91,3 @@ first, which includes an Arduino. Then, you'll be ready for the upgrade.
   * 1x Backyard Brains 9v Battery, with a connector and leash
   * 6x Color-coded [Muscle Electrode Cable](./muscleElectrodeCable)
   * 200x [Large Electrode EMG Patches](./emglargeelectrodes)
-

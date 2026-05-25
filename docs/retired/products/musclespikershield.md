@@ -5,6 +5,11 @@ slug: /retired/products/musclespikershield
 ---
 # Muscle SpikerShield #
 
+> This Arduino Muscle SpikerShield product is retired. The original Arduino code, schematics, and experiments remain below for archive users. For new classroom EMG, servo, robotics, and muscle-sensor projects, use the current Spiker:bit micro:bit EMG kit.
+>
+> [Current micro:bit EMG sensor kit: Spiker:bit product page](https://backyardbrains.com/products/spiker-bit)  
+> [Arduino EMG code archive and replacement guide](https://backyardbrains.com/pages/arduino-emg-muscle-sensor)
+
 <img src="/img/diagram.webp" alt="" width="1536" height="1600" loading="eager" fetchpriority="high" style={{ height: 'auto' }} />
 
 The Muscle SpikerShield bundle provides a comprehensive set of tools for developing new interface concepts, studying neuroprosthetics, or utilizing muscle activity to create advanced human-machine interfaces. It comes paired with an Arduino UNO board, and motor controll circuitry so that it's functionality can be expanded via both software and hardware. 

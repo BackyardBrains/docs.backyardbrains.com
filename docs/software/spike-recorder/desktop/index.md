@@ -22,7 +22,7 @@ title: Windows/Mac/Linux
 2. Open **Spike Recorder**.
 3. If macOS asks for microphone or input permission, allow access. **Spike Recorder** needs input access when recording through the computer audio input.
 
-### 3.3 Install on Linux
+### Install on Linux
 
 1. Use the official [**Backyard Brains GitHub repository**](https://github.com/BackyardBrains/Spike-Recorder).
 2. Follow the build or run instructions for your Linux distribution.
@@ -70,7 +70,7 @@ ___
 
 This does not stop recording. It only changes whether the signal is played through the computer speaker.
 
-## Set Digital Filters
+## Set Filters
 
 A filter changes which parts of the signal are displayed or recorded.
 ___

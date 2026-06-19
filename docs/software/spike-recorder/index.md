@@ -24,8 +24,7 @@ Our devices detect small electrical signals from muscles, the heart, the brain, 
 5. [Android](https://play.google.com/store/apps/details?id=com.backyardbrains&hl=en)
 6. [Web (*in development*)](https://docs.backyardbrains.com/software/spike-recorder/web/)
 
-**Required hardware:** 
-You'll need a computer/laptop, phone, or tablet that can run **Spike Recorder**.
+**Required hardware:** You’ll need a computer/laptop, phone, or tablet that can run **Spike Recorder**. Before choosing which device to use for recording, first check compatibility and available connection types to make sure it will work with your setup.
 
 ---
 
@@ -34,7 +33,7 @@ You'll need a computer/laptop, phone, or tablet that can run **Spike Recorder**.
 Once you have **Spike Recorder** installed, the next step is connecting your Backyard Brains device and making sure your signal looks right.
 
 * **[Read about connection methods:](https://docs.backyardbrains.com/software/spike-recorder/connection-methods/)**
-  Learn the different ways to connect your device to Spike Recorder.
+  Learn the different ways to connect your device to **Spike Recorder**.
 
 * **[Troubleshoot Spike Recorder:](https://docs.backyardbrains.com/software/spike-recorder/troubleshooting/)**
   Having trouble seeing a signal, connecting your device, or getting clean recordings? Start here for common fixes.

@@ -56,7 +56,7 @@ Use the [**blue cable**](https://backyardbrains.com/products/laptop-cable) for c
 
 Plug the signal into the **microphone** input, **not** the headphone output.
 
-Setup in **Spike Recorder** is otherwise similar to using the green smartphone cable:
+Setup in **Spike Recorder** is otherwise similar to using the green “smartphone” cable:
 
 1. Open the **Config** screen.
 2. Select the correct **audio input channel**.

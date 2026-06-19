@@ -70,7 +70,7 @@ ___
 
 This does not stop recording. It only changes whether the signal is played through the computer speaker.
 
-## Set Filters
+## Filters Set Up
 
 A filter changes which parts of the signal are displayed or recorded.
 ___

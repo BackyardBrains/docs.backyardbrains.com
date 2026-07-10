@@ -13,7 +13,7 @@ Please Note: Requires at least one Cockroach
 :::
 
 
-[Android App](https://backyardbrains.com/products/files/RoboRoach-V1.3.apk)
+[Android App](https://cdn.shopify.com/s/files/1/0613/9684/4785/files/RoboRoach-V1.3.apk?v=1780420083)
 [iOS App](https://itunes.apple.com/us/app/byb-remote/id792968848?mt=8)
 
 ## Technical Specifications ##

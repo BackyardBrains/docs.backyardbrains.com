@@ -47,7 +47,7 @@ The Human-Human Interface kit includes:
 
 ## Getting Started
 
-[Download the HHI Quick-Start Guide](./HHIInsert.pdf)
+[Download the HHI Quick-Start Guide](./HHIInsert1.pdf)
 
 ## Setting Up the HHI
 

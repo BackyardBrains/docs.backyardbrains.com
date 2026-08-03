@@ -3,112 +3,198 @@ id: "human_human_interface"
 title: "Human-Human Interface"
 slug: "/human/human-human-interface"
 sidebar_position: 2
-sidebar_label: Human-Human Interface
+sidebar_label: "Human-Human Interface"
 ---
 
-# Human-Human Interface #
+# Human-Human Interface
 
-![image](HHITop1.jpeg)
-![image](HHISide1.jpeg)
+![Top view of the Human-Human Interface](HHITop1.jpeg)
 
-The Human-Human Interface (HHI) facilitates the transmission of electrical signals from one person's brain to another person's muscles, allowing control over their movements. By reading electrical signals from the brain and sending them to command another person's muscles. It includes everything needed for both "Master" (signal sender) and "Minion" (signal receiver) roles, as well as making EMG recordings for analisys, when connected to our [Spike Recorder App](../../software/SpikeRecorder/)
+![Side view of the Human-Human Interface](HHISide1.jpeg)
 
+The Human-Human Interface (HHI) records electrical activity from one person's muscles and uses that signal to trigger electrical stimulation of another person's muscles.
 
-## Getting started ##
+The person producing the muscle signal is called the **Controller** and connects to the port labeled **Master**. The person receiving the stimulation is called the **Minion** and connects to the port labeled **Minion**.
 
-[PDF instructions](./HHI_Insert.pdf)
+The HHI does not directly record brain activity. It records electromyography (EMG) signals produced when the Controller activates their muscles. These signals can also be recorded and analyzed using the [Spike Recorder app](../../software/spike-recorder/).
 
-### Seting up ###
-![electrode setup](GS1.1.jpeg)
-Master:
+## Kit Contents
 
-Insert the battery following the indicator on
-the inside of the battery comparment.
+The Human-Human Interface kit includes:
 
-Place two Master electrode pads on your lower inner forearm and a third pad on the back of your hand. Take the orange cable and connect its two red clips to the pads on your forearm.
+- 1 HHI device
+- 1 non-rechargeable 9 V battery
+- 1 orange EMG recording cable
+- 1 black stimulation cable
+- 50 EMG electrode patches
+- 4 square stimulation electrode patches
+- 1 USB cable
 
-Connect the remining black clip to the electrode on the back of your hand, to act as the ground. 
-Connect the orange cable into the orange jack on the HHI device, labeled “Master”. 
+## Safety
 
-Locate the Power/Intensity Knob on top of the HHI device. 
-Turn the knob clockwise until you hear a click, indicating the device is turned on. 
+:::warning Important Safety Information
 
-Now, when you flex your muscles, you should see the LED bar located on the front of the HHI device light up from green to red.
+- Both participants must understand the procedure and consent before beginning.
+- Turn the HHI off before attaching, removing, or repositioning stimulation electrodes.
+- Always begin with the stimulation intensity at its lowest setting.
+- Increase the intensity slowly and in small increments.
+- Stop immediately if stimulation becomes painful or uncomfortable.
+- Never place stimulation electrodes across the chest, throat, neck, or head.
+- Do not use damaged cables, electrodes, or equipment.
+- Use the HHI only as described in these instructions.
 
-The button on the back of the HHI device is for adjusting thresholds and sensitivity of the LED bar. The more you toggle and increase this setting from green to red, the more difficult it becomes for the signal to cross the threshold and stimulate the Minion.
+:::
 
-Minion:
+## Getting Started
 
-First, make sure the device is turned off and
-that the Master is connected.
+[Download the HHI Quick-Start Guide](./HHIInsert.pdf)
 
-Plug the black cable into the black jack (labeled “Minion”), opposite of the orange jack/cable. 
-Place two Minion electrodes on the inner forearm near the elbow of the Minion as see in the above photo. Connect the black plug to the lower electrode (nearest to the elbow) and the red plug to the upper electrode (nearest to your hand). 
+## Setting Up the HHI
 
-Now, turn on the device but leave the intensity low. The input user (the Master) should flex, making sure to light up the red LED to reach the threshold. Slowly turn up the intensity by turning the knob until the Minion’s arm moves. If you have trouble, try extending your forearm out at 90
-degrees, but be sure to keep it relaxed. The amount of movement is based on the stimulation current (controlled by turning the Power/Intensity Know) and the threshold (set with the button on the back of the HHI device). 
-If a user is not comfortable with the stimulation, do not increase the intensity. If stimulation is felt but movement is not achieved, try rearranging electrode placements.
+![Controller and Minion electrode setup](GS1.1.jpeg)
 
-### Sensitivity Button ###
+### Controller Setup
 
-The red button on the back of the HHI device can be pressed to control the level of muscle activity necessary to light up the red LEDs on the LED bar and stimulate the Minion
+The Controller produces the EMG signal that triggers stimulation.
 
-The default sensitivity setting is the first yellow LED on the LED bar, and each button press moves the LED one step to the right, before going back to the green, the easiest setting. 
-This difficulty adjustment allows for weaker EMG signals from muscles to be picked up by the HHI device, i.e., flexing your forearm versus moving one finger.
+1. Make sure the HHI is turned off.
+2. Insert the battery according to the polarity indicator inside the battery compartment.
+3. Place two EMG electrode patches on the lower inner forearm, over the forearm flexor muscles.
+4. Place a third EMG electrode patch on the back of the hand. This electrode acts as the ground.
+5. Connect the two red clips of the orange cable to the electrode patches on the forearm.
+6. Connect the black clip to the electrode patch on the back of the hand.
+7. Plug the orange cable into the orange jack labeled **Master** on the HHI device.
+8. Locate the Power/Intensity knob on the HHI. Turn the knob clockwise until you hear a click, indicating that the device is on.
+9. Ask the Controller to flex their forearm muscles. The LED bar on the front of the HHI should illuminate from green toward red as the strength of the EMG signal increases.
 
-### Battery Replacement ###
+A strong muscle contraction should illuminate the red LED. If it does not, check the electrode placement and adjust the sensitivity.
 
-The Power LED also indicates battery level. When the LED is green, the battery is still in working condition and is ready to be used.  
-When the LED is solid red the battery should be replaced, and the stimulation is disabled until a new battery is inserted.   
-The HHI device is NOT recommended for use with a rechargeable battery. ONLY use a 9V, non-rechargeable battery with the device.
+### Minion Setup
 
+The Minion receives electrical stimulation from the HHI.
 
-### Intensity Dial ###
+1. Turn off the HHI before connecting the Minion.
+2. Place two square stimulation electrodes across the ulnar nerve on the back of the forearm, just below the elbow, as shown in the setup image. Adjust the placement slightly if necessary.
+3. Attach the black and red connectors of the stimulation cable to the two square electrodes, following the orientation shown in the setup image.
+4. Plug the stimulation cable into the black jack labeled **Minion** on the HHI.
+5. Ask the Minion to keep their arm relaxed, with the elbow bent at approximately 90 degrees.
+6. Make sure the Power/Intensity knob is set to its lowest position. Turn on the HHI.
+7. Ask the Controller to flex strongly enough to illuminate the red LED and cross the stimulation threshold.
+8. Slowly turn the Power/Intensity knob clockwise until the Minion feels stimulation or their hand begins to move.
 
-The knob located on the right side of the HHI acts as both the ON/OFF switch and intensity control. The knob is in the OFF position when it is pointed toward the upper right of the HHI (see diagram). An audible click occurs when you turn the knob clockwise, indicating you are turning ON the device, and the power LED will turn green.  
-The same knob controls stimulation intensity. To increase the strength of stimulation sent to the Minion, turn the knob clockwise following the arrow direction printed around the knob.  
-DO NOT make this adjustment in large incrementsbefore testing the strength of stimulation using the EMG input from the Master.  
-To decrease strength of stimulation, turn the knob counterclockwise towards the OFF position.
+Increase the intensity only if the Minion is comfortable. If stimulation can be felt but no movement occurs, turn off the HHI and slightly reposition the stimulation electrodes before trying again.
 
-## Technical Specifications ##
+## Sensitivity Button
 
-|||
-|---|---|
-|Sampling Rate |10k|
-|Frequency Range |20Hz – 2kHz|
-|Power supply |9V battery|
-|Battery life |8 hr|
-|Communication |USB 2.0|
-|Electrical safety |Type BF|
-|Certification 	|IEC60601-1|
-|Output voltage |95V|
-|Stimulation current |0 - 30mA|
-|Stimulation type |Biphasic|
+The Sensitivity button on the back of the HHI controls how strong the Controller's EMG signal must be before stimulation is triggered.
 
-[Here is the technical schematic](https://backyardbrains.com/products/files/HHI2_Schematics_V1.01.pdf)
+The active sensitivity setting is displayed on the LED bar. Each press moves the setting one step. After the highest setting, the device cycles back to the green setting.
 
-## Experiments ##
+The green setting is the most sensitive and requires less muscle activity to trigger stimulation. Settings farther toward the red end of the LED bar require a stronger EMG signal.
 
-[How to take someone's free will?](https://backyardbrains.com/experiments/humanhumaninterface)\
-[Eavesdrop on electrical activity of your bigger muscles.](https://backyardbrains.com/experiments/\muscleSpikerbox)\
-[Take a peek into the smaller muscles’ action potentials.](https://backyardbrains.com/experiments/muscleactionpotential)\
-[Why do our muscles get tired or even fail after exercise?](https://backyardbrains.com/experiments/fatigue)\
-[Measure the rate of your muscle fatigue.](https://backyardbrains.com/experiments/rateoffatigue)
+Adjusting the sensitivity allows the HHI to detect signals produced by different movements, such as flexing the entire forearm or moving a single finger.
 
+## Intensity Dial
 
-## Troubleshooting ##
+The Power/Intensity knob functions as both the on/off switch and the stimulation-intensity control.
 
-Check out the [General Troubleshooting steps](../../index.md)
+The knob is in the **OFF** position when it points toward the upper-right corner of the HHI. Turning the knob clockwise produces an audible click, indicating that the device has turned on. The Power LED should turn green.
 
-When connecting to SpikeRecorder via USB, don't use the "select port" menu, instead just wait up to 30 seconds, and the board will connect automaitcaly.
+Continue turning the knob clockwise to increase the strength of the stimulation sent to the Minion.
 
-If you're able to read EMG, but the "minion" doesn't feel any stimulation:
+:::warning
 
-Let's try slowly increasing the intensity by using the dial on the board.
+Do not increase the intensity in large increments. Test the stimulation after every small adjustment.
 
-The stimulation will only happen while LED5(Picture below) is on, if it is on for too long(4-5seconds), it will turn off automatically, if this happens, turn the box off and on again. 
+:::
 
-![LED5](LED5.png)
+To decrease the stimulation strength, turn the knob counterclockwise toward the **OFF** position.
 
-We can also test the stimulation signal independently of the EMG signal (and not use up muscle patch electrodes in the process).
-Plug in the orange cable, clip all 3 alligator clips together, turn the box on, disconnect one of the red clips and you should see LED5 turn on.
+## Battery Replacement
+
+The Power LED also indicates the battery level:
+
+- **Green:** The battery is working and the HHI is ready to use.
+- **Solid red:** The battery should be replaced. Stimulation is disabled until a new battery is inserted.
+
+Use only a **9 V non-rechargeable battery**. Rechargeable batteries are not recommended for use with the HHI.
+
+## Recording with Spike Recorder
+
+The HHI can send the Controller's EMG signal to the [Spike Recorder app](../../software/spike-recorder/) through USB.
+
+1. Connect the HHI to the computer using the USB cable.
+2. Turn on the HHI.
+3. Open Spike Recorder.
+4. Allow up to 30 seconds for the device to be detected.
+5. Flex the Controller's forearm and confirm that an EMG waveform appears.
+
+If the HHI is not detected, disconnect and reconnect the USB cable, restart Spike Recorder, and review the Spike Recorder USB troubleshooting instructions.
+
+## Technical Specifications
+
+| Specification | Value |
+| --- | --- |
+| Maximum sampling rate | 10 kHz |
+| Number of recording channels | 1 |
+| Sample resolution | 10-bit |
+| Frequency range | 20 Hz-2 kHz |
+| Power supply | 9 V non-rechargeable battery |
+| Approximate battery life | 8 hours |
+| Communication | USB 2.0 |
+| Output voltage | 95 V |
+| Stimulation current | 0-30 mA |
+| Stimulation type | Biphasic |
+
+[Download the HHI Technical Schematic, Version 1.01](https://backyardbrains.com/products/files/HHI2_Schematics_V1.01.pdf)
+
+## Experiments
+
+- [Neural Signal Pathways: Human-to-Human Control](https://backyardbrains.com/pages/experiment-neural-signal-pathways-human-to-human-control)
+- [Does Controlling a Neuroprosthetic Require Movement?](https://backyardbrains.com/pages/experiment-does-controlling-a-neuroprosthetic-require-movement)
+- [Active vs. Passive Movements for Control Signals](https://backyardbrains.com/pages/experiment-do-motor-action-potentials-require-the-brain)
+
+## Troubleshooting
+
+Review the [General Troubleshooting Steps](../../index.md) before continuing.
+
+### The HHI Does Not Detect the Controller's EMG Signal
+
+- Confirm that the orange cable is fully inserted into the port labeled **Master**.
+- Confirm that both red clips are connected to the forearm electrodes.
+- Confirm that the black ground clip is connected to the electrode on the back of the hand.
+- Ask the Controller to relax and then flex the forearm firmly.
+- Reposition the forearm electrodes over the muscle if the LED bar does not respond.
+- Adjust the sensitivity using the button on the back of the HHI.
+
+### Spike Recorder Does Not Detect the HHI
+
+- Confirm that the HHI is turned on.
+- Disconnect and reconnect the USB cable.
+- Try a different USB port.
+- Allow up to 30 seconds for the device to connect.
+- Restart Spike Recorder.
+- Try a different data-capable USB cable.
+
+### The EMG Signal Is Visible, but the Minion Does Not Feel Stimulation
+
+1. Confirm that the black stimulation cable is fully inserted into the port labeled **Minion**.
+2. Confirm that the Controller's muscle contraction illuminates the red LED.
+3. Slowly increase the intensity using the Power/Intensity knob.
+4. Confirm that LED 5 is illuminated. Stimulation occurs only while LED 5 is on.
+5. If LED 5 remains on continuously for approximately 4-5 seconds, it will turn off automatically. Turn the HHI off and then on again before continuing.
+6. If stimulation is felt but no movement occurs, turn off the HHI and slightly reposition the stimulation electrodes.
+
+![Location of LED 5 on the HHI](LED5.png)
+
+### Testing the Trigger Signal Without EMG Electrodes
+
+You can test the trigger signal independently without using EMG electrode patches.
+
+1. Turn the HHI off and set the intensity to its lowest position.
+2. Plug the orange cable into the port labeled **Master**.
+3. Clip all three alligator clips together.
+4. Turn on the HHI.
+5. Disconnect one of the red clips.
+
+LED 5 should turn on. Avoid touching the exposed metal parts of the clips while performing this test.

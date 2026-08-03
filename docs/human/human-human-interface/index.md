@@ -156,10 +156,7 @@ If the HHI is not detected, disconnect and reconnect the USB cable, restart Spik
 
 ## Troubleshooting
 
-Review the [General Troubleshooting Steps](../../index.md) before continuing.
-
-### The HHI Does Not Detect the Controller's EMG Signal
-
+**The HHI Does Not Detect the Controller's EMG Signal**
 - Confirm that the orange cable is fully inserted into the port labeled **Master**.
 - Confirm that both red clips are connected to the forearm electrodes.
 - Confirm that the black ground clip is connected to the electrode on the back of the hand.
@@ -167,8 +164,7 @@ Review the [General Troubleshooting Steps](../../index.md) before continuing.
 - Reposition the forearm electrodes over the muscle if the LED bar does not respond.
 - Adjust the sensitivity using the button on the back of the HHI.
 
-### Spike Recorder Does Not Detect the HHI
-
+**Spike Recorder Does Not Detect the HHI**
 - Confirm that the HHI is turned on.
 - Disconnect and reconnect the USB cable.
 - Try a different USB port.
@@ -176,8 +172,7 @@ Review the [General Troubleshooting Steps](../../index.md) before continuing.
 - Restart Spike Recorder.
 - Try a different data-capable USB cable.
 
-### The EMG Signal Is Visible, but the Minion Does Not Feel Stimulation
-
+**The EMG Signal Is Visible, but the Minion Does Not Feel Stimulation**
 1. Confirm that the black stimulation cable is fully inserted into the port labeled **Minion**.
 2. Confirm that the Controller's muscle contraction illuminates the red LED.
 3. Slowly increase the intensity using the Power/Intensity knob.
@@ -187,10 +182,9 @@ Review the [General Troubleshooting Steps](../../index.md) before continuing.
 
 ![Location of LED 5 on the HHI](LED5.png)
 
-### Testing the Trigger Signal Without EMG Electrodes
+## Testing the Trigger Signal Without EMG Electrodes
 
 You can test the trigger signal independently without using EMG electrode patches.
-
 1. Turn the HHI off and set the intensity to its lowest position.
 2. Plug the orange cable into the port labeled **Master**.
 3. Clip all three alligator clips together.

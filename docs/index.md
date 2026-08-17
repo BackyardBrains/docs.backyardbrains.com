@@ -80,11 +80,11 @@ Record the electrical activity of your muscles. Measure your reaction time. List
 
 Each experiment begins with a question. What will you discover?
 
-### *How the Brain Works*
+### *How your Brain Works*
 
 ![Cover of the *How the Brain Works* experiment guide](https://backyardbrains.com/cdn/shop/files/HYBW_Book_product.png?v=1726089987)
 
-Our book, [*How the Brain Works*](https://backyardbrains.com/products/book-how-your-brain-works), brings our experiments together in one guided collection. It combines practical activities with the scientific background needed to understand what you are recording and why it matters.
+Our book, [*How your Brain Works*](https://backyardbrains.com/products/book-how-your-brain-works), brings our experiments together in one guided collection. It combines practical activities with the scientific background needed to understand what you are recording and why it matters.
 
 It is an excellent companion for classrooms, workshops, science fairs, and independent exploration.
 

@@ -48,13 +48,15 @@ The Backyard Brains logo consists of hand-drawn type and illustation. It has a p
 
 The full color version is the primary style to apply for white or branded color backgrounds. Depending on the format both horizontal and stacked versions are supplied.
 
-Download sizes:
-- [Small (150px)](./BYBLogoFull_150.png)
-- [Medium (512px)](./BYBLogoFull_512.png)
-- [Large (1024px)](./BYBLogoFull_1024.png)
-- [Extra Large (3000px)](./BYBLogoFull_3000.png)
-- [Horizontal vector (SVG)](./BYBLogoFull_Vector.svg)
-- [Stacked/vertical vector (SVG)](./BYBLogo_Vertical_Vector.svg)
+#### Download Images
+
+| Format / Size | Horizontal | Stacked / Vertical |
+|---------------|------------|--------------------|
+| Vector (SVG) | [Download](./BYBLogoFull_Vector.svg) | [Download](./BYBLogo_Vertical_Vector.svg) |
+| Small (150px PNG) | [Download](./BYBLogoFull_150.png) | [Download](./BYBLogo_Vertical_150.png) |
+| Medium (512px PNG) | [Download](./BYBLogoFull_512.png) | [Download](./BYBLogo_Vertical_512.png) |
+| Large (1024px PNG) | [Download](./BYBLogoFull_1024.png) | [Download](./BYBLogo_Vertical_1024.png) |
+| Extra Large (3000px PNG) | [Download](./BYBLogoFull_3000.png) | [Download](./BYBLogo_Vertical_3000.png) |
 
 ### Monochrome Logo
 
@@ -137,5 +139,3 @@ While each illustrator has their own unique style, they all follow the same guid
 - Anthropomorphized Insects & Creatures: Insects and animals often take on human-like traits or interact with technology, reinforcing neuroscience themes in a relatable, engaging way.
 - Hand-Written Text: Never use computer-generated text in illustrations.
 - Schematic & Geometric Elements: Some illustrations incorporate scientific diagram-like features without becoming rigid technical drawings.
-
-

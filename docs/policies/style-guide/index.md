@@ -53,6 +53,8 @@ Download sizes:
 - [Medium (512px)](./BYBLogoFull_512.png)
 - [Large (1024px)](./BYBLogoFull_1024.png)
 - [Extra Large (3000px)](./BYBLogoFull_3000.png)
+- [Horizontal vector (SVG)](./BYBLogoFull_Vector.svg)
+- [Stacked/vertical vector (SVG)](./BYBLogo_Vertical_Vector.svg)
 
 ### Monochrome Logo
 
@@ -135,6 +137,5 @@ While each illustrator has their own unique style, they all follow the same guid
 - Anthropomorphized Insects & Creatures: Insects and animals often take on human-like traits or interact with technology, reinforcing neuroscience themes in a relatable, engaging way.
 - Hand-Written Text: Never use computer-generated text in illustrations.
 - Schematic & Geometric Elements: Some illustrations incorporate scientific diagram-like features without becoming rigid technical drawings.
-
 
 

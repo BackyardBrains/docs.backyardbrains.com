@@ -1103,6 +1103,25 @@ tbody {
 
 
 
+/* Keep scalable brand artwork at comfortable preview sizes on the style guide. */
+.brandLogoPreview img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.brandLogoPreview--horizontal {
+  max-width: 512px;
+}
+
+.brandLogoPreview--stacked {
+  max-width: 322px;
+}
+
+.brandLogoPreview--icon {
+  max-width: 150px;
+}
+
 /* BYB Color Branding Guide Support Table */
 .supportTable {
     width: 100%;

@@ -42,8 +42,17 @@ Our mark is the product of months of working with and an artist and designer to 
 
 The Backyard Brains logo consists of hand-drawn type and illustation. It has a playful, humorous character that expresses science + fun.
 
+<div className="brandLogoPreview brandLogoPreview--horizontal">
+
 ![Backyard Brains Full Logo](./BYBLogoFull_Vector.svg)
+
+</div>
+
+<div className="brandLogoPreview brandLogoPreview--stacked">
+
 ![Backyard Brains Full Logo Vertical](./BYBLogo_Vertical_Vector.svg)
+
+</div>
 
 
 The full color version is the primary style to apply for white or branded color backgrounds. Depending on the format both horizontal and stacked versions are supplied.
@@ -75,7 +84,11 @@ The Backyard Brains logo is our primary brand identifier. To maintain its visual
 - Ensure the logo is clearly visible against its background
 
 ### Icon Only
+<div className="brandLogoPreview brandLogoPreview--icon">
+
 ![Backyard Brains Icon](./BYBLogo_Vector.svg)
+
+</div>
 
 The neuron icon can be used independently when space is limited or for social media avatars, favicons, and other compact applications.
 

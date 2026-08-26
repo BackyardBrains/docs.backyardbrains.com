@@ -75,11 +75,12 @@ The Backyard Brains logo is our primary brand identifier. To maintain its visual
 - Ensure the logo is clearly visible against its background
 
 ### Icon Only
-![Backyard Brains Icon](./BYBLogo_150.png)
+![Backyard Brains Icon](./BYBLogo_Vector.svg)
 
 The neuron icon can be used independently when space is limited or for social media avatars, favicons, and other compact applications.
 
 Download sizes:
+- [Vector (SVG)](./BYBLogo_Vector.svg)
 - [Small (150px)](./BYBLogo_150.png)
 - [Large (1200px)](./BYBLogo_1200.png)
 

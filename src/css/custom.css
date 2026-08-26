@@ -1110,16 +1110,27 @@ tbody {
   height: auto;
 }
 
+.brandLogoPreview p {
+  margin: 0;
+}
+
+.brandLogoPreviewRow {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 24px;
+}
+
 .brandLogoPreview--horizontal {
-  max-width: 512px;
+  max-width: 440px;
 }
 
 .brandLogoPreview--stacked {
-  max-width: 322px;
+  max-width: 250px;
 }
 
 .brandLogoPreview--icon {
-  max-width: 150px;
+  max-width: 120px;
 }
 
 /* BYB Color Branding Guide Support Table */

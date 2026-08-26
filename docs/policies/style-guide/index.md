@@ -42,6 +42,8 @@ Our mark is the product of months of working with and an artist and designer to 
 
 The Backyard Brains logo consists of hand-drawn type and illustation. It has a playful, humorous character that expresses science + fun.
 
+<div className="brandLogoPreviewRow">
+
 <div className="brandLogoPreview brandLogoPreview--horizontal">
 
 ![Backyard Brains Full Logo](./BYBLogoFull_Vector.svg)
@@ -51,6 +53,8 @@ The Backyard Brains logo consists of hand-drawn type and illustation. It has a p
 <div className="brandLogoPreview brandLogoPreview--stacked">
 
 ![Backyard Brains Full Logo Vertical](./BYBLogo_Vertical_Vector.svg)
+
+</div>
 
 </div>
 
@@ -92,10 +96,15 @@ The Backyard Brains logo is our primary brand identifier. To maintain its visual
 
 The neuron icon can be used independently when space is limited or for social media avatars, favicons, and other compact applications.
 
-Download sizes:
-- [Vector (SVG)](./BYBLogo_Vector.svg)
-- [Small (150px)](./BYBLogo_150.png)
-- [Large (1200px)](./BYBLogo_1200.png)
+#### Download Images
+
+| Format / Size | Icon |
+|---------------|------|
+| Vector (SVG) | [Download](./BYBLogo_Vector.svg) |
+| Small (150px PNG) | [Download](./BYBLogo_150.png) |
+| Medium (512px PNG) | [Download](./BYBLogo_512.png) |
+| Large (1024px PNG) | [Download](./BYBLogo_1024.png) |
+| Extra Large (3000px PNG) | [Download](./BYBLogo_3000.png) |
 
 
 ## Brand Colors

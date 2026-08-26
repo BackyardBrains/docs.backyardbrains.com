@@ -42,8 +42,8 @@ Our mark is the product of months of working with and an artist and designer to 
 
 The Backyard Brains logo consists of hand-drawn type and illustation. It has a playful, humorous character that expresses science + fun.
 
-![Backyard Brains Full Logo](./BYBLogoFull_512.png)
-![Backyard Brains Full Logo Vertical](./BYBLogo_Vertical_512.png)
+![Backyard Brains Full Logo](./BYBLogoFull_Vector.svg)
+![Backyard Brains Full Logo Vertical](./BYBLogo_Vertical_Vector.svg)
 
 
 The full color version is the primary style to apply for white or branded color backgrounds. Depending on the format both horizontal and stacked versions are supplied.

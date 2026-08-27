@@ -1133,8 +1133,46 @@ tbody {
   max-width: 120px;
 }
 
-.brandLogoPreview--monochrome {
-  max-width: 760px;
+.brandMonochromeDemo {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  width: min(760px, 100%);
+}
+
+.brandMonochromeDemo__panel {
+  display: flex;
+  min-width: 0;
+  aspect-ratio: 1 / 1;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  padding: 24px;
+}
+
+.brandMonochromeDemo__panel--dark {
+  background: rgb(12.57019%, 10.809326%, 10.543823%);
+}
+
+.brandMonochromeDemo__panel--light {
+  background: #ffffff;
+}
+
+.brandMonochromeDemo__horizontal {
+  display: block;
+  width: 94%;
+  height: auto;
+}
+
+.brandMonochromeDemo__stacked {
+  display: block;
+  width: 46%;
+  height: auto;
+}
+
+@media only screen and (max-width: 640px) {
+  .brandMonochromeDemo {
+    grid-template-columns: 1fr;
+  }
 }
 
 /* BYB Color Branding Guide Support Table */

@@ -5,6 +5,11 @@ sidebar_position: 1
 sidebar_label: "Style Guide"
 ---
 
+import HorizontalMonochromeWhite from './BYBLogoFull_Monochrome_White.svg';
+import StackedMonochromeWhite from './BYBLogo_Vertical_Monochrome_White.svg';
+import HorizontalMonochromeBlack from './BYBLogoFull_Monochrome_Black.svg';
+import StackedMonochromeBlack from './BYBLogo_Vertical_Monochrome_Black.svg';
+
 # Style Guide
 
 ## Overview
@@ -75,10 +80,15 @@ The full color version is the primary style to apply for white or branded color 
 
 The monotone version can be applied in instances where the logo needs to be a single color or material - such as a stamp or knocked out from a dark background.
 
-<div className="brandLogoPreview brandLogoPreview--monochrome">
-
-![Backyard Brains Monochrome Logo Variations](./byb_logo_monochrome.svg)
-
+<div className="brandMonochromeDemo">
+  <div className="brandMonochromeDemo__panel brandMonochromeDemo__panel--dark">
+    <HorizontalMonochromeWhite className="brandMonochromeDemo__horizontal" aria-label="White horizontal Backyard Brains logo on a dark background" />
+    <StackedMonochromeWhite className="brandMonochromeDemo__stacked" aria-label="White stacked Backyard Brains logo on a dark background" />
+  </div>
+  <div className="brandMonochromeDemo__panel brandMonochromeDemo__panel--light">
+    <HorizontalMonochromeBlack className="brandMonochromeDemo__horizontal" aria-label="Black horizontal Backyard Brains logo on a light background" />
+    <StackedMonochromeBlack className="brandMonochromeDemo__stacked" aria-label="Black stacked Backyard Brains logo on a light background" />
+  </div>
 </div>
 
 #### Download Images

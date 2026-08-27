@@ -75,10 +75,20 @@ The full color version is the primary style to apply for white or branded color 
 
 The monotone version can be applied in instances where the logo needs to be a single color or material - such as a stamp or knocked out from a dark background.
 
-![Backyard Brains Monochrome Logo](./byb_logo_monochrome.png)
+<div className="brandLogoPreview brandLogoPreview--monochrome">
 
+![Backyard Brains Monochrome Logo Variations](./byb_logo_monochrome.svg)
 
+</div>
 
+#### Download Images
+
+| Color Version | Horizontal | Stacked / Vertical | Icon |
+|---------------|------------|--------------------|------|
+| Black for light backgrounds | [Download SVG](./BYBLogoFull_Monochrome_Black.svg) | [Download SVG](./BYBLogo_Vertical_Monochrome_Black.svg) | [Download SVG](./BYBLogo_Monochrome_Black.svg) |
+| White on approved dark background | [Download SVG](./BYBLogoFull_Monochrome_White.svg) | [Download SVG](./BYBLogo_Vertical_Monochrome_White.svg) | [Download SVG](./BYBLogo_Monochrome_White.svg) |
+
+[Download the monochrome comparison demo (SVG)](./byb_logo_monochrome.svg)
 
 The Backyard Brains logo is our primary brand identifier. To maintain its visual impact and legibility:
 

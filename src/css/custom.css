@@ -1133,6 +1133,10 @@ tbody {
   max-width: 120px;
 }
 
+.brandLogoPreview--monochrome {
+  max-width: 760px;
+}
+
 /* BYB Color Branding Guide Support Table */
 .supportTable {
     width: 100%;

@@ -185,119 +185,27 @@ The neuron icon can be used independently when space is limited or for social me
 The logo needs room to remain recognizable. Keep other text, images, and page edges outside the clear-space area.
 
 <div className="brandSpecGrid">
-
-<div className="brandSpecCard">
-
-<div className="brandSpecCard__visual brandSpecCard__visual--clear">
-
-![Horizontal logo with clear space equal to the height of the B](./BYBLogoFull_Vector.svg)
-
-<span className="brandSpecCard__bUnit" aria-hidden="true">B</span>
-<span className="brandSpecCard__measure">B-height clear space</span>
-
-</div>
-
-<span className="brandSpecCard__label">Clear space</span>
-<strong>1 × “B” height</strong>
-<span>On every side of the logo</span>
-
-</div>
-
-<div className="brandSpecCard">
-
-<div className="brandSpecCard__visual brandSpecCard__visual--horizontal">
-
-![Horizontal Backyard Brains logo at its minimum print size](./BYBLogoFull_Vector.svg)
-
-<span className="brandSpecCard__measure">↔ 1 in / 25.4 mm minimum ↔</span>
-
-</div>
-
-<span className="brandSpecCard__label">Horizontal logo</span>
-<strong>1 in / 25.4 mm wide</strong>
-<span>Minimum print size</span>
-
-</div>
-
-<div className="brandSpecCard">
-
-<div className="brandSpecCard__visual brandSpecCard__visual--stacked">
-
-![Stacked Backyard Brains logo at its minimum print size](./BYBLogo_Vertical_Vector.svg)
-
-<span className="brandSpecCard__measure">↔ 0.5 in / 12.7 mm minimum ↔</span>
-
-</div>
-
-<span className="brandSpecCard__label">Stacked logo</span>
-<strong>0.5 in / 12.7 mm wide</strong>
-<span>Minimum print size</span>
-
-</div>
+  <div className="brandSpecCard">
+    <span className="brandSpecCard__label">Clear space</span>
+    <strong>1 × “B” height</strong>
+    <span>On every side of the logo</span>
+  </div>
+  <div className="brandSpecCard">
+    <span className="brandSpecCard__label">Horizontal logo</span>
+    <strong>1 in / 25.4 mm wide</strong>
+    <span>Minimum print size</span>
+  </div>
+  <div className="brandSpecCard">
+    <span className="brandSpecCard__label">Stacked logo</span>
+    <strong>0.5 in / 12.7 mm wide</strong>
+    <span>Minimum print size</span>
+  </div>
 
 </div>
 
 For digital work, choose the horizontal or stacked version only when every letter remains legible. Use the icon at smaller sizes.
 
 ### Logo Use and Misuse
-
-Keep the artwork intact. These examples show common changes that weaken legibility and recognition.
-
-<div className="brandMisuseGrid">
-
-<div className="brandMisuseCard">
-
-<div className="brandMisuseCard__visual brandMisuseCard__visual--stretch">
-
-![Incorrectly stretched Backyard Brains logo](./BYBLogoFull_Vector.svg)
-
-</div>
-
-<strong>Don't stretch</strong>
-<span>Keep the original proportions.</span>
-
-</div>
-
-<div className="brandMisuseCard">
-
-<div className="brandMisuseCard__visual brandMisuseCard__visual--rotate">
-
-![Incorrectly rotated Backyard Brains logo](./BYBLogoFull_Vector.svg)
-
-</div>
-
-<strong>Don't rotate</strong>
-<span>Keep the supplied orientation.</span>
-
-</div>
-
-<div className="brandMisuseCard">
-
-<div className="brandMisuseCard__visual brandMisuseCard__visual--contrast">
-
-![Backyard Brains logo with insufficient background contrast](./BYBLogoFull_Vector.svg)
-
-</div>
-
-<strong>Don't lose contrast</strong>
-<span>Choose a clear, approved background.</span>
-
-</div>
-
-<div className="brandMisuseCard">
-
-<div className="brandMisuseCard__visual brandMisuseCard__visual--effects">
-
-![Backyard Brains logo with an incorrect drop-shadow effect](./BYBLogoFull_Vector.svg)
-
-</div>
-
-<strong>Don't add effects</strong>
-<span>No shadows, blurs, or outlines.</span>
-
-</div>
-
-</div>
 
 <div className="brandGuardrailGrid">
   <div className="brandGuardrailCard brandGuardrailCard--use">

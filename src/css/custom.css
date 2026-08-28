@@ -1188,12 +1188,106 @@ tbody {
   display: flex;
   min-width: 0;
   flex-direction: column;
-  gap: 4px;
+  gap: 6px;
   padding: 16px 18px;
   border: 1px solid var(--ifm-color-emphasis-300);
   border-left: 4px solid var(--ifm-color-primary);
   border-radius: 6px;
   background: var(--ifm-background-surface-color);
+}
+
+.brandSpecCard__visual {
+  position: relative;
+  display: flex;
+  min-height: 150px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 8px;
+  padding: 18px;
+  overflow: hidden;
+  border-radius: 5px;
+  background: var(--ifm-color-emphasis-100);
+}
+
+.brandSpecCard__visual p {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+}
+
+.brandSpecCard__visual img {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  max-height: 92px;
+}
+
+.brandSpecCard__visual--clear {
+  padding: 30px 34px 26px;
+}
+
+.brandSpecCard__visual--clear::before {
+  position: absolute;
+  inset: 12px;
+  border: 1px dashed var(--ifm-color-primary);
+  border-radius: 3px;
+  content: '';
+  pointer-events: none;
+}
+
+.brandSpecCard__visual--clear img {
+  max-width: 84%;
+}
+
+.brandSpecCard__bUnit {
+  position: absolute;
+  top: 18px;
+  left: 15px;
+  display: grid;
+  width: 22px;
+  height: 22px;
+  place-items: center;
+  border-top: 1px solid var(--ifm-color-primary);
+  border-bottom: 1px solid var(--ifm-color-primary);
+  background: var(--ifm-background-surface-color);
+  color: var(--ifm-color-primary-darkest);
+  font-size: 0.8rem;
+  font-weight: 800;
+  line-height: 1;
+}
+
+.brandSpecCard__visual--horizontal img {
+  max-width: 88%;
+}
+
+.brandSpecCard__visual--stacked img {
+  max-width: 48%;
+  max-height: 100px;
+}
+
+.brandSpecCard__measure {
+  z-index: 1;
+  display: flex;
+  width: 100%;
+  align-items: center;
+  gap: 6px;
+  margin-top: 10px;
+  color: var(--ifm-color-primary-darkest);
+  font-size: 0.72rem;
+  font-weight: 700;
+  line-height: 1.2;
+  text-align: center;
+}
+
+.brandSpecCard__measure::before,
+.brandSpecCard__measure::after {
+  flex: 1;
+  border-top: 1px solid var(--ifm-color-primary);
+  content: '';
 }
 
 .brandSpecCard__label,
@@ -1217,6 +1311,95 @@ tbody {
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 16px;
   margin: 18px 0 28px;
+}
+
+.brandMisuseGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+  gap: 12px;
+  margin: 18px 0 24px;
+}
+
+.brandMisuseCard {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  gap: 4px;
+  padding: 12px;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 7px;
+  background: var(--ifm-background-surface-color);
+}
+
+.brandMisuseCard__visual {
+  position: relative;
+  display: flex;
+  height: 118px;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 6px;
+  overflow: hidden;
+  border-radius: 4px;
+  background: var(--ifm-color-emphasis-100);
+}
+
+.brandMisuseCard__visual::after {
+  position: absolute;
+  top: 6px;
+  right: 7px;
+  display: grid;
+  width: 24px;
+  height: 24px;
+  place-items: center;
+  border: 1px solid var(--ifm-color-primary);
+  border-radius: 50%;
+  background: var(--ifm-background-surface-color);
+  color: var(--ifm-color-primary-darkest);
+  content: '×';
+  font-size: 1.25rem;
+  font-weight: 800;
+  line-height: 1;
+}
+
+.brandMisuseCard__visual p {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+}
+
+.brandMisuseCard__visual img {
+  display: block;
+  width: 80%;
+  height: auto;
+}
+
+.brandMisuseCard__visual--stretch img {
+  transform: scaleX(1.32);
+}
+
+.brandMisuseCard__visual--rotate img {
+  width: 72%;
+  transform: rotate(-12deg);
+}
+
+.brandMisuseCard__visual--contrast {
+  background: var(--ifm-color-primary);
+}
+
+.brandMisuseCard__visual--contrast img {
+  opacity: 0.48;
+}
+
+.brandMisuseCard__visual--effects img {
+  filter: drop-shadow(8px 8px 2px rgb(0 0 0 / 45%));
+}
+
+.brandMisuseCard > span {
+  color: var(--ifm-color-emphasis-700);
+  font-size: 0.82rem;
+  line-height: 1.35;
 }
 
 .brandGuardrailCard {
@@ -1279,7 +1462,8 @@ tbody {
 }
 
 [data-theme='dark'] .brandSpecCard__label,
-[data-theme='dark'] .brandTypographyCard__eyebrow {
+[data-theme='dark'] .brandTypographyCard__eyebrow,
+[data-theme='dark'] .brandSpecCard__measure {
   color: var(--ifm-color-primary-light);
 }
 

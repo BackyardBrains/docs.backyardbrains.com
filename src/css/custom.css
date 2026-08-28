@@ -1175,8 +1175,120 @@ tbody {
   color: var(--ifm-color-primary-light);
 }
 
+.brandSpecGrid,
+.brandTypographyGrid,
+.brandLayoutChecklist {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
+  margin: 20px 0 24px;
+}
+
+.brandSpecCard {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  gap: 4px;
+  padding: 16px 18px;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-left: 4px solid var(--ifm-color-primary);
+  border-radius: 6px;
+  background: var(--ifm-background-surface-color);
+}
+
+.brandSpecCard__label,
+.brandTypographyCard__eyebrow {
+  color: var(--ifm-color-primary-darkest);
+  font-size: 0.82rem;
+  font-weight: 700;
+}
+
+.brandSpecCard strong {
+  font-size: 1.15rem;
+}
+
+.brandSpecCard > span:last-child {
+  color: var(--ifm-color-emphasis-700);
+  font-size: 0.9rem;
+}
+
+.brandGuardrailGrid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+  margin: 18px 0 28px;
+}
+
+.brandGuardrailCard {
+  min-width: 0;
+  padding: 18px 20px;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-top: 4px solid var(--ifm-color-primary);
+  border-radius: 8px;
+  background: var(--ifm-background-surface-color);
+}
+
+.brandGuardrailCard--avoid {
+  border-top-color: var(--ifm-color-emphasis-700);
+}
+
+.brandGuardrailCard h4 {
+  margin: 0 0 10px;
+  font-size: 1.05rem;
+}
+
+.brandGuardrailCard ul {
+  margin-bottom: 0;
+  padding-left: 1.25rem;
+}
+
+.brandTypographyCard,
+.brandLayoutPrinciple {
+  min-width: 0;
+  padding: 20px;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 8px;
+  background: var(--ifm-background-surface-color);
+  box-shadow: 0 6px 18px rgb(0 0 0 / 6%);
+}
+
+.brandTypographyCard h3,
+.brandLayoutPrinciple h3 {
+  margin: 6px 0 10px;
+  font-size: 1.2rem;
+}
+
+.brandTypographyCard p,
+.brandLayoutPrinciple p {
+  margin-bottom: 0;
+}
+
+.brandLayoutPrinciple {
+  border-top: 4px solid var(--ifm-color-primary);
+}
+
+.brandLayoutPrinciple__number {
+  display: inline-grid;
+  width: 30px;
+  height: 30px;
+  place-items: center;
+  border-radius: 50%;
+  background: var(--ifm-color-primary);
+  color: #ffffff;
+  font-weight: 700;
+}
+
+[data-theme='dark'] .brandSpecCard__label,
+[data-theme='dark'] .brandTypographyCard__eyebrow {
+  color: var(--ifm-color-primary-light);
+}
+
 @media only screen and (max-width: 996px) {
-  .brandVoiceGrid {
+  .brandVoiceGrid,
+  .brandSpecGrid,
+  .brandTypographyGrid,
+  .brandLayoutChecklist,
+  .brandGuardrailGrid {
     grid-template-columns: 1fr;
   }
 

@@ -5,11 +5,6 @@ sidebar_position: 1
 sidebar_label: "Style Guide"
 ---
 
-import HorizontalMonochromeWhite from './BYBLogoFull_Monochrome_White.svg';
-import StackedMonochromeWhite from './BYBLogo_Vertical_Monochrome_White.svg';
-import HorizontalMonochromeBlack from './BYBLogoFull_Monochrome_Black.svg';
-import StackedMonochromeBlack from './BYBLogo_Vertical_Monochrome_Black.svg';
-
 # Style Guide
 
 ## Overview
@@ -81,22 +76,47 @@ The full color version is the primary style to apply for white or branded color 
 The monotone version can be applied in instances where the logo needs to be a single color or material - such as a stamp or knocked out from a dark background.
 
 <div className="brandMonochromeDemo">
-  <div className="brandMonochromeDemo__panel brandMonochromeDemo__panel--dark">
-    <HorizontalMonochromeWhite className="brandMonochromeDemo__horizontal" aria-label="White horizontal Backyard Brains logo on a dark background" />
-    <StackedMonochromeWhite className="brandMonochromeDemo__stacked" aria-label="White stacked Backyard Brains logo on a dark background" />
-  </div>
-  <div className="brandMonochromeDemo__panel brandMonochromeDemo__panel--light">
-    <HorizontalMonochromeBlack className="brandMonochromeDemo__horizontal" aria-label="Black horizontal Backyard Brains logo on a light background" />
-    <StackedMonochromeBlack className="brandMonochromeDemo__stacked" aria-label="Black stacked Backyard Brains logo on a light background" />
-  </div>
+
+<div className="brandMonochromeDemo__panel brandMonochromeDemo__panel--dark">
+
+<div className="brandMonochromeDemo__horizontal">
+
+![White horizontal Backyard Brains logo on a dark background](./BYBLogoFull_Monochrome_White.svg)
+
+</div>
+
+<div className="brandMonochromeDemo__stacked">
+
+![White stacked Backyard Brains logo on a dark background](./BYBLogo_Vertical_Monochrome_White.svg)
+
+</div>
+
+</div>
+
+<div className="brandMonochromeDemo__panel brandMonochromeDemo__panel--light">
+
+<div className="brandMonochromeDemo__horizontal">
+
+![Black horizontal Backyard Brains logo on a light background](./BYBLogoFull_Monochrome_Black.svg)
+
+</div>
+
+<div className="brandMonochromeDemo__stacked">
+
+![Black stacked Backyard Brains logo on a light background](./BYBLogo_Vertical_Monochrome_Black.svg)
+
+</div>
+
+</div>
+
 </div>
 
 #### Download Images
 
 | Color Version | Horizontal | Stacked / Vertical | Icon |
 |---------------|------------|--------------------|------|
-| Black for light backgrounds | [Download SVG](./BYBLogoFull_Monochrome_Black.svg) | [Download SVG](./BYBLogo_Vertical_Monochrome_Black.svg) | [Download SVG](./BYBLogo_Monochrome_Black.svg) |
-| White on approved dark background | [Download SVG](./BYBLogoFull_Monochrome_White.svg) | [Download SVG](./BYBLogo_Vertical_Monochrome_White.svg) | [Download SVG](./BYBLogo_Monochrome_White.svg) |
+| <span className="brandColorChip brandColorChip--black">Black</span> for light backgrounds | [Download SVG](./BYBLogoFull_Monochrome_Black.svg) | [Download SVG](./BYBLogo_Vertical_Monochrome_Black.svg) | [Download SVG](./BYBLogo_Monochrome_Black.svg) |
+| <span className="brandColorChip brandColorChip--white">White</span> on approved dark background | [Download SVG](./BYBLogoFull_Monochrome_White.svg) | [Download SVG](./BYBLogo_Vertical_Monochrome_White.svg) | [Download SVG](./BYBLogo_Monochrome_White.svg) |
 
 [Download the monochrome comparison demo (SVG)](./byb_logo_monochrome.svg)
 

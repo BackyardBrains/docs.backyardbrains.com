@@ -1158,15 +1158,47 @@ tbody {
 }
 
 .brandMonochromeDemo__horizontal {
-  display: block;
   width: 94%;
-  height: auto;
 }
 
 .brandMonochromeDemo__stacked {
-  display: block;
   width: 46%;
+}
+
+.brandMonochromeDemo__horizontal p,
+.brandMonochromeDemo__stacked p {
+  margin: 0;
+}
+
+.brandMonochromeDemo__horizontal img,
+.brandMonochromeDemo__stacked img {
+  display: block;
+  width: 100%;
   height: auto;
+}
+
+.brandColorChip {
+  display: inline-block;
+  min-width: 4.25rem;
+  margin-right: 0.35rem;
+  padding: 0.1rem 0.45rem;
+  border-radius: 4px;
+  font-weight: 700;
+  line-height: 1.35;
+  text-align: center;
+}
+
+.brandColorChip--black {
+  border: 2px solid #000000;
+  background: #ffffff;
+  color: #000000;
+}
+
+.brandColorChip--white {
+  border: 2px solid #ffffff;
+  background: rgb(12.57019%, 10.809326%, 10.543823%);
+  box-shadow: 0 0 0 1px rgb(12.57019%, 10.809326%, 10.543823%);
+  color: #ffffff;
 }
 
 @media only screen and (max-width: 640px) {

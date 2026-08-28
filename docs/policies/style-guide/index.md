@@ -186,16 +186,31 @@ The logo needs room to remain recognizable. Keep other text, images, and page ed
 
 <div className="brandSpecGrid">
   <div className="brandSpecCard">
+    <div className="brandSpecCard__sourceArt">
+
+![Original clear-space diagram from the Backyard Brains brand guide](./logo-clear-space-source.png)
+
+    </div>
     <span className="brandSpecCard__label">Clear space</span>
-    <strong>1 × “B” height</strong>
+    <strong>1 × “I” height</strong>
     <span>On every side of the logo</span>
   </div>
   <div className="brandSpecCard">
+    <div className="brandSpecCard__sourceArt">
+
+![Original horizontal logo minimum-size diagram](./logo-minimum-horizontal-source.png)
+
+    </div>
     <span className="brandSpecCard__label">Horizontal logo</span>
     <strong>1 in / 25.4 mm wide</strong>
     <span>Minimum print size</span>
   </div>
   <div className="brandSpecCard">
+    <div className="brandSpecCard__sourceArt">
+
+![Original stacked logo minimum-size diagram](./logo-minimum-stacked-source.png)
+
+    </div>
     <span className="brandSpecCard__label">Stacked logo</span>
     <strong>0.5 in / 12.7 mm wide</strong>
     <span>Minimum print size</span>
@@ -226,6 +241,70 @@ For digital work, choose the horizontal or stacked version only when every lette
       <li>Drop shadows, blurs, outlines, gradients, or unapproved colors</li>
     </ul>
   </div>
+</div>
+
+#### Examples of What Not to Do
+
+These illustrations come directly from the original Backyard Brains brand guide.
+
+<div className="brandSourceExampleGrid">
+
+<div className="brandSourceExampleCard">
+
+![Logo elements incorrectly rearranged](./logo-misuse-rearrange-source.png)
+
+<strong>Don't rearrange elements</strong>
+
+</div>
+
+<div className="brandSourceExampleCard">
+
+![Logo elements incorrectly repositioned](./logo-misuse-reposition-source.png)
+
+<strong>Don't reposition elements</strong>
+
+</div>
+
+<div className="brandSourceExampleCard brandSourceExampleCard--wide">
+
+![Logo lettering and icon incorrectly set on one line](./logo-misuse-one-line-source.png)
+
+<strong>Don't set the logo on one line</strong>
+
+</div>
+
+<div className="brandSourceExampleCard">
+
+![Logo incorrectly recreated with different fonts](./logo-misuse-font-source.png)
+
+<strong>Don't alter the fonts</strong>
+
+</div>
+
+<div className="brandSourceExampleCard">
+
+![Logo incorrectly stretched and distorted](./logo-misuse-stretch-source.png)
+
+<strong>Don't stretch or distort</strong>
+
+</div>
+
+<div className="brandSourceExampleCard">
+
+![Logo displayed in unapproved colors](./logo-misuse-color-source.png)
+
+<strong>Don't change the colors</strong>
+
+</div>
+
+<div className="brandSourceExampleCard">
+
+![Logo displayed with an incorrect drop shadow](./logo-misuse-effects-source.png)
+
+<strong>Don't add effects</strong>
+
+</div>
+
 </div>
 
 

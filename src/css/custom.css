@@ -1196,6 +1196,35 @@ tbody {
   background: var(--ifm-background-surface-color);
 }
 
+.brandSpecCard__sourceArt {
+  display: flex;
+  height: 168px;
+  align-items: center;
+  justify-content: center;
+  margin: -4px -6px 8px;
+  padding: 10px;
+  overflow: hidden;
+  border-radius: 5px;
+  background: #ffffff;
+}
+
+.brandSpecCard__sourceArt p {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+}
+
+.brandSpecCard__sourceArt img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  object-fit: contain;
+}
+
 .brandSpecCard__label,
 .brandTypographyCard__eyebrow {
   color: var(--ifm-color-primary-darkest);
@@ -1240,6 +1269,53 @@ tbody {
 .brandGuardrailCard ul {
   margin-bottom: 0;
   padding-left: 1.25rem;
+}
+
+.brandSourceExampleGrid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 14px;
+  margin: 18px 0 30px;
+}
+
+.brandSourceExampleCard {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  gap: 10px;
+  padding: 12px;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 7px;
+  background: var(--ifm-background-surface-color);
+}
+
+.brandSourceExampleCard--wide {
+  grid-column: span 2;
+}
+
+.brandSourceExampleCard p {
+  display: flex;
+  height: 150px;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding: 6px;
+  overflow: hidden;
+  border-radius: 4px;
+  background: #ffffff;
+}
+
+.brandSourceExampleCard img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  object-fit: contain;
+}
+
+.brandSourceExampleCard strong {
+  font-size: 0.86rem;
+  line-height: 1.35;
 }
 
 .brandTypographyCard,
@@ -1292,8 +1368,22 @@ tbody {
     grid-template-columns: 1fr;
   }
 
+  .brandSourceExampleGrid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
   .brandVoiceAvoid ul {
     columns: 1;
+  }
+}
+
+@media only screen and (max-width: 520px) {
+  .brandSourceExampleGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .brandSourceExampleCard--wide {
+    grid-column: span 1;
   }
 }
 

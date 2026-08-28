@@ -15,19 +15,54 @@ This new brand identity and accompanying communication design guidelines highlig
 
 ## Personality and Voice
 
-### SMART AND FUNNY
-Humor is an important part of our brand voice, we make "serious" science fun and accessible and aren't afraid to look a little silly if it gets people more engaged in what we're passionate about.
-### ORIGINAL
-We tweet not re-tweet. Backyard Brains are content makers, leaders not followers. There is an emphasis on craft and quirkiness in all our outputs from custom illustrations and typography to DIY, open source creation.
-### ACCESSIBLE
-Our expert team of scientists is on a mission to get learning out of the lab and into more informal settings where anyone can have a go at doing hands-on experiments. We work with all ages and use language that is
-simplified without being dumbed down.
+Our voice should make neuroscience feel inviting without making it feel trivial. These three principles guide how we write, teach, and design.
 
-### Backyard Brains is not:
-- ivory tower or pedantic
-- top-down or passive
-- homogenous or bro-culture
-- clip art, stock house or mass production
+<div className="brandVoiceGrid">
+
+<div className="brandVoiceCard">
+
+### Smart and funny
+
+<p className="brandVoiceCard__lead">Make serious science enjoyable.</p>
+
+Use humor to open the door to complex ideas. We are willing to look a little silly when it helps people engage, but the science stays accurate.
+
+</div>
+
+<div className="brandVoiceCard">
+
+### Original
+
+<p className="brandVoiceCard__lead">Create, don't imitate.</p>
+
+We make our own content and lead with curiosity. Favor handmade illustrations, distinctive typography, open-source thinking, and the practical character of DIY science.
+
+</div>
+
+<div className="brandVoiceCard">
+
+### Accessible
+
+<p className="brandVoiceCard__lead">Invite everyone in.</p>
+
+Move learning beyond the lab. Write for curious people of all ages in clear, welcoming language—simple enough to understand, never dumbed down.
+
+</div>
+
+</div>
+
+<div className="brandVoiceAvoid">
+
+### What we avoid
+
+Keep the voice curious, generous, and human. Avoid:
+
+- Ivory-tower language or pedantry
+- Top-down instruction or passive participation
+- Homogeneity or bro culture
+- Generic stock imagery or mass-produced polish
+
+</div>
 
 ## Our Logo
 

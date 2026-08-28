@@ -1121,6 +1121,70 @@ tbody {
   gap: 24px;
 }
 
+.brandVoiceGrid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
+  margin: 20px 0 24px;
+}
+
+.brandVoiceCard {
+  min-width: 0;
+  padding: 20px;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-top: 4px solid var(--ifm-color-primary);
+  border-radius: 8px;
+  background: var(--ifm-background-surface-color);
+  box-shadow: 0 6px 18px rgb(0 0 0 / 7%);
+}
+
+.brandVoiceCard h3 {
+  margin: 0 0 8px;
+  font-size: 1.25rem;
+}
+
+.brandVoiceCard p:last-child {
+  margin-bottom: 0;
+}
+
+.brandVoiceCard__lead {
+  margin-bottom: 10px;
+  color: var(--ifm-color-primary-darkest);
+  font-weight: 700;
+}
+
+.brandVoiceAvoid {
+  margin: 0 0 32px;
+  padding: 18px 20px;
+  border-left: 4px solid var(--ifm-color-primary);
+  border-radius: 0 8px 8px 0;
+  background: var(--ifm-color-emphasis-100);
+}
+
+.brandVoiceAvoid h3 {
+  margin: 0 0 8px;
+  font-size: 1.15rem;
+}
+
+.brandVoiceAvoid ul {
+  columns: 2;
+  margin-bottom: 0;
+}
+
+[data-theme='dark'] .brandVoiceCard__lead {
+  color: var(--ifm-color-primary-light);
+}
+
+@media only screen and (max-width: 996px) {
+  .brandVoiceGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .brandVoiceAvoid ul {
+    columns: 1;
+  }
+}
+
 .brandLogoPreview--horizontal {
   max-width: 440px;
 }

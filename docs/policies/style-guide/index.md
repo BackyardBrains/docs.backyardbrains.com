@@ -66,6 +66,7 @@ The full color version is the primary style to apply for white or branded color 
 | Format / Size | Horizontal | Stacked / Vertical |
 |---------------|------------|--------------------|
 | Vector (SVG) | [Download](./BYBLogoFull_Vector.svg) | [Download](./BYBLogo_Vertical_Vector.svg) |
+| Vector (PDF) | [Download](./BYBLogoFull_Vector.pdf) | [Download](./BYBLogo_Vertical_Vector.pdf) |
 | Small (150px PNG) | [Download](./BYBLogoFull_150.png) | [Download](./BYBLogo_Vertical_150.png) |
 | Medium (512px PNG) | [Download](./BYBLogoFull_512.png) | [Download](./BYBLogo_Vertical_512.png) |
 | Large (1024px PNG) | [Download](./BYBLogoFull_1024.png) | [Download](./BYBLogo_Vertical_1024.png) |
@@ -115,8 +116,12 @@ The monotone version can be applied in instances where the logo needs to be a si
 
 | Color Version | Horizontal | Stacked / Vertical | Icon |
 |---------------|------------|--------------------|------|
-| <span className="brandColorChip brandColorChip--black">Black</span> for light backgrounds | [Download SVG](./BYBLogoFull_Monochrome_Black.svg) | [Download SVG](./BYBLogo_Vertical_Monochrome_Black.svg) | [Download SVG](./BYBLogo_Monochrome_Black.svg) |
-| <span className="brandColorChip brandColorChip--white">White</span> on approved dark background | [Download SVG](./BYBLogoFull_Monochrome_White.svg) | [Download SVG](./BYBLogo_Vertical_Monochrome_White.svg) | [Download SVG](./BYBLogo_Monochrome_White.svg) |
+| <span className="brandColorChip brandColorChip--black">Black</span> for light backgrounds | [SVG](./BYBLogoFull_Monochrome_Black.svg) · [PDF](./BYBLogoFull_Monochrome_Black.pdf) | [SVG](./BYBLogo_Vertical_Monochrome_Black.svg) · [PDF](./BYBLogo_Vertical_Monochrome_Black.pdf) | [SVG](./BYBLogo_Monochrome_Black.svg) · [PDF](./BYBLogo_Monochrome_Black.pdf) |
+| <span className="brandColorChip brandColorChip--white">White</span> on approved dark background | [SVG](./BYBLogoFull_Monochrome_White.svg) · [PDF](./BYBLogoFull_Monochrome_White.pdf) | [SVG](./BYBLogo_Vertical_Monochrome_White.svg) · [PDF](./BYBLogo_Vertical_Monochrome_White.pdf) | [SVG](./BYBLogo_Monochrome_White.svg) · [PDF](./BYBLogo_Monochrome_White.pdf) |
+
+#### All Variants
+
+[Download all color and monochrome logo variants (9-page vector PDF)](./BYBLogos_All_Variants.pdf)
 
 [Download the monochrome comparison demo (SVG)](./byb_logo_monochrome.svg)
 
@@ -141,6 +146,7 @@ The neuron icon can be used independently when space is limited or for social me
 | Format / Size | Icon |
 |---------------|------|
 | Vector (SVG) | [Download](./BYBLogo_Vector.svg) |
+| Vector (PDF) | [Download](./BYBLogo_Vector.pdf) |
 | Small (150px PNG) | [Download](./BYBLogo_150.png) |
 | Medium (512px PNG) | [Download](./BYBLogo_512.png) |
 | Large (1024px PNG) | [Download](./BYBLogo_1024.png) |

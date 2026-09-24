@@ -4,6 +4,8 @@ title: "The Completo"
 slug: /retired/products/completo
 ---
 
+> **Note:** The green smartphone cable is no longer supported. Please connect your SpikerBox by USB instead.
+
 ## The Completo
 
 <img src="/img/completolaser_product.webp" alt="The Completo" width="400" height="300" loading="eager" fetchpriority="high" style={{ height: 'auto' }} />

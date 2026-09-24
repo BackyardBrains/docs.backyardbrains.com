@@ -3,6 +3,8 @@ id: retired_products_musclespikershield
 title: Muscle SpikerShield
 slug: /retired/products/musclespikershield
 ---
+
+> **Note:** The green smartphone cable is no longer supported. Please connect your SpikerBox by USB instead.
 # Muscle SpikerShield #
 
 > This Arduino Muscle SpikerShield product is retired. The original Arduino code, schematics, and experiments remain below for archive users. For new classroom EMG, servo, robotics, and muscle-sensor projects, use the current Spiker:bit micro:bit EMG kit.

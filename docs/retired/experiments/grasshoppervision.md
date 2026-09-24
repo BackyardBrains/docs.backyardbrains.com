@@ -4,6 +4,8 @@ title: "Experiment: Investigating Grasshopper Vision"
 slug: "/retired/experiments/grasshoppervision"
 ---
 
+> **Note:** The green smartphone cable is no longer supported. Please connect your SpikerBox by USB instead.
+
 
 
 Grasshopper's have a fast reaction time! You reach out and try to catch one,

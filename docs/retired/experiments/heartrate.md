@@ -4,6 +4,8 @@ title: "Heart Action Potentials"
 slug: "/retired/experiments/heartrate"
 ---
 
+> **Note:** The green smartphone cable is no longer supported. Please connect your SpikerBox by USB instead.
+
 
 
 You've seen spikes from voluntary muscle contractions, what could _beat_ that?

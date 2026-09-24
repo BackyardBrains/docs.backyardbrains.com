@@ -4,6 +4,8 @@ title: "Experiment:  Clock the Inner Workings of the Brain"
 slug: "/retired/experiments/MuscleReactionTime"
 ---
 
+> **Note:** The green smartphone cable is no longer supported. Please connect your SpikerBox by USB instead.
+
 
 
 How fast do you think you are? Do you know what a reflex and a reaction are?

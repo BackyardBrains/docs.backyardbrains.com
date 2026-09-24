@@ -4,6 +4,8 @@ title: "Experiment: Hunt for a Single Motor Unit"
 slug: "/retired/experiments/ngleunit"
 ---
 
+> **Note:** The green smartphone cable is no longer supported. Please connect your SpikerBox by USB instead.
+
 
 
 **Time:**  30 Minutes

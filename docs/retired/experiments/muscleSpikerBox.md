@@ -4,6 +4,8 @@ title: "Record Electricity from Your Muscles"
 slug: "/retired/experiments/muscleSpikerBox"
 ---
 
+> **Note:** The green smartphone cable is no longer supported. Please connect your SpikerBox by USB instead.
+
 
 
 You may have heard and seen spikes from invertebrates. But what about

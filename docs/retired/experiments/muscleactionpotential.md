@@ -4,6 +4,8 @@ title: "Experiment: Muscle Action Potentials"
 slug: "/retired/experiments/muscleactionpotential"
 ---
 
+> **Note:** The green smartphone cable is no longer supported. Please connect your SpikerBox by USB instead.
+
 
 
 In this experiment we will look at EMG activity more closely. The muscle

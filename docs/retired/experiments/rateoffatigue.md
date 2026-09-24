@@ -4,6 +4,8 @@ title: "Experiment: Exploring Rates of Fatigue"
 slug: "/retired/experiments/rateoffatigue"
 ---
 
+> **Note:** The green smartphone cable is no longer supported. Please connect your SpikerBox by USB instead.
+
 
 
 Now that you've learned a bit about [how your muscles

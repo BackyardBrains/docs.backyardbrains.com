@@ -4,6 +4,8 @@ title: "Muscle Spikerbox Pro"
 slug: /retired/products/musclespikerboxpro
 ---
 
+> **Note:** The green smartphone cable is no longer supported. Please connect your SpikerBox by USB instead.
+
 ## Muscle SpikerBox Pro
 
 ![Muscle SpikerBox Pro on Forearm.jpg](././img/musclespikerboxpro-forearm.jpg)

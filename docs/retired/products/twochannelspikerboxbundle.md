@@ -4,6 +4,8 @@ title: "Neuron 2-Channel SpikerBox Bundle"
 slug: /retired/products/twochannelspikerboxbundle
 ---
 
+> **Note:** The green smartphone cable is no longer supported. Please connect your SpikerBox by USB instead.
+
 ## Neuron 2-Channel SpikerBox Bundle
 
 ![The 2 Channel SpikerBox Bundle](./img/2chan_product.jpg)

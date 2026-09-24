@@ -4,6 +4,8 @@ title: "Experiment: Sleep"
 slug: "/retired/experiments/sleep"
 ---
 
+> **Note:** The green smartphone cable is no longer supported. Please connect your SpikerBox by USB instead.
+
 
 
 "To sleep, perchance to dream." W. Shakespeare. Poets and Scientists have long

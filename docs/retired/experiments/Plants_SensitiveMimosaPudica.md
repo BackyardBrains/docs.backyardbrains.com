@@ -4,6 +4,8 @@ title: "Experiment: Sensitive Mimosa Pudica Electrophysiology"
 slug: "/retired/experiments/Plants_SensitiveMimosaPudica"
 ---
 
+> **Note:** The green smartphone cable is no longer supported. Please connect your SpikerBox by USB instead.
+
 
 
 With the Venus Flytrap experiment, we previously introduced you to plant

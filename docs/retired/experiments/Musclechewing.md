@@ -4,6 +4,8 @@ title: "Experiment: Muscle Recruitment in your Jaw!"
 slug: "/retired/experiments/Musclechewing"
 ---
 
+> **Note:** The green smartphone cable is no longer supported. Please connect your SpikerBox by USB instead.
+
 
 
 Everybody chews. You will use the Muscle SpikerBox to record EMG's of the

@@ -4,6 +4,8 @@ title: "Getting Started with the Plant SpikerBox: Venus Flytrap Electrophysiolog
 slug: "/retired/experiments/Plants_VenusFlytrap"
 ---
 
+> **Note:** The green smartphone cable is no longer supported. Please connect your SpikerBox by USB instead.
+
 
 
 Electrical impulses are not only relegated to the hearts, muscles, and brains

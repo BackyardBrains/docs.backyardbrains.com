@@ -4,6 +4,8 @@ title: "Experiment: Recording the Muscles of Clams"
 slug: "/retired/experiments/clams"
 ---
 
+> **Note:** The green smartphone cable is no longer supported. Please connect your SpikerBox by USB instead.
+
 
 
 Clams have strong muscles to keep their shells closed when they want to avoid

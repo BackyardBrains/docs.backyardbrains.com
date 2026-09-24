@@ -4,6 +4,8 @@ title: "Experiment: The Patellar Reflex and Reaction"
 slug: "/retired/experiments/Musclekneejerk"
 ---
 
+> **Note:** The green smartphone cable is no longer supported. Please connect your SpikerBox by USB instead.
+
 
 
 **Time:**  30 Minutes

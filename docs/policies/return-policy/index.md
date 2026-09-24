@@ -17,6 +17,9 @@ To start a return, contact us at [hello@backyardbrains.com](mailto:hello@backyar
 ### Damages and Issues
 Please inspect your order upon reception and contact us immediately if the item is defective, damaged, or if you receive the wrong item, so that we can evaluate the issue and make it right.
 
+### Warranty
+Our products come with a one-year warranty from the date of purchase. The warranty covers functional defects; it does not cover physical damage. If your device stops working as it should within that year, contact us at [hello@backyardbrains.com](mailto:hello@backyardbrains.com) with your order number and a short description of the problem so we can evaluate it.
+
 ### Exceptions / Non-Returnable Items
 Consumable items cannot be returned, such as electrodes or gel. Please get in touch if you have questions or concerns about your specific item. Unfortunately, we cannot accept returns on sale items or gift cards.
 

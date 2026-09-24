@@ -32,8 +32,6 @@ Plug in the yellow RCA with black and red electrode clips. Push down the tops of
 
 Power on the Plant SpikerBox with a 9V battery, and turn on the red switch at the front of the SpikerBox.
 
-If you are using a smartphone or tablet, plug the green smartphone cable into the green output jack to connect the Plant SpikerBox. 
-
 If recording on a computer, plug the blue USB cable into the metal port on the back of the board to connect.
 
 Open SpikeRecorder on your device. [click here for more details about connecting](../../software/SpikeRecorder/)
@@ -47,7 +45,7 @@ What will you discover?
 |---|---|
 |Frequency range |0.07Hz-8.8Hz|
 |Gain|72x|
-|Output|Green Smartphone Cable, Blue Laptop Cable, microUSB, plant stimulation cable|
+|Output|Blue Laptop Cable, microUSB, plant stimulation cable|
 |Inputs|1x Plant electrode cable consisting of two silver wires|
 
 [Technical Schematic](https://backyardbrains.com/products/files/PSBV0.24.pdf)

@@ -58,7 +58,7 @@ You can also record and analize your EMG by connecting to our [Spike Recorder so
 |---|---|
 |Frequency range | 300Hz-1300Hz|
 |Gain|880x|
-|Output|Green Smartphone Cable, Blue Laptop Cable|
+|Output|Blue Laptop Cable|
 |Inputs|1x [Orange Cable](https://backyardbrains.com/products/muscleElectrodeCable)|
 
 ## Experiments ##

@@ -20,21 +20,15 @@ When connected by USB, **Spike Recorder** displays a **USB/device button** near 
 
 ![image](device.png)
 
-## Green “Smartphone” Cable Connection
+## Blue “Laptop” Cable
 
-Use the **green “smartphone” cable** for devices with a **combined headphone/microphone port**, such as many laptops and older phones or tablets.
+Use the [**blue cable**](https://backyardbrains.com/products/laptop-cable) for computers with separate **headphone** and **microphone** ports.
 
-The green cable is **directional**. The end labeled **“SpikerBox”** must go into the **SpikerBox**. The other end labeled **“Smartphone”** goes into the phone, tablet, or computer.
+Plug the signal into the **microphone** input, **not** the headphone output.
 
-![image](desktopgreen.png)
+>Note: A generic audio cable will not work. The blue cable routes the SpikerBox signal into the computer’s microphone input.
 
->Note: A generic audio cable will not work. Direct connection to a phone, tablet, or computer through the analog microphone input requires the proper custom cable because the cable routes the SpikerBox signal into the device’s microphone input.
-
-On older versions of **iOS** and **Android** devices, the device usually connects automatically when using the analog cable.
-
-On **desktop**, you may need to manually select the correct audio input in **Spike Recorder**.
-
-After plugging in the green cable:
+After plugging in the blue cable, select the correct audio input in **Spike Recorder**:
 
 1. Open the **Config** menu by clicking the small **gear icon** in the top-left corner.
 2. Look below the filtering options.
@@ -50,20 +44,13 @@ Select **black** for any input channels you want **Spike Recorder** to ignore, s
 
 ![image](audioinput2.png)
 
-## Blue “Laptop” Cable
+## Green “Smartphone” Cable
 
-Use the [**blue cable**](https://backyardbrains.com/products/laptop-cable) for computers with separate **headphone** and **microphone** ports.
-
-Plug the signal into the **microphone** input, **not** the headphone output.
-
-Setup in **Spike Recorder** is otherwise similar to using the green “smartphone” cable:
-
-1. Open the **Config** screen.
-2. Select the correct **audio input channel**.
+The green “smartphone” cable is **no longer supported** and no longer ships with any SpikerBox. Please connect by **USB** instead.
 
 ## Connecting to Other Software
 
-If you are using the blue or green cable to connect your SpikerBox, you can use any program that records audio, such as **Audacity**.
+If you are using the blue cable to connect your SpikerBox, you can use any program that records audio, such as **Audacity**.
 
 Keep in mind that the Plant SpikerBox, Heart and Brain SpikerBox use amplitude modulation (AM) with a 5 kHz carrier signal. **Spike Recorder** automatically removes this carrier signal.
 

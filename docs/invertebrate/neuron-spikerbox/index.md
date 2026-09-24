@@ -30,7 +30,7 @@ Pin the recording electrodes into your prep according to your experiment.
 Power the Neuron SpikerBox Pro on with a 9V battery, and turn on the black knob at the front of the SpikerBox. This also controls the volume.
 
 
-Plug the USB cable into the USB port on the back of the board to connect. Alternatively you can also use the green smartphone cable. [click here for more details about connecting](../../software/spike-recorder/)
+Plug the USB cable into the USB port on the back of the board to connect. [click here for more details about connecting](../../software/spike-recorder/)
 
 Open SpikeRecorder on your device.
 
@@ -38,7 +38,7 @@ Stimulate the neurons by poking or blowing. See, hear, and record the live firin
 
 ![5](./img/5.png)
 
-FYI: The black jack next to the smartphone output is audio out, for connecting an external speaker. The digital pins next to the USB port on the back is an [expansion port](./expansions/). Use an external cable to add channels, event markers, and plug in your own inventions!
+FYI: The black jack is audio out, for connecting an external speaker. The digital pins next to the USB port on the back is an [expansion port](./expansions/). Use an external cable to add channels, event markers, and plug in your own inventions!
 
 ## Technical Specifications ##
 
@@ -49,7 +49,7 @@ FYI: The black jack next to the smartphone output is audio out, for connecting a
 |Max Sound Level |104 SPL|
 |Neuron Signal SNR |30dB|
 |Battery Life |4hr at Full Volume, 18 hr Recording|
-|Output |USB Micro, Headphones, Smartphone, 2 Analog Out|
+|Output |USB Micro, Headphones, 2 Analog Out|
 |Inputs |2x Neuron Cables, 5x Digital Ins or 3x Digital Ins/2x Analog Ins|
 |Electrical Safety |Type BF (Body Floating)|
 

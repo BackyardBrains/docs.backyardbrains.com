@@ -55,13 +55,7 @@ ___
 
 ## Green Cable Does Not Work
 
-* Check the cable labels.
-* Make sure the end labeled **“SpikerBox”** is plugged into the SpikerBox.
-* Plug the other end into the phone, tablet, or combined audio port.
-* Do not use a generic audio cable.
-* On desktop, make sure that the device is recognized by system, chek audio drivers, and that the app has all required permissions
-* On desktop, open **Config** and select the correct audio input.
-* On mobile, make sure the app has all required permissions and is not only recording from the built-in microphone.
+The green “smartphone” cable is **no longer supported**. Please connect your SpikerBox by **USB** instead. See [Connection Methods](../connection-methods/index.md).
 ___
 
 ## Signal Is Too Small

@@ -39,7 +39,6 @@ Place a patch electrode on the bony part behind your ear as a ground.
 ![setup](setup1.jpeg)
 
 Power the Heart & Brain SpikerBox on with a 9V battery, and turn on the red switch at the front of the SpikerBox.   
-If you are using a smartphone or tablet, plug the green smartphone cable into the green output jack to connect the Heart & Brain SpikerBox.  
 If recording on a computer, plug the blue USB cable into the metal port on the back of the board to connect.  
 Open [SpikeRecorder](../../software/SpikeRecorder/) on your device.
 
@@ -51,7 +50,7 @@ Open [SpikeRecorder](../../software/SpikeRecorder/) on your device.
 |Sampling Rate|10k (1ch)|
 |Frequency range|0.6Hz - 108Hz|
 |Gain |3840x|
-|Output|microUSB, Headphones/Smartphone|
+|Output|microUSB, Headphones|
 |Inputs|1x [Orange Cable](https://backyardbrains.com/products/muscleElectrodeCable)|
 
 [Download Schematic PDF](https://backyardbrains.com/products/files/HBSB_V2.pdf)

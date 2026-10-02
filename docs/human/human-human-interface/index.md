@@ -74,7 +74,7 @@ A strong muscle contraction should illuminate the red LED. If it does not, check
 The Minion receives electrical stimulation from the HHI.
 
 1. Turn off the HHI before connecting the Minion.
-2. Place two square stimulation electrodes across the ulnar nerve on the back of the forearm, just below the elbow, as shown in the setup image. Adjust the placement slightly if necessary.
+2. Place two square stimulation electrodes on the forearm muscle, as shown in the setup image. Adjust their position slightly if needed.
 3. Attach the black and red connectors of the stimulation cable to the two square electrodes, following the orientation shown in the setup image.
 4. Plug the stimulation cable into the black jack labeled **Minion** on the HHI.
 5. Ask the Minion to keep their arm relaxed, with the elbow bent at approximately 90 degrees.

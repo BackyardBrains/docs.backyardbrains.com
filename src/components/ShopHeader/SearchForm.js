@@ -76,7 +76,7 @@ const SearchForm = ({ isSearchVisible }) => {
           >
             <g
               transform="translate(-1110.000000, -241.000000)"
-              fill="#FF805F"
+              fill="#fd8164"
               fillRule="nonzero"
             >
               <g transform="translate(132.000000, 216.000000)">

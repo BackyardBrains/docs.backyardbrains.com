@@ -245,7 +245,7 @@ For digital work, choose the horizontal or stacked version only when every lette
 
 #### Examples of What Not to Do
 
-These illustrations come directly from the original Backyard Brains brand guide.
+These examples show the current logo used incorrectly.
 
 <div className="brandSourceExampleGrid">
 

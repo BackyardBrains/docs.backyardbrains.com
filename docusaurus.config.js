@@ -5,7 +5,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 const config = {
   title: 'BYB documentation',
   tagline: 'Neuroscience for Everyone!',
-  favicon: 'https://api.backyardbrains.com/favicon.ico',
+  favicon: 'img/byb-favicon.png',
 
   url: 'https://docs.backyardbrains.com/',
   baseUrl: '/',
@@ -77,7 +77,7 @@ const config = {
       title: 'Backyard Brains',
       logo: {
         alt: 'Backyard Brains Logo',
-        src: 'https://api.backyardbrains.com/static/images/BYBLogoFull_512.png',
+        src: 'img/byb-logo-horizontal.svg',
         href: 'https://backyardbrains.com',
       },
       items: [

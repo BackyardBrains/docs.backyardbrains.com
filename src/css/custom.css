@@ -6,14 +6,14 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #ff805f;
-  --ifm-link-color: #ff805f;
-  --ifm-color-primary-dark: #e77255;
-  --ifm-color-primary-darker: #cf664c;
-  --ifm-color-primary-darkest: #b2573f;
-  --ifm-color-primary-light: #ff8f6b;
-  --ifm-color-primary-lighter: #ffa27d;
-  --ifm-color-primary-lightest: #ffb799;
+  --ifm-color-primary: #fd8164;
+  --ifm-link-color: #fd8164;
+  --ifm-color-primary-dark: #e5755b;
+  --ifm-color-primary-darker: #cd6851;
+  --ifm-color-primary-darkest: #b15a46;
+  --ifm-color-primary-light: #fd8e74;
+  --ifm-color-primary-lighter: #fd9a83;
+  --ifm-color-primary-lightest: #feab97;
   --ifm-navbar-height: 91px;
   --ifm-font-family-base: 'Roboto', sans-serif;
   --ifm-navbar-height: 0;
@@ -34,13 +34,13 @@
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #ff9e00;
-  --ifm-color-primary-dark: #e68e00;
-  --ifm-color-primary-darker: #d98600;
-  --ifm-color-primary-darkest: #b36f00;
-  --ifm-color-primary-light: #ffa81a;
-  --ifm-color-primary-lighter: #ffad26;
-  --ifm-color-primary-lightest: #ffbb4d;
+  --ifm-color-primary: #fd8164;
+  --ifm-color-primary-dark: #e5755b;
+  --ifm-color-primary-darker: #cd6851;
+  --ifm-color-primary-darkest: #b15a46;
+  --ifm-color-primary-light: #fd8e74;
+  --ifm-color-primary-lighter: #fd9a83;
+  --ifm-color-primary-lightest: #feab97;
 }
 
 /* @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap'); */
@@ -98,7 +98,7 @@ html {
 }
 
 .nav-pills>li>a.active {
-  background: #ff805f;
+  background: #fd8164;
   color: #000000;
 }
 
@@ -145,7 +145,7 @@ tbody {
 .topic-statuses .topic-status .d-icon {
   width: 16px;
   height: 16px;
-  color: #ff805f;
+  color: #fd8164;
 }
 
 .topic-statuses .topic-status {
@@ -199,7 +199,7 @@ tbody {
 }
 
 .topic-excerpt-more {
-  color: #ff805f;
+  color: #fd8164;
 }
 
 .topic-list .topic-list-data.posters img {
@@ -256,7 +256,7 @@ tbody {
 }
 
 .header-banner {
-  background: #ff805f;
+  background: #fd8164;
   padding-top: 25px;
   padding-bottom: 25px;
   color: #ffffff;
@@ -510,7 +510,7 @@ tbody {
 }
 
 .header-nav li.current_page_item a {
-  color: #ff805f;
+  color: #fd8164;
 }
 
 .header-nav li.current_page_item a:before,
@@ -534,7 +534,7 @@ tbody {
 }
 
 .header-nav a:hover {
-  color: #ff805f;
+  color: #fd8164;
 }
 
 .header-nav a:hover:before,
@@ -603,7 +603,7 @@ tbody {
 }
 
 .header-actions .swp-cart-icon-inline:hover {
-  background-color: #ff805f;
+  background-color: #fd8164;
   background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjBweCIgaGVpZ2h0PSIyNnB4IiB2aWV3Qm94PSIwIDAgMjAgMjYiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8dGl0bGU+aWNfc2hvcCAoMyk8L3RpdGxlPgogICAgPGcgaWQ9IlBhZ2UtMSIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPGcgaWQ9ImljX3Nob3AtKDMpIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxLjAwMDAwMCwgMS4wMDAwMDApIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiI+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik0xMyw1LjE3MyBMMTMsNCBDMTMsMS43OTEgMTEuMjA5LDAgOSwwIEM2Ljc5MSwwIDUsMS43OTEgNSw0IEw1LDUuMTczIiBpZD0iU3Ryb2tlLTI2NyI+PC9wYXRoPgogICAgICAgICAgICA8cGF0aCBkPSJNMSwyNCBMMTcsMjQgQzE3LjU1MiwyNCAxOCwyMy41NTIgMTgsMjMgTDE4LDYgQzE4LDUuNDQ4IDE3LjU1Miw1IDE3LDUgTDEsNSBDMC40NDgsNSAwLDUuNDQ4IDAsNiBMMCwyMyBDMCwyMy41NTIgMC40NDgsMjQgMSwyNCBaIiBpZD0iU3Ryb2tlLTI3MSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIj48L3BhdGg+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4=);
 }
 
@@ -742,12 +742,12 @@ tbody {
   right: -8px;
   top: -8px;
   bottom: -8px;
-  border: 8px solid rgba(255, 128, 95, 0.24);
+  border: 8px solid rgba(253, 129, 100, 0.24);
   border-radius: 8px;
 }
 
 .search-form_focused {
-  border: 2px solid #ff805f;
+  border: 2px solid #fd8164;
 }
 
 .search-form_focused:before {
@@ -865,12 +865,12 @@ tbody {
 
   .header-action_active,
   .header-action:hover {
-    background: #ff805f;
+    background: #fd8164;
   }
 
   .header-action_active .header-action__fill,
   .header-action:hover .header-action__fill {
-    fill: #ff805f !important;
+    fill: #fd8164 !important;
   }
 
   .header-action_active .header-action__stroke,
@@ -1037,7 +1037,7 @@ tbody {
     right: 16px;
     transform: translate(0, -50%);
     width: 32px;
-    background: #ff805f;
+    background: #fd8164;
     color: #ffffff;
     letter-spacing: normal;
     text-align: center;
@@ -1621,7 +1621,7 @@ tbody {
 
 .menu__list .menu__list .menu__link--sublist,
 .menu__list .menu__list .menu__link--sublist:hover {
-  /* color: #ff805f; */
+  /* color: #fd8164; */
   transition: all 0.2s ease-in-out;
 }
 
@@ -1708,7 +1708,7 @@ tbody {
   top: 0;
   bottom: 0;
   width: 3px;
-  background: #ff805f;
+  background: #fd8164;
   opacity: 0;
   visibility: hidden;
   transition: all 0.2s ease-in-out;
@@ -1721,7 +1721,7 @@ tbody {
 
 .table-of-contents__link:hover,
 .table-of-contents__link--active {
-  color: #ff805f;
+  color: #fd8164;
 }
 
 .table-of-contents__link:hover:before,
@@ -1934,7 +1934,7 @@ blockquote strong {
 
 .creative-common__link {
   display: block;
-  color: #ff805f;
+  color: #fd8164;
   text-decoration: none;
 }
 
@@ -1983,7 +1983,7 @@ blockquote strong {
 }
 
 .bottom-nav a:hover {
-  color: #ff805f;
+  color: #fd8164;
 }
 
 @font-face {

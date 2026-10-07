@@ -14,7 +14,7 @@ The Muscle Spikerbox is designed to non-invasively detect electrical activity in
 
 ## Getting Started ##
 
-Below are some basic setup steps for recording ECG and EEG, for more advanced aplications, check out [our experiment pages](#experiments)
+Below are some basic setup steps for recording EMG, for more advanced aplications, check out [our experiment pages](#experiments)
 
 ### Bicep Recording
 

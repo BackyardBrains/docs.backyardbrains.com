@@ -8,6 +8,7 @@ import React from 'react';
 import clsx from 'clsx';
 import {useDocsSidebar} from '@docusaurus/plugin-content-docs/client';
 import styles from './styles.module.css';
+import DocumentationMenu from '@site/src/components/DocumentationMenu';
 import SpikeRecorderGuideNav from '@site/src/components/SpikeRecorderGuideNav';
 export default function DocRootLayoutMain({hiddenSidebarContainer, children}) {
   const sidebar = useDocsSidebar();
@@ -24,6 +25,7 @@ export default function DocRootLayoutMain({hiddenSidebarContainer, children}) {
           hiddenSidebarContainer && styles.docItemWrapperEnhanced,
         )}>
         <SpikeRecorderGuideNav />
+        <DocumentationMenu />
         {children}
       </div>
     </main>

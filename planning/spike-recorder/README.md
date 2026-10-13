@@ -65,6 +65,7 @@ Still needed: a connected SpikerBox and live signal; Record changing to Stop wit
 - Current Markdown and image copies: `spike-recorder-docs/`.
 - Frozen older guide: `spikerecorder_versioned_docs/version-classic/`.
 - Version setup: `docusaurus.config.js`, `spikerecorder_versions.json`, and `sidebarsSpikeRecorder.js`.
-- Visible version links and mobile contents: `src/components/SpikeRecorderGuideNav/`. It uses Docusaurus version metadata, preserves matching pages, and falls back to the version start page.
+- Visible version links: `src/components/SpikeRecorderGuideNav/`. It uses Docusaurus version metadata, preserves matching pages, and falls back to the version start page.
+- Shared site navigation: `plugins/shared-docs-navigation/` reuses the resolved main sidebar and inserts each version’s guide under Software → Spike Recorder. `src/hooks/useSharedDocsSidebar.js` chooses the active version (Current outside the guide). Desktop and mobile use the same tree; the mobile control is `src/components/DocumentationMenu/`. Recheck the pinned Docusaurus sidebar converter when upgrading.
 - Supplemental original: `captures/2026-10-13-publication/09-spikerbox-menu.png`, verified by clicking the real deployed app's SpikerBox control.
 - Keep the published copies byte-identical to their originals; preserve old capture records when refreshing. Review the publication record's corrections before reusing captions from earlier capture sets.

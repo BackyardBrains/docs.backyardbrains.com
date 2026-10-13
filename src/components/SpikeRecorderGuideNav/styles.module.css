@@ -6,9 +6,4 @@
 .versions a.selected {background: #243c4d; color: white; border-color: #243c4d; font-weight: 700;}
 .notice {margin: 1rem 0 0; padding: .8rem 1rem; border-left: 4px solid #b77913; background: #fff5dc; color: #342800;}
 .notice a {color: #004b77; text-decoration: underline;}
-.contents {display: none; margin-top: 1rem;}
-.contents summary {cursor: pointer; padding: .5rem 0; font-weight: 600;}
-.contents nav {display: flex; flex-direction: column; gap: .15rem; padding-top: .5rem;}
-.contents nav a {padding: .4rem .5rem;}
-.contents a[aria-current='page'] {font-weight: 700; text-decoration: underline;}
-@media (max-width: 996px) {.contents {display: block;} .versions a {min-height: 44px; display: inline-flex; align-items: center;}}
+@media (max-width: 996px) {.versions a {min-height: 44px; display: inline-flex; align-items: center;}}

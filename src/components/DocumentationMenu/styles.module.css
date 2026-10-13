@@ -1,0 +1,4 @@
+.mobileMenu {display: none; margin-bottom: 1.5rem; padding-bottom: .75rem; border-bottom: 1px solid var(--ifm-color-emphasis-300);}
+.mobileMenu summary {cursor: pointer; padding: .7rem 0; font-weight: 600;}
+.mobileMenu nav {padding: .5rem 0;}
+@media (max-width: 996px) {.mobileMenu {display: block;}}

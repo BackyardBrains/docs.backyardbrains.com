@@ -27,6 +27,7 @@ const config = {
   trailingSlash: undefined,
 
   plugins: [
+    './plugins/shared-docs-navigation',
     ['@docusaurus/plugin-content-docs', {
       id: 'spikerecorder',
       path: 'spike-recorder-docs',

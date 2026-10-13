@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-13",
+  "reason": "Keep full documentation navigation visible when entering the versioned Spike Recorder guide.",
+  "build": "npm run build passed without warnings",
+  "page_checks": [
+    {
+      "width": 1440,
+      "path": "/software/spike-recorder/"
+    },
+    {
+      "width": 1440,
+      "path": "/software/spike-recorder/record-and-save/"
+    },
+    {
+      "width": 1440,
+      "path": "/software/spike-recorder/classic/"
+    },
+    {
+      "width": 1440,
+      "path": "/software/spike-recorder/classic/desktop/"
+    },
+    {
+      "width": 1440,
+      "path": "/human/human-spikerbox/"
+    },
+    {
+      "width": 1440,
+      "path": "/policies/return-policy/"
+    },
+    {
+      "width": 390,
+      "path": "/software/spike-recorder/"
+    },
+    {
+      "width": 390,
+      "path": "/software/spike-recorder/record-and-save/"
+    },
+    {
+      "width": 390,
+      "path": "/software/spike-recorder/classic/"
+    },
+    {
+      "width": 390,
+      "path": "/software/spike-recorder/classic/desktop/"
+    },
+    {
+      "width": 390,
+      "path": "/human/human-spikerbox/"
+    },
+    {
+      "width": 390,
+      "path": "/policies/return-policy/"
+    }
+  ],
+  "checks": [
+    "All eight site-level entries retained in order",
+    "Software \u2192 Spike Recorder contains the active version pages",
+    "Current is used outside the Spike Recorder guide",
+    "Guide categories automatically expand on active pages",
+    "Navigate from Spike Recorder to hardware and back through shared menu",
+    "Current/Classic switches and matching-page links",
+    "Mobile disclosure closes on page navigation and opens with keyboard Enter",
+    "No JavaScript errors at either viewport",
+    "153 existing HTML routes retained",
+    "275 generated sidebar link targets resolve"
+  ],
+  "limitations": "Documentation navigation verification only; app hardware/native checks remain as recorded in publication-validation.json."
+}

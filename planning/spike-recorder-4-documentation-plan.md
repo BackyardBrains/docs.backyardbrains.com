@@ -70,7 +70,7 @@ Use a dedicated Docusaurus docs-plugin instance for Spike Recorder, with the rou
 3. Create a `classic` snapshot using Docusaurus versioning before replacing the working guide. Preserve the images with it and repair absolute links that would otherwise send a Classic reader into Current instructions.
 4. Author the 4.0 guide in the instance's working directory.
 5. Configure `lastVersion: 'current'`, `current: {label: 'Current', path: '', banner: 'none'}`, and `classic: {label: 'Classic', path: 'classic'}`. Set each landing document's slug so the guide root stays `/software/spike-recorder/`.
-6. Add a version selector targeting this instance. It should show **Current** and **Classic**, with a brief “Spike Recorder 4.0” identifier in Current and an older-app notice in Classic. Avoid the default “Next” label.
+6. Add a visible version selector targeting this instance. The existing custom Navbar renders the standard navbar inside `display: none`; adding a navbar config item alone will not expose it. Place the selector in the visible guide navigation and provide a usable mobile menu. It should show **Current** and **Classic**, with a brief “Spike Recorder 4.0” identifier in Current and an older-app notice in Classic. Avoid the default “Next” label.
 7. Keep the existing guide root as the entry to Current. Redirect old platform-specific URLs to their preserved Classic equivalents so old support links still match the instructions they originally referenced. Link both versions clearly to one another.
 8. Add a link from the main Documentation sidebar to the new guide, and verify its order within Software. Test switching versions on pages that have counterparts and pages that do not.
 

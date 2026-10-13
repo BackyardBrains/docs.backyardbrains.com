@@ -14,7 +14,9 @@ const config = {
   projectName: 'docs.backyardbrains.com',
 
   onBrokenLinks: 'ignore',
-  onBrokenMarkdownLinks: 'warn',
+  markdown: {
+    hooks: {onBrokenMarkdownLinks: 'warn'},
+  },
   onBrokenAnchors: 'warn',
 
   i18n: {

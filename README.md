@@ -12,3 +12,6 @@ server webhook does not install dependencies itself.
 
 The Spike Recorder 4.0 documentation plan is in
 [planning/spike-recorder-4-documentation-plan.md](planning/spike-recorder-4-documentation-plan.md).
+
+The maintained [Spike Recorder guide source record](planning/spike-recorder/README.md)
+contains screenshot originals, source references, capture steps, and an update checker.

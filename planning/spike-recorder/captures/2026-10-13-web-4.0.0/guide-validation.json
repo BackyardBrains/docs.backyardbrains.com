@@ -1,0 +1,26 @@
+{
+  "results": [
+    {
+      "width": 1440,
+      "scheme": "light",
+      "overflow": false,
+      "images": 8,
+      "broken": 0
+    },
+    {
+      "width": 390,
+      "scheme": "light",
+      "overflow": false,
+      "images": 8,
+      "broken": 0
+    },
+    {
+      "width": 390,
+      "scheme": "dark",
+      "overflow": false,
+      "images": 8,
+      "broken": 0
+    }
+  ],
+  "errors": []
+}

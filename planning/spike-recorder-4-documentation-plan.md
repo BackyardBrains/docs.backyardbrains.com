@@ -97,3 +97,5 @@ Primary code references in `BackyardBrains/SpikeRecorder`:
 - `packages/sr_ui/lib/src/shell/shell_top_bar.dart` and `workspace_shell.dart`: control names, availability, and placement.
 
 The old docs were inspected at `BackyardBrains/docs.backyardbrains.com` commit `670c04c2e1e2ca6c7a9d5f3a5d6e4bd383edb1ca`. Some old platform pages are placeholders and the web page points to an old beta, so they must not simply be relabeled Current.
+
+The maintained [guide source record](spike-recorder/README.md) preserves the source references, screenshot originals, capture recipes, and release comparison check.

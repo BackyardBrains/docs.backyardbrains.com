@@ -4,7 +4,7 @@ October 13, 2026
 
 Spike Recorder 4.0 should have one guide that teaches the same recording workflow across computers, Chromebooks, phones, and tablets. Introduce operating-system differences only where they change the reader's next action. The default guide will be labeled **Current**; the existing guides will be preserved as **Classic**.
 
-This first delivery upgrades Docusaurus. The new guide and version switch are the next implementation, described below. Existing instructions remain available during the transition.
+Implementation completed October 13, 2026: Docusaurus 3.10.2, 11 Current guide pages, 8 preserved Classic pages, nine real web screenshots, and visible desktop/mobile version navigation. The plan below records the editorial rationale; [the source record](spike-recorder/README.md) tracks the implementation, evidence, and remaining hardware/native checks.
 
 ## The story to tell
 

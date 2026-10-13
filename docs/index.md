@@ -64,13 +64,13 @@ Use biological signals and neural circuits to control machines, build interfaces
 
 Spike Recorder brings the signals from your Backyard Brains device to life. Use it to view, record, save, and analyze electrical activity from muscles, the heart, the brain, neurons, and plants.
 
-- [Spike Recorder overview](./software/spike-recorder/)
-- [Connection methods](./software/spike-recorder/connection-methods/)
-- [Windows, macOS, and Linux](./software/spike-recorder/desktop/)
-- [iOS and iPadOS](./software/spike-recorder/ios-ipados/)
-- [Android](./software/spike-recorder/android/)
-- [Web version](./software/spike-recorder/web/) *(in development)*
-- [Troubleshooting](./software/spike-recorder/troubleshooting/)
+- [Spike Recorder 4.0: start here](/software/spike-recorder/)
+- [Connect a SpikerBox, including Chromebook USB](/software/spike-recorder/connection-methods/)
+- [Record and save](/software/spike-recorder/record-and-save/)
+- [Open and review recordings](/software/spike-recorder/open-and-review/)
+- [Files and platform differences](/software/spike-recorder/files-and-sharing/)
+- [Troubleshooting](/software/spike-recorder/troubleshooting/)
+- [Classic: older Spike Recorder documentation](/software/spike-recorder/classic/)
 
 ## Explore the Experiments
 

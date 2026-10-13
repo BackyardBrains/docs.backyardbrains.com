@@ -16,7 +16,7 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--source', type=Path, required=True)
     parser.add_argument('--web-build', type=Path)
-    parser.add_argument('--record', type=Path, default=Path(__file__).parent / 'captures/2026-10-13-web-4.0.0/manifest.json')
+    parser.add_argument('--record', type=Path, default=Path(__file__).parent / 'publication-2026-10-13.json')
     args = parser.parse_args()
     record = json.loads(args.record.read_text())
     changed = []
@@ -36,6 +36,10 @@ def main():
     compare(args.source / sample['repository_path'], sample['sha256'], 'sample recording')
     for shot in record['screenshots']:
         compare(args.record.parent / shot['file'], shot['sha256'], 'screenshot ' + shot['file'])
+    if 'publication' in record:
+        guide = args.record.parent.parent.parent / record['publication']['current_source']
+        for shot in record['screenshots']:
+            compare(guide / 'images' / Path(shot['file']).name, shot['sha256'], 'published screenshot ' + Path(shot['file']).name)
     if args.web_build:
         app = record['published_app']
         compare(args.web_build / 'main.dart.js', app['main_dart_js_sha256'], 'deployed web app — review release behavior and captures')

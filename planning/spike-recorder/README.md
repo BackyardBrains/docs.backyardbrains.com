@@ -4,11 +4,11 @@ Keep this record with the software guide. It identifies the app and code behind 
 
 ## Current baseline
 
-- Documentation family: **Spike Recorder 4.0**, intended label **Current**. Older instructions will be **Classic**.
+- Documentation family: **Spike Recorder 4.0**, published as **Current**. Older instructions are preserved as **Classic**.
 - Capture set: [October 13 web app captures](captures/2026-10-13-web-4.0.0/manifest.json). Includes eight original PNGs, captions, dimensions, and SHA-256 hashes.
 - Published web metadata at capture: **4.0.0, build 1**. The manifest records the deployed JavaScript hash.
 - Separately reviewed app source: [main at e27a1cb](https://github.com/BackyardBrains/SpikeRecorder/tree/e27a1cb6464965bd0dcc36098f8e562426977f3b). Its commit concerns 4.0.1. **The deployed web commit was not established; do not equate this source revision with the captured build.**
-- [Documentation plan](../spike-recorder-4-documentation-plan.md). The new guide and version selector remain to be implemented.
+- [Documentation plan](../spike-recorder-4-documentation-plan.md). Implemented as a dedicated versioned docs plugin, with 11 Current pages and 8 preserved Classic pages.
 
 The manifest links each tracked source file to a fixed GitHub revision and records which guide topics it affects. These are historical evidence links, not moving links to main.
 
@@ -33,7 +33,7 @@ python3 /path/to/docs/planning/spike-recorder/check_sources.py \
 
 `--web-build` is optional. When supplied, the checker compares the deployed `main.dart.js`, version metadata, and saved screenshot hashes. It never writes to the app or updates the baseline automatically. The screenshots are checked even without `--web-build`.
 
-The default record is the October 13 baseline. Use `--record /path/to/new/manifest.json` for a later one. Exit status 0 means the tracked comparisons match, 1 means changes need review, and 2 means the check could not complete. A match is not an end-to-end test of the release.
+The default record is the [October 13 publication record](publication-2026-10-13.json), which extends the original capture record without overwriting it. It maps the published pages, adds the verified SpikerBox menu screenshot and source files, and records wording corrections. Use `--record /path/to/new/manifest.json` for a later one. Exit status 0 means the tracked comparisons match, 1 means changes need review, and 2 means the check could not complete. A match is not an end-to-end test of the release.
 
 ## Screenshot capture recipe
 
@@ -59,3 +59,12 @@ The original capture used Playwright with the app's accessibility controls, keyb
 Completed: real sample playback, interval measurement, threshold selection, event marking, the Save control's appearance, Events, Spectrum, and responsive web capture. The screenshot reference page passed desktop and mobile layout checks, light/dark checks, eight-image loading, callout toggling, and navigation checks with no JavaScript errors; results are preserved in `guide-validation.json`.
 
 Still needed: a connected SpikerBox and live signal; Record changing to Stop with the recording clock; actual completed save/reopen flows; Chromebook's real permission window; native iOS/iPadOS and Android recordings lists. Record those as new evidence when available. Do not infer them from these browser screenshots.
+
+## Published guide maintenance
+
+- Current Markdown and image copies: `spike-recorder-docs/`.
+- Frozen older guide: `spikerecorder_versioned_docs/version-classic/`.
+- Version setup: `docusaurus.config.js`, `spikerecorder_versions.json`, and `sidebarsSpikeRecorder.js`.
+- Visible version links and mobile contents: `src/components/SpikeRecorderGuideNav/`. It uses Docusaurus version metadata, preserves matching pages, and falls back to the version start page.
+- Supplemental original: `captures/2026-10-13-publication/09-spikerbox-menu.png`, verified by clicking the real deployed app's SpikerBox control.
+- Keep the published copies byte-identical to their originals; preserve old capture records when refreshing. Review the publication record's corrections before reusing captions from earlier capture sets.

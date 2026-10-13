@@ -1,0 +1,572 @@
+{
+  "date": "2026-10-13",
+  "docusaurus": "3.10.2",
+  "build": "npm run build passed without warnings",
+  "scope": "Local production build, before deployment",
+  "old_html_routes_preserved": 137,
+  "missing_guide_link_targets": [],
+  "missing_guide_anchor_targets": [],
+  "source_record_comparisons_passed": 37,
+  "browser_results": [
+    {
+      "width": 1440,
+      "slug": "",
+      "status": 200,
+      "h1": "Spike Recorder 4.0",
+      "mainWidth": 1140,
+      "viewport": 1440,
+      "brokenGuideImages": [],
+      "versionLinks": [
+        {
+          "label": "Current",
+          "href": "/software/spike-recorder/",
+          "current": "true"
+        },
+        {
+          "label": "Classic",
+          "href": "/software/spike-recorder/classic/",
+          "current": null
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "slug": "connection-methods",
+      "status": 200,
+      "h1": "Connect a SpikerBox",
+      "mainWidth": 1140,
+      "viewport": 1440,
+      "brokenGuideImages": [],
+      "versionLinks": [
+        {
+          "label": "Current",
+          "href": "/software/spike-recorder/connection-methods",
+          "current": "true"
+        },
+        {
+          "label": "Classic",
+          "href": "/software/spike-recorder/classic/connection-methods/",
+          "current": null
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "slug": "record-and-save",
+      "status": 200,
+      "h1": "Record and save",
+      "mainWidth": 1140,
+      "viewport": 1440,
+      "brokenGuideImages": [],
+      "versionLinks": [
+        {
+          "label": "Current",
+          "href": "/software/spike-recorder/record-and-save",
+          "current": "true"
+        },
+        {
+          "label": "Classic",
+          "href": "/software/spike-recorder/classic/",
+          "current": null
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "slug": "controls",
+      "status": 200,
+      "h1": "Know the screen",
+      "mainWidth": 1140,
+      "viewport": 1440,
+      "brokenGuideImages": [],
+      "versionLinks": [
+        {
+          "label": "Current",
+          "href": "/software/spike-recorder/controls",
+          "current": "true"
+        },
+        {
+          "label": "Classic",
+          "href": "/software/spike-recorder/classic/",
+          "current": null
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "slug": "open-and-review",
+      "status": 200,
+      "h1": "Open and review a recording",
+      "mainWidth": 1140,
+      "viewport": 1440,
+      "brokenGuideImages": [],
+      "versionLinks": [
+        {
+          "label": "Current",
+          "href": "/software/spike-recorder/open-and-review",
+          "current": "true"
+        },
+        {
+          "label": "Classic",
+          "href": "/software/spike-recorder/classic/",
+          "current": null
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "slug": "channels-and-settings",
+      "status": 200,
+      "h1": "Channels and settings",
+      "mainWidth": 1140,
+      "viewport": 1440,
+      "brokenGuideImages": [],
+      "versionLinks": [
+        {
+          "label": "Current",
+          "href": "/software/spike-recorder/channels-and-settings",
+          "current": "true"
+        },
+        {
+          "label": "Classic",
+          "href": "/software/spike-recorder/classic/",
+          "current": null
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "slug": "detect",
+      "status": 200,
+      "h1": "Detect spikes",
+      "mainWidth": 1140,
+      "viewport": 1440,
+      "brokenGuideImages": [],
+      "versionLinks": [
+        {
+          "label": "Current",
+          "href": "/software/spike-recorder/detect",
+          "current": "true"
+        },
+        {
+          "label": "Classic",
+          "href": "/software/spike-recorder/classic/",
+          "current": null
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "slug": "events",
+      "status": 200,
+      "h1": "Events and averages",
+      "mainWidth": 1140,
+      "viewport": 1440,
+      "brokenGuideImages": [],
+      "versionLinks": [
+        {
+          "label": "Current",
+          "href": "/software/spike-recorder/events",
+          "current": "true"
+        },
+        {
+          "label": "Classic",
+          "href": "/software/spike-recorder/classic/",
+          "current": null
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "slug": "spectrum",
+      "status": 200,
+      "h1": "Explore Spectrum",
+      "mainWidth": 1140,
+      "viewport": 1440,
+      "brokenGuideImages": [],
+      "versionLinks": [
+        {
+          "label": "Current",
+          "href": "/software/spike-recorder/spectrum",
+          "current": "true"
+        },
+        {
+          "label": "Classic",
+          "href": "/software/spike-recorder/classic/",
+          "current": null
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "slug": "files-and-sharing",
+      "status": 200,
+      "h1": "Files and sharing",
+      "mainWidth": 1140,
+      "viewport": 1440,
+      "brokenGuideImages": [],
+      "versionLinks": [
+        {
+          "label": "Current",
+          "href": "/software/spike-recorder/files-and-sharing",
+          "current": "true"
+        },
+        {
+          "label": "Classic",
+          "href": "/software/spike-recorder/classic/",
+          "current": null
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "slug": "troubleshooting",
+      "status": 200,
+      "h1": "Troubleshooting",
+      "mainWidth": 1140,
+      "viewport": 1440,
+      "brokenGuideImages": [],
+      "versionLinks": [
+        {
+          "label": "Current",
+          "href": "/software/spike-recorder/troubleshooting",
+          "current": "true"
+        },
+        {
+          "label": "Classic",
+          "href": "/software/spike-recorder/classic/troubleshooting/",
+          "current": null
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "slug": "classic",
+      "status": 200,
+      "h1": "Spike Recorder",
+      "mainWidth": 1140,
+      "viewport": 1440,
+      "brokenGuideImages": [],
+      "versionLinks": [
+        {
+          "label": "Current",
+          "href": "/software/spike-recorder/",
+          "current": null
+        },
+        {
+          "label": "Classic",
+          "href": "/software/spike-recorder/classic/",
+          "current": "true"
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "slug": "classic/desktop",
+      "status": 200,
+      "h1": "Spike Recorder for Windows/macOS/Linux",
+      "mainWidth": 1140,
+      "viewport": 1440,
+      "brokenGuideImages": [],
+      "versionLinks": [
+        {
+          "label": "Current",
+          "href": "/software/spike-recorder/",
+          "current": null
+        },
+        {
+          "label": "Classic",
+          "href": "/software/spike-recorder/classic/desktop/",
+          "current": "true"
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "errors": []
+    },
+    {
+      "width": 390,
+      "slug": "",
+      "status": 200,
+      "h1": "Spike Recorder 4.0",
+      "mainWidth": 390,
+      "viewport": 390,
+      "brokenGuideImages": [],
+      "versionLinks": [
+        {
+          "label": "Current",
+          "href": "/software/spike-recorder/",
+          "current": "true"
+        },
+        {
+          "label": "Classic",
+          "href": "/software/spike-recorder/classic/",
+          "current": null
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "slug": "connection-methods",
+      "status": 200,
+      "h1": "Connect a SpikerBox",
+      "mainWidth": 390,
+      "viewport": 390,
+      "brokenGuideImages": [],
+      "versionLinks": [
+        {
+          "label": "Current",
+          "href": "/software/spike-recorder/connection-methods",
+          "current": "true"
+        },
+        {
+          "label": "Classic",
+          "href": "/software/spike-recorder/classic/connection-methods/",
+          "current": null
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "slug": "record-and-save",
+      "status": 200,
+      "h1": "Record and save",
+      "mainWidth": 390,
+      "viewport": 390,
+      "brokenGuideImages": [],
+      "versionLinks": [
+        {
+          "label": "Current",
+          "href": "/software/spike-recorder/record-and-save",
+          "current": "true"
+        },
+        {
+          "label": "Classic",
+          "href": "/software/spike-recorder/classic/",
+          "current": null
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "slug": "controls",
+      "status": 200,
+      "h1": "Know the screen",
+      "mainWidth": 390,
+      "viewport": 390,
+      "brokenGuideImages": [],
+      "versionLinks": [
+        {
+          "label": "Current",
+          "href": "/software/spike-recorder/controls",
+          "current": "true"
+        },
+        {
+          "label": "Classic",
+          "href": "/software/spike-recorder/classic/",
+          "current": null
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "slug": "open-and-review",
+      "status": 200,
+      "h1": "Open and review a recording",
+      "mainWidth": 390,
+      "viewport": 390,
+      "brokenGuideImages": [],
+      "versionLinks": [
+        {
+          "label": "Current",
+          "href": "/software/spike-recorder/open-and-review",
+          "current": "true"
+        },
+        {
+          "label": "Classic",
+          "href": "/software/spike-recorder/classic/",
+          "current": null
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "slug": "channels-and-settings",
+      "status": 200,
+      "h1": "Channels and settings",
+      "mainWidth": 390,
+      "viewport": 390,
+      "brokenGuideImages": [],
+      "versionLinks": [
+        {
+          "label": "Current",
+          "href": "/software/spike-recorder/channels-and-settings",
+          "current": "true"
+        },
+        {
+          "label": "Classic",
+          "href": "/software/spike-recorder/classic/",
+          "current": null
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "slug": "detect",
+      "status": 200,
+      "h1": "Detect spikes",
+      "mainWidth": 390,
+      "viewport": 390,
+      "brokenGuideImages": [],
+      "versionLinks": [
+        {
+          "label": "Current",
+          "href": "/software/spike-recorder/detect",
+          "current": "true"
+        },
+        {
+          "label": "Classic",
+          "href": "/software/spike-recorder/classic/",
+          "current": null
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "slug": "events",
+      "status": 200,
+      "h1": "Events and averages",
+      "mainWidth": 390,
+      "viewport": 390,
+      "brokenGuideImages": [],
+      "versionLinks": [
+        {
+          "label": "Current",
+          "href": "/software/spike-recorder/events",
+          "current": "true"
+        },
+        {
+          "label": "Classic",
+          "href": "/software/spike-recorder/classic/",
+          "current": null
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "slug": "spectrum",
+      "status": 200,
+      "h1": "Explore Spectrum",
+      "mainWidth": 390,
+      "viewport": 390,
+      "brokenGuideImages": [],
+      "versionLinks": [
+        {
+          "label": "Current",
+          "href": "/software/spike-recorder/spectrum",
+          "current": "true"
+        },
+        {
+          "label": "Classic",
+          "href": "/software/spike-recorder/classic/",
+          "current": null
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "slug": "files-and-sharing",
+      "status": 200,
+      "h1": "Files and sharing",
+      "mainWidth": 390,
+      "viewport": 390,
+      "brokenGuideImages": [],
+      "versionLinks": [
+        {
+          "label": "Current",
+          "href": "/software/spike-recorder/files-and-sharing",
+          "current": "true"
+        },
+        {
+          "label": "Classic",
+          "href": "/software/spike-recorder/classic/",
+          "current": null
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "slug": "troubleshooting",
+      "status": 200,
+      "h1": "Troubleshooting",
+      "mainWidth": 390,
+      "viewport": 390,
+      "brokenGuideImages": [],
+      "versionLinks": [
+        {
+          "label": "Current",
+          "href": "/software/spike-recorder/troubleshooting",
+          "current": "true"
+        },
+        {
+          "label": "Classic",
+          "href": "/software/spike-recorder/classic/troubleshooting/",
+          "current": null
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "slug": "classic",
+      "status": 200,
+      "h1": "Spike Recorder",
+      "mainWidth": 390,
+      "viewport": 390,
+      "brokenGuideImages": [],
+      "versionLinks": [
+        {
+          "label": "Current",
+          "href": "/software/spike-recorder/",
+          "current": null
+        },
+        {
+          "label": "Classic",
+          "href": "/software/spike-recorder/classic/",
+          "current": "true"
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "slug": "classic/desktop",
+      "status": 200,
+      "h1": "Spike Recorder for Windows/macOS/Linux",
+      "mainWidth": 390,
+      "viewport": 390,
+      "brokenGuideImages": [],
+      "versionLinks": [
+        {
+          "label": "Current",
+          "href": "/software/spike-recorder/",
+          "current": null
+        },
+        {
+          "label": "Classic",
+          "href": "/software/spike-recorder/classic/desktop/",
+          "current": "true"
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "errors": []
+    }
+  ],
+  "limitations": [
+    "No connected SpikerBox live recording test",
+    "No physical Chromebook permission test",
+    "No native mobile save/share test",
+    "Existing external footer image failures and desktop page overflow are outside the guide change; guide content fit both tested widths."
+  ]
+}

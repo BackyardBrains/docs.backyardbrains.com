@@ -27,6 +27,17 @@ const config = {
   trailingSlash: undefined,
 
   plugins: [
+    ['@docusaurus/plugin-content-docs', {
+      id: 'spikerecorder',
+      path: 'spike-recorder-docs',
+      routeBasePath: 'software/spike-recorder',
+      sidebarPath: './sidebarsSpikeRecorder.js',
+      lastVersion: 'current',
+      versions: {
+        current: {label: 'Current', path: '', banner: 'none'},
+        classic: {label: 'Classic', path: 'classic', banner: 'none'},
+      },
+    }],
     [
       '@docusaurus/plugin-google-tag-manager',
       { containerId: 'GTM-W4T4PRXR' },
@@ -46,6 +57,10 @@ const config = {
       '@docusaurus/plugin-client-redirects',
       {
         redirects: [
+          ...['desktop', 'ios-ipados', 'android', 'web', 'usb-communication-guide'].map(page => ({
+            from: `/software/spike-recorder/${page}`,
+            to: `/software/spike-recorder/classic/${page}`,
+          })),
         ],
       },
     ],
@@ -60,6 +75,17 @@ const config = {
           routeBasePath: '/',
           sidebarPath: './sidebars.js',
           exclude: ['.hidden/**'],
+          sidebarItemsGenerator: async ({defaultSidebarItemsGenerator, ...args}) => {
+            const items = await defaultSidebarItemsGenerator(args);
+            const link = {type: 'link', label: 'Spike Recorder', href: '/software/spike-recorder/'};
+            const software = items.find(item => item.type === 'category' && item.label === 'Software');
+            if (software) software.items.unshift(link);
+            else {
+              const index = items.findIndex(item => item.type === 'category' && item.label === 'Policies');
+              items.splice(index < 0 ? items.length : index, 0, {type: 'category', label: 'Software', items: [link]});
+            }
+            return items;
+          },
         },
         blog: false,
         theme: {

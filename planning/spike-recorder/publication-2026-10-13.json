@@ -1,0 +1,343 @@
+{
+  "app_url": "https://spikerecorder.backyardbrains.com/app/",
+  "app_version": "4.0.0",
+  "build_number": "1",
+  "captured_on": "2026-10-13",
+  "source": "Real released web app with repository sample recording; not a hardware or native app test.",
+  "screenshots": [
+    {
+      "file": "captures/2026-10-13-web-4.0.0/01-start.png",
+      "title": "Start with a device or a recording",
+      "caption": "The start screen shows two ways to begin: connect a SpikerBox or open a saved recording.",
+      "instructions": [
+        "SpikerBox: choose or configure the device connection.",
+        "File: select a recording to open.",
+        "Record: start a new recording after you connect a SpikerBox.",
+        "Signal, Detect, Events, and Spectrum select the workspace."
+      ],
+      "width": 1440,
+      "height": 1000,
+      "sha256": "364e8da12296550a78daccce46b3ddecc1477291dc7773667fdcc7ae7ee1d4a5"
+    },
+    {
+      "file": "captures/2026-10-13-web-4.0.0/02-review-recording.png",
+      "title": "Review a saved recording",
+      "caption": "This real sample recording is paused. The orange triangle resumes playback.",
+      "instructions": [
+        "Select Play to start playback. The same control changes to Pause.",
+        "Move the position slider to review another part of the recording.",
+        "Use the amplitude controls on the left to change the vertical display scale.",
+        "Use the time controls on the right to zoom in or show more time.",
+        "Use the File control to open or close a recording."
+      ],
+      "width": 1440,
+      "height": 1000,
+      "sha256": "cd7fb58c3276d044e21873ac43f1a0d0a7ec53221d045ebeb5b20c3f17348007"
+    },
+    {
+      "file": "captures/2026-10-13-web-4.0.0/03-measure.png",
+      "title": "Measure a selected interval",
+      "caption": "The shaded interval is 1.98 seconds long. The measurement panel reports an RMS amplitude of 15.5 \u00b5V for this selection.",
+      "instructions": [
+        "Select the tape-measure control.",
+        "Drag across the signal to select an interval.",
+        "Read the values in the measurement panel. Use Copy to copy the measurement."
+      ],
+      "width": 1440,
+      "height": 1000,
+      "sha256": "d7524552f13fc07f93d081e524f9b791ffd74bc5b37f55669b6dbc8c40662a99"
+    },
+    {
+      "file": "captures/2026-10-13-web-4.0.0/04-detect.png",
+      "title": "Set a detection threshold",
+      "caption": "The dashed line marks the threshold. This view shows a saved recording during playback.",
+      "instructions": [
+        "Open Detect.",
+        "Drag the threshold handle at the right edge to change the threshold.",
+        "Use the two-threshold control when you need the second threshold."
+      ],
+      "width": 1440,
+      "height": 1000,
+      "sha256": "aa387d9410626560bdf9ef4a99ed8f554f1134b8725853929991da5ae1e107f9"
+    },
+    {
+      "file": "captures/2026-10-13-web-4.0.0/05-spectrum.png",
+      "title": "View frequency content",
+      "caption": "Spectrum shows the waveform above a colored spectrogram. The spectrogram shows how frequency content changes through time.",
+      "instructions": [
+        "Select Spectrum to open this view.",
+        "Use Play or Pause to control the recording.",
+        "Compare features in the waveform with the colored region below."
+      ],
+      "width": 1440,
+      "height": 1000,
+      "sha256": "2c6ef051213c470313afcb2a4b4675a6bde9924504ff9fbfa9db45509a57f322"
+    },
+    {
+      "file": "captures/2026-10-13-web-4.0.0/06-event-and-save.png",
+      "title": "Mark an event and save changes",
+      "caption": "EVENT 1 marks a position in the recording. The disk-shaped Save control is now visible. The pink dots show detected spikes.",
+      "instructions": [
+        "In this capture, pressing 1 added Event 1 to the open recording.",
+        "Select Save to save edits to the recording. Complete the browser\u2019s save dialog when it appears.",
+        "Keep Save and Record distinct: Save writes edits; Record starts a new acquisition from a connected device."
+      ],
+      "width": 1440,
+      "height": 1000,
+      "sha256": "245bdbdaabe5b008293ffc0d5ebf66eaa6fb69b55709aef50393000f80489f8e"
+    },
+    {
+      "file": "captures/2026-10-13-web-4.0.0/07-events-analysis.png",
+      "title": "Compare selected spikes",
+      "caption": "The Events view shows selected spikes from CH 1. Its panel lists the available train and the graph controls.",
+      "instructions": [
+        "Select Events after you select spikes in Detect.",
+        "Use the switch beside a train to show or hide it.",
+        "Use the standard-deviation control to show or hide the spread around the average."
+      ],
+      "width": 1440,
+      "height": 1000,
+      "sha256": "891a624f1e581d70318a97cd5e589009c133b03688d54af25a660886a0cb90c1"
+    },
+    {
+      "file": "captures/2026-10-13-web-4.0.0/08-tablet-web.png",
+      "title": "Use the same controls in a narrower view",
+      "caption": "This is the web app at a tablet-sized viewport. It illustrates the responsive layout; it is not a native iPad screenshot.",
+      "instructions": [
+        "The device, measurement, file, and recording controls stay at the top.",
+        "Playback stays below the waveform.",
+        "The workspace tabs remain at the bottom."
+      ],
+      "width": 820,
+      "height": 1180,
+      "sha256": "0680178e0f5d04e6ae864a08039e6e83bf3ea71af33cab0cabb0e27e5f6ab961"
+    },
+    {
+      "file": "captures/2026-10-13-publication/09-spikerbox-menu.png",
+      "title": "SpikerBox menu",
+      "caption": "Connect, Channels, Events, and Settings in the deployed web app.",
+      "instructions": [
+        "Open the app at 1440 \u00d7 1000 with no file or hardware.",
+        "Click the SpikerBox control at the upper left. Capture the expanded menu."
+      ],
+      "width": 1440,
+      "height": 1000,
+      "sha256": "827fb18ef7efc51705f5651f37b8929d4ec66eb41ec0cebf57383abbcfb7eeef"
+    }
+  ],
+  "schema_version": 1,
+  "record_id": "spike-recorder-4-guide-publication-2026-10-13",
+  "published_app": {
+    "version": "4.0.0",
+    "build_number": "1",
+    "url": "https://spikerecorder.backyardbrains.com/app/",
+    "main_dart_js_sha256": "63a3e7d921af4c06f22a39269850a2cf4d23c219fc036fec184b9aaf8eeb35ff",
+    "deployed_source_commit": null,
+    "note": "The deployed commit was not established. The separately reviewed source commit must not be presented as the deployed commit."
+  },
+  "reviewed_source": {
+    "repository": "https://github.com/BackyardBrains/SpikeRecorder",
+    "branch": "main",
+    "commit": "e27a1cb6464965bd0dcc36098f8e562426977f3b",
+    "files": [
+      {
+        "path": "apps/spikerecorder/lib/main.dart",
+        "sha256": "26a9f835457912835618ac37cb67b6cf6ceca6585953e5589ff37e6e719f1a13",
+        "topics": [
+          "connection",
+          "record-stop",
+          "playback",
+          "open-file",
+          "save-edits",
+          "events"
+        ],
+        "permalink": "https://github.com/BackyardBrains/SpikeRecorder/blob/e27a1cb6464965bd0dcc36098f8e562426977f3b/apps/spikerecorder/lib/main.dart"
+      },
+      {
+        "path": "apps/spikerecorder/lib/acquisition/recording_controller.dart",
+        "sha256": "a16bc3c8e8a8bd2e872a2147eb421dd0ea84ea1062a767dff6ef68521d966999",
+        "topics": [
+          "record-stop",
+          "save",
+          "enabled-channels"
+        ],
+        "permalink": "https://github.com/BackyardBrains/SpikeRecorder/blob/e27a1cb6464965bd0dcc36098f8e562426977f3b/apps/spikerecorder/lib/acquisition/recording_controller.dart"
+      },
+      {
+        "path": "apps/spikerecorder/lib/acquisition/recordings_folder_io.dart",
+        "sha256": "93eab5c0c376103b9914bfc57be447c8a29c05614750dd94dde98b1e69725123",
+        "topics": [
+          "native-file-locations"
+        ],
+        "permalink": "https://github.com/BackyardBrains/SpikeRecorder/blob/e27a1cb6464965bd0dcc36098f8e562426977f3b/apps/spikerecorder/lib/acquisition/recordings_folder_io.dart"
+      },
+      {
+        "path": "apps/spikerecorder/lib/acquisition/recordings_folder_web.dart",
+        "sha256": "19e289fe0a9853cc27e0820552ea77eb1965dd1ab711ca25c4cccd981826f8f6",
+        "topics": [
+          "browser-file-locations"
+        ],
+        "permalink": "https://github.com/BackyardBrains/SpikeRecorder/blob/e27a1cb6464965bd0dcc36098f8e562426977f3b/apps/spikerecorder/lib/acquisition/recordings_folder_web.dart"
+      },
+      {
+        "path": "apps/spikerecorder/lib/acquisition/save_destination_web.dart",
+        "sha256": "6078ae9723995aca89d0e1967cee8754f5071f9829cdce7b6fab3d31c892e5b1",
+        "topics": [
+          "browser-save-dialog"
+        ],
+        "permalink": "https://github.com/BackyardBrains/SpikeRecorder/blob/e27a1cb6464965bd0dcc36098f8e562426977f3b/apps/spikerecorder/lib/acquisition/save_destination_web.dart"
+      },
+      {
+        "path": "apps/spikerecorder/lib/acquisition/file_marks_writer_web.dart",
+        "sha256": "b562e4b31c515740b961d106b6769c61fbed0c1db65a704b1d7ccea49c4e8082",
+        "topics": [
+          "browser-save-edits"
+        ],
+        "permalink": "https://github.com/BackyardBrains/SpikeRecorder/blob/e27a1cb6464965bd0dcc36098f8e562426977f3b/apps/spikerecorder/lib/acquisition/file_marks_writer_web.dart"
+      },
+      {
+        "path": "apps/spikerecorder/lib/recording_view/recordings_list_dialog.dart",
+        "sha256": "f26b8fbab721f9e591ba70a1678411665fe7fb5006a07a9c974e2628567d2305",
+        "topics": [
+          "phone-recordings-list"
+        ],
+        "permalink": "https://github.com/BackyardBrains/SpikeRecorder/blob/e27a1cb6464965bd0dcc36098f8e562426977f3b/apps/spikerecorder/lib/recording_view/recordings_list_dialog.dart"
+      },
+      {
+        "path": "apps/spikerecorder/lib/recording_view/open_wav_on_pick_web.dart",
+        "sha256": "927fa8e322fcd994cd37e8e69f1fc633693430140c611e8cc86da1dfbc796106",
+        "topics": [
+          "classic-file-import"
+        ],
+        "permalink": "https://github.com/BackyardBrains/SpikeRecorder/blob/e27a1cb6464965bd0dcc36098f8e562426977f3b/apps/spikerecorder/lib/recording_view/open_wav_on_pick_web.dart"
+      },
+      {
+        "path": "apps/spikerecorder/lib/signal_workspace.dart",
+        "sha256": "f5f173bafc9ce4304c142c04d213764b7ae640fb0e7b641a3f008aa4b92eadc0",
+        "topics": [
+          "waveform",
+          "measurement"
+        ],
+        "permalink": "https://github.com/BackyardBrains/SpikeRecorder/blob/e27a1cb6464965bd0dcc36098f8e562426977f3b/apps/spikerecorder/lib/signal_workspace.dart"
+      },
+      {
+        "path": "apps/spikerecorder/lib/events_workspace.dart",
+        "sha256": "d1ca9e04d664b9ebd65d32ea06c5989e61fe3a7bc6e5ba8017231b62d3057c7a",
+        "topics": [
+          "events-analysis"
+        ],
+        "permalink": "https://github.com/BackyardBrains/SpikeRecorder/blob/e27a1cb6464965bd0dcc36098f8e562426977f3b/apps/spikerecorder/lib/events_workspace.dart"
+      },
+      {
+        "path": "packages/sr_ui/lib/src/shell/shell_top_bar.dart",
+        "sha256": "df5bae8917c9dd60e1d4478da5dc828bbc86c90510413c13e9dd54e6288b9ff8",
+        "topics": [
+          "button-icons",
+          "button-labels",
+          "record-stop",
+          "save"
+        ],
+        "permalink": "https://github.com/BackyardBrains/SpikeRecorder/blob/e27a1cb6464965bd0dcc36098f8e562426977f3b/packages/sr_ui/lib/src/shell/shell_top_bar.dart"
+      },
+      {
+        "path": "packages/sr_ui/lib/src/shell/workspace_shell.dart",
+        "sha256": "11975a6ccd3411f68b1df7470d635c723e47871d36605125a8263c4f32fb8500",
+        "topics": [
+          "layout",
+          "control-availability"
+        ],
+        "permalink": "https://github.com/BackyardBrains/SpikeRecorder/blob/e27a1cb6464965bd0dcc36098f8e562426977f3b/packages/sr_ui/lib/src/shell/workspace_shell.dart"
+      },
+      {
+        "path": "packages/sr_ui/lib/src/shell/workspace_tab_bar.dart",
+        "sha256": "7ad36d45676ca7ffaa4497d8b1c1ce7b5674fbd20fdd9eaecccc6bc01fca9e5b",
+        "topics": [
+          "workspace-navigation"
+        ],
+        "permalink": "https://github.com/BackyardBrains/SpikeRecorder/blob/e27a1cb6464965bd0dcc36098f8e562426977f3b/packages/sr_ui/lib/src/shell/workspace_tab_bar.dart"
+      },
+      {
+        "path": "packages/sr_ui/lib/src/shell/shell_metrics.dart",
+        "sha256": "0971a2ff4cb3859b5bbf790c23d96ce7f0a0282de17822b1959c725cb0a4e6cd",
+        "topics": [
+          "layout",
+          "responsive-breakpoints"
+        ],
+        "permalink": "https://github.com/BackyardBrains/SpikeRecorder/blob/e27a1cb6464965bd0dcc36098f8e562426977f3b/packages/sr_ui/lib/src/shell/shell_metrics.dart"
+      },
+      {
+        "path": "packages/sr_ui/lib/src/shell/spikerbox_menu.dart",
+        "sha256": "eaf0bc9e0ab21442e4a6e3aade8c8992639f0e6aeeb4666628e82381b1d7c484",
+        "topics": [
+          "connect",
+          "menu labels"
+        ],
+        "permalink": "https://github.com/BackyardBrains/SpikeRecorder/blob/e27a1cb6464965bd0dcc36098f8e562426977f3b/packages/sr_ui/lib/src/shell/spikerbox_menu.dart"
+      },
+      {
+        "path": "packages/sr_ui/lib/src/shell/recordings_chooser_card.dart",
+        "sha256": "513384b51bbcc98ad39d691f9185aeb64d2239ab1670d20f41b3e3ebbbf8a66b",
+        "topics": [
+          "mobile recordings list",
+          "sharing limitations"
+        ],
+        "permalink": "https://github.com/BackyardBrains/SpikeRecorder/blob/e27a1cb6464965bd0dcc36098f8e562426977f3b/packages/sr_ui/lib/src/shell/recordings_chooser_card.dart"
+      }
+    ]
+  },
+  "sample": {
+    "repository_path": "packages/sr_io/test/replay/corpus/spike_recorder_sample.nwb",
+    "sha256": "5b25f535ab7ae5252bcfc510dde5b09052f311c0b93d2a4b631e7f82ed15a513",
+    "provenance": "https://github.com/BackyardBrains/SpikeRecorder/blob/e27a1cb6464965bd0dcc36098f8e562426977f3b/packages/sr_io/test/replay/corpus/README.md",
+    "note": "Real recording supplied by Stanislav. Original file unchanged. Screenshot-session edits were not saved over it."
+  },
+  "capture_environment": {
+    "browser": "Google Chrome for Testing 149.0.7827.55; executable in Playwright chromium-1200 directory",
+    "desktop_viewport": [
+      1440,
+      1000
+    ],
+    "tablet_web_viewport": [
+      820,
+      1180
+    ],
+    "native_device_capture": false,
+    "hardware_connected": false
+  },
+  "pending_evidence": [
+    "Connected live SpikerBox",
+    "Record changed to Stop with elapsed clock",
+    "Completed save flow",
+    "Actual Chromebook connection-permission dialog",
+    "Native iOS/iPadOS recordings list",
+    "Native Android recordings list"
+  ],
+  "refresh_rule": "Changes to tracked source files or deployed bundle require review of affected instructions and screenshots. Unchanged tracked files do not prove the entire guide is current.",
+  "previous_record": "captures/2026-10-13-web-4.0.0/manifest.json",
+  "publication": {
+    "current_url": "https://docs.backyardbrains.com/software/spike-recorder/",
+    "classic_url": "https://docs.backyardbrains.com/software/spike-recorder/classic/",
+    "current_source": "spike-recorder-docs/",
+    "classic_source": "spikerecorder_versioned_docs/version-classic/",
+    "version_plugin_id": "spikerecorder",
+    "pages": [
+      "spike-recorder-docs/channels-and-settings.md",
+      "spike-recorder-docs/connection-methods/index.md",
+      "spike-recorder-docs/controls.md",
+      "spike-recorder-docs/detect.md",
+      "spike-recorder-docs/events.md",
+      "spike-recorder-docs/files-and-sharing.md",
+      "spike-recorder-docs/index.md",
+      "spike-recorder-docs/open-and-review.md",
+      "spike-recorder-docs/record-and-save.md",
+      "spike-recorder-docs/spectrum.md",
+      "spike-recorder-docs/troubleshooting/index.md"
+    ]
+  },
+  "review_notes": [
+    "Menu verified in the actual deployed web app: SpikerBox opens Connect, Channels, Events, Settings.",
+    "Earlier capture instructions called File open/close based on an accessibility label. Current executable wiring opens a chooser; the published guide teaches returning to live through SpikerBox \u2192 Connect. Original capture record retained.",
+    "Native recordings chooser has no share/delete/rename actions. Published sharing instructions distinguish OS file access from the in-app list.",
+    "Hardware Record/Stop, native mobile workflows, and Chromebook real device permission remain source-reviewed, not physically tested."
+  ]
+}

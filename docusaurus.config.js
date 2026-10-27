@@ -24,7 +24,7 @@ const config = {
     locales: ['en'],
   },
 
-  trailingSlash: undefined,
+  trailingSlash: true,
 
   plugins: [
     './plugins/shared-docs-navigation',

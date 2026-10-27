@@ -86,7 +86,7 @@ Whole classrooms can hear your demonstrations!
 You can run the BYB Spike Recorder on a variety of platforms. Click links
 below to download and install.
 
-[__](./files/SpikeRecorder.Win32.20171103.zip)
+[Download the latest Spike Recorder](https://backyardbrains.com/app/spikerecorder)
 
 #### Windows
 

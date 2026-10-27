@@ -18,8 +18,8 @@ slug: /retired/products/musclespikershieldpro
 
   * [__Schematics v1](./files/Schematics-Muscle-spikerShield-Pro-V1.pdf)
   * [__Muscle SpikerShield Pro Default Uno Code](./files/MuscleSpikerShieldProDefaultCode.zip)
-  * [__Muscle SpikerShield Pro Default Leonardo Code](./files/MuscleSpikerShieldProDefaultCode_leonardo.zip)
-  * [__Simple Arduino Serial Monitor for Testing](./files/SpikerShield_Pro_Serial_Read.zip)
+  * [__Muscle SpikerShield Pro Default Leonardo Code](./files/MuscleSpikerShieldProDefaultCode_Leonardo/MuscleSpikerShieldProDefaultCode_Leonardo.zip)
+  * [__Simple Arduino Serial Monitor for Testing](../experiments/files/SpikerShield_Pro_Serial_Read.zip)
 
 
   * [__The Muscle Keyboard](../experiments/spikershieldpro)

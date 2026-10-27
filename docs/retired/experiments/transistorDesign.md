@@ -17,13 +17,13 @@ done for the world. Here you will use your transistor to amplify some spikes.
 
 #### What will you learn?
 
-In the [previous Transistor lesson](./transistorTheory), you learned
+In the [previous Transistor lesson](/retired/experiments/transistorTheory/), you learned
 the theory. Now you will apply it and build your own simple amplifier circuit
 from scratch using two transistors and some various resistors/capacitors.
 
 ##### Prerequisite Labs
 
-* [Transistor Theory](./transistorTheory) - Read how a transistor works before proceeding
+* [Transistor Theory](/retired/experiments/transistorTheory/) - Read how a transistor works before proceeding
   * [SpikerBox](./ratecoding.md) - A familiarity with spikes will make this activity more meaningful
 
 ##### Equipment
@@ -186,7 +186,7 @@ signal and keep our circuit stable. Let's just set it to 1 uF.
 ##### Setting the Bias Voltages
 
 Remember from our [transistor
-theory](./transistorTheory) that the
+theory](/retired/experiments/transistorTheory/) that the
 transistor will not switch on without a lower limit voltage push, and this is
 approximately 0.6 V for silicon-based circuits. We need to add bias resistors.
 
@@ -235,8 +235,8 @@ A closer look at the circuit on the breadboard_
 
 [ ![](./img/1StageSmall.jpg)](./img/1StageSmall.jpg)
 
-Insert the electrodes into a cockroach leg like you have done in [previous
-experiments](./ratecoding) and hook up
+Insert the electrodes into a cockroach leg like you have done in previous
+experiments and hook up
 your speaker to the circuit. Turn the speaker up all the way, and brush the
 cockroach leg with a toothpick. You may hear a very faint response, but it
 will be buried in the noise. Let's amplify the spikes some more. You can

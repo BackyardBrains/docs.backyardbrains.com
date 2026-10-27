@@ -22,7 +22,7 @@ time an impulse takes to travel along an axon.
 
 ##### Prerequisite Labs
 
-* [Introduction to Conduction Velocity](speed) - You will find this experiment helpful to get a general idea of conduction velocity and how it is measured. 
+* [Introduction to Conduction Velocity](/retired/experiments/speed/) - You will find this experiment helpful to get a general idea of conduction velocity and how it is measured. 
 
 ##### Equipment
 
@@ -39,7 +39,7 @@ Physiology Education" -[Read the paper intrepid
 scientists!](https://advan.physiology.org/content/38/1/62) for a more
 formalized treatment of cable theory and worm anatomy._
 
-We return to the concept of [conduction velocity](speed). The earthworm is a
+We return to the concept of [conduction velocity](/retired/experiments/speed/). The earthworm is a
 soft animal with distinct segments (rings) that can compress and extend
 hydraulically, which the worm uses to crawl underground. Unlike we humans, the
 worm does not have rigid structures like bones with which to move muscles
@@ -91,7 +91,7 @@ will increase.**
 
 **2)** The Nerve is like a Chinese Finger Trap, with a structure whose
 diameter decreases when extended. Recall from [our previous
-experiments](./comparingNerveSpeed)
+experiments](/retired/experiments/comparingNerveSpeed/)
 that the two important components of cable theory are the length constant and
 the time constant.
 
@@ -268,7 +268,7 @@ permit slight changes in length constant?
 
 1. It is worth a trip to the your university library to spend a couple hours browsing Theodore Bullock's tome, [The Structure and Function of the Nervous System in Invertebrates](https://www.worldcat.org/title/structure-and-function-in-the-nervous-systems-of-invertebrates/oclc/558128) and marvel on the scale of the unknown that exists in the world of the invertebrates. 
     2. Thanks go to the [Dunalastair Colegio](https://www.dunalastair.cl/LasCondes/Pages/Index.aspx), a high school in Santiago, Chile, where we first observed this effect during a teacher training workshop, and to Alejandra Riveros Campos, a Chilean Colleague who then helped with the systematic experiments verifying the time difference. 
-    3. What would happen if the nerve were cooled, as [in a previous experiment](./WormTemperature), and then the stretched vs. unstretched time difference measured? 
+    3. What would happen if the nerve were cooled, as [in a previous experiment](/retired/experiments/WormTemperature/), and then the stretched vs. unstretched time difference measured? 
     4. We have left out the pesky detail that [earthworm axons are actually myelinated](./files/Hartline_Colman_2007_MyelinReview.pdf) and that saltatory conduction is occurring. How does this affect the interpretation of the results and our hypotheses? 
 
 _Note_ _ Gracias to [Italo Ahumada

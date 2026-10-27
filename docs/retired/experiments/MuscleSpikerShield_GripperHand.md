@@ -51,7 +51,7 @@ a small circuit control that makes it possible to move the motor accurately.
 
 **What is the difference between a stepper motor and a servo motor?**
 
-Inside a [stepper motor](MuscleSpikerShield_StepperMotor) there are coils and it's necessary to apply a series of pulses to them for the motor to rotate a certain number of steps; This is why it has so many wires coming out of it (usually 5 to 6 wires). However, inside the servo motor there is one DC motor and a circuit control which enables precise positioning of this motor using only three wires, one for control and the other two for power and ground.
+Inside a [stepper motor](/retired/experiments/MuscleSpikerShield_StepperMotor/) there are coils and it's necessary to apply a series of pulses to them for the motor to rotate a certain number of steps; This is why it has so many wires coming out of it (usually 5 to 6 wires). However, inside the servo motor there is one DC motor and a circuit control which enables precise positioning of this motor using only three wires, one for control and the other two for power and ground.
 and ground.
 
 Some significant differences between a servomotor and a stepper motor are:

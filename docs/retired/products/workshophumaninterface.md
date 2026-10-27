@@ -47,7 +47,7 @@ All participants will have their very own **Muscle SpikerShield Bundle** (an Ard
 - Live demos  
 - Q&A discussion
 
-[**Add My Reservation for the Human Interface Workshop**](/cart)
+**Add My Reservation for the Human Interface Workshop**
 
 ---
 

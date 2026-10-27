@@ -9,7 +9,7 @@ slug: "/retired/experiments/rateoffatigue"
 
 
 Now that you've learned a bit about [how your muscles
-fatigue](fatigue), let's quantify it to
+fatigue](/retired/experiments/fatigue/), let's quantify it to
 further your learning in a competitive way!
 
 **Time:**  30 Minutes
@@ -24,7 +24,7 @@ make a mathematical model of fatigue.
 
 ##### Prerequisite Labs
 
-* [EMGs during Muscle Fatigue](fatigue) - You should read our first fatigue experiment to learn about how to use the Muscle SpikerBox and muscle physiology.
+* [EMGs during Muscle Fatigue](/retired/experiments/fatigue/) - You should read our first fatigue experiment to learn about how to use the Muscle SpikerBox and muscle physiology.
 
 ##### Equipment
 
@@ -32,7 +32,7 @@ make a mathematical model of fatigue.
 
 ## Background
 
-From our [previous experiments](fatigue) we learned a bit
+From our [previous experiments](/retired/experiments/fatigue/) we learned a bit
 about why muscles fatigue and how to view this process in real time using the
 Muscle SpikerBox. That was the beginning. Now we will explore variation in
 _the rate_ in which people's muscles fatigue and model it. Any good scientist
@@ -70,7 +70,7 @@ and will continue to run through the discomfort.
 This is the most purely muscle physiology variation of fatigue. Peripheral
 fatigue occurs when you simply cannot supply enough energy to the muscles to
 keep them active. If you remember back to the [previous
-experiment](fatigue) where we learned
+experiment](/retired/experiments/fatigue/) where we learned
 about "orderly recruitment," a motor unit experiencing fatigue is replaced by
 a new motor unit. Eventually there are no fresh motor units available, and
 this is peripheral fatigue. When examining an electromyogram (EMG) recording

@@ -30,15 +30,15 @@ win-state-wide-awards/)from a Middle School classroom in Riverview, MI.
 
 ### Kit Contents:
 
-  * 6x [DIY Neuroprosthetic Kit (5-pack)](./DIYHand)
-  * 3x [Muscle SpikerShield Bundle](./MuscleSpikerShieldBundle)
+  * 6x DIY Neuroprosthetic Kit (5-pack)
+  * 3x [Muscle SpikerShield Bundle](/retired/products/musclespikershieldbundle/)
   * 3x 9v Batteries with Leash 
-  * 1x [Claw Bundle](./ClawBundle)
-  * 4x [Music-Interface Cable](./musicinterfacecable)
-  * 2x [Large Muscle Electrodes](./emglargeelectrodes)
+  * 1x [Claw Bundle](/retired/products/clawbundle/)
+  * 4x Music-Interface Cable
+  * 2x [Large Muscle Electrodes](/retired/products/emglargeelectrodes/)
 
-This is a classroom bundle, and will save you $100 over buying our [DIY
-Neuroprosthetic 5-Packs](DIYHand) individually. The bundle has the hardware to
+This is a classroom bundle, and will save you $100 over buying our DIY
+Neuroprosthetic 5-Packs individually. The bundle has the hardware to
 support up to 30 students, each building their own Neuroprosthetic "Cyborg
 Hands." It also supports four lab stations for other Brain-Machine Interface
 labs, like the "Muscle Music" labs. And of course, students can also create
@@ -46,7 +46,7 @@ their own projects and inventions!
 
 ### More Than 30 Students?
 
-We also offer individual [DIY Neuroprosthetic Kits](./DIYHand) in packs of five.
+We also offer individual DIY Neuroprosthetic Kits in packs of five.
 Ordering a few of these 'refill packs' will make sure you have enough for all
 of your students.
 

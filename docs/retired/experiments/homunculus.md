@@ -19,11 +19,11 @@ sensitivity varies over certain areas of your body.
 
 ##### Prerequisite Labs
 
-* [Experiment: How Your Skin Senses](skin) - You should become familiar with how to your skin senses, and how to collect the data required for this lesson.
+* [Experiment: How Your Skin Senses](/retired/experiments/skin/) - You should become familiar with how to your skin senses, and how to collect the data required for this lesson.
 
 ##### Equipment
 
-* [Results of Skin Experiment](skin)
+* [Results of Skin Experiment](/retired/experiments/skin/)
 
 ## Background
 
@@ -33,7 +33,7 @@ arm has no nerves, it can sense things (it knows the quarter is there for
 instance), but its much less sensitive than your hand is. If you place the
 quarter along your fingertips, for example, you can feel the ridges easily.
 This is due to how the somatosensory cortex is laid out. To learn more about
-the somatosensory system, take a look at the [How Your Skin Senses](skin)
+the somatosensory system, take a look at the [How Your Skin Senses](/retired/experiments/skin/)
 experiment.
 
 As you can probably sense (pun intended), the somatosensory cortex is
@@ -61,13 +61,13 @@ only for the left cerebral hemisphere.
 
 #### For this experiment, you need
 
-1. The data you collected in the first [Skin Senstivity Experiment](skin)
+1. The data you collected in the first [Skin Senstivity Experiment](/retired/experiments/skin/)
   2. Access to the Internet 
   3. [This Website](http://www.maxplanckflorida.org/fitzpatricklab/homunculus)
 
 ## Procedure
 
-Now that you have taken the measurements from the [Skin Senstivity Experiment](skin)
+Now that you have taken the measurements from the [Skin Senstivity Experiment](/retired/experiments/skin/)
 
 [ ![](./img/BYB_Exp2_Pic7.png)](./img/BYB_Exp2_Pic7.png)
 

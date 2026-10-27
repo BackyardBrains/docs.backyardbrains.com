@@ -26,7 +26,7 @@ into, hide under, and cling to. For sustenance, we've included a bags of dry
 food and water crystals. Make sure to stock your terrarium's pantry with about
 a spoonful of food every few days, or if you see it running low; the same goes
 for your water crystals. [**Note: Cockroaches are sold
-separately!**](cockroaches)
+separately!**](https://backyardbrains.com/products/cockroaches-3)
 
 ### Kit Contents:
 

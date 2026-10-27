@@ -49,7 +49,7 @@ smile, frown, laugh, show surprise or sadness, kiss your loved one goodnight,
 or eat.
 
 You should recall what a motor unit is from the [Record Electricity from your
-Muscles!](./muscleSpikerBox.md) and [Muscle Fatigue](fatigue) experiments.
+Muscles!](./muscleSpikerBox.md) and [Muscle Fatigue](/retired/experiments/fatigue/) experiments.
 (Refresher - it's a single alpha motor neuron and all the muscle fibers it
 innervates). In those experiments you looked at the biceps brachii and flexor
 digitorum, muscles with big, powerful motor units. The muscles in the face are

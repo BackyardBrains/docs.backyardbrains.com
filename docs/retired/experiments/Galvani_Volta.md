@@ -38,7 +38,7 @@ manifesting.
 
 ## Background
 
-In our previous [microsimulation experiment](microstimulation) we
+In our previous [microsimulation experiment](/retired/experiments/microstimulation/) we
 plugged the audio cable of an mp3 player directly into pins inserted into a
 cockroach leg. The electrical waves of the music then excited the nerves and
 muscles of the leg, causing the leg to appear to "dance" to the low

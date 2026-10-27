@@ -45,7 +45,7 @@ that synapse with neurons that go to specific parts of the spinal cord...
 
 These are exquisite maps of your body, and you have many of these, such as
 maps for visual fields, hearing space, the position of your limbs, and more.
-But, as you know from [our human behavioral experiments](skin), over time your body
+But, as you know from [our human behavioral experiments](/retired/experiments/skin/), over time your body
 gets used to stimuli. You are probably aware of the clothes on your body the
 moment you put them on, but rather quickly you unconsciously ignore the
 constant presence of cloth on your skin.

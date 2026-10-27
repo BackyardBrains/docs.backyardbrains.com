@@ -21,8 +21,8 @@ different temperature conditions
 
 ##### Prerequisite Labs
 
-* [Introduction to Conduction Velocity](./speed) - We recommend completing this experiment first, as it will teach you how to set up earthworm experiments and use your 2-Channel SpikerBox with Audacity.
-  * [Comparing Speed of Two Nerves](comparingNerveSpeed) - This experiment will help to explain how to record from both the Lateral and Medial Giant Nerves of the earthworm.
+* [Introduction to Conduction Velocity](/retired/experiments/speed/) - We recommend completing this experiment first, as it will teach you how to set up earthworm experiments and use your 2-Channel SpikerBox with Audacity.
+  * [Comparing Speed of Two Nerves](/retired/experiments/comparingNerveSpeed/) - This experiment will help to explain how to record from both the Lateral and Medial Giant Nerves of the earthworm.
 
 ##### Equipment
 
@@ -34,7 +34,7 @@ different temperature conditions
 ## Background
 
 We have previously shown in the cockroach leg that action potential [firing
-rates are very sensitive to temperature](temperature), but did you know that
+rates are very sensitive to temperature](/retired/experiments/temperature/), but did you know that
 action potential conduction velocity is affected by temperature as well? Since
 the ion channels take time to open to allow the ions to travel across the
 membrane, cooling a neuron causes the ion channels to open more slowly,

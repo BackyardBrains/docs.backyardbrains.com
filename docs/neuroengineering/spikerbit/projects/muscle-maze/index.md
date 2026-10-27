@@ -67,9 +67,9 @@ The .rd file extension is associated with various file types depending on the co
 
 
 ## Preparing micro:bit ##
-Refer to "Connecting Muscles to Read an EMG Signal" from our [Getting Started with Spiker:bit Block Programming](../../spikerbit/Block) page to learn how to record an EMG signal from the arm. You will need two Spiker:bits, one connected to each the left and right arm.
+Refer to "Connecting Muscles to Read an EMG Signal" from our [Getting Started with Spiker:bit Block Programming](/neuroengineering/spikerbit/block/) page to learn how to record an EMG signal from the arm. You will need two Spiker:bits, one connected to each the left and right arm.
 
-Connect the two servo motors from Muscle Maze to each Spiker:bit. See the [The Spiker:bit](../../spikerbit) Hardware Overview page for more information on how to connect servos.
+Connect the two servo motors from Muscle Maze to each Spiker:bit. See the [The Spiker:bit](/neuroengineering/spikerbit/) Hardware Overview page for more information on how to connect servos.
 
 ## Programing the micro:bit for the Muscle Maze ##
 

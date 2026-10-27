@@ -22,13 +22,13 @@ slug: /retired/products/workshopmakentake
   - [Annotated SpikerBox Schematics](./files/SpikerBox.v.1.3c.Annotated.Schematics.pdf)
   - [EMG SpikerBox Schematics](./files/EMGSpikerBox.v.1.0.pdf)
   - [SpikerBox PCB Layout](./files/SpikerBox.v.1.3c.layout.pdf)
-  - [Build Instructions](/diy/spikerbox)
+  - [Build Instructions](/retired/experiments/spikerbox/)
 
 ### Experiments
 
-  - [Getting Started with Spikes](../experiments/spikerbox)
-  - [Rate Coding](../experiments/ratecoding)
-  - [Microstimulation of Neurons and Muscles](../experiments/microstimulation)
+  - [Getting Started with Spikes](/retired/experiments/spikerbox/)
+  - Rate Coding
+  - [Microstimulation of Neurons and Muscles](/retired/experiments/microstimulation/)
 
 ---
 
@@ -83,7 +83,7 @@ Quantity | Price per Participant
 ---------|-----------------------
 1–12     | \$99.99 each  
 
-[**Add Reservation**](/cart)
+**Add Reservation**
 
 ---
 

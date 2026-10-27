@@ -17,7 +17,7 @@ the wonderful challenge of "signal classification."
 #### What will you learn?
 
 This is a continuation of our
-[Neuroprosthetics](./neuroprosthetics)
+[Neuroprosthetics](/retired/experiments/neuroprosthetics/)
 and [EMG SpikerShield](https://backyardbrains.com/experiments/emgspikershield)
 experiments; only now, you will use multiple EMG Signals from your forearm to
 attempt to control individual fingers on a robotic hand.

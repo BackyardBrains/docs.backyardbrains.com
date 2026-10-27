@@ -34,8 +34,8 @@ Neuroprosthetic - a "Cyborg Hand!"
 In previous experiments, we've learned how we can record the the electrical
 signals our brain sends to our muscles, and we have also learned how we can
 capture those electrical signals and use them to control [musical
-sounds](music), [robotic claws](MuscleSpikerShield_GripperHand), and even
-[other people](humanhumaninterface)! These are all examples of
+sounds](/retired/experiments/music/), [robotic claws](/retired/experiments/MuscleSpikerShield_GripperHand/), and even
+[other people](/retired/experiments/humanhumaninterface/)! These are all examples of
 neuroprosthetics. Neuroprosthetics are assistive devices, which are used to
 help people who have suffered from neurological illness or physical injury.
 They can also be used to create new and exciting control systems to enhance

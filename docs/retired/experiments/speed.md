@@ -28,7 +28,7 @@ beginner and intermediate labs:
 
   * [Neuron SpikerBox](./ratecoding.md)
   * [Referencing your Spikes](referencing.md)
-  * [Faraday Cage](faraday)
+  * [Faraday Cage](/retired/experiments/faraday/)
 
 ##### Equipment
 
@@ -186,7 +186,7 @@ impact almost instantaneously, but the throbbing pain takes about 1-2 seconds
 to reach your consciousness? This is because these two signals (touch vs.
 damage/pain) travel via two different fiber systems that have very different
 speeds. Below is a teaser as to why - want to dive deeper? Proceed to the next
-experiment: - [Comparing Speeds of Two Different Fibers.](comparingNerveSpeed)
+experiment: - [Comparing Speeds of Two Different Fibers.](/retired/experiments/comparingNerveSpeed/)
 
 [ ![](./img/Zombie_Speed.jpg)](./img/Zombie_Speed.jpg)
 

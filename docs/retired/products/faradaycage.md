@@ -24,7 +24,7 @@ Our Faraday Cage is made in-house from basswood and wire mesh screening. To use 
 <iframe width="560" height="315" src="https://youtube.com/embed/KQyvyg30S1Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Related Experiments
-	•	[The Faraday Cage](/retired/experiments/faraday-cage)
-	•	[Introduction to Conduction Velocity](/retired/experiments/introduction-to-conduction-velocity)
-	•	[Comparing Speeds of Two Nerves](/retired/experiments/comparing-speeds-of-two-nerves)
-	•	[Effect of Temperature on Neural Speed](/retired/experiments/effect-of-temperature-on-neural-speed)
+	•	[The Faraday Cage](/retired/experiments/faraday/)
+	•	Introduction to Conduction Velocity
+	•	[Comparing Speeds of Two Nerves](/retired/experiments/comparingNerveSpeed/)
+	•	[Effect of Temperature on Neural Speed](/retired/experiments/temperature/)

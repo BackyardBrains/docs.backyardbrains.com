@@ -19,7 +19,7 @@ slug: /retired/products/toolbox
 
 ### Experiments
 
-- [Almost Every Experiment We Have](../experiments/)
+- Almost Every Experiment We Have
 
 ---
 
@@ -35,12 +35,12 @@ A Neuron SpikerBox Pro, a Muscle SpikerBox Pro, a Human-Human Interface, a RoboR
 
 #### Kit Contents:
 
-- 1× [Human-Human Interface](hhi)  
-- 1× [Muscle SpikerBox Pro](musclespikerboxpro)  
-- 1× [Neuron SpikerBox Pro](neuronspikerboxpro)  
-- 1× [Heart and Brain SpikerBox](heartandbrainspikerbox)  
-- 1× [RoboRoach Bundle](roboroach)  
-- 100× [Large Muscle Electrodes](emglargeelectrodes)  
+- 1× [Human-Human Interface](https://backyardbrains.com/products/human-human-interface)  
+- 1× [Muscle SpikerBox Pro](/retired/products/musclespikerboxpro/)  
+- 1× Neuron SpikerBox Pro  
+- 1× [Heart and Brain SpikerBox](https://backyardbrains.com/products/heart-and-brain-spikerbox-classic)  
+- 1× [RoboRoach Bundle](/neuroengineering/roboroach/)  
+- 100× [Large Muscle Electrodes](/retired/products/emglargeelectrodes/)  
 - 1× T.O.O.L.B.O.X (Transport Organized Operationals Lacking Big Ostentatious eXpenses)
 
 ---

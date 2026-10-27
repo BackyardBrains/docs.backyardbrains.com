@@ -22,7 +22,7 @@ move without their control! (again)
 ##### Prerequisite Labs
 
 * [Record Electricity from your Muscles](./muscleSpikerBox.md) - You should read this experiment first to learn about electromyography and motor units.
-  * [Reaction Time](reactiontime) - This experiment also explains the difference between reactions and reflexes.
+  * [Reaction Time](/retired/experiments/reactiontime/) - This experiment also explains the difference between reactions and reflexes.
 
 ##### Equipment
 

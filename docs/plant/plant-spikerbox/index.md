@@ -34,7 +34,7 @@ Power on the Plant SpikerBox with a 9V battery, and turn on the red switch at th
 
 If recording on a computer, plug the blue USB cable into the metal port on the back of the board to connect.
 
-Open SpikeRecorder on your device. [click here for more details about connecting](../../software/SpikeRecorder/)
+Open SpikeRecorder on your device. [click here for more details about connecting](/software/spike-recorder/)
 
 You are ready to start experimenting!
 What will you discover?

@@ -51,7 +51,7 @@ If you discover something new or develop a new 2-Channel experiment, we’d love
 
 ### Documents & Downloads
 
-- [pcb schematics (v1.0a)](./files/2chanspikerbox.v.1.0a.pdf)
+- [pcb schematics (v1.0a)](./files/2chanSpikerBox.v.1.0a.pdf)
 - [sample earthworm recording (.wav.zip)](http://www.backyardbrains.com/experiments/files/earthworm_10%20seconds_mgf_5cm_5_seconds_silence_10%20seconds_lgf_5_cm_electrode_separation.wav.zip)
 - [sample spikes library](http://wiki.backyardbrains.com/spikes_library)
 

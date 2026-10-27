@@ -14,10 +14,10 @@ slug: /retired/products/workshophumaninterface
 
 ### Documents
 
-- [PCB Schematics (v1.3)](./files/musclespikershield.v.1.3.updatedvalues.pdf)  
-- [Build Instructions (v1.7)](./files/musclespikershield.v.1.7.buildinginstructions.pdf)  
-- [Annotated Photo of Board](./files/musclespikershield1.3_annotatedphoto.pdf)  
-- [Default Arduino Code for HHI](../experiments/files/hhiclawcombined.zip)
+- [PCB Schematics (v1.3)](./files/MuscleSpikerShield.v.1.3.updatedValues.pdf)  
+- [Build Instructions (v1.7)](./files/MuscleSpikerShield.v.1.7.BuildingInstructions.pdf)  
+- [Annotated Photo of Board](./files/MuscleSpikerShield1.3_annotatedphoto.pdf)  
+- [Default Arduino Code for HHI](../experiments/files/HHIClawCombined.zip)
 
 ### Experiments
 
@@ -47,7 +47,7 @@ All participants will have their very own **Muscle SpikerShield Bundle** (an Ard
 - Live demos  
 - Q&A discussion
 
-[**Add My Reservation for the Human Interface Workshop**](/cart)
+**Add My Reservation for the Human Interface Workshop**
 
 ---
 

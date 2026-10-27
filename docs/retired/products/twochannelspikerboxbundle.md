@@ -62,13 +62,13 @@ If you discover a new approach or experiment for the 2-Channel SpikerBox, we’d
 - 1× Stimulation Cable 
 - 1× Smartphone Cable 
 - 1× 9-Volt battery  
-- [Getting Started Guide](./files/2chan_insert.pdf)
+- [Getting Started Guide](./files/2Chan_insert.pdf)
 
 ---
 
 ### Documents & Downloads
 
-- [PCB Schematics (v1.0a)](./files/2chanspikerbox.v.1.0a.pdf)  
+- [PCB Schematics (v1.0a)](./files/2chanSpikerBox.v.1.0a.pdf)  
 - [Sample Earthworm Recording](http://www.backyardbrains.com/experiments/files/earthworm_10%20seconds_mgf_5cm_5_seconds_silence_10%20seconds_lgf_5_cm_electrode_separation.wav.zip)  
 - [Sample Spikes Library](http://wiki.backyardbrains.com/spikes_library)
 

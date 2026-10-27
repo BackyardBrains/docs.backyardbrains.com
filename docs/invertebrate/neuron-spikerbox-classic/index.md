@@ -8,7 +8,7 @@ sidebar_label: Neuron SpikerBox Classic
 
 ![nsb classic](NeuronSpikerBox_phone.webp)
 
-The Neuron SpikerBox classic is a bioamplifier that allows you to hear and see real-time electrical "spikes", or action potentials, of live neurons in invertebrates. It can be used to record and analyze action potentials when connected to our [Spike Recorder App](../../software/SpikeRecorder/). 
+The Neuron SpikerBox classic is a bioamplifier that allows you to hear and see real-time electrical "spikes", or action potentials, of live neurons in invertebrates. It can be used to record and analyze action potentials when connected to our [Spike Recorder App](/software/spike-recorder/). 
 
 ## Getting Started ##
 
@@ -33,7 +33,7 @@ And put the two electrodes in. It doesn’t matter which pins are where.
 ![spikes](./5.png)
 
 Turn your SpikerBox on! If you hear a popcorn sound, congratulations, you have just heard the spikes from your first neurons!  
-Now let’s see what the electrical discharge looks like. Plug the cable from the SpikerBox into your computer and connect to the [Spike Recorder app](../../software/SpikeRecorder/)
+Now let’s see what the electrical discharge looks like. Plug the cable from the SpikerBox into your computer and connect to the [Spike Recorder app](/software/spike-recorder/)
 
 
 Inside of Spike Recorder zoom into the spikes by using the scroll wheel. You will see something like this:

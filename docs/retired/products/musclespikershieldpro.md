@@ -18,28 +18,28 @@ slug: /retired/products/musclespikershieldpro
 
   * [__Schematics v1](./files/Schematics-Muscle-spikerShield-Pro-V1.pdf)
   * [__Muscle SpikerShield Pro Default Uno Code](./files/MuscleSpikerShieldProDefaultCode.zip)
-  * [__Muscle SpikerShield Pro Default Leonardo Code](./files/MuscleSpikerShieldProDefaultCode_leonardo.zip)
-  * [__Simple Arduino Serial Monitor for Testing](./files/SpikerShield_Pro_Serial_Read.zip)
+  * [__Muscle SpikerShield Pro Default Leonardo Code](./files/MuscleSpikerShieldProDefaultCode_Leonardo/MuscleSpikerShieldProDefaultCode_Leonardo.zip)
+  * [__Simple Arduino Serial Monitor for Testing](../experiments/files/SpikerShield_Pro_Serial_Read.zip)
 
 
-  * [__The Muscle Keyboard](../experiments/spikershieldpro)
-  * [__The MIDI Muscle Machine](../experiments/midi)
-  * [__Using the Muscle SpikerShield](../experiments/emgspikershield)
-  * [__Controlling a Light Bar in an LCD](../experiments/MuscleSpikerShield_LCD)
-  * [__Controlling a Stepper Motor](../experiments/MuscleSpikerShield_StepperMotor)
-  * [__Controlling a Gripper Hand](../experiments/MuscleSpikerShield_GripperHand)
-  * [__More things with the EMG SpikerShield](../experiments/EMGSpikerShield_MoreExps)
-  * [__Getting Started with Electromyograms (EMGs)](../experiments/emgspikerbox)
-  * [__Muscle Action Potentials](../experiments/muscleActionPotential)
-  * [__Muscle Contraction and Fatigue](../experiments/fatigue)
+  * [__The Muscle Keyboard](/retired/experiments/spikershieldpro/)
+  * [__The MIDI Muscle Machine](/retired/experiments/MIDI/)
+  * __Using the Muscle SpikerShield
+  * [__Controlling a Light Bar in an LCD](/retired/experiments/MuscleSpikerShield_LCD/)
+  * [__Controlling a Stepper Motor](/retired/experiments/MuscleSpikerShield_StepperMotor/)
+  * [__Controlling a Gripper Hand](/retired/experiments/MuscleSpikerShield_GripperHand/)
+  * __More things with the EMG SpikerShield
+  * __Getting Started with Electromyograms (EMGs)
+  * [__Muscle Action Potentials](/retired/experiments/muscleactionpotential/)
+  * [__Muscle Contraction and Fatigue](/retired/experiments/fatigue/)
 
-The[ Muscle SpikerShield](./muscleSpikershieldBundle)
+The[ Muscle SpikerShield](/retired/products/musclespikershieldbundle/)
 was a hit, but there was one problem: only one channel! We heard your
 sorrowful song, your wailing lament, "We want more channels!" Take your DIY
 biohacker projects to the next level with the Muscle SpikerShield Pro, a
 Human-Machine Interface device that allows you to record EMG signals from up
 to _six_ muscles at a time! Before, you would have had to purchase and stack
-six [Muscle SpikerShields](./muscleSpikershieldBundle).
+six [Muscle SpikerShields](/retired/products/musclespikershieldbundle/).
 Now, the Muscle SpikerShield Pro offers the same functionality with a much
 more manageable profile, and it's cheaper than the six-stack!
 
@@ -52,12 +52,12 @@ and flex your 'ceps...
 ### Product Details
 
 **Getting Started:** The Muscle SpikerShield Pro is designed for those who
-have experience with Arduinos and our original [Muscle SpikerShield](./muscleSpikershieldBundle)
+have experience with Arduinos and our original [Muscle SpikerShield](/retired/products/musclespikershieldbundle/)
 and are looking to perform advanced neuroscience experiments. It's powerful,
 but that doesn't mean it needs to be hard to use! The Muscle SpikerShield Pro
 is as easy-to-use as all of our kits. Pair the shield with an Arduino Uno and
 connect to your computer via USB. Then, pair your Muscle SpikerShield Pro to
-the [Spike Recorder](./spikerecorder) app to
+the [Spike Recorder](/software/spike-recorder/) app to
 record EMG signals from up to six different muscles. Write your own Arduino
 code and take advantage of the envelope and output pins to begin creating
 programs or electrical devices you control with your muscles!
@@ -83,7 +83,7 @@ to write code to control external electronics and robotics with your muscles!
 
 If you don't already have an Arduino Uno or Arduino Leonardo, you'll need to
 get one. If that's the case, we recommend you purchase and experiment with
-[The Muscle SpikerShield](./muscleSpikershieldBundle)
+[The Muscle SpikerShield](/retired/products/musclespikershieldbundle/)
 first, which includes an Arduino. Then, you'll be ready for the upgrade.
 
 ### Kit Contents:
@@ -91,5 +91,5 @@ first, which includes an Arduino. Then, you'll be ready for the upgrade.
   * 1x Muscle SpikerShield Pro
   * 1x Smartphone Cable (may only visualize one channel at a time on smartphone devices)
   * 1x Backyard Brains 9v Battery, with a connector and leash
-  * 6x Color-coded [Muscle Electrode Cable](./muscleElectrodeCable)
-  * 200x [Large Electrode EMG Patches](./emglargeelectrodes)
+  * 6x Color-coded [Muscle Electrode Cable](https://backyardbrains.com/products/muscle-electrode-cable)
+  * 200x [Large Electrode EMG Patches](/retired/products/emglargeelectrodes/)

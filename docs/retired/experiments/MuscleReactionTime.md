@@ -27,7 +27,7 @@ combination!
 ##### Prerequisite Labs
 
 * [Intro to The Muscle SpikerBox Pro_ Agonist and Antagonist Pairs](https://backyardbrains.com/experiments/muscleSpikerBoxPro)
-  * [How Fast Your Brain Reacts to Stimuli](reactiontime)
+  * [How Fast Your Brain Reacts to Stimuli](/retired/experiments/reactiontime/)
 
 ##### Equipment
 
